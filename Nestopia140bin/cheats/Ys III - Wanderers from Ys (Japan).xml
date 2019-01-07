@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>XTKXSAAV</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTNXUAAV</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTVZKAAV</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOZXAAV</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEZYYGA</genie>
+		<description>One hit kills</description>
+	</cheat>
+</cheats>

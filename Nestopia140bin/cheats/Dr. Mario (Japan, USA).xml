@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZNEVIVT</genie>
+		<description>Vitamin capsules don't fall (press down)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXPYGLA</genie>
+		<description>5 in a row needed to complete a vertical line instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXPYGLA</genie>
+		<description>6 in a row needed to complete a vertical line instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXPYGLA</genie>
+		<description>7 in a row needed to complete a vertical line instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKPPZLA</genie>
+		<description>5 in a row needed to complete a horizontal line instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKPPZLA</genie>
+		<description>6 in a row needed to complete a horizontal line instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKPPZLA</genie>
+		<description>7 in a row needed to complete a horizontal line instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUVONUAO</genie>
+		<description>More pieces sent across to other player when two or more rows or columns are eliminated at once in a 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXOZGVT</genie>
+		<description>No pieces sent across to other player when two or more rows or columns are eliminated at once in a 2P game (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKPGZVT</genie>
+		<description>No pieces sent across to other player when two or more rows or columns are eliminated at once in a 2P game (2 of 2)</description>
+	</cheat>
+</cheats>

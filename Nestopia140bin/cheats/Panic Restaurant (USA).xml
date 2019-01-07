@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENUPPAEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVKGZVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGVKGZVG</genie>
+		<description>Infinite time (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXVPPAVK</genie>
+		<description>Infinite health - except when you fall on spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVPPAVG</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AEKPYXVL</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEVPGZOZ</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAEGLUPZ</genie>
+        <description>Moon-jump</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>GASYZGZA</genie>
+		<description>Start with 4 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOZNIZA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOZNIZA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAOSAGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOSAGVG</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASYZGZA</genie>
+		<description>Start with 6 hearts (heart meter will be distorted)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASYZGZE</genie>
+		<description>Start with 10 hearts (heart meter will be distorted)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOZNIZE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOZNIZE</genie>
+		<description>Start with 15 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIVYGGLT</genie>
+		<description>Start with 80 on timer - 1st level only (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIVKXYLT</genie>
+		<description>Start with 80 on timer - 1st level only (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGVYGGLT</genie>
+		<description>Start with 70 on timer - 1st level only (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGVKXYLT</genie>
+		<description>Start with 70 on timer - 1st level only (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLVYGGLV</genie>
+		<description>Start with 60 on timer - 1st level only (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLVKXYLV</genie>
+		<description>Start with 60 on timer - 1st level only (2 of 2)</description>
+	</cheat>
+</cheats>

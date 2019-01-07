@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXOGZESV</genie>
+		<description>Infinite P (health) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOKLESV</genie>
+		<description>Infinite P (health) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEENEZZA</genie>
+		<description>Infinite M (magic)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXNUOSE</genie>
+		<description>Infinite Gold (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUYUOSE</genie>
+		<description>Infinite Gold (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUNUOSE</genie>
+		<description>Infinite Gold (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXSNTAP</genie>
+		<description>Start with double P (health)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUXSNTAP</genie>
+		<description>Start with triple P (health)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASEPSZA</genie>
+		<description>Start with half normal amount of Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPSEPSZA</genie>
+		<description>Start with double normal amount of Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVXVGPSZ</genie>
+		<description>Jump in direction you are facing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUTAEOY</genie>
+		<description>Slow mode (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKTPAKY</genie>
+		<description>Slow mode (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUTZAPA</genie>
+		<description>Slow mode (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00AD</address>
+        <value>0x48</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x02</value>
+        <description>Walk faster</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0394</address>
+        <value>0xFF</value>
+        <description>Infinite Gold (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x039A</address>
+        <value>0x50</value>
+        <description>Infinite M (magic) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0429</address>
+        <value>0x0A</value>
+        <description>Have Wing Boots ability (hold up and A)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0431</address>
+        <value>0x55</value>
+        <description>Infinite P (health) (alt)</description>
+    </cheat>
+</cheats>

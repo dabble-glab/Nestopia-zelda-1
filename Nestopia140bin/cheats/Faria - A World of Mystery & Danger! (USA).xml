@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAVZSPZA</genie>
+		<description>Get 250 arrows when buying any amount of arrows</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXGINVK</genie>
+		<description>Infinite batteries</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOLYOVK</genie>
+		<description>Infinite bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSAASVK</genie>
+		<description>Infinite Sede magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNEZSVK</genie>
+		<description>Infinite Saba magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAOEGPST</genie>
+		<description>Infinite HP (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEUUEAST</genie>
+		<description>Infinite HP (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXXZUSE</genie>
+		<description>Don't get charged in shops for items you can afford (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXXYUSE</genie>
+		<description>Don't get charged in shops for items you can afford (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUZGUSE</genie>
+		<description>Don't get charged in shops for items you can afford (3 of 3)</description>
+	</cheat>
+</cheats>

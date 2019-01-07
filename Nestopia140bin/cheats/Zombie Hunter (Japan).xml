@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEKIOTAP</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUSXTTP</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXKSUTEU</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANTAAUY</genie>
+		<description>Float on air, jump to fall down</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVESSIAV</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXSXYLP</genie>
+		<description>Invincibility</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXKIIYSA</genie>
+        <description>Infinite health - P1</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>IEUSTOZA</genie>
+		<description>Half training time allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUSTOZA</genie>
+		<description>Double training time allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOPSYY</genie>
+		<description>Lose all energy after being on the receiving end of a move</description>
+	</cheat>
+</cheats>

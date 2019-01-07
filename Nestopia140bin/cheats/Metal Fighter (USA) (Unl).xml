@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0023</address>
+        <value>0xF8</value>
+        <description>Always shoot power shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0024</address>
+        <value>0x01</value>
+        <description>Auto-fire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0031</address>
+        <value>0x50</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F5</address>
+        <value>0x01</value>
+        <description>Start with Flight</description>
+    </cheat>
+</cheats>

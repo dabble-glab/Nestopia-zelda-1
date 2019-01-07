@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAOULKPZ</genie>
+		<description>Have all weapons (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEULTXVT</genie>
+		<description>Have all weapons (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXLPPZI</genie>
+		<description>Have all weapons (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXXLPZEN</genie>
+		<description>Have all weapons (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESZXESN</genie>
+		<description>Infinite weapons on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUSZSASP</genie>
+		<description>Infinite weapons on pick-up (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUZYGL</genie>
+		<description>One hit kills on bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENOAYAA</genie>
+		<description>Climb up ladders faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYXOXENN</genie>
+		<description>Climb down ladders faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSKPZVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGSOLA</genie>
+		<description>One hit kills (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESSUNTEP</genie>
+		<description>One hit kills (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKZGZSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVXLPSZ</genie>
+		<description>Invincibility (except against bosses)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOOYTGA</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXSLEEPV</genie>
+		<description>Maximum points for shooting bosses (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUSLOEAZ</genie>
+		<description>Maximum points for shooting bosses (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUOTSAP</genie>
+		<description>Multi-jump (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKPVGEL</genie>
+		<description>Multi-jump (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUEPLSPX</genie>
+		<description>Multi-jump (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SOEPGIVP</genie>
+		<description>Multi-jump (4 of 4)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SUULTVVN</genie>
+        <description>Collectable items never disappear</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XTXLONEK</genie>
+        <description>Enemies always drop X (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PGOUONLL</genie>
+        <description>Enemies always drop extra lives (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AGOUONLL</genie>
+        <description>Enemies always drop large health refill (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YLOUONLU</genie>
+        <description>Enemies always drop large weapon refill (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>TAXOIOGO</genie>
+		<description>Start with half energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASPLAZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASPLAZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASPLAZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0055</address>
+        <value>0x5A</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005D</address>
+        <value>0xFF</value>
+        <description>Have all weapons and all stages cleared</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006A</address>
+        <value>0x1C</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0056</address>
+        <value>0x00</value>
+        <description>Bosses have no invulnerability time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A6</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

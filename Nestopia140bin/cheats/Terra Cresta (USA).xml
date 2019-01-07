@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>KTKSLGAZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKVPTVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKSPGZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKSPGZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKSPGZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSTULVG</genie>
+		<description>Infinite ship formation splits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOTEALE</genie>
+		<description>9 ship formation splits (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKGETLE</genie>
+		<description>9 ship formation splits (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVKNYLA</genie>
+		<description>A secret mega-weapon</description>
+	</cheat>
+</cheats>

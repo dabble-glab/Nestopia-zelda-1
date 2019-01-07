@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SYNNPGLA</genie>
+		<description>Invincibility in normal levels (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANNAGZS</genie>
+		<description>Invincibility in normal levels (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZNYYKSZ</genie>
+		<description>Invincibility in normal levels (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEYPSSE</genie>
+		<description>Infinite power (health)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEYPSSE</genie>
+		<description>Infinite power (health) (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASVNAZA</genie>
+		<description>Full health from food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNOTNLAE</genie>
+		<description>Start with lots of weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVGGAPA</genie>
+		<description>Start on stage 2 (starts on stage 1 after continuing)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEVGGAPA</genie>
+		<description>Start on stage 3 (starts on stage 1 after continuing)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEVGGAPA</genie>
+		<description>Start on stage 4 (starts on stage 1 after continuing)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVGGAPA</genie>
+		<description>Start on stage 5 (starts on stage 1 after continuing)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVGGAPA</genie>
+		<description>Start on stage 6 (starts on stage 1 after continuing)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0392</address>
+        <value>0x7A</value>
+        <description>Infinite power (health) (alt 2)</description>
+    </cheat>
+</cheats>

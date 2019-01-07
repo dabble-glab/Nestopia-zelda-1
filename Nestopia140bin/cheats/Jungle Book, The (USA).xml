@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZVEOSSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVEEYPA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENEEIAA</genie>
+		<description>Infinite weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXNLKOU</genie>
+		<description>Need XX gems to finish levels 1, 3, 4, 7, 9 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKKULAP</genie>
+		<description>Need 2 gems to finish levels 1, 3, 4, 7, 9 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKKULAP</genie>
+		<description>Need 4 gems to finish levels 1, 3, 4, 7, 9 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKKULAO</genie>
+		<description>Need 8 gems to finish levels 1, 3, 4, 7, 9 (2 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>PAEGVGTA</genie>
+		<description>Start practice level with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEGVGTA</genie>
+		<description>Start practice level with 3 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEGVGTE</genie>
+		<description>Start practice level with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEGNGIA</genie>
+		<description>Start normal level with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEGNGIA</genie>
+		<description>Start normal level with 3 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEGNGIE</genie>
+		<description>Start normal level with 9 lives</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>IAVYZLAA</genie>
+		<description>Start with 5 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APVYZLAA</genie>
+		<description>Start with 10 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZVYZLAA</genie>
+		<description>Start with 20 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALVYZLAA</genie>
+		<description>Start with 30 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPVYZLAA</genie>
+		<description>Start with 90 of each weapon</description>
+	</cheat>
+	    <cheat enabled="0">
+        <address>0x032F</address>
+        <value>0x99</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0336</address>
+        <value>0x00</value>
+        <description>Need 0 Gems to finish levels 1, 3, 4, 7, 9, 13</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0336</address>
+        <value>0x01</value>
+        <description>Need 1 Gem to finish levels 1, 3, 4, 7, 9, 13</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0337</address>
+        <value>0x0D</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0339</address>
+        <value>0x99</value>
+        <description>Infinite 2 Shot Banna ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x033A</address>
+        <value>0x99</value>
+        <description>Infinite Boomarang ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x033B</address>
+        <value>0x99</value>
+        <description>Infinite Coconuts</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x033C</address>
+        <value>0x99</value>
+        <description>Infinite Mask (invincible)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x033F</address>
+        <value>0x99</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x035D</address>
+        <value>0x00</value>
+        <description>Level select</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AIUKAZEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVXGPGSZ</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEKGYZGZ</genie>
+        <description>Hit anywhere (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ASVKZZEP</genie>
+        <description>Hit anywhere (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SLEKLUSO</genie>
+        <description>Hit anywhere (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAEOTOTZ</genie>
+        <description>Moon-jump (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAEPZOZL</genie>
+        <description>Moon-jump (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AENOAAYZ</genie>
+        <description>Moon-jump (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AYNEAZEY</genie>
+        <description>Solve level 9 maze using any path</description>
+    </cheat>
+</cheats>

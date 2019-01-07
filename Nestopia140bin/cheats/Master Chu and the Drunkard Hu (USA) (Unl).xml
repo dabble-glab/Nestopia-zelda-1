@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ZAEALPPA</genie>
+        <description>Start on round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LAEALPPA</genie>
+        <description>Start on round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GAEALPPA</genie>
+        <description>Start on round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IAEALPPA</genie>
+        <description>Start on round 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>TAEALPPA</genie>
+        <description>Start on round 6</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YAEALPPA</genie>
+        <description>Start on round 7</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SUVOIEVN</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SLXOTYVI</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SLUPANVS</genie>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

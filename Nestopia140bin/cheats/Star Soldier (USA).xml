@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZOEAPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOAPPAA</genie>
+		<description>Start with laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVPXTVG</genie>
+		<description>Infinite shield power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOOOYIE</genie>
+		<description>Double shield power (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENOGLIE</genie>
+		<description>Double shield power (2 of 2)</description>
+	</cheat>
+</cheats>

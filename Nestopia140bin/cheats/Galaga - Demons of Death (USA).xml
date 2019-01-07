@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATNVSAVZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOKVUXK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOKOTEI</genie>
+		<description>Play challenge stages only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXSTZPSX</genie>
+		<description>Can't be caught by tractor beam (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESTLOPY</genie>
+		<description>Can't be caught by tractor beam (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KPNIPZEA</genie>
+		<description>Press Start for next wave (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANIZZIA</genie>
+		<description>Press Start for next wave (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVSIZPA</genie>
+		<description>Press Start for next wave (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GGVSGXOX</genie>
+		<description>Press Start for extra life (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZVSIZPE</genie>
+		<description>Press Start for extra life (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UGVSTZSE</genie>
+		<description>Press Start for extra life (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEVPAEI</genie>
+		<description>Start with twin shots</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKKKILA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKKKILA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0485</address>
+        <value>0x05</value>
+        <description>Infinite lives (alt) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0487</address>
+        <value>0x05</value>
+        <description>Infinite lives (alt) (2 of 2)</description>
+    </cheat>
+</cheats>

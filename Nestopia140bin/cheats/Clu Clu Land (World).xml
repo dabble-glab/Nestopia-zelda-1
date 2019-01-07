@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXLILL</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZPGSL</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAGKGL</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APGKGL</genie>
+		<description>Start with 10 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEYIGL</genie>
+		<description>Increase extra time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTSKPLSA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVISZZA</genie>
+		<description>Shoot more rays</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVSOZAZ</genie>
+		<description>Shoot shorter rays</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASVSOZAZ</genie>
+		<description>Shoot longer rays</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASIAYGA</genie>
+		<description>Enemy can go thru gold bars</description>
+	</cheat>
+</cheats>

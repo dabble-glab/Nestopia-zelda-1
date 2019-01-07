@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ESKTGGEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EVKTTKXK</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNZKOSE</genie>
+        <description>Infinite health (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZUZPVSE</genie>
+        <description>Infinite health (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VZKZNOVE</genie>
+        <description>Infinite health (3 of 3)</description>
+    </cheat>
+		<cheat enabled="0">
+		<genie>XTSVSNXK</genie>
+		<description>Infinite Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESYAPPA</genie>
+		<description>Infinite bullets and Rockets</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AANZGXAZ</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AAOXYXIA</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AAXXAKPA</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AAXXZPZL</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOVGXXK</genie>
+		<description>Never lose a life against normal enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOEXOXK</genie>
+		<description>Never lose a life against end of level enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUUYIZA</genie>
+		<description>Faster Punisher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUYNLAA</genie>
+		<description>150 Machine Gun bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUNXLAA</genie>
+		<description>150 Assault Rifle bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEUUPAO</genie>
+		<description>Less health on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APEUUPAO</genie>
+		<description>More health on pick-up</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>PANVGGAA</genie>
+		<description>Stage scrolls 2x as fast</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>ZANVGGAA</genie>
+		<description>Stage scrolls 3x as fast</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>LANVGGAA</genie>
+		<description>Stage scrolls 4x as fast</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>PEOTYTIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOTYTIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+</cheats>

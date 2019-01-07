@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>EINONZEY</genie>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNAXOSE</genie>
+        <description>Infinite health (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZEPYSSE</genie>
+        <description>Infinite health (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXOPVSSE</genie>
+        <description>Infinite Phasers</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXNXLXVK</genie>
+        <description>Infinite Bombs</description>
+    </cheat>
+</cheats>

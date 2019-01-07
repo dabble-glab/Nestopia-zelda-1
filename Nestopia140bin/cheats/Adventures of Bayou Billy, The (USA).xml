@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZOVLLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKVIZYA</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOOUKVK</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZNATKKZ</genie>
+		<description>Always have X weapon (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTNEAGYE</genie>
+		<description>Always have X weapon (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANAYGOG</genie>
+		<description>Always have pistol (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANAYGOG</genie>
+		<description>Always have knife (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANAYGOG</genie>
+		<description>Always have ugly stick (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANAYGOG</genie>
+		<description>Always have whip (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOVAYGA</genie>
+		<description>Start a new game to view the ending (game A or B)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAETAGZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAETAGZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAETAGZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYEVGKPU</genie>
+		<description>Start on level XX (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEVAGGA</genie>
+		<description>Start on level XX (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEVZGAA</genie>
+		<description>Start on level 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEVZGAA</genie>
+		<description>Start on level 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEVZGAA</genie>
+		<description>Start on level 4 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEVZGAA</genie>
+		<description>Start on level 5 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEVZGAA</genie>
+		<description>Start on level 6 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAEVZGAA</genie>
+		<description>Start on level 7 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAEVZGAA</genie>
+		<description>Start on level 8 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0510</address>
+        <value>0x00</value>
+        <description>One hit kills (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0511</address>
+        <value>0x00</value>
+        <description>One hit kills (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0512</address>
+        <value>0x00</value>
+        <description>One hit kills (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0513</address>
+        <value>0x00</value>
+        <description>One hit kills (4 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0514</address>
+        <value>0x00</value>
+        <description>One hit kills (5 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07C0</address>
+        <value>0x63</value>
+        <description>Infinite bullets</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07C1</address>
+        <value>0x01</value>
+        <description>Have the Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07C1</address>
+        <value>0x02</value>
+        <description>Have the Knife</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07C1</address>
+        <value>0x03</value>
+        <description>Have the Ugly Stick</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07C1</address>
+        <value>0x05</value>
+        <description>Have the Whip</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07C5</address>
+        <value>0x07</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

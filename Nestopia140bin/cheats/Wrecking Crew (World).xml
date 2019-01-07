@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATNKYZAZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVUXGPSA</genie>
+		<description>Start with Golden Hammer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXILXSO</genie>
+		<description>Annoying guy doesn't bother you (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKILOSO</genie>
+		<description>Annoying guy doesn't bother you (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXGXGL</genie>
+		<description>Infinite lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXIXZL</genie>
+		<description>Infinite lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELXYP</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELXYO</genie>
+		<description>Start with 10 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YELXYO</genie>
+		<description>Start with 15 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENLXYO</genie>
+		<description>Start with 250 lives</description>
+	</cheat>
+</cheats>

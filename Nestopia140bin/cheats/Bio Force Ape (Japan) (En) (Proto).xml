@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SZSUNXSE</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATEPAVAL</genie>
+        <description>Walk through walls (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVUPAVAL</genie>
+        <description>Walk through walls (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAXAYGAA</genie>
+        <description>Start on level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZAXAYGAA</genie>
+        <description>Start on level 3</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENVEUYEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVKTPNOP</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SINKIPVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGETGYVG</genie>
+		<description>Infinite time (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKNVGTVG</genie>
+		<description>Infinite time (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EINAXLEY</genie>
+		<description>No enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEVKALA</genie>
+		<description>Each N (Nuke) is worth 10</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0052</address>
+        <value>0x09</value>
+        <description>Infinite N (one&apos;s digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0053</address>
+        <value>0x09</value>
+        <description>Infinite N (ten&apos;s digit) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0054</address>
+        <value>0x09</value>
+        <description>Infinite health (one&apos;s digit) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0055</address>
+        <value>0x09</value>
+        <description>Infinite health (ten&apos;s digit) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x04</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0091</address>
+        <value>0xFF</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+</cheats>

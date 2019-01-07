@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESOINPEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOTESVK</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVONYXXK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANENPXGU</genie>
+		<description>Slow down time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXENPXGL</genie>
+		<description>Speed up time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAONAYAA</genie>
+		<description>Gain 2 coins for every 1 collected</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAONTNTE</genie>
+		<description>Only 10 coins needed to get an extra life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXZZOVK</genie>
+		<description>Buy items for free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXULEVK</genie>
+		<description>Buy items for free (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SPKTLESU</genie>
+		<description>Get all items by selecting them (be sure to get the Paint Can in level 1 and Gun in the Museum)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPKYXUGA</genie>
+		<description>Super-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x04B2</address>
+        <value>0x01</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04BD</address>
+        <value>0xFF</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x066C</address>
+        <value>0x09</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+</cheats>

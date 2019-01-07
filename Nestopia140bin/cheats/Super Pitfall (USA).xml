@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZKSASVK</genie>
+		<description>Infinite lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXESTSVK</genie>
+		<description>Infinite lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXSZSVK</genie>
+		<description>Infinite lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVIPALA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVIPALA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVIPALE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXKNYZA</genie>
+		<description>Start with 30 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKNYZA</genie>
+		<description>Start with 10 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOYILPA</genie>
+		<description>Infinite bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENLELZA</genie>
+		<description>30 bullets gained on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENLELZA</genie>
+		<description>10 bullets gained on pick-up</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00DC</address>
+        <value>0xFF</value>
+        <description>Invincibility (blinking) - both players</description>
+    </cheat>
+</cheats>

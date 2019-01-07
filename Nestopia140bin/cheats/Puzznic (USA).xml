@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAUXITIA</genie>
+		<description>Press A to destroy blocks (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUXPTKP</genie>
+		<description>Press A to destroy blocks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ITKIPXGL</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPKIPXGU</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUAIPAE</genie>
+		<description>Start on level 2-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUAIPAA</genie>
+		<description>Start on level 3-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOUAIPAE</genie>
+		<description>Start on level 4-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXUAIPAE</genie>
+		<description>Start on level 5-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUUAIPAA</genie>
+		<description>Start on level 6-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GUUAIPAE</genie>
+		<description>Start on level 7-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TKUAIPAA</genie>
+		<description>Start on level 8-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASUAIPAA</genie>
+		<description>Start on level 9-1</description>
+	</cheat>
+</cheats>

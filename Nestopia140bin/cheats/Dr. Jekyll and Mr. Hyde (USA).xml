@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZXVTKVK</genie>
+		<description>Infinite life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXTTSVK</genie>
+		<description>Infinite life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KENLKVSE</genie>
+		<description>Start with 16 coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNLKVSE</genie>
+		<description>Keep coins from previous games</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NXNSZEOO</genie>
+		<description>Instant game restart</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>NKNGVYUK</genie>
+        <description>Multi-jump (1 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PXNKENOK</genie>
+        <description>Multi-jump (2 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PENKOYGA</genie>
+        <description>Multi-jump (3 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ENNKXYEI</genie>
+        <description>Multi-jump (4 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PENKSYAA</genie>
+        <description>Multi-jump (5 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OUNKNYUK</genie>
+        <description>Multi-jump (6 of 6)</description>
+    </cheat>
+</cheats>

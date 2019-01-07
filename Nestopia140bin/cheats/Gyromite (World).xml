@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZUZKTAX</genie>
+		<description>Invincible against enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATOXXOOZ</genie>
+		<description>Invincible against upward crushing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESZVZLA</genie>
+		<description>Climb up through flooring</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOZEZLA</genie>
+		<description>Climb down through flooring</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUZAAI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEAAUS</genie>
+		<description>Slow down timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUAGLIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUAGLIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUAGLIA</genie>
+		<description>Start with 20 lives</description>
+	</cheat>
+</cheats>

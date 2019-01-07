@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EYSTGGEI</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIETUGEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLTKOV</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVKOVVS</genie>
+		<description>Infinite lives - both players (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUTEUSO</genie>
+		<description>Keep weapon after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXXAEAE</genie>
+		<description>Start a new game to view ending</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASKYYPO</genie>
+		<description>Press Start to complete the level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AELGVP</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IELGVP</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELGVO</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0028</address>
+        <value>0x05</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0029</address>
+        <value>0x04</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x01</value>
+        <description>Start on stage 02 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x02</value>
+        <description>Start on stage 03 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x03</value>
+        <description>Start on stage 04 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x04</value>
+        <description>Start on stage 05 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x05</value>
+        <description>Start on stage 06 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x06</value>
+        <description>Start on stage 07 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x07</value>
+        <description>Start on stage 08 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x08</value>
+        <description>Start on stage 09 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x09</value>
+        <description>Start on stage 10 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04C2</address>
+        <value>0xFA</value>
+        <description>Infinite time for tank</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0680</address>
+        <value>0x02</value>
+        <description>Invincibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0681</address>
+        <value>0x02</value>
+        <description>Invincibility - P2</description>
+    </cheat>
+</cheats>

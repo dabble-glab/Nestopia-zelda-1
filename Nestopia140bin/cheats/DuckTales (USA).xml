@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EISVZLEY</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIEEGAEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVVXLEZ</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANVSLPA</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUIEKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAESULZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAESULZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAESULZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVTNLPA</genie>
+		<description>Lose half normal health (in easy game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVUVAZSV</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXSKLIE</genie>
+		<description>Double usual time (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNIUKOU</genie>
+		<description>Double usual time (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNISESU</genie>
+		<description>Double usual time (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>EUOTYULU</genie>
+        <description>Multi-jump (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>UVXVALVT</genie>
+        <description>Multi-jump (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AOUVILEY</genie>
+        <description>Multi-jump (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NAETLKLL</genie>
+        <description>Multi-jump (4 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXOTPTEY</genie>
+        <description>Multi-jump (5 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEOVYGPA</genie>
+        <description>Walk 2x faster</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GEOVYGPA</genie>
+        <description>Walk 4x faster</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0075</address>
+        <value>0x01</value>
+        <description>Invincibility (star effect) (disable after a boss)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007D</address>
+        <value>0xFA</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A0</address>
+        <value>0x1E</value>
+        <description>All levels cleared except the Amazon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A1</address>
+        <value>0x01</value>
+        <description>Have the Skeleton Key, Mine Key and Remote Control (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A3</address>
+        <value>0xFF</value>
+        <description>Have the Skeleton Key, Mine Key and Remote Control (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0151</address>
+        <value>0x09</value>
+        <description>Infinite time (hundred's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0155</address>
+        <value>0x09</value>
+        <description>Infinite time (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0159</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0324</address>
+        <value>0x09</value>
+        <description>Have $9,000,000</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0342</address>
+        <value>0x00</value>
+        <description>Infinite health (alt) (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0346</address>
+        <value>0x00</value>
+        <description>Infinite health (alt) (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x034A</address>
+        <value>0x00</value>
+        <description>Infinite health (alt) (3 of 3)</description>
+    </cheat>
+</cheats>

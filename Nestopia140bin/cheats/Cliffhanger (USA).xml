@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PASGVGLA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASGVGLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASGVGLA</genie>
+		<description>Start with 8 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASGVGLE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKKSVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVPOKVK</genie>
+		<description>Protection from most hits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKGUGLA</genie>
+		<description>Start with 1 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKGUGLA</genie>
+		<description>Start with 5 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKGUGLA</genie>
+		<description>Start with 7 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKGUGLE</genie>
+		<description>Start with 9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ULOTSYTN</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUNPXXSO</genie>
+		<description>Don't burn money at campfire</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXOKNGAP</genie>
+		<description>Start with 2x health (does not show on meter)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOKNGAO</genie>
+		<description>Start with 1/2 health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTVKVKSE</genie>
+		<description>Start with $100</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTVKUKSE</genie>
+		<description>Start with $10,000</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VGVKUKSE</genie>
+		<description>Start with $650,000 (displays $xx0000 until you pick up first money bag)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YONKKXAP</genie>
+		<description>Some bags contain mega-money, some contain no money</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0405</address>
+        <value>0x10</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0406</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

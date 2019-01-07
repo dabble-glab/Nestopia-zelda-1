@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIOAZPEY</genie>
+		<description>Invincibility (disable if you cannot enter a door)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>SZKLPZSA</genie>
+		<description>Invincibility (disable if you cannot enter a door) (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXEEZZSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXOAUPSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AEELYXAP</genie>
+        <description>Hit anywhere (Whip)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AVVAELAP</genie>
+		<description>Multi-jump (01 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EISOKAIV</genie>
+		<description>Multi-jump (02 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPSPKAEL</genie>
+		<description>Multi-jump (03 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASONATZ</genie>
+		<description>Multi-jump (04 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASOXEGA</genie>
+		<description>Multi-jump (05 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVPOEAA</genie>
+		<description>Multi-jump (06 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSOOAES</genie>
+		<description>Multi-jump (07 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSSPINYG</genie>
+		<description>Multi-jump (08 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSVPYUYG</genie>
+		<description>Multi-jump (09 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SASOUESX</genie>
+		<description>Multi-jump (10 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SASPVESX</genie>
+		<description>Multi-jump (11 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSPOAGA</genie>
+		<description>Multi-jump (12 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUPOASA</genie>
+		<description>Multi-jump (13 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TZSPXEOG</genie>
+		<description>Multi-jump (14 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASPUEAE</genie>
+		<description>Multi-jump (15 of 15)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ATUEGXSA</genie>
+        <description>No knock-back when hurt</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PALUYL</genie>
+		<description>Start with 9500 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOKPPAIE</genie>
+		<description>Start each stage with 99 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUPLLAG</genie>
+		<description>Bosses have no health</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>LAUPLVPA</genie>
+        <description>High jump</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEVOGTPA</genie>
+        <description>Walk twice as fast to the right</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VYXOANNN</genie>
+        <description>Walk twice as fast to the left</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OPELUZEP</genie>
+        <description>Infinite hearts</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001A</address>
+        <value>0x00</value>
+        <description>Remove invincibility blinking</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x01</value>
+        <description>Start on stage 02 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x02</value>
+        <description>Start on stage 03 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x03</value>
+        <description>Start on stage 04 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x04</value>
+        <description>Start on stage 05 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x05</value>
+        <description>Start on stage 06 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x06</value>
+        <description>Start on stage 07 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x07</value>
+        <description>Start on stage 08 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x08</value>
+        <description>Start on stage 09 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x09</value>
+        <description>Start on stage 10 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x0A</value>
+        <description>Start on stage 11 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x0B</value>
+        <description>Start on stage 12 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x0C</value>
+        <description>Start on stage 13 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x0D</value>
+        <description>Start on stage 14 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x0E</value>
+        <description>Start on stage 15 (glitchy if you die)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0035</address>
+        <value>0x99</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x01</value>
+        <description>Enable Sypha</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x02</value>
+        <description>Enable Grant</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x03</value>
+        <description>Enable Alucard</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x40</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0080</address>
+        <value>0x02</value>
+        <description>Invincibility (blinking) (disable if you cannot enter a door)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0084</address>
+        <value>0x99</value>
+        <description>Infinite hearts</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0087</address>
+        <value>0x02</value>
+        <description>Have Triple Shot (III)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x01</value>
+        <description>Trevor Belmont's sub-weapon - Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x02</value>
+        <description>Trevor Belmont's sub-weapon - Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x03</value>
+        <description>Trevor Belmont's sub-weapon - Dagger</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x04</value>
+        <description>Trevor Belmont's sub-weapon - Holy Water</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x0B</value>
+        <description>Trevor Belmont's sub-weapon - Clock</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x05</value>
+        <description>Sypha Belnades' sub-weapon - Fire Spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x06</value>
+        <description>Sypha Belnades' sub-weapon - Ice Spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x07</value>
+        <description>Sypha Belnades' sub-weapon - Lightning Spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x08</value>
+        <description>Grant Danasty's sub-weapon - Dagger</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x09</value>
+        <description>Grant Danasty's sub-weapon - Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x0B</value>
+        <description>Grant Danasty's sub-weapon - Clock</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008E</address>
+        <value>0x02</value>
+        <description>Trevor Belmont has best Whip</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008F</address>
+        <value>0x02</value>
+        <description>Alucard has best attack</description>
+    </cheat>
+</cheats>

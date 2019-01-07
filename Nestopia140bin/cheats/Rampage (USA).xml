@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>NYSGLUYN</genie>
+		<description>More health - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYVKTUYN</genie>
+		<description>More health - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLSGLUYN</genie>
+		<description>Less health - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLVKTUYN</genie>
+		<description>Less health - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNNGKNYN</genie>
+		<description>More health after continue - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YUNGKNYN</genie>
+		<description>Less health after continue - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXLPGAP</genie>
+		<description>No harm from falling</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXLALOP</genie>
+		<description>No harm from attacks or bad food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXLPGAP</genie>
+		<description>More damage done from falling</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEULLLIA</genie>
+		<description>Double health from food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEULLLIA</genie>
+		<description>Half health from food (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZKULTUZE</genie>
+		<description>Half health from food (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOUOPPA</genie>
+		<description>No harm from water (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASLSPPA</genie>
+		<description>No harm from water (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>EEKXYPIA</genie>
+        <description>One hit to destroy buildings</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ASSZGTEY</genie>
+        <description>Buildings collapse faster (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IOOZUXIA</genie>
+        <description>Buildings collapse faster (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ASUTPIEL</genie>
+        <description>Buildings collapse automatically</description>
+    </cheat>
+</cheats>

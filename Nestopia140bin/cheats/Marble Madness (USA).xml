@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXVXLZVS</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOZPLAA</genie>
+		<description>Extra 20 seconds to complete beginner race</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXOZPLAE</genie>
+		<description>Extra 40 seconds to complete beginner race</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEXTLEL</genie>
+		<description>Bonus time not added</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>EYNGALEI</genie>
+        <description>Don&apos;t break from falling</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZGGYO</genie>
+        <description>Cannot fall into bottomless pits (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZAEUA</genie>
+        <description>Cannot fall into bottomless pits (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZEGPXOX</genie>
+        <description>Cannot fall into bottomless pits (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0044</address>
+        <value>0x3C</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004A</address>
+        <value>0x63</value>
+        <description>Max score - P1 (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004B</address>
+        <value>0x63</value>
+        <description>Max score - P1 (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004C</address>
+        <value>0x63</value>
+        <description>Max score - P1 (3 of 3)</description>
+    </cheat>
+</cheats>

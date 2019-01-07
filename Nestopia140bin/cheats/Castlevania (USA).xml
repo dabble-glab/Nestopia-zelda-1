@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXXXYAAX</genie>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NAPOLN</genie>
+        <description>Don't get knocked back when hit</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SKPPEL</genie>
+        <description>Jump 3x as high</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EVPPEL</genie>
+        <description>Jump 2x as high</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZOOIKSE</genie>
+        <description>Multi-jump (01 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAOOTGLG</genie>
+        <description>Multi-jump (02 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SAOOYGPE</genie>
+        <description>Multi-jump (03 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GTXPAKVV</genie>
+        <description>Multi-jump (04 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GAXPPKGT</genie>
+        <description>Multi-jump (05 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZGXPZGGE</genie>
+        <description>Multi-jump (06 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AXKOZKSZ</genie>
+        <description>Multi-jump (07 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PEKOLGGP</genie>
+        <description>Multi-jump (08 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>KOKOGGIA</genie>
+        <description>Multi-jump (09 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVOPZYEP</genie>
+        <description>Multi-jump (10 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VEEOGGSV</genie>
+        <description>Multi-jump (11 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>KOEOIGOZ</genie>
+        <description>Multi-jump (12 of 12)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAOVLSVG</genie>
+        <description>Hit anywhere (Whip) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAXVLSVL</genie>
+        <description>Hit anywhere (Whip) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VXOLEOVE</genie>
+        <description>Start on last level (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PEEUEPLE</genie>
+        <description>Start on last level (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZOEUSPAA</genie>
+        <description>Start on last level (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IGGOON</genie>
+        <description>Walk through walls</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXKKAXSE</genie>
+        <description>Keep sub-weapon after dying</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x002A</address>
+        <value>0x63</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0045</address>
+        <value>0x40</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005B</address>
+        <value>0x02</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0070</address>
+        <value>0x02</value>
+        <description>Have the best Whip</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0071</address>
+        <value>0x63</value>
+        <description>Infinite hearts (disable at end of stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x015B</address>
+        <value>0x08</value>
+        <description>Have the Knife</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x015B</address>
+        <value>0x09</value>
+        <description>Have the Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x015B</address>
+        <value>0x0B</value>
+        <description>Have the Holy Water</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x015B</address>
+        <value>0x0D</value>
+        <description>Have the Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x015B</address>
+        <value>0x0F</value>
+        <description>Have the Stopwatch</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x01A9</address>
+        <value>0x00</value>
+        <description>Bosses have no health</description>
+    </cheat>
+</cheats>

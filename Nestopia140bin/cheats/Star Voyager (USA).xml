@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZSZSTVG</genie>
+		<description>Infinite life support pods</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKIASZA</genie>
+		<description>Start with double life support pods</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPKIASZE</genie>
+		<description>Start with triple life support pods</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASLSLLA</genie>
+		<description>Barrier won't take damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKLVLEI</genie>
+		<description>Radar won't take damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENXLXLEI</genie>
+		<description>Cannon won't take damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXUXLLA</genie>
+		<description>Engine won't take damage</description>
+	</cheat>
+</cheats>

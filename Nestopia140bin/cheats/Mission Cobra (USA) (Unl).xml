@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AAESVIGT</genie>
+        <description>Infinite health (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AANNZPGT</genie>
+        <description>Infinite health (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAXIOLGT</genie>
+        <description>Infinite health (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009A</address>
+        <value>0x63</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

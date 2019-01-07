@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIUZUAEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVGZOSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUXXKVS</genie>
+		<description>Infinite ammo on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVPAGZE</genie>
+		<description>More bullets picked up from small dinosaurs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVPAGZA</genie>
+		<description>Fewer bullets picked up from small dinosaurs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEULOVK</genie>
+		<description>Infinite lives (first two levels only)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVGZOSA</genie>
+		<description>Immune to most attacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEXASASA</genie>
+		<description>3-ball bolas picked up (from small dinosaurs, instead of normal bullets) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEUAXASA</genie>
+		<description>3-ball bolas picked up (from small dinosaurs, instead of normal bullets) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NEXASASA</genie>
+		<description>Explosive multi-shots (from small dinosaurs, instead of normal bullets) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NEUAXASA</genie>
+		<description>Explosive multi-shots (from small dinosaurs, instead of normal bullets) (2 of 2)</description>
+	</cheat>
+</cheats>

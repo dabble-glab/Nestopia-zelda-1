@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENXETAEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVAAASA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVAAASA</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEGXLPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUNIVVOO</genie>
+		<description>Infinite weapons (except Top Man)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOAZZSA</genie>
+		<description>Infinite Top Man</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AOSYXUAU</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVSYUUSL</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEKEZPZA</genie>
+        <description>One hit kills</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>YEUKOTGA</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASXSTLGP</genie>
+		<description>Longer slides</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNKIALEE</genie>
+		<description>Faster slides</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYKGXSGK</genie>
+		<description>Move faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKGNIPA</genie>
+		<description>Move mega-fast</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>TUOKUIYA</genie>
+        <description>Multi-jump (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VKUGOIES</genie>
+        <description>Multi-jump (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GZUKOTEP</genie>
+        <description>Multi-jump (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SIUUNVVS</genie>
+        <description>Collectable items never disappear</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEXOXGKI</genie>
+        <description>Special items re-appear after being collected</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EZNLXYEP</genie>
+        <description>Enemies always drop x (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>TANLVNEY</genie>
+        <description>Enemies always drop x (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IANLUNPA</genie>
+        <description>Enemies always drop extra lives (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LANLUNPA</genie>
+        <description>Enemies always drop large health refill (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PANLUNPA</genie>
+        <description>Enemies always drop large weapon refill (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAOOGLSI</genie>
+        <description>Able to access already defeated boss stages</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AENKKAZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENKKAZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENKKAZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOONPZA</genie>
+		<description>Start with 1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOONPZA</genie>
+		<description>Start with 6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOONPZE</genie>
+		<description>Start with 9 lives after continue</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0xFF</value>
+        <description>Infinite slide time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x39</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A2</address>
+        <value>0x9C</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A3</address>
+        <value>0x9C</value>
+        <description>Infinite Gemini Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A4</address>
+        <value>0x9C</value>
+        <description>Infinite Needle Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A5</address>
+        <value>0x9C</value>
+        <description>Infinite Hard Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A6</address>
+        <value>0x9C</value>
+        <description>Infinite Magnet Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A7</address>
+        <value>0x9C</value>
+        <description>Infinite Top Man (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A8</address>
+        <value>0x9C</value>
+        <description>Infinite Snake Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A9</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Coil</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x9C</value>
+        <description>Infinite Spark Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Sub</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x9C</value>
+        <description>Infinite Shadow Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AD</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Jet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AE</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xCEB9</address>
+        <value>0x09</value>
+        <description>Mega-jump (alt)</description>
+    </cheat>
+</cheats>

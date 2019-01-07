@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZNGNLSP</genie>
+		<description>Keep weapons after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXKPGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXKPGLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXKPGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVKKLVS</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YGNGAKTL</genie>
+		<description>Start with XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVKTGAP</genie>
+		<description>Start with Dual Cannons (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVKTGAP</genie>
+		<description>Start with Laser (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVKTGAP</genie>
+		<description>Start with Shoot Right (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVKTGAO</genie>
+		<description>Start with Shoot Left (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APVKTGAP</genie>
+		<description>Start with Five Direction Firing (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZVKTGAP</genie>
+		<description>Start with Three Direction Firing (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGVKTGAP</genie>
+		<description>Start with Force field (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOGIGSA</genie>
+		<description>Start at stage X (wait for demo game then press start) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEGPLPA</genie>
+		<description>Start at stage 2 (wait for demo game then press start) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEGPLPA</genie>
+		<description>Start at stage 3 (wait for demo game then press start) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEGPLPA</genie>
+		<description>Start at stage 4 (wait for demo game then press start) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEGPLPA</genie>
+		<description>Start at stage 5 (wait for demo game then press start) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEGPLPA</genie>
+		<description>Start at stage 6 (wait for demo game then press start) (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>IESKLLAA</genie>
+        <description>Skip intro</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0038</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0056</address>
+        <value>0x50</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

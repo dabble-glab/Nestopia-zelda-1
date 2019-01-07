@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZUZLISA</genie>
+		<description>Infinite health (after first 2 units)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAULLYPA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>AOKEOPEL</genie>
+        <description>Collect items from anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEKNLPZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKNLPZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKNLPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXKNYOGA</genie>
+		<description>Start with energy boost</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASVAYIA</genie>
+		<description>Start with extra time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASVAYIA</genie>
+		<description>Start with less time</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0092</address>
+        <value>0x59</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0095</address>
+        <value>0x0F</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009B</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

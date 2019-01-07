@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OUOUIUOO</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOLYLST</genie>
+		<description>Don't take damage from most enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUNYIYAT</genie>
+		<description>Start with half normal health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZUXVEPV</genie>
+		<description>Maximum weapon power on pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUXNAPA</genie>
+		<description>Maximum weapon power on pick-up (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x06D1</address>
+        <value>0x32</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F8</address>
+        <value>0x80</value>
+        <description>Infinite hearts</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C3</address>
+        <value>0x04</value>
+        <description>Have Machine Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F2</address>
+        <value>0x01</value>
+        <description>Start with and keep Arrow</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C5</address>
+        <value>0x04</value>
+        <description>Start with and keep Bazooka</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C7</address>
+        <value>0x04</value>
+        <description>Start with and keep Boomerang</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00EC</address>
+        <value>0x01</value>
+        <description>Start with and keep Earthquake</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F6</address>
+        <value>0x01</value>
+        <description>Start with and keep Elixir</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06CB</address>
+        <value>0x04</value>
+        <description>Start with and keep Grenades</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06CD</address>
+        <value>0x04</value>
+        <description>Start with and keep Land Mines</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00EA</address>
+        <value>0x01</value>
+        <description>Start with and keep Lightning</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F0</address>
+        <value>0x01</value>
+        <description>Start with and keep Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C9</address>
+        <value>0x04</value>
+        <description>Start with and keep Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F4</address>
+        <value>0x01</value>
+        <description>Start with and keep Time Stopper</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00EE</address>
+        <value>0x01</value>
+        <description>Start with and keep Wings</description>
+    </cheat>
+</cheats>

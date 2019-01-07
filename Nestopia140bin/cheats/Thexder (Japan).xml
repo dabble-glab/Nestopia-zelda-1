@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SZEOKAVG</genie>
+        <description>Infinite shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXEPSISA</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0074</address>
+        <value>0x63</value>
+        <description>Start on last level</description>
+    </cheat>
+</cheats>

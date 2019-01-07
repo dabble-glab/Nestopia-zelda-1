@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSPZGSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANLZKZG</genie>
+		<description>Hit anywhere</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0xCE42</address>
+        <value>0x00</value>
+        <description>Walk through walls (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xCED9</address>
+        <value>0x00</value>
+        <description>Walk through walls (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xCF64</address>
+        <value>0x00</value>
+        <description>Walk through walls (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xCFE0</address>
+        <value>0x00</value>
+        <description>Walk through walls (4 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040E</address>
+        <value>0x01</value>
+        <description>Have Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0410</address>
+        <value>0x01</value>
+        <description>Have Long Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0411</address>
+        <value>0x99</value>
+        <description>Infinite Small Spears</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0412</address>
+        <value>0x99</value>
+        <description>Infinite Long Spears</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0414</address>
+        <value>0x99</value>
+        <description>Infinite Three Rock</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0415</address>
+        <value>0x99</value>
+        <description>Infinite Four Rock</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x041F</address>
+        <value>0x99</value>
+        <description>Infinite Potions</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0420</address>
+        <value>0x01</value>
+        <description>Have Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0420</address>
+        <value>0x99</value>
+        <description>Infinite Red Potions</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0422</address>
+        <value>0x01</value>
+        <description>Have Ring</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0423</address>
+        <value>0x01</value>
+        <description>Have Pendant</description>
+    </cheat>
+</cheats>

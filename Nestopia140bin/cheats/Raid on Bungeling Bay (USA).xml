@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PENGZYIE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENGZYIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSIASVK</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVVPIAX</genie>
+		<description>Infinite Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEVKTYPA</genie>
+		<description>Start on round 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVKTYPA</genie>
+		<description>Start on round 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVKTYPE</genie>
+		<description>Start on round 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZOIIEGX</genie>
+		<description>Can only carry 5 bombs</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x024D</address>
+        <value>0x23</value>
+        <description>0 Damage (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x024E</address>
+        <value>0x23</value>
+        <description>0 Damage (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0254</address>
+        <value>0x2C</value>
+        <description>Infinite Bombs (alt)</description>
+    </cheat>
+</cheats>

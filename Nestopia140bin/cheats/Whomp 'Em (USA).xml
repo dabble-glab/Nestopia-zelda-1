@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ATSELPEY</genie>
+        <description>Invincibility</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SXEEZPVG</genie>
+		<description>Don't lose a life from health loss</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXOUPVG</genie>
+		<description>Creatures can't steal extra lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNATPSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKEGPVG</genie>
+		<description>Keep Buffalo Headdress for present level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKELOAA</genie>
+		<description>Always have Buffalo Headdress</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AEKKGALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVKYAAA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVKYAAE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+</cheats>

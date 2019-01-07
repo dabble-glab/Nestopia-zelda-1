@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVZSSVK</genie>
+		<description>Infinite missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOUXXEAA</genie>
+		<description>Start with double missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVPXNVV</genie>
+		<description>No damage taken from enemy's bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVUXNAVP</genie>
+		<description>Start with less fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKZZLZE</genie>
+		<description>More enemy planes on the screen</description>
+	</cheat>
+</cheats>

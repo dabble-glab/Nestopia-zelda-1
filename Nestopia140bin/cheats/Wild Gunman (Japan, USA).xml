@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIAGNY</genie>
+		<description>Infinite lives in Gang Mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYTIZA</genie>
+		<description>Infinite ammo in Gang Mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXVIEOYA</genie>
+		<description>Start with double normal ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUVIEOYA</genie>
+		<description>Start with triple normal ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVIEOYE</genie>
+		<description>Start with half normal ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUISPLE</genie>
+		<description>Start with 1 life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENGVALA</genie>
+		<description>Start with 1 life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUISPLE</genie>
+		<description>Start with 10 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENGVALE</genie>
+		<description>Start with 10 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUISPLE</genie>
+		<description>Start with 15 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENGVALE</genie>
+		<description>Start with 15 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENSUOZA</genie>
+		<description>Shoot 5 enemies to finish level (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUSSUZA</genie>
+		<description>Shoot 5 enemies to finish level (2 of 2)</description>
+	</cheat>
+</cheats>

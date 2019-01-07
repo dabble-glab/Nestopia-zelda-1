@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESXAKTEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEAVNSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUXPXVOO</genie>
+		<description>Infinite weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVAIZVG</genie>
+		<description>Infinite Rush Jet</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AENAIOPP</genie>
+        <description>Enemies always drop items</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LEVVNGIA</genie>
+        <description>Hit anywhere and shoot to pick-up items</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEVVUUZA</genie>
+        <description>One hit kills (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXVVXLOU</genie>
+        <description>One hit kills (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SXEEXTVG</genie>
+		<description>Infinite lives (can sometimes die and go to another part of the game)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEAKYST</genie>
+		<description>Infinite health (except fires, falling into pits and spikes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOOEKGPP</genie>
+		<description>Normal shots do more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOKENGLP</genie>
+		<description>Mega shots do more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGEEYOYA</genie>
+		<description>Multi-jump (1 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAOAPOEG</genie>
+		<description>Multi-jump (2 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIOAZPIA</genie>
+		<description>Multi-jump (3 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PZOAAOSX</genie>
+		<description>Multi-jump (4 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEETPEI</genie>
+		<description>Multi-jump (5 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XGOALPAU</genie>
+		<description>Multi-jump (6 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTOAGOZE</genie>
+		<description>Multi-jump (7 of 7)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>UKXOTXVI</genie>
+        <description>Collectable items never disappear</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AAUKVIZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUKVIZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUKVIZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A2</address>
+        <value>0x36</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A9</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03E5</address>
+        <value>0x1B</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B1</address>
+        <value>0x00</value>
+        <description>Super Moonwalk (enable during stages only)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0640</address>
+        <value>0x00</value>
+        <description>Bosses have no invulnerability time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0689</address>
+        <value>0x1B</value>
+        <description>Infinite Beat</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x068A</address>
+        <value>0x1B</value>
+        <description>Infinite Yamato</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x068B</address>
+        <value>0x1B</value>
+        <description>Infinite W Storm</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x068C</address>
+        <value>0x1B</value>
+        <description>Infinite F Blast</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x068D</address>
+        <value>0x1B</value>
+        <description>Infinite Plant B</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x068E</address>
+        <value>0x1B</value>
+        <description>Infinite Knight</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0690</address>
+        <value>0x1B</value>
+        <description>Infinite C Flash</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0691</address>
+        <value>0x1B</value>
+        <description>Infinite Centaur</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0696</address>
+        <value>0x01</value>
+        <description>Have the Energy Balancer</description>
+    </cheat>
+</cheats>

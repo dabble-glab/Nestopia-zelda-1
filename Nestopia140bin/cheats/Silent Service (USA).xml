@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZLEPOIAI</genie>
+		<description>Start with 50 deck gun shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTEPOIAI</genie>
+		<description>Start with 99 deck gun shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXVOPVG</genie>
+		<description>Infinite deck gun shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSVUPVG</genie>
+		<description>Infinite bow torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXETUPVG</genie>
+		<description>Infinite aft torpedoes</description>
+	</cheat>
+</cheats>

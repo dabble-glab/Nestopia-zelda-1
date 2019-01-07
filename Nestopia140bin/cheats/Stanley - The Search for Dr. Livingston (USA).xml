@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>XTSXXYVK</genie>
+        <description>Infinite time on continue screen</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZEGYUSE</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NNXGVZAE</genie>
+        <description>Start a new game with complete map</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0496</address>
+        <value>0x5F</value>
+        <description>Have all weapons (1 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0497</address>
+        <value>0x5F</value>
+        <description>Have all weapons (2 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0498</address>
+        <value>0x01</value>
+        <description>Have all weapons (3 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0499</address>
+        <value>0x5F</value>
+        <description>Have all weapons (4 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049A</address>
+        <value>0x5F</value>
+        <description>Have all weapons (5 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049B</address>
+        <value>0x5F</value>
+        <description>Have all weapons (6 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049C</address>
+        <value>0x5F</value>
+        <description>Have all weapons (7 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049D</address>
+        <value>0x5F</value>
+        <description>Have all weapons (8 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049E</address>
+        <value>0x5F</value>
+        <description>Have all weapons (9 of 9)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x057E</address>
+        <value>0x26</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

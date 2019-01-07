@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AOULILAZ</genie>
+		<description>Faster timer when lock-picking</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASULILAZ</genie>
+		<description>Slower timer when lock-picking</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENULILAZ</genie>
+		<description>Very slow timer when lock-picking</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKUTSVK</genie>
+		<description>Infinite Knock Rings (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKUISAI</genie>
+		<description>Infinite Knock Rings (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVANKZA</genie>
+		<description>Start with 50% less gold on a character that you create</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEVANKZE</genie>
+		<description>Start with 50% more gold on a character that you create</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOVANKZA</genie>
+		<description>Start with 100% more gold on a character that you create</description>
+	</cheat>
+</cheats>

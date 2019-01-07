@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAVESGLA</genie>
+		<description>Start with 0 drops allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVESGLA</genie>
+		<description>Start with 5 drops allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANENGGA</genie>
+		<description>When starting on level 6, 0 drops allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANENGGA</genie>
+		<description>When starting on level 6, 5 drops allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOAXGIA</genie>
+		<description>When starting on level 11, 0 drops allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOAXGIA</genie>
+		<description>When starting on level 11, 3 drops allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXLUGVT</genie>
+		<description>Infinite drops</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0000</address>
+        <value>0xXX</value>
+		<description>Level select (can select levels 0-99)</description>
+    </cheat>
+</cheats>

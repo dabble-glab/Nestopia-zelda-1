@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEUAUGIA</genie>
+		<description>1 round per level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUAUGIA</genie>
+		<description>3 rounds per level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUAOSOU</genie>
+		<description>Each ship can take only one hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAXAOISP</genie>
+		<description>You only have RIM-66 missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VASEOGSA</genie>
+		<description>Start on level XX (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VASASGSA</genie>
+		<description>Start on level XX (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASAKGAA</genie>
+		<description>Start on level 2 (3 of 3)</description>
+	</cheat>
+
+	<cheat enabled="0">
+		<genie>ZASAKGAA</genie>
+		<description>Start on level 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASAKGAA</genie>
+		<description>Start on level 4 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASAKGAA</genie>
+		<description>Start on level 5 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASAKGAA</genie>
+		<description>Start on level 6 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASAKGAA</genie>
+		<description>Start on level 7 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASAKGAA</genie>
+		<description>Start on level 8 (3 of 3)</description>
+	</cheat>
+</cheats>

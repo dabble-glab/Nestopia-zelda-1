@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EESEYEVG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNOGUVV</genie>
+		<description>Infinite weapons (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEOLUVV</genie>
+		<description>Infinite weapons (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOOZUSE</genie>
+		<description>Infinite weapons (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKEVYPA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNYZSVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVEAPTAV</genie>
+		<description>Hit anywhere - normal enemies (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSETVSO</genie>
+		<description>Hit anywhere - normal enemies (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKYXYZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKYXYZA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKYXYZA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKYXYZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAENPIZA</genie>
+		<description>Start with one heart - first life only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENYTIZA</genie>
+		<description>Start with one heart - after first life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOPTLAA</genie>
+		<description>When weapon runs out of ammo it's replaced with the double weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOPTLAA</genie>
+		<description>When weapon runs out of ammo it's replaced with the wave weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOPTLAA</genie>
+		<description>When weapon runs out of ammo it's replaced with the 3-way weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOPTLAA</genie>
+		<description>When weapon runs out of ammo it's replaced with the flame weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOPTLAA</genie>
+		<description>When weapon runs out of ammo it's replaced with the fireball weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEIKALA</genie>
+		<description>Start with less time (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKAGALA</genie>
+		<description>Start with less time (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEIKALA</genie>
+		<description>Start with more time (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKAGALA</genie>
+		<description>Start with more time (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEIKALE</genie>
+		<description>Start with even more time (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKAGALE</genie>
+		<description>Start with even more time (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x011C</address>
+        <value>0x02</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0114</address>
+        <value>0x09</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0118</address>
+        <value>0x09</value>
+        <description>Infinite Coins (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0119</address>
+        <value>0x09</value>
+        <description>Infinite Coins (one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0576</address>
+        <value>0x09</value>
+        <description>Infinite time (hundred's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0577</address>
+        <value>0x09</value>
+        <description>Infinite time (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0578</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0116</address>
+        <value>0x01</value>
+        <description>Start on stage 2 - Lake Neptune</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0116</address>
+        <value>0x02</value>
+        <description>Start on stage 3 - Cavern Of Fire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0116</address>
+        <value>0x03</value>
+        <description>Start on stage 4 - Ice Palace</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0116</address>
+        <value>0x04</value>
+        <description>Start on stage 5 - Dark Jungle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0116</address>
+        <value>0x05</value>
+        <description>Start on stage 6 - Golden Palace</description>
+    </cheat>
+</cheats>

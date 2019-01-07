@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AENSANPZ</genie>
+		<description>Can't be slowed down by signs and grass, prevents suspension from being shot (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEIOAVG</genie>
+		<description>Can't be slowed down by signs and grass, prevents suspension from being shot (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSIOASA</genie>
+		<description>Can't be slowed down by signs and grass, prevents suspension from being shot (3 of 3)</description>
+	</cheat>
+</cheats>

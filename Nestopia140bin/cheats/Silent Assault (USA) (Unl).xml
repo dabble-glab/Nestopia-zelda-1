@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x002E</address>
+        <value>0x08</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D9</address>
+        <value>0x04</value>
+        <description>Infinite Grenades</description>
+    </cheat>
+</cheats>

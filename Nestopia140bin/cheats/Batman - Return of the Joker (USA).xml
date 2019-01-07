@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOLZOSE</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSZKXSE</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXZONSE</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEGLVSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKSKGKVK</genie>
+		<description>Infinite weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVUIASE</genie>
+		<description>Invincible to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXZONSE</genie>
+		<description>Protection from enemy bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSZKXSE</genie>
+		<description>Protection from collisions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSATXSE</genie>
+		<description>Protection from electric grids</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUAOLZE</genie>
+		<description>Jump higher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOUAOLZA</genie>
+		<description>Jump very high</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXILGZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVXILGZA</genie>
+		<description>Start with 100 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVXVLZA</genie>
+		<description>Each Backpack Energy Capsule counts as two</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVXVLZE</genie>
+		<description>Each Backpack Energy Capsule counts as four</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKOPIZA</genie>
+		<description>Invincibility lasts until the end of stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOSPKVN</genie>
+		<description>Start with 7 Backpack Energy Capsules instead of none</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOSTKTA</genie>
+		<description>Start with 3 life increments instead of 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASOTOTA</genie>
+		<description>Continue game with 3 life increments instead of 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXSZSVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEUIOSE</genie>
+		<description>Don't get stunned when hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUUAPGA</genie>
+		<description>Stand your ground (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKLAOKE</genie>
+		<description>Stand your ground (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNULTONN</genie>
+		<description>Intense knock-back when hit (may get stuck if you knock back into a wall) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUUGPAA</genie>
+		<description>Intense knock-back when hit (may get stuck if you knock back into a wall) (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x00</value>
+        <description>Bosses lose health quickly</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0478</address>
+        <value>0x08</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0141</address>
+        <value>0x0A</value>
+        <description>Infinite Baterangs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0479</address>
+        <value>0x00</value>
+        <description>Invincibility after first hit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x02</value>
+        <description>Start on stage 1-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x04</value>
+        <description>Start on stage 1-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x06</value>
+        <description>Start on stage 2-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x08</value>
+        <description>Start on stage 2-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x0A</value>
+        <description>Start on stage 3-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x0C</value>
+        <description>Start on stage 3-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x0E</value>
+        <description>Start on stage 3-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x10</value>
+        <description>Start on stage 4-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x12</value>
+        <description>Start on stage 4-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x14</value>
+        <description>Start on stage 4-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x16</value>
+        <description>Start on stage 5-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x18</value>
+        <description>Start on stage 5-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x1A</value>
+        <description>Start on stage 6-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x1C</value>
+        <description>Start on stage 6-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x1E</value>
+        <description>Start on stage 6-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x20</value>
+        <description>Start on stage 7-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x22</value>
+        <description>Start on stage 7-2</description>
+    </cheat>
+</cheats>

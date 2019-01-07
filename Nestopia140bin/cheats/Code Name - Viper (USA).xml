@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSSGIAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>STVPVOON</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASOVZPA</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVOSOSE</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOVKNVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOXLZPA</genie>
+		<description>Infinite Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENXZPPA</genie>
+		<description>Infinite Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTOVEYZL</genie>
+		<description>Double usual bullets on new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPOVEYZU</genie>
+		<description>Half bullets on new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVNVGKSE</genie>
+		<description>Start with Machine Gun and 256 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTOTONSE</genie>
+		<description>Machine Gun with 256 bullets on new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKEVNOU</genie>
+		<description>Upper level jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ONEOYEXN</genie>
+		<description>Upper level jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOTONSE</genie>
+		<description>Keep Machine Gun after dying (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEVVNSE</genie>
+		<description>Keep Machine Gun after dying (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASIVEAL</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APOOSGLA</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLXPEGLP</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOOKKSU</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEESIIGA</genie>
+		<description>Have Bomb (can exit level without the Bomb)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENTAGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENTAGLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENTAGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTETLIZL</genie>
+		<description>Start with double usual bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPETLIZU</genie>
+		<description>Start with half usual bullets</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x06E0</address>
+        <value>0x3F</value>
+        <description>Infinite Gun (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06E2</address>
+        <value>0x3F</value>
+        <description>Infinite Machine Gun (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06E8</address>
+        <value>0x0A</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06EA</address>
+        <value>0x09</value>
+        <description>Have all children rescued</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06EC</address>
+        <value>0x09</value>
+        <description>Have all adults rescued</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06F8</address>
+        <value>0x04</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0757</address>
+        <value>0xFF</value>
+        <description>Have all adults and children rescued</description>
+    </cheat>
+</cheats>

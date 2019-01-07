@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AOEITEEN</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKGSGPA</genie>
+		<description>Multi-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXKEOZA</genie>
+		<description>Multi-jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATUEENSL</genie>
+		<description>Freeze mechanical bulldog</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVKAVNSL</genie>
+		<description>Freeze mechanical mice</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVOPTESL</genie>
+		<description>Freeze buzzer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVNOLKSL</genie>
+		<description>Freeze buzz bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVPZSSL</genie>
+		<description>Freeze racket-rod</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATSOYKSL</genie>
+		<description>Freeze ditz</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATSPANSL</genie>
+		<description>Freeze hawk bomber</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVOOUSL</genie>
+		<description>Freeze bouncing boxes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXKNPTE</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEIIEVI</genie>
+		<description>Never get stunned</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IVEKINEO</genie>
+		<description>Press Start to finish the level</description>
+	</cheat>
+</cheats>

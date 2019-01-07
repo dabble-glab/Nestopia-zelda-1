@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OLNUNEOO</genie>
+		<description>Infinite life - Captain America and Hawkeye, 1P mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSULYVG</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPNXIUZA</genie>
+		<description>Large power stones worth 20 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPNXIUZE</genie>
+		<description>Large power stones worth 30 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLNXIUZA</genie>
+		<description>Large power stones worth 50 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUZILPE</genie>
+		<description>Small power stones worth 10 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LSUPUELO</genie>
+		<description>Hawkeye shoots arrows faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYNXTXNN</genie>
+		<description>Faster Captain America and Hawkeye - one direction only (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEZAZPA</genie>
+		<description>Faster Captain America and Hawkeye - one direction only (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SYNXTXNN</genie>
+		<description>Even faster Captain America and Hawkeye - one direction only (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEEZAZPA</genie>
+		<description>Even faster Captain America and Hawkeye - one direction only (2of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x03D9</address>
+        <value>0x0F</value>
+        <description>Infinite life - Captain America, 1P mode</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03DA</address>
+        <value>0x0F</value>
+        <description>Infinite life - Hawkeye, 1P mode</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03DD</address>
+        <value>0x63</value>
+        <description>Have 99 Red Gems - Captain America, 1P mode</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03DE</address>
+        <value>0x63</value>
+        <description>Have 99 Red Gems - Hawkeye, 1P mode</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXVIOTSA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXTGEY</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXYSGI</genie>
+		<description>Infinite Smart Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELGNY</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TELGNY</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELGNN</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YETVIL</genie>
+		<description>Super speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAZVPG</genie>
+		<description>Super speed (2 of 2)</description>
+	</cheat>
+</cheats>

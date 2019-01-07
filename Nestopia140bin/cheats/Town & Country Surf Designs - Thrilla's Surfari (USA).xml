@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAXEPPLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXEPPLA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAXEPPLA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEPPLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPXEPPLE</genie>
+		<description>Start with mega lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXEVIIVV</genie>
+		<description>Can't collect Coconuts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUALPAA</genie>
+		<description>Start with 5 Coconuts plus what you've collected in sub-game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUALPAE</genie>
+		<description>Start with 10 Coconuts plus what you've collected in sub-game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAUALPAE</genie>
+		<description>Start with 15 Coconuts plus what you've collected in sub-game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSIZYVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEIPZA</genie>
+		<description>Start with less health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXEIPZA</genie>
+		<description>Start with a little more health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXEIPZA</genie>
+		<description>Start with 2x health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEIPZE</genie>
+		<description>Start with a lot more health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENUZTKL</genie>
+		<description>Start on level XX (can't advance to next level) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENUATIA</genie>
+		<description>Start on level 1-3 (can't advance to next level) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENUATIA</genie>
+		<description>Start on level 1-4 (can't advance to next level) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENUATIA</genie>
+		<description>Watch the level 2 Cinema (can't advance to next level) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENUATIA</genie>
+		<description>Start on level 2-2 (can't advance to next level) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENUATIA</genie>
+		<description>Start on level 2-3 (can't advance to next level) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENUATIE</genie>
+		<description>Start on level 2-4 (can't advance to next level) (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0006</address>
+        <value>0x08</value>
+        <description>Have all 8 health slots</description>
+    </cheat>
+</cheats>

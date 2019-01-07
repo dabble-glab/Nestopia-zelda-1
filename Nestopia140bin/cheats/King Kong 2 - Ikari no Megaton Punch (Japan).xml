@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLSYTPSP</genie>
+		<description>Infinite health and lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVEPSSE</genie>
+		<description>Infinite Rocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESVAAPE</genie>
+		<description>Start with max health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOSTYAAE</genie>
+		<description>Start with max health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXVOPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

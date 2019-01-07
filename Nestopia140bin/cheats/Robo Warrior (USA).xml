@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZUNYXTK</genie>
+		<description>No damage from bomb blast</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNNIXTK</genie>
+		<description>No damage from monsters and no power drain</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUXSNIVI</genie>
+		<description>Infinite Mega Bomb after after pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTXGKPVV</genie>
+		<description>Infinite Barrier after pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVTPSZA</genie>
+		<description>5 Super Bombs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPVTPSZA</genie>
+		<description>20 Super Bombs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKTYPVG</genie>
+		<description>Infinite Super Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVKLPAA</genie>
+		<description>Start with 5 of everything</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVKLPAE</genie>
+		<description>Start with 10 of everything</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANGAPPA</genie>
+		<description>Set firing range to 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANGAPPE</genie>
+		<description>Set firing range to 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVGIPPA</genie>
+		<description>Start with defense level at 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVGIPPE</genie>
+		<description>Start with defense level at 8</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>EONGELAP</genie>
+        <description>Walk through walls</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EINLYPEY</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYNUYPEI</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNYASSO</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANTTATA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANTTATE</genie>
+		<description>Start with 15 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKSOVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOTAEXE</genie>
+		<description>Start with some weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANNSLPA</genie>
+		<description>Infinite weapons (Bombs, Flares, Nukes, Bullets)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YUSOENYO</genie>
+		<description>Slow down rate of air loss (scuba mode)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESOENYO</genie>
+		<description>Speed up rate of air loss</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUYZIST</genie>
+		<description>Shield doesn't take damage from bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVYPIST</genie>
+		<description>Immune to most damage</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x01F9</address>
+        <value>0x09</value>
+        <description>Infinite time (minute ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x01FA</address>
+        <value>0x09</value>
+        <description>Infinite time (minute one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x01FB</address>
+        <value>0x09</value>
+        <description>Infinite time (second ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x01FC</address>
+        <value>0x09</value>
+        <description>Infinite time (second one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040F</address>
+        <value>0x63</value>
+        <description>Infinite Pistol ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042C</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

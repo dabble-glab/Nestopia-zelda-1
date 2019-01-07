@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOPNKVK</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKVUPGV</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESIGIGV</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOLYVIA</genie>
+		<description>Hit anywhere (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATKYZIST</genie>
+		<description>Hit anywhere (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUYUXSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUEUTXSO</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKVZXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOSNKVT</genie>
+		<description>Infinite gun heat</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPUZTALA</genie>
+		<description>Super-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPUXPALA</genie>
+		<description>Super-jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASGKNYA</genie>
+		<description>Invincible against long falls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNKVNPAE</genie>
+		<description>Always have Radar</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVXVXVK</genie>
+		<description>Infinite Radar</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXSNKVK</genie>
+		<description>Infinite ammo for Machine gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSSKVK</genie>
+		<description>Infinite ammo for Grenade Launcher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKLVSVK</genie>
+		<description>Infinite ammo for Grenade Launcher 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEIUOVK</genie>
+		<description>Infinite ammo for Flame Thrower</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TUVUYLZG</genie>
+		<description>Level skip (pause and press any key (except left)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x03C8</address>
+        <value>0x4A</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x074A</address>
+        <value>0x12</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0742</address>
+        <value>0x09</value>
+        <description>Infinite time (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0743</address>
+        <value>0x09</value>
+        <description>Infinite time (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0744</address>
+        <value>0x09</value>
+        <description>Infinite time (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x074B</address>
+        <value>0x3F</value>
+        <description>Infinite weapon 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x074C</address>
+        <value>0x20</value>
+        <description>Infinite weapon 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x074E</address>
+        <value>0x1C</value>
+        <description>Infinite weapon 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x074D</address>
+        <value>0x32</value>
+        <description>Infinite weapon 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0747</address>
+        <value>0x00</value>
+        <description>Rescue all now</description>
+    </cheat>
+</cheats>

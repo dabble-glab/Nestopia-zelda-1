@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATPXIG</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUOLTPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUPZGVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNXOYGEK</genie>
+		<description>Slow down timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVXOYGEG</genie>
+		<description>Speed up timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXUONISX</genie>
+		<description>Autofire</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUOVIGA</genie>
+		<description>Start with and keep laser missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUPPTLA</genie>
+		<description>Start with 1 life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PLVOLTLL</genie>
+		<description>Start with 1 life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUPPTLA</genie>
+		<description>Start with 6 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TLVOLTLL</genie>
+		<description>Start with 6 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUPPTLE</genie>
+		<description>Start with 9 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PLVOLTLU</genie>
+		<description>Start with 9 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XZEAUOOZ</genie>
+		<description>Start on world XX (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VAEASPSA</genie>
+		<description>Start on world XX (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEAKPAA</genie>
+		<description>Start on world 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEAKPAA</genie>
+		<description>Start on world 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEAKPAA</genie>
+		<description>Start on world 4 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEAKPAA</genie>
+		<description>Start on world 5 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEAKPAA</genie>
+		<description>Start on world 6 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAEAKPAA</genie>
+		<description>Start on world 7 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x05</value>
+        <description>No enemies or pitfalls</description>
+    </cheat>
+</cheats>

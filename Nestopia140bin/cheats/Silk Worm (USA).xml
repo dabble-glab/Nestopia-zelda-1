@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAXGXALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXGXALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXGXALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSVIZVG</genie>
+		<description>Infinite lives using helicopter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVVGTVG</genie>
+		<description>Infinite lives using jeep</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEGSPLA</genie>
+		<description>1 life using helicopter after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEGSPLA</genie>
+		<description>6 lives using helicopter after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEGSPLE</genie>
+		<description>9 lives using helicopter after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOKNPLA</genie>
+		<description>1 life using jeep after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOKNPLA</genie>
+		<description>6 lives using jeep after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOKNPLE</genie>
+		<description>9 lives using jeep after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXKEAAA</genie>
+		<description>Start at stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXKEAAA</genie>
+		<description>Start at stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXKEAAA</genie>
+		<description>Start at stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXKEAAA</genie>
+		<description>Start at stage 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXKEAAA</genie>
+		<description>Start at stage 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXKEAAA</genie>
+		<description>Start at stage 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZETZLSA</genie>
+		<description>Keep firepower and speed-ups for helicopter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOTPTSA</genie>
+		<description>Keep firepower and speed-ups for jeep</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEOVYUEI</genie>
+		<description>Restrict movement area for helicopter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEOVGYEV</genie>
+		<description>Restrict movement area for jeep</description>
+	</cheat>
+</cheats>

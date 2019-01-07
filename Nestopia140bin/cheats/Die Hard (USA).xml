@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXEZTYSA</genie>
+		<description>Infinite health against Pistol ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOZIYSA</genie>
+		<description>Infinite health against Submachine Gun ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXZLYSA</genie>
+		<description>Infinite health against punches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATNALXVG</genie>
+		<description>Infinite Pistol ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATNEIXVG</genie>
+		<description>Infinite Submachine Gun ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVEIZSZ</genie>
+		<description>Infinite ammo on all guns</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVUNGPSZ</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOKIPAP</genie>
+		<description>Start with 1 life point instead of 16</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOKIPAP</genie>
+		<description>Start with 2 life points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOKIPAP</genie>
+		<description>Start with 4 life points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOKIPAO</genie>
+		<description>Start with 8 life point</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOKIPAO</genie>
+		<description>Start with 12 life points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOKIPAP</genie>
+		<description>Start with 20 life points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOYYUSE</genie>
+		<description>Lose foot health very slowly</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXGPOYA</genie>
+		<description>Start with no Pistol ammo instead of 15</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXGPOYA</genie>
+		<description>Start with 5 Pistol ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXGPOYE</genie>
+		<description>Start with 10 Pistol ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOXGPOYA</genie>
+		<description>Start with 20 Pistol ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POXGPOYE</genie>
+		<description>Start with 25 Pistol ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENUYPOGL</genie>
+		<description>Time runs at 1/4 normal speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KUUYPOGL</genie>
+		<description>Time runs at 1/3 normal speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANUYPOGU</genie>
+		<description>Time runs at 1/2 normal speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOUYPOGU</genie>
+		<description>Time runs at 2x normal speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUYPOGL</genie>
+		<description>Time runs at 3x normal speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUYPOGU</genie>
+		<description>Time runs at 4x normal speed</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A5</address>
+        <value>0x05</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A8</address>
+        <value>0x00</value>
+        <description>Immune to flashes</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x00</value>
+        <description>0 crooks left</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x10</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AF</address>
+        <value>0x60</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0779</address>
+        <value>0xFF</value>
+        <description>Have all items</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077A</address>
+        <value>0x14</value>
+        <description>Infinite pistol ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077B</address>
+        <value>0x64</value>
+        <description>Infinite Submachine Gun ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077C</address>
+        <value>0x07</value>
+        <description>Infinite Submachine Gun cartridges</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077D</address>
+        <value>0x05</value>
+        <description>Infinite C4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077E</address>
+        <value>0x07</value>
+        <description>Infinite flashes</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0798</address>
+        <value>0x00</value>
+        <description>Infinite feet health</description>
+    </cheat>
+</cheats>

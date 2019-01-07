@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>KNEKPKEY</genie>
+        <description>CPU scores add to your score</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>KNEKPKEN</genie>
+        <description>CPU never scores</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07F4</address>
+        <value>0x50</value>
+        <description>50 points - team 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07F8</address>
+        <value>0x50</value>
+        <description>50 points - team 2</description>
+    </cheat>
+</cheats>

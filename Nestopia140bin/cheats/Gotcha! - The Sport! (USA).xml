@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AASUTIPA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEOKAPA</genie>
+		<description>Start with double rations of ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEPOAGA</genie>
+		<description>Increase timer to 59 seconds (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEPVAIE</genie>
+		<description>Increase timer to 59 seconds (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEPOAGA</genie>
+		<description>Decrease timer to 25 seconds (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEPVAIA</genie>
+		<description>Decrease timer to 25 seconds (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05F1</address>
+        <value>0x63</value>
+        <description>Enemies never shoot at you</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x061A</address>
+        <value>0x09</value>
+        <description>Infinite ammo (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x061B</address>
+        <value>0x09</value>
+        <description>Infinite ammo (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x061E</address>
+        <value>0x09</value>
+        <description>Infinite time (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x061F</address>
+        <value>0x09</value>
+        <description>Infinite time (2 of 2)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OZSXEIEU</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVTPYEU</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXETZNSO</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNZESSO</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEEIPGA</genie>
+		<description>Multi-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXKEPOKK</genie>
+		<description>Multi-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXTSAAX</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUTKAAX</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SZOAPAVG</genie>
+        <description>Invincibility after first hit (blinking)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZUVUZSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUAUTSA</genie>
+		<description>Infinite weapon power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOKSOGZE</genie>
+		<description>Start with all six weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNGYLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOSOTLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOSOTLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOSOTLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVIULLA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVIULLA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVIULLE</genie>
+		<description>9 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSOGZA</genie>
+		<description>Start with Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKSOGZA</genie>
+		<description>Start with Laser Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKSOGZE</genie>
+		<description>Start with Homing Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKSOGZA</genie>
+		<description>Start with Grenade Launcher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKSOGZA</genie>
+		<description>Start with Machine Gun and Laser Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTUVOZSV</genie>
+		<description>Protection against most aliens</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXTKAZE</genie>
+		<description>Some aliens are tougher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXTKAZA</genie>
+		<description>Some aliens are weaker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOOETOLA</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZVALPPA</genie>
+		<description>Speed jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EVNEYENY</genie>
+		<description>Speed jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KVNELEKN</genie>
+		<description>Super speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPSEYPGA</genie>
+		<description>Super speed (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00B0</address>
+        <value>0x0F</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0053</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B1</address>
+        <value>0x3F</value>
+        <description>Infinite weapon power (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x01</value>
+        <description>Have Machine Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x02</value>
+        <description>Have Shot Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x03</value>
+        <description>Have Laser Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x04</value>
+        <description>Have Homing Missile</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x05</value>
+        <description>Have Grenade Launcher</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040F</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04FF</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0170</address>
+        <value>0x01</value>
+        <description>Start on stage 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0170</address>
+        <value>0x02</value>
+        <description>Start on stage 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0170</address>
+        <value>0x03</value>
+        <description>Start on stage 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0170</address>
+        <value>0x04</value>
+        <description>Start on stage 5 (final stage)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZNPVLSA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVALZVG</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEOATAVA</genie>
+		<description>Start with 28 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASAOLZA</genie>
+		<description>Super-ninja-power running ability</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKXYPGE</genie>
+		<description>Super-ninja-power jumping ability (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASZAPGE</genie>
+		<description>Super-ninja-power jumping ability (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASZPPGE</genie>
+		<description>Super-ninja-power jumping ability (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AESXNKZA</genie>
+        <description>Hit anywhere with Shurikens (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AESZUGTP</genie>
+        <description>Hit anywhere with Shurikens (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAEZVIGP</genie>
+        <description>Hit anywhere with Sword (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAOZXSAA</genie>
+        <description>Hit anywhere with Sword (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEXXNKLT</genie>
+        <description>Hit anywhere with x (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x002B</address>
+        <value>0x63</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+</cheats>

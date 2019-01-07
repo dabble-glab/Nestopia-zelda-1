@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAXXPYLA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXXPYLA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXXPYLE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNTPLVG</genie>
+		<description>Infinite lives (except boss stages)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POSAGGZU</genie>
+		<description>Coins worth 25</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVSAGGZL</genie>
+		<description>Coins worth 100</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNSAGGZU</genie>
+		<description>Coins worth 255</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESAZKZA</genie>
+		<description>Bags worth 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUSAZKZA</genie>
+		<description>Bags worth 50</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNSAZKZE</genie>
+		<description>Bags worth 255</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGKZGYEA</genie>
+		<description>Start with Less health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELKZGYEA</genie>
+		<description>Start with More health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGELLZEA</genie>
+		<description>Less health after death (except boss stages)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELELLZEA</genie>
+		<description>More health after death (except boss stages)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKZGYEA</genie>
+		<description>Start with very little life force</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGKZGYEA</genie>
+		<description>Start with about half life force</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVTGLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNYZNSE</genie>
+		<description>Shopkeeper sometimes forgets to charge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXNITVG</genie>
+		<description>Infinite keys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYYYYY</genie>
+		<description>Infinite gold</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x2B</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00EB</address>
+        <value>0x80</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0087</address>
+        <value>0x02</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0669</address>
+        <value>0x09</value>
+        <description>Infinite money</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049D</address>
+        <value>0x01</value>
+        <description>One hit kills on most enemies/bosses (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049E</address>
+        <value>0x01</value>
+        <description>One hit kills on most enemies/bosses (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049F</address>
+        <value>0x01</value>
+        <description>One hit kills on most enemies/bosses (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A0</address>
+        <value>0x01</value>
+        <description>One hit kills on most enemies/bosses (4 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A1</address>
+        <value>0x01</value>
+        <description>One hit kills on most enemies/bosses (5 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x01</value>
+        <description>Have the Orb in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x01</value>
+        <description>Have the Orb in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x01</value>
+        <description>Have the Orb in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x01</value>
+        <description>Have the Orb in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x02</value>
+        <description>Have the Scepter in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x02</value>
+        <description>Have the Scepter in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x02</value>
+        <description>Have the Scepter in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x02</value>
+        <description>Have the Scepter in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x03</value>
+        <description>Have the Coin in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x03</value>
+        <description>Have the Coin in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x03</value>
+        <description>Have the Coin in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x03</value>
+        <description>Have the Coin in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x04</value>
+        <description>Have the Chalice in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x04</value>
+        <description>Have the Chalice in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x04</value>
+        <description>Have the Chalice in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x04</value>
+        <description>Have the Chalice in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x05</value>
+        <description>Have the Amulet in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x05</value>
+        <description>Have the Amulet in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x05</value>
+        <description>Have the Amulet in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x05</value>
+        <description>Have the Amulet in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x06</value>
+        <description>Have the Crown in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x06</value>
+        <description>Have the Crown in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x06</value>
+        <description>Have the Crown in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x06</value>
+        <description>Have the Crown in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x07</value>
+        <description>Have the Crown Jewel 1 in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x07</value>
+        <description>Have the Crown Jewel 1 in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x07</value>
+        <description>Have the Crown Jewel 1 in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x07</value>
+        <description>Have the Crown Jewel 1 in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x08</value>
+        <description>Have the Crown Jewel 2 in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x08</value>
+        <description>Have the Crown Jewel 2 in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x08</value>
+        <description>Have the Crown Jewel 2 in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x08</value>
+        <description>Have the Crown Jewel 2 in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x09</value>
+        <description>Have the Crown Jewel 3 in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x09</value>
+        <description>Have the Crown Jewel 3 in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x09</value>
+        <description>Have the Crown Jewel 3 in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x09</value>
+        <description>Have the Crown Jewel 3 in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x0A</value>
+        <description>Have the Crown Jewel 4 in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x0A</value>
+        <description>Have the Crown Jewel 4 in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x0A</value>
+        <description>Have the Crown Jewel 4 in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x0A</value>
+        <description>Have the Crown Jewel 4 in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x0B</value>
+        <description>Have the Bronze Knight Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x0B</value>
+        <description>Have the Bronze Knight Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x0B</value>
+        <description>Have the Bronze Knight Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x0B</value>
+        <description>Have the Bronze Knight Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x0C</value>
+        <description>Have the Silver Knight Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x0C</value>
+        <description>Have the Silver Knight Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x0C</value>
+        <description>Have the Silver Knight Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x0C</value>
+        <description>Have the Silver Knight Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x0D</value>
+        <description>Have the Gold Knight Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x0D</value>
+        <description>Have the Gold Knight Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x0D</value>
+        <description>Have the Gold Knight Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x0D</value>
+        <description>Have the Gold Knight Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x0E</value>
+        <description>Have the Bronze Thief Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x0E</value>
+        <description>Have the Bronze Thief Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x0E</value>
+        <description>Have the Bronze Thief Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x0E</value>
+        <description>Have the Bronze Thief Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x0F</value>
+        <description>Have the Silver Thief Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x0F</value>
+        <description>Have the Silver Thief Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x0F</value>
+        <description>Have the Silver Thief Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x0F</value>
+        <description>Have the Silver Thief Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x10</value>
+        <description>Have the Gold Thief Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x10</value>
+        <description>Have the Gold Thief Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x10</value>
+        <description>Have the Gold Thief Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x10</value>
+        <description>Have the Gold Thief Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x11</value>
+        <description>Have the Bronze Wizard Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x11</value>
+        <description>Have the Bronze Wizard Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x11</value>
+        <description>Have the Bronze Wizard Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x11</value>
+        <description>Have the Bronze Wizard Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x12</value>
+        <description>Have the Silver Wizard Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x12</value>
+        <description>Have the Silver Wizard Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x12</value>
+        <description>Have the Silver Wizard Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x12</value>
+        <description>Have the Silver Wizard Statue in slot 4 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x13</value>
+        <description>Have the Gold Wizard Statue in slot 1 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x13</value>
+        <description>Have the Gold Wizard Statue in slot 2 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x13</value>
+        <description>Have the Gold Wizard Statue in slot 3 (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x13</value>
+        <description>Have the Gold Wizard Statue in slot 4 (enable then disable)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0057</address>
+        <value>0x09</value>
+        <description>Infinite Gold (1 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x09</value>
+        <description>Infinite Gold (2 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0059</address>
+        <value>0x09</value>
+        <description>Infinite Gold (3 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005A</address>
+        <value>0x09</value>
+        <description>Infinite Gold (4 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005B</address>
+        <value>0x09</value>
+        <description>Infinite Gold (5 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005C</address>
+        <value>0x09</value>
+        <description>Infinite Gold (6 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x018E</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

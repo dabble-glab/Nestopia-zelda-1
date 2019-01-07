@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOESKSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKKAPVVK</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNEUKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKAOUEP</genie>
+		<description>Get Bombs from anywhere (press down) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVAEUUP</genie>
+		<description>Get Bombs from anywhere (press down) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVEYGYA</genie>
+		<description>Rocky loses no health when flying when you have full health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVEAGZA</genie>
+		<description>Rocky loses more health when flying when you have full health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANAIGPA</genie>
+		<description>Bullwinkle loses no health when headbutting</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANAPGGE</genie>
+		<description>Bullwinkle loses more health when headbutting</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEIGXZA</genie>
+		<description>Start with no Bombs (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOEYEZA</genie>
+		<description>Start with no Bombs (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOEZAGA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPOEYEZE</genie>
+		<description>Start with 30 bombs</description>
+	</cheat>
+</cheats>

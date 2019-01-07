@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ATEZOTKA</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>APKXSIEY</genie>
+        <description>Multi-jump (01 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATOZTEOZ</genie>
+        <description>Multi-jump (02 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AZKXXIGE</genie>
+        <description>Multi-jump (03 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GASZOIIA</genie>
+        <description>Multi-jump (04 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IZKXUSPZ</genie>
+        <description>Multi-jump (05 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SAKXNSSX</genie>
+        <description>Multi-jump (06 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZKXOIXP</genie>
+        <description>Multi-jump (07 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XGSZEIZL</genie>
+        <description>Multi-jump (08 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XTKXESSX</genie>
+        <description>Multi-jump (09 of 10)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZZKXKIAX</genie>
+        <description>Multi-jump (10 of 10)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SXUZXTSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POXXVYSA</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVOXVTIA</genie>
+		<description>Don't be pushed after being hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAZEZZ</genie>
+		<description>Infinite Mind points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKZPLIZ</genie>
+		<description>Have first three items after pressing B once</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>LAVOLTGA</genie>
+        <description>Jump higher</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ALOXKIEL</genie>
+        <description>Hit anywhere (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ALUZUIEL</genie>
+        <description>Hit anywhere (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ALXZXIEL</genie>
+        <description>Hit anywhere (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EYUXOIEL</genie>
+        <description>Hit anywhere (4 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAOZLEAA</genie>
+        <description>Pits aren't fatal (side view)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ASSOSGEI</genie>
+        <description>Walk on water (overhead view)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZUPOOVK</genie>
+        <description>Grappling Hook continues to search for land (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZXXGZSA</genie>
+        <description>Grappling Hook continues to search for land (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AOUGPATE</genie>
+        <description>Start with 12 units of health (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AOUGZATE</genie>
+        <description>Start with 12 units of health (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EPSLYIEL</genie>
+        <description>Enemies always drop X (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZNUTSPX</genie>
+        <description>Enemies always drop X (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LANUYIYA</genie>
+        <description>Enemies always drop a health potion (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GANUYIYA</genie>
+        <description>Enemies always drop a Mind unit (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C0</address>
+        <value>0xFF</value>
+        <description>Start with all equipment (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C1</address>
+        <value>0xFF</value>
+        <description>Start with all equipment (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C7</address>
+        <value>0xFF</value>
+        <description>Lots of Tone</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C8</address>
+        <value>0xFF</value>
+        <description>Lots of Last</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CD</address>
+        <value>0xFF</value>
+        <description>Infinite Attack &amp; Assail</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C0</address>
+        <value>0x10</value>
+        <description>Always have Power Up</description>
+    </cheat>
+</cheats>

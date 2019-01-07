@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>OLYVSK</genie>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AVVLAUSZ</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTSPSTIP</genie>
+		<description>Have the Pink Ring (infinite life)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESKUILTA</genie>
+		<description>Have Blue Ring effect</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OSKUILTA</genie>
+		<description>Have Red Ring effect</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYKPOYZZ</genie>
+		<description>Create character with 8 life hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYKPOYZX</genie>
+		<description>Create character with 16 life hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVXASVK</genie>
+		<description>All items are free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVEVALG</genie>
+		<description>All items are free (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOEUYTEY</genie>
+		<description>No dark rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PALZZI</genie>
+		<description>Reset counter to zero</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOANAEG</genie>
+		<description>Fewer enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVATVAA</genie>
+		<description>No Zolas</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPPEEA</genie>
+		<description>Speed writing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXELYLSX</genie>
+		<description>Walk faster (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EUEUALAA</genie>
+		<description>Walk faster (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ATKOLPEY</genie>
+        <description>Walk through walls in dungeons (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXXOPPSA</genie>
+        <description>Walk through walls in dungeons (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x034C</address>
+        <value>0xFF</value>
+        <description>Enemies don't shoot anything</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x7353</address>
+        <value>0x24</value>
+        <description>Get items from anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x735F</address>
+        <value>0x24</value>
+        <description>Get items from anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x7BF2</address>
+        <value>0x24</value>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x7C28</address>
+        <value>0xAD</value>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x7B3A</address>
+        <value>0x60</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03DD</address>
+        <value>0x01</value>
+        <description>Turbo Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04F0</address>
+        <value>0x09</value>
+        <description>Invincibility (blinking) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x01</value>
+        <description>Have Wooden Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x02</value>
+        <description>Have White Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x03</value>
+        <description>Have Magic Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0658</address>
+        <value>0x10</value>
+        <description>Have Bombs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x01</value>
+        <description>Have Arrows</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0659</address>
+        <value>0x02</value>
+        <description>Have Silver Arrows</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065A</address>
+        <value>0x01</value>
+        <description>Have Bow</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065B</address>
+        <value>0x01</value>
+        <description>Have Blue Candle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065B</address>
+        <value>0x02</value>
+        <description>Have Red Candle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065C</address>
+        <value>0x01</value>
+        <description>Have Flute</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065D</address>
+        <value>0x01</value>
+        <description>Have Enemy Bait</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x065F</address>
+        <value>0x01</value>
+        <description>Have Magic Wand</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0660</address>
+        <value>0x01</value>
+        <description>Have Raft</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0661</address>
+        <value>0x01</value>
+        <description>Have Magic Book</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0663</address>
+        <value>0x01</value>
+        <description>Have Ladder</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0664</address>
+        <value>0x01</value>
+        <description>Have Magical Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0665</address>
+        <value>0x01</value>
+        <description>Have Power Bracelet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0668</address>
+        <value>0xFF</value>
+        <description>Have Maps for Dungeons 1-8 and Compass for Dungeon 9 (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0669</address>
+        <value>0xFF</value>
+        <description>Have Maps for Dungeons 1-8 and Compass for Dungeon 9 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x066A</address>
+        <value>0xFF</value>
+        <description>Have Map for Dungeon 9</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x066D</address>
+        <value>0xFF</value>
+        <description>Infinite Rupies</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x066E</address>
+        <value>0x03</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0670</address>
+        <value>0xFF</value>
+        <description>Infinite life (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0671</address>
+        <value>0xFF</value>
+        <description>Have all Tri-Force pieces</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0676</address>
+        <value>0x01</value>
+        <description>Have Magical Shield</description>
+    </cheat>
+</cheats>

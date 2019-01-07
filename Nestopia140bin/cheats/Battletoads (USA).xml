@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXXZZLVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUAILU</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEILUSO</genie>
+		<description>Enemies easier to kill</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYSAUVEI</genie>
+		<description>Mega-jumping</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUZITPA</genie>
+		<description>Super fast punching</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YXUKXNAE</genie>
+		<description>Maximum health from flies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENTAIPL</genie>
+		<description>Force 2-player mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENVZILA</genie>
+		<description>Start with 0 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENVZILA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENVZILA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENVZILE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXAALAA</genie>
+		<description>Start on level 2 - Wookie Hole</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXAALAA</genie>
+		<description>Start on level 3 - Turbo Tunnel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXAALAA</genie>
+		<description>Start on level 4 - Arctic Cavern</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXAALAA</genie>
+		<description>Start on level 5 - Surf City</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXAALAA</genie>
+		<description>Start on level 6 - Karnath's Lair</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAXAALAA</genie>
+		<description>Start on level 7 - Volkmire's Inferno</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXAALAE</genie>
+		<description>Start on level 8 - Intruder Excluder</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXAALAE</genie>
+		<description>Start on level 9 - Terra Tubes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXAALAE</genie>
+		<description>Start on level 10 - Rat Race</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXAALAE</genie>
+		<description>Start on level 11 - Clinger Winger</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXAALAE</genie>
+		<description>Start on level 12 - The Revolution</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOUKXNAA</genie>
+		<description>Double health from flies</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0011</address>
+        <value>0x05</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0574</address>
+        <value>0x02</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

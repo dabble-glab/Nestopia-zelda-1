@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXVLTLSA</genie>
+		<description>Take no damage except from scorpions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTKIITAA</genie>
+		<description>Start with 100 gold pieces</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVVLGLSV</genie>
+		<description>Take less damage (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVLIUYL</genie>
+		<description>Take less damage (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKIITAA</genie>
+		<description>Start with 512 gold pieces (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PGKSGTAG</genie>
+		<description>Start with 512 gold pieces (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXSTLZPG</genie>
+		<description>Stay at the Inn for free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXSTYZAG</genie>
+		<description>Stay at the Inn for free (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXUVXTPG</genie>
+		<description>Items at Grocer's shop are free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXUVVTAG</genie>
+		<description>Items at Grocer's shop are free (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXENPLPG</genie>
+		<description>Items at Armory are free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXENILAG</genie>
+		<description>Items at Armory are free (2 of 2)</description>
+	</cheat>
+</cheats>

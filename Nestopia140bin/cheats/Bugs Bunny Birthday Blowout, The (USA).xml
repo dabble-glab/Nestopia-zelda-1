@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATYZPL</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEZGUSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVIGKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOANZTE</genie>
+		<description>Mega-jumping Bugs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOXPZGE</genie>
+		<description>Two hearts of energy gained on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOXPZGA</genie>
+		<description>Less energy gained on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATNZALAL</genie>
+		<description>Stunned for longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPNZALAL</genie>
+		<description>Stunned for less time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASAKOTL</genie>
+		<description>Use hammer when stunned</description>
+	</cheat>
+</cheats>

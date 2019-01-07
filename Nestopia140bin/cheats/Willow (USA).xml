@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZASEGOUI</genie>
+		<description>Infinite magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGNILGSA</genie>
+		<description>Don't take any hits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XZKYILKP</genie>
+		<description>Start with all items (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVUOXSOZ</genie>
+		<description>Start with all items (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PNKINTSL</genie>
+		<description>Start at EXP Level X (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKISVZA</genie>
+		<description>Start at EXP Level 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKISVZE</genie>
+		<description>Start at EXP Level 10 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKISVZE</genie>
+		<description>Start at EXP Level 15 (2 of 2)</description>
+	</cheat>
+</cheats>

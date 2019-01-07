@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EYEVAIEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESSILPA</genie>
+		<description>Invincible to spikes</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SZSVGISA</genie>
+        <description>Infinite health</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>KAUIEGSZ</genie>
+		<description>Max Dragon energy</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>YYXSYZAE</genie>
+        <description>Always shoot special</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004D</address>
+        <value>0x4F</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0050</address>
+        <value>0x08</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0053</address>
+        <value>0x18</value>
+        <description>Max Dragon energy (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004F</address>
+        <value>0x00</value>
+        <description>Have green shots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004F</address>
+        <value>0x01</value>
+        <description>Have red shots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004F</address>
+        <value>0x02</value>
+        <description>Have blue shots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007B</address>
+        <value>0x01</value>
+        <description>Hard mode</description>
+    </cheat>
+</cheats>

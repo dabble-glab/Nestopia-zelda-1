@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EYUEIPEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVNSOOG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOGSUVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGOGSUVK</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVUEUOSZ</genie>
+		<description>Infinite gas (if you avoid the Go missions)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYEAKPAY</genie>
+		<description>More gas on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUXAYAEY</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNYUOSE</genie>
+		<description>Start with infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PYSKXPLY</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYSKXPLY</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYSKXPLN</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

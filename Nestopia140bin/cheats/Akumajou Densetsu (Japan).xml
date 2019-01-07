@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SAXANGSZ</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANEKLPA</genie>
+		<description>Infinite hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOESPLA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNEKPSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>AVSANLAP</genie>
+		<description>Multi-jump (01 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASSOGYTS</genie>
+		<description>Multi-jump (02 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASSOGLTS</genie>
+		<description>Multi-jump (03 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUOEASA</genie>
+		<description>Multi-jump (04 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSOEAGA</genie>
+		<description>Multi-jump (05 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZSOOEOK</genie>
+		<description>Multi-jump (06 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASOXEAE</genie>
+		<description>Multi-jump (07 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPSOUAEL</genie>
+		<description>Multi-jump (08 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SASOSESX</genie>
+		<description>Multi-jump (09 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVPEAES</genie>
+		<description>Multi-jump (10 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVPOEGA</genie>
+		<description>Multi-jump (11 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAVPXESX</genie>
+		<description>Multi-jump (12 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIVPUAIV</genie>
+		<description>Multi-jump (13 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVPVATZ</genie>
+		<description>Multi-jump (14 of 15)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVOEEAA</genie>
+		<description>Multi-jump (15 of 15)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007D</address>
+        <value>0x01</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x00</value>
+        <description>Have no special weapon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x01</value>
+        <description>Have Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x02</value>
+        <description>Have Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x03</value>
+        <description>Have Dagger</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x04</value>
+        <description>Have Holy Water</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x0B</value>
+        <description>Have Clock</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x02</value>
+        <description>Trevor Belmont - Have fully powered whip</description>
+    </cheat>
+</cheats>

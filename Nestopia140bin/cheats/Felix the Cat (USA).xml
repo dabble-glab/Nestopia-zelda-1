@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUNNGNSO</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUYKPPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APUGAGZO</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPUGAGZP</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APUGAGZP</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEENAZA</genie>
+		<description>Hearts can't be replenished from bottles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEENAZA</genie>
+		<description>Bottles replenish more hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEENAZE</genie>
+		<description>Bottles replenish even more hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOSOZPA</genie>
+		<description>1 Felix icon gives 2 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APNSOXPO</genie>
+		<description>1 Felix icon gives 2 (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ELEEATEP</genie>
+        <description>No sound effects</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AONEXTAL</genie>
+        <description>Weapon has longer reach</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AYOIPPEI</genie>
+        <description>Walk through walls (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AYXSZPEI</genie>
+        <description>Walk through walls (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03CD</address>
+        <value>0x03</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03A6</address>
+        <value>0x19</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03C0</address>
+        <value>0x0A</value>
+        <description>Infinite special</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03A7</address>
+        <value>0x19</value>
+        <description>Have 99 Felix icons (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03A8</address>
+        <value>0x19</value>
+        <description>Have 99 Felix icons (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03C6</address>
+        <value>0x01</value>
+        <description>Play as Magic/Balloon Felix</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03C6</address>
+        <value>0x02</value>
+        <description>Play as Buggy/Plane Felix</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03C6</address>
+        <value>0x03</value>
+        <description>Play as Tank Felix</description>
+    </cheat>
+</cheats>

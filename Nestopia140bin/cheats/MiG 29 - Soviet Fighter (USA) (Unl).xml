@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AANGGPLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANGGPLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANGGPLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYNGGPLE</genie>
+		<description>Start with 255 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSSOLVG</genie>
+		<description>Keep weapon after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANKPPAA</genie>
+		<description>Start with best weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEOZAAE</genie>
+		<description>More time to refuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEEOZAAA</genie>
+		<description>Less time to refuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZOOYPSX</genie>
+		<description>Start on mission X (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XIXPZPPS</genie>
+		<description>Start on mission X (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXPAPIP</genie>
+		<description>Start on mission 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXPAPIP</genie>
+		<description>Start on mission 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXPAPIP</genie>
+		<description>Start on mission 4 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXPAPIP</genie>
+		<description>Start on mission 5 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXPAPIP</genie>
+		<description>Start on mission 6 (3 of 3)</description>
+	</cheat>
+</cheats>

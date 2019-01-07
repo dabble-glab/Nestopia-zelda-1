@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEIGPN</genie>
+		<description>Infinite lives (lives never decrease)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVIGAY</genie>
+		<description>Infinite lives (lives increase when you die)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVTXYSZ</genie>
+		<description>Invincible against touching enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXSLIEG</genie>
+		<description>Invincible against walls (does not stop music)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIESEIEY</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYESKTEI</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>ESSYIPEP</genie>
+        <description>Hit anywhere (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EUNNZPEI</genie>
+        <description>Hit anywhere (2 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>EUUYPPEP</genie>
+        <description>Hit anywhere (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GZOYAZAL</genie>
+        <description>Hit anywhere (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ZANGKGPA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANGKGPA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANGKGPA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANGKGPA</genie>
+		<description>Start on level 6</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x00</value>
+        <description>Invincibility (music stops if you touch a wall) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008A</address>
+        <value>0x00</value>
+        <description>Invincibility (music stops if you touch a wall) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x01</value>
+        <description>Speed up level 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x02</value>
+        <description>Speed up level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x03</value>
+        <description>Speed up level 3</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZOLIXVK</genie>
+		<description>Enemy's fatigue level doesn't go down</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOUIXVK</genie>
+		<description>Your fatigue level doesn't go down</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLEUIXYN</genie>
+		<description>Your fatigue level goes down faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEUIXYN</genie>
+		<description>Your fatigue level goes down slower</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSLTXVK</genie>
+		<description>Don't lose energy from fighting</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNLPXVV</genie>
+		<description>Your fatigue level never rises</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKSIYPA</genie>
+		<description>More damage from fireballs</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0362</address>
+        <value>0x00</value>
+        <description>Instant kills on enemies</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0363</address>
+        <value>0x0F</value>
+        <description>Infinite health in battle sequences</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042C</address>
+        <value>0xFF</value>
+        <description>Infinite Gold</description>
+    </cheat>
+</cheats>

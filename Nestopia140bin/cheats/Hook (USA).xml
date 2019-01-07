@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEXVNTZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXVNTZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXVNTZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZONIEVK</genie>
+		<description>Infinite lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVIKIST</genie>
+		<description>Infinite health - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNSNIST</genie>
+		<description>Infinite health - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENIOIIA</genie>
+		<description>Get max health from food - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEINTIA</genie>
+		<description>Get max health from food - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVIXSGZ</genie>
+		<description>No health from food</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0363</address>
+        <value>0x63</value>
+        <description>Max Green Balls</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0364</address>
+        <value>0x63</value>
+        <description>Max Green Thimbles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0365</address>
+        <value>0x6F</value>
+        <description>Infinite health - P1 (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0367</address>
+        <value>0x09</value>
+        <description>Infinite lives - P1 (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0487</address>
+        <value>0x63</value>
+        <description>Infinite Cakes</description>
+    </cheat>
+</cheats>

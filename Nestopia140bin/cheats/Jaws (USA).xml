@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSATSVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVEYNSE</genie>
+		<description>Infinite shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSELSTK</genie>
+		<description>Don't lose shells on dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSETSVK</genie>
+		<description>Don't lose power on dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKEPIGP</genie>
+		<description>Jaws has no health (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESEGZGP</genie>
+		<description>Jaws has no health (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKEISSE</genie>
+		<description>Jaws has no health (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AEEZITIA</genie>
+        <description>99 Shells on pick-up</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>AAOOEPIP</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AANZPTTZ</genie>
+		<description>Collect shells from anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>AEVZTVZZ</genie>
+        <description>Collect Stars from anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>AENXLSTP</genie>
+        <description>Collect Crabs from anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ASXILLEP</genie>
+		<description>Hit anywhere - bonus stages (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKITLEL</genie>
+		<description>Hit anywhere - bonus stages (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKIZLEI</genie>
+		<description>Hit anywhere - bonus stages (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOAGZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOAGZLA</genie>
+		<description>Start with double lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0387</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0389</address>
+        <value>0x00</value>
+        <description>Jaws has very little health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0393</address>
+        <value>0x09</value>
+        <description>Infinite Strobes</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x8515</address>
+        <value>0x3A</value>
+        <description>Exit stage when hit instead of dying</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x993D</address>
+        <value>0x10</value>
+        <description>Jaws is attacked without actually shooting him</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x9966</address>
+        <value>0x07</value>
+        <description>Invincibility (disable to collect items)</description>
+    </cheat>
+</cheats>

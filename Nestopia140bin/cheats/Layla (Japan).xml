@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSTTPVG</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVIPGVG</genie>
+		<description>Infinite Machine Gun ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVSPIVG</genie>
+		<description>Infinite Dynamite Sticks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOSYIVG</genie>
+		<description>Infinite Grenades</description>
+	</cheat>
+</cheats>

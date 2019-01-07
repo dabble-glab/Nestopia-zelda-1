@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVPATVG</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANENLIA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANENLIA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANENLIE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEEAVLSA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUPLGSA</genie>
+		<description>Stop irritating shake</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVENLSA</genie>
+		<description>Start on level X - P1 (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNAOLSA</genie>
+		<description>Start on level X - P1 (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVEKLAA</genie>
+		<description>Start on level 5 - P1 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVEKLAE</genie>
+		<description>Start on level 10 - P1 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVEKLAE</genie>
+		<description>Start on level 14 - P1 (3 of 3)</description>
+	</cheat>
+</cheats>

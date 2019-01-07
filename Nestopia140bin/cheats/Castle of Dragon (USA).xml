@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEVPULAP</genie>
+		<description>Stop Skeletons from fighting</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOGYZPA</genie>
+		<description>Faster fighting</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPSLONLP</genie>
+		<description>Super strong enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVUSNVK</genie>
+		<description>No harm from most enemy attacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YNOLSYAE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYXKLAGE</genie>
+		<description>Super health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXGLAAA</genie>
+		<description>Start with Knives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXGLAAA</genie>
+		<description>Start with Knives and Mace</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAXGLAAA</genie>
+		<description>Start with Armor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UAXGLAAA</genie>
+		<description>Start with Armor, Knives and Mace</description>
+	</cheat>
+</cheats>

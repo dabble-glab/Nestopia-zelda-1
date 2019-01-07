@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ESSLNLEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x7F0F</address>
+        <value>0x9E</value>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x079F</address>
+        <value>0x09</value>
+        <description>Invincibility (Starman effect)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SKGEOO</genie>
+        <description>All blocks are starmen</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OKYEOP</genie>
+        <description>Invisible 1-up blocks are visible and all mushroom blocks are 1-ups</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YEUGZGAA</genie>
+        <description>Start at world 8-4 (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LEUKGGAA</genie>
+        <description>Start at world 8-4 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x075F</address>
+        <value>0x07</value>
+        <description>Start on world 8-4 (alt) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0760</address>
+        <value>0x03</value>
+        <description>Start on world 8-4 (alt) (2 of 2)</description>
+    </cheat>
+</cheats>

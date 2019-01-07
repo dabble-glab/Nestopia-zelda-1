@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXEUOUVK</genie>
+		<description>Infinite lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAULNLZA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAULNLZA</genie>
+		<description>Start with 6 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAULNLZE</genie>
+		<description>Start with 9 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVUULZA</genie>
+		<description>Start with 6 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVUULZE</genie>
+		<description>Starts with 9 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASTLPTA</genie>
+		<description>Can only shoot one bullet</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESIAYLA</genie>
+		<description>Slower man (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNUSZNSN</genie>
+		<description>Slower man (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESIAYLA</genie>
+		<description>Faster man (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNUSZNSN</genie>
+		<description>Faster man (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVTLOAE</genie>
+		<description>Faster bullets (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYVTYOEY</genie>
+		<description>Faster bullets (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVTLOAA</genie>
+		<description>Slower bullets (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYVTYOEN</genie>
+		<description>Slower bullets (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEONGPZA</genie>
+		<description>Faster enemy (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNXNGOVN</genie>
+		<description>Faster enemy (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEONGPZA</genie>
+		<description>Slower enemy (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNXNGOVN</genie>
+		<description>Slower enemy (2 of 2)</description>
+	</cheat>
+</cheats>

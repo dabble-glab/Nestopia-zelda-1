@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>GXVEIPSA</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXVEIPSA</genie>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZUGUAVG</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OUENESOO</genie>
+        <description>Infinite weapons</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXENESOO</genie>
+        <description>Infinite weapon power</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOAIEPA</genie>
+        <description>Instant full Mega Buster</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LXKESKAP</genie>
+        <description>Instant full Mega Buster (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>APKYKXOU</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATKYSXAZ</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VENOEASZ</genie>
+        <description>Always have 10 E-Tanks</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXNPZTVG</genie>
+        <description>Infinite energy pods on pick-up</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAKEYPIE</genie>
+        <description>Mega-jump</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZOEAIOZP</genie>
+        <description>Shorter slides</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YXEAIOZO</genie>
+        <description>Longer slides</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GEOAGPZA</genie>
+        <description>Faster slides</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZANKPTPA</genie>
+        <description>Move faster (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEVALLPA</genie>
+        <description>Move faster (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXEAEASA</genie>
+        <description>Cosack can't hurt you</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AUNELEEG</genie>
+        <description>Multi-jump (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OAEEYPXA</genie>
+        <description>Multi-jump (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GZUALPEP</genie>
+        <description>Multi-jump (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVSUEUVI</genie>
+        <description>Collectable items never disappear</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAEAGOPY</genie>
+        <description>Special items re-appear after being collected</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOLNLTA</genie>
+        <description>Enemies always drop x (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LEOUXUEY</genie>
+        <description>Enemies always drop x (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IEOLELGA</genie>
+        <description>Enemies always drop large weapon refill (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEOLELGA</genie>
+        <description>Enemies always drop large health refill (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAUKZIZA</genie>
+        <description>Start with 1 life</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IAUKZIZA</genie>
+        <description>Start with 6 lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAUKZIZE</genie>
+        <description>Start with 9 lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x1F</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A1</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B0</address>
+        <value>0x9C</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B1</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Coil</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B2</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Jet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B3</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Marine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B4</address>
+        <value>0x9C</value>
+        <description>Infinite Toad Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B5</address>
+        <value>0x9C</value>
+        <description>Infinite Wire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B6</address>
+        <value>0x9C</value>
+        <description>Infinite Balloon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B7</address>
+        <value>0x9C</value>
+        <description>Infinite Dive Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x9C</value>
+        <description>Infinite Ring Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B9</address>
+        <value>0x9C</value>
+        <description>Infinite Drill Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BA</address>
+        <value>0x9C</value>
+        <description>Infinite Dust Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BB</address>
+        <value>0x9C</value>
+        <description>Infinite Pharaoh Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BC</address>
+        <value>0x9C</value>
+        <description>Infinite Bright Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BD</address>
+        <value>0x9C</value>
+        <description>Infinite Skull Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0469</address>
+        <value>0xFE</value>
+        <description>Infinite time for 3rd Balloon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x046A</address>
+        <value>0xFE</value>
+        <description>Infinite time for 2nd Balloon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x046B</address>
+        <value>0xFE</value>
+        <description>Infinite time for 1st Balloon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0559</address>
+        <value>0x23</value>
+        <description>Instant full Mega Buster (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05CF</address>
+        <value>0x00</value>
+        <description>Bosses have no invulnerability time</description>
+    </cheat>
+</cheats>

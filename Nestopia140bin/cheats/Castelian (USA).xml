@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKTEISA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLOKZLVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SIOKZLVI</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVGYPLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVGYPLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVGYPLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOGTZZA</genie>
+		<description>Start with 5 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGTZZE</genie>
+		<description>Start with 8 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNXYAVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+</cheats>

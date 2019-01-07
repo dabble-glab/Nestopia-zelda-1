@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZSSNGST</genie>
+		<description>Immune to weapon damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUAAOVK</genie>
+		<description>Start with infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUVGZGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUVGZGE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05A5</address>
+        <value>0x01</value>
+        <description>Start with Dual Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A5</address>
+        <value>0x02</value>
+        <description>Start with ATG</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A5</address>
+        <value>0x03</value>
+        <description>Start with Rapid Fire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A5</address>
+        <value>0x04</value>
+        <description>Start with 3-Way Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A6</address>
+        <value>0x01</value>
+        <description>Start with Twin Missile</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A6</address>
+        <value>0x02</value>
+        <description>Start with Homing Missile</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A6</address>
+        <value>0x03</value>
+        <description>Start with Homing Missile 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A6</address>
+        <value>0x04</value>
+        <description>Start with Homing Missile 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A6</address>
+        <value>0x05</value>
+        <description>Start with Firebomb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A6</address>
+        <value>0x06</value>
+        <description>Start with Mines</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A7</address>
+        <value>0x01</value>
+        <description>Start with Armor</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A7</address>
+        <value>0x02</value>
+        <description>Start with Super Armor</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A7</address>
+        <value>0x03</value>
+        <description>Start with Hyper Armor</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A8</address>
+        <value>0x01</value>
+        <description>Start with Turbo Engine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A8</address>
+        <value>0x02</value>
+        <description>Start with Super Engine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A8</address>
+        <value>0x03</value>
+        <description>Start with Hyper Engine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A9</address>
+        <value>0x00</value>
+        <description>Start with Rope</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A9</address>
+        <value>0x01</value>
+        <description>Start with Ladder</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05BB</address>
+        <value>0x09</value>
+        <description>Start with infinite lives (alt)</description>
+    </cheat>
+</cheats>

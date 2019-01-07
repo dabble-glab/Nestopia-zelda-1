@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AINXIYEI</genie>
+		<description>Invincibility in mini-game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUGTTYA</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUGTTYA</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXZLGIA</genie>
+		<description>Players can take only one punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOSSAAZ</genie>
+		<description>Player with puck doesn't slow down</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASGITLA</genie>
+		<description>Start a new game to view the ending</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESUUTLEY</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESKLLLEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXPGUVK</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKAEOVK</genie>
+		<description>Infinite magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNEIEVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUXAGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVSPOUSA</genie>
+		<description>Keep weapon after losing a life</description>
+	</cheat>
+</cheats>

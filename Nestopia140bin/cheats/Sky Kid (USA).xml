@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXEKGZVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VANNVZSA</genie>
+		<description>P1 has more lives than P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOKIZPA</genie>
+		<description>Shoot more bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANYNZLA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANYNZLA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANYNZLE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVNNZPA</genie>
+		<description>Start on level 5 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVNUZAA</genie>
+		<description>Start on level 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVNNZPE</genie>
+		<description>Start on level 10 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVNUZAE</genie>
+		<description>Start on level 10 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APVNNZPA</genie>
+		<description>Start on level 15 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAVNUZAE</genie>
+		<description>Start on level 15 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPVNNZPA</genie>
+		<description>Start on level 20 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPVNUZAA</genie>
+		<description>Start on level 20 (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00BB</address>
+        <value>0x00</value>
+        <description>Invincibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CB</address>
+        <value>0x00</value>
+        <description>Invincibility - P2</description>
+    </cheat>
+</cheats>

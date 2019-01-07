@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEOGXALA</genie>
+		<description>Start with 1 turn</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOGXALE</genie>
+		<description>Start with 9 turns</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAXOLVGL</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPXOLVGU</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESXVGGA</genie>
+		<description>Quicker turning</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOVOUEYE</genie>
+		<description>More time from Large Glop Clocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEVOUEYA</genie>
+		<description>Less time from Large Glop Clocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNKSKVK</genie>
+		<description>Infinite turns</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXGSILA</genie>
+		<description>1 turn after continuing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXGSILE</genie>
+		<description>9 turns after continuing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEEKSAPA</genie>
+		<description>Start on Floor 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOEKSAPA</genie>
+		<description>Start on Floor 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOEKSAPE</genie>
+		<description>Start on Floor 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LXEKSAPE</genie>
+		<description>Start on Floor 8</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AVNVOAKZ</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUIIXSO</genie>
+		<description>Most enemies easier to kill</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENVKEGE</genie>
+		<description>Take less damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XYUVNUXT</genie>
+		<description>Gain maximum health from canisters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNKEPSX</genie>
+		<description>Start with X health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALNKOOLZ</genie>
+		<description>Start with less health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNKOOLX</genie>
+		<description>Start with more health (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x03</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x02C0</address>
+        <value>0xFA</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

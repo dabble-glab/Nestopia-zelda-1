@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUTXGN</genie>
+		<description>Infinite power-ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGOUZUVK</genie>
+		<description>Infinite weapon upgrade time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUNLAZGA</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVLZXSE</genie>
+		<description>Infinite energy (alt 2) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVOULXVK</genie>
+		<description>Infinite energy (alt 2) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NSKIELGA</genie>
+		<description>Don't instantly die from touching boss planes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEEPXLAE</genie>
+		<description>Always shoot power shots</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESNLLLE</genie>
+		<description>10 power points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOSNLLLA</genie>
+		<description>20 power points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOSNLLLE</genie>
+		<description>30 power points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENSKLAP</genie>
+		<description>Hit anywhere (1 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZESEGEL</genie>
+		<description>Hit anywhere (2 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLSKOEOO</genie>
+		<description>Hit anywhere (3 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOINUOO</genie>
+		<description>Hit anywhere (4 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXGVEOO</genie>
+		<description>Hit anywhere (5 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKTSXOO</genie>
+		<description>Hit anywhere (6 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVGSVOO</genie>
+		<description>Hit anywhere (7 of 7)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVYZLAE</genie>
+		<description>Start on mission 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOVYZLAA</genie>
+		<description>Start on mission 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOVYZLAE</genie>
+		<description>Start on mission 15</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TXVYZLAA</genie>
+		<description>Start on mission 20</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0347</address>
+        <value>0x01</value>
+        <description>Infinite power points</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040E</address>
+        <value>0x60</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0410</address>
+        <value>0x09</value>
+        <description>Infinite energy (alt)</description>
+    </cheat>
+</cheats>

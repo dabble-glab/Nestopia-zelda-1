@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLOEAGVI</genie>
+		<description>Infinite energy on scenes 1 and 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKAATVG</genie>
+		<description>Infinite energy on scene 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUAZGVG</genie>
+		<description>Infinite time on scenes 1 and 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXELPZA</genie>
+		<description>More time on scene 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXELPZA</genie>
+		<description>Less time on scene 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXELAGA</genie>
+		<description>More time on scene 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXELAGA</genie>
+		<description>Less time on scene 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXEYAGA</genie>
+		<description>More time on scene 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXEYAGA</genie>
+		<description>Less time on scene 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXAPAIA</genie>
+		<description>More time on scene 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXAPAIA</genie>
+		<description>Less time on scene 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOEAAPA</genie>
+		<description>More time on scene 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZNETGAP</genie>
+		<description>More ammo picked up on scene 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANETGAP</genie>
+		<description>Less ammo picked up on scene 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOEGATE</genie>
+		<description>More ammo picked up on scene 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXKTEGA</genie>
+		<description>Start on scene 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXKTEGA</genie>
+		<description>Start on scene 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXKTEGA</genie>
+		<description>Start on scene 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXKTEGA</genie>
+		<description>Start on scene 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXKTEGE</genie>
+		<description>Start on scene 7</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0092</address>
+        <value>0x40</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009A</address>
+        <value>0x09</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C6</address>
+        <value>0x02</value>
+        <description>Infinite ammo (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C8</address>
+        <value>0x02</value>
+        <description>Infinite ammo (2 of 2)</description>
+    </cheat>
+</cheats>

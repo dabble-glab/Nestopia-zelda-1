@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AEEAAAST</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>INUAIZSY</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATEALIXZ</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAXEUPAE</genie>
+        <description>Infinite hearts</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GZKETGST</genie>
+        <description>Infinite hearts (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ALVAYPEY</genie>
+        <description>Start with and have infinite stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVEAOTP</genie>
+        <description>Infinite stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ALNEVPEY</genie>
+        <description>Infinite stars once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LASAEPAA</genie>
+        <description>Start each round with 3 stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XXXELNVA</genie>
+        <description>Infinite time (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SUSETNSO</genie>
+        <description>Infinite time (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXOEYNVV</genie>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATOEXESA</genie>
+        <description>No health for opponent (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXKAYKSE</genie>
+        <description>No health for opponent (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZSELPAX</genie>
+        <description>No health replenishment for opponent</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZVAAOIV</genie>
+        <description>Take less damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZVALPAX</genie>
+        <description>Take even less damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVETLGA</genie>
+        <description>Normal punches do more damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YZLOSS</genie>
+        <description>Instant win</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>UZLOSS</genie>
+        <description>Instant loss</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AXIONS</genie>
+        <description>First knockdown will be a TKO</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>INUAIZSY</genie>
+        <description>Opponent cannot block punches</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ENOZAZPE</genie>
+        <description>Skip intro</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x01</value>
+        <description>Start on match 02 - Von Keiser</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x02</value>
+        <description>Start on match 03 - Piston Honda</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x03</value>
+        <description>Start on match 04 - Don Flamenco</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x04</value>
+        <description>Start on match 05 - King Hippo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x05</value>
+        <description>Start on match 06 - Great Tiger</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x06</value>
+        <description>Start on match 07 - Bald Bull</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x07</value>
+        <description>Start on match 08 - Piston Honda (2nd match)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x08</value>
+        <description>Start on match 09 - Soda Popinski</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x09</value>
+        <description>Start on match 10 - Bald Bull (2nd match)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x0A</value>
+        <description>Start on match 11 - Don Flamenco (2nd match)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x0B</value>
+        <description>Start on match 12 - Mr. Sandman</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x0C</value>
+        <description>Start on match 13 - Super Macho Man</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x0D</value>
+        <description>Start on match 14 - Mike Tyson</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0305</address>
+        <value>0x00</value>
+        <description>Infinite time (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0306</address>
+        <value>0x00</value>
+        <description>Infinite time (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0307</address>
+        <value>0x00</value>
+        <description>Infinite time (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0324</address>
+        <value>0x0A</value>
+        <description>Infinite hearts (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0342</address>
+        <value>0x03</value>
+        <description>Start with and have infinite stars (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0391</address>
+        <value>0x60</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0398</address>
+        <value>0x00</value>
+        <description>No health for opponent (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03CA</address>
+        <value>0x02</value>
+        <description>First knockdown will be a TKO (alt) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x02</value>
+        <description>First knockdown will be a TKO (alt) (2 of 2)</description>
+    </cheat>
+</cheats>

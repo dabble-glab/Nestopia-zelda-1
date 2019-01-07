@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x01</value>
+        <description>Start on stage 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x03</value>
+        <description>Start on stage 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x04</value>
+        <description>Start on stage 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x05</value>
+        <description>Start on stage 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0589</address>
+        <value>0xFA</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+</cheats>

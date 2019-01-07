@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OOUSLZSO</genie>
+		<description>Infinite health (glitchy)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUNKXTVI</genie>
+		<description>Never give up</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0048</address>
+        <value>0x18</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x18</value>
+        <description>Infinite health - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005D</address>
+        <value>0x18</value>
+        <description>Infinite health - tag team partner</description>
+    </cheat>
+</cheats>

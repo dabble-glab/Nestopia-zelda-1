@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUVEAOVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOUYYAX</genie>
+		<description>Partial invincibility (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNUPZAX</genie>
+		<description>Partial invincibility (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOLPGAX</genie>
+		<description>Partial invincibility (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUAAPAX</genie>
+		<description>Partial invincibility (4 of 4)</description>
+	</cheat>
+</cheats>

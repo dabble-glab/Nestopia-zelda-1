@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZUUPAAX</genie>
+		<description>Infinite health - Bill, Jimmy and Chin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEPXGGS</genie>
+		<description>Start with 255 health - Billy and Jimmy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEONGGV</genie>
+		<description>Start with 255 health - Chin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEOXKZK</genie>
+		<description>Start with 255 health - Ranzou</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVEPXGGI</genie>
+		<description>More health - Billy and Jimmy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVEOXKZG</genie>
+		<description>More health - Ranzou</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZXEPXGGS</genie>
+		<description>Less health - Billy and Jimmy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IXEOXKZG</genie>
+		<description>Less health - Ranzou</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUEONGGT</genie>
+		<description>Less health - Chin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVLGASX</genie>
+		<description>More powerful punch, weapon and high kick</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVOPKGIA</genie>
+		<description>Start with 99 weapon use - Billy, Jimmy and Chin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAELIGPA</genie>
+		<description>Infinite special weapons - everyone (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXUPUVS</genie>
+		<description>Infinite special weapons - everyone (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEULUKYA</genie>
+		<description>Start with Chin enabled</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKLVKAA</genie>
+		<description>Start with Ranzou enabled</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKNPPIA</genie>
+		<description>Start with Jimmy enabled</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x045D</address>
+        <value>0x40</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x045E</address>
+        <value>0x40</value>
+        <description>Infinite health - P2</description>
+    </cheat>
+</cheats>

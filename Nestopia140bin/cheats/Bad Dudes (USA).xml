@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>APEETPEY</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOEAOSE</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNKASVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOKASVK</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGVYOUVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AAUPIOGI</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AIEAZPAP</genie>
+        <description>Invincibility (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVSOYOSZ</genie>
+        <description>Invincibility (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ELEAPOZE</genie>
+        <description>Invincibility (3 of 3)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AOUSNGEY</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENXYZLA</genie>
+		<description>Start with 1 life and 1 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENXYZLA</genie>
+		<description>Start with double lives and continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENXYZLE</genie>
+		<description>Start with triple lives and continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESAIYIE</genie>
+		<description>Gain double usual energy from drinks</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x02A2</address>
+        <value>0x01</value>
+        <description>Have the Nunchaku</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x02A2</address>
+        <value>0x02</value>
+        <description>Have the Knife</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x032F</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0344</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses (2 of 2)</description>
+    </cheat>
+</cheats>

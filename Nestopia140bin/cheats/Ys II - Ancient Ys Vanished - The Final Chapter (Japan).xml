@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOVXISA</genie>
+		<description>Infinite HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOSNSPE</genie>
+		<description>Lots of EXP (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXISSZE</genie>
+		<description>Lots of EXP (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXELISA</genie>
+		<description>Infinite gold (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUAZISA</genie>
+		<description>Infinite gold (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYKSKIPE</genie>
+		<description>Start with all equipment</description>
+	</cheat>
+</cheats>

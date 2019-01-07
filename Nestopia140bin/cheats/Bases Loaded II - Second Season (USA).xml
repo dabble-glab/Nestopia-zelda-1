@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXKKIVGK</genie>
+        <description>Balls are considered strikes</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEOGOALA</genie>
+		<description>1 strike and you're out - most of the time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOGOALA</genie>
+		<description>2 strikes and you're out - most of the time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOEVXVV</genie>
+		<description>Outs aren't counted</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOEUZZA</genie>
+		<description>Only 2 outs allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOEUZZA</genie>
+		<description>Only 1 out allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNAXOVV</genie>
+		<description>Strikes aren't counted (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSGUKVV</genie>
+		<description>Strikes aren't counted (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEEXXVV</genie>
+		<description>Balls aren't counted (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEESXVV</genie>
+		<description>Balls aren't counted (2 of 2)</description>
+	</cheat>
+</cheats>

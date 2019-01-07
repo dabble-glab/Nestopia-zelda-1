@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EINSUPEY</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESUISPEY</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESEKSIEY</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKSGSVVK</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKUKUSVK</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSGSVVK</genie>
+		<description>Infinite health (alt) (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNKVVVK</genie>
+		<description>Infinite health (alt) (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUKUSVK</genie>
+		<description>Infinite health (alt) (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SASSZEVK</genie>
+		<description>Infinite lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEKIYEVK</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APSIGESZ</genie>
+		<description>Infinite lives (alt) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASIIEIS</genie>
+		<description>Infinite lives (alt) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOILNSE</genie>
+		<description>Infinite Bones after obtaining one</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKVEIZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKVEIZA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKVEIZA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKVEIZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASTOILA</genie>
+		<description>Start with 6 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASTOILE</genie>
+		<description>Start with 8 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSGSVVK</genie>
+		<description>Don't take most damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EKUVKIKK</genie>
+		<description>Start at race 1, end of stage 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NKUVKIKK</genie>
+		<description>Start at race 1, end of stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KSUVKIKG</genie>
+		<description>Start at race 1, end of stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESUVVIVS</genie>
+		<description>Start at race 2, end of stage 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KSUVVIVS</genie>
+		<description>Start at race 2, end of stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EVUVVIVI</genie>
+		<description>Start at race 2, end of stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KVKTEIXT</genie>
+		<description>Start at race 3, end of stage 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EVKTEIXV</genie>
+		<description>Start at race 3, end of stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KVKTEIXV</genie>
+		<description>Start at race 3, end of stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENKTEIXT</genie>
+		<description>Start at race 3, end of stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNUVKIKG</genie>
+		<description>Go straight to level boss</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0453</address>
+        <value>0x01</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0452</address>
+        <value>0x11</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0459</address>
+        <value>0x03</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A4</address>
+        <value>0x59</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x045D</address>
+        <value>0x63</value>
+        <description>Infinite lives (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042F</address>
+        <value>0x63</value>
+        <description>Infinite Gems</description>
+    </cheat>
+</cheats>

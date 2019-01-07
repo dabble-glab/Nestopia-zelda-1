@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSAKNVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNZXOVK</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVXPYIVG</genie>
+		<description>Invincibility after first hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEXVXVK</genie>
+		<description>Infinite Breath Power (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOZOXVK</genie>
+		<description>Infinite Breath Power (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXZXUVK</genie>
+		<description>Infinite Lift Power (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXZSUVK</genie>
+		<description>Infinite Lift Power (2 of 2)</description>
+	</cheat>
+</cheats>

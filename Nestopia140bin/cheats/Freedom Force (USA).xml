@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZOOTYTGZ</genie>
+		<description>Start with half ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUTLYZZ</genie>
+		<description>Infinite ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOVAYTA</genie>
+		<description>Fewer errors allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXOTYNOK</genie>
+		<description>Infinite errors allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUTLTPA</genie>
+		<description>Start at level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUTLTPA</genie>
+		<description>Start at level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUTLTPA</genie>
+		<description>Start at level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUTLTPA</genie>
+		<description>Start at level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKVYVAO</genie>
+		<description>Start with half health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVAYLSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x09</value>
+        <description>Infinite time in bonus stages (disable to continue)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C2</address>
+        <value>0x3C</value>
+        <description>Automatically finish stage</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0515</address>
+        <value>0x24</value>
+        <description>Infinite ammo - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0516</address>
+        <value>0x18</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0517</address>
+        <value>0x00</value>
+        <description>Infinite errors allowed - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0525</address>
+        <value>0x24</value>
+        <description>Infinite ammo - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0526</address>
+        <value>0x18</value>
+        <description>Infinite health - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0527</address>
+        <value>0x00</value>
+        <description>Infinite errors allowed - P2</description>
+    </cheat>
+</cheats>

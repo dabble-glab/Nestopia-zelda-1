@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EINVTIEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUATPI</genie>
+		<description>Invincibility (flashes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVUZGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVUZGVG</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNVILST</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXOVATES</genie>
+		<description>Infinite health (alt) (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOVPVGU</genie>
+		<description>Infinite health (alt) (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEOVZTSZ</genie>
+		<description>Infinite health (alt) (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NTEINNYK</genie>
+		<description>Potions last longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEVAGZA</genie>
+		<description>Meat gives half health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEVAGZA</genie>
+		<description>Meat gives double health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALGYPL</genie>
+		<description>Enter doors without needing a key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYISTO</genie>
+		<description>Jump higher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KGTITO</genie>
+		<description>Jump to the top of the scren</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUUKAZA</genie>
+		<description>Start with 6 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXGGAZA</genie>
+		<description>Start with 6 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUUKAZE</genie>
+		<description>Start with 9 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXGGAZE</genie>
+		<description>Start with 9 lives (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0076</address>
+        <value>0x0C</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00FC</address>
+        <value>0x02</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0148</address>
+        <value>0x40</value>
+        <description>Super-jump (disable if you get stuck)</description>
+    </cheat>
+</cheats>

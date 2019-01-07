@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXXOATSA</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0026</address>
+        <value>0x00</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001F</address>
+        <value>0x63</value>
+        <description>Infinite AAM Missiles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0020</address>
+        <value>0x63</value>
+        <description>Infinite AGM Missiles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0021</address>
+        <value>0x63</value>
+        <description>Infinite Flares</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0022</address>
+        <value>0x63</value>
+        <description>Infinite Chaff</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0175</address>
+        <value>0xFF</value>
+        <description>Have 5 million+ points</description>
+    </cheat>
+</cheats>

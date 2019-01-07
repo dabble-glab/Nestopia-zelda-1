@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAUENALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUENALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUENALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IZSEEAAI</genie>
+		<description>Start with 25 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASEKAAA</genie>
+		<description>Start with 150 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASEKAAA</genie>
+		<description>Start with 250 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASAUALA</genie>
+		<description>Gain 1 bullet on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASAUALA</genie>
+		<description>Gain 6 bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKEGYTA</genie>
+		<description>Timer set to 04:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKEGYTE</genie>
+		<description>Timer set to 10:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAKAVEKE</genie>
+		<description>Different attack waves</description>
+	</cheat>
+</cheats>

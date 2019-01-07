@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAVPNLGP</genie>
+		<description>Jump OK, even with no power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUZAIPA</genie>
+		<description>Gain double power on every pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGVONLAA</genie>
+		<description>Jump OK at any speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANPNLIE</genie>
+		<description>Set jump OK speed to 190</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANPNLIA</genie>
+		<description>Set jump OK speed to 130</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOAGGAA</genie>
+		<description>Start on scene 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOAGGAE</genie>
+		<description>Start on scene 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOAGGAE</genie>
+		<description>Start on scene 15</description>
+	</cheat>
+</cheats>

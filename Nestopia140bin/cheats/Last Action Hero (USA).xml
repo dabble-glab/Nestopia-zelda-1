@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOLSGTG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXLOGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEVZIVG</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESXZLAEY</genie>
+		<description>One hit kills on bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZSAEYVT</genie>
+		<description>Red hearts worth nothing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUVSTLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUVSTLA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUVSTLE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASTAILA</genie>
+		<description>Continue with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASTAILA</genie>
+		<description>Continue with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASTAILA</genie>
+		<description>Continue with 3 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKTOTZA</genie>
+		<description>Start with 0 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKTOTZA</genie>
+		<description>Start with 5 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKTOTZE</genie>
+		<description>Start with 9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENTAAAA</genie>
+		<description>Start on stage 2 - Hamlet</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENTAAAA</genie>
+		<description>Start on stage 3 - The House</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENTAAAA</genie>
+		<description>Start on stage 4 - The Freeway</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENTAAAA</genie>
+		<description>Start on stage 5 - The Office block</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENTAAAA</genie>
+		<description>Start on stage 6 - The Helicopter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENTAAAE</genie>
+		<description>Start on stage 7 - The Film Premiere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENTAAAE</genie>
+		<description>Start on Stage 8 - The Cinema</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENTAAAE</genie>
+		<description>Start on the end-of-level bad guy</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x002E</address>
+        <value>0x2F</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008C</address>
+        <value>0x19</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0092</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

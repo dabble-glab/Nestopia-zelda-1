@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOIVLSA</genie>
+		<description>Infinite Magic Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVGUIZA</genie>
+		<description>Take no damage in swamp</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVOYYTSA</genie>
+		<description>Start with 256 gold coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VKOIVLSA</genie>
+		<description>All spells use only one magic point</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKKEVYA</genie>
+		<description>Barriers cause half usual damage</description>
+	</cheat>
+</cheats>

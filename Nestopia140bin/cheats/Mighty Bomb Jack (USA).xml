@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXOOYNPX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUPPNSE</genie>
+		<description>Invincibility (alt) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEOXUSE</genie>
+		<description>Invincibility (alt) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXALNVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOEZZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOEZZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOEZZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZUEZNVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKOEGYAT</genie>
+		<description>Less time in game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEOEGYAT</genie>
+		<description>More time in game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOESEVK</genie>
+		<description>Enemies don't return from coin transformation</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEEXUVK</genie>
+		<description>Power coins are not used up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OESPNTLA</genie>
+		<description>Disable torture room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUOUAPA</genie>
+		<description>Jump through walls</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0229</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x022D</address>
+        <value>0x09</value>
+        <description>Infinite time (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0235</address>
+        <value>0x09</value>
+        <description>Infinite M's</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0295</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

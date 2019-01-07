@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>PEIOOT</genie>
+        <description>Gain 65535 EXP from every battle</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EAZLLL</genie>
+        <description>Enemies don't attack</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZULIEVS</genie>
+		<description>LIFE spell never uses up Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVULEVS</genie>
+		<description>LIF2 spell never uses up Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESGTYZA</genie>
+		<description>Magic users start with 6 Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESGTYZE</genie>
+		<description>Magic users start with 9 Magic Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELEXVLEY</genie>
+		<description>Non-magic users can use level 1 magic (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESGANGA</genie>
+		<description>Non-magic users can use level 1 magic (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESGGNAA</genie>
+		<description>Non-magic users can use level 1 magic (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZOUGAEP</genie>
+		<description>Start with 800 Gold (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOUIAPA</genie>
+		<description>Start with 800 Gold (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYOUTAAE</genie>
+		<description>999999+ Gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSZPKSV</genie>
+		<description>Almost infinite Gold (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSXZKSV</genie>
+		<description>Almost infinite Gold (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOTPVP</genie>
+		<description>No random battles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGKLPALZ</genie>
+		<description>Double Fighter Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKUAEZA</genie>
+		<description>Double Fighter's Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTKUPAIU</genie>
+		<description>Double Fighter's Evade</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKLTAIE</genie>
+		<description>Double Fighter's Luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLSLPETO</genie>
+		<description>Double Thief's Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASLYAZA</genie>
+		<description>Triple Thief's Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASUAAIE</genie>
+		<description>Double Thief's Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GYSUPEZL</genie>
+		<description>Double Thief's Evade</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPSLTEYE</genie>
+		<description>Double Thief's Luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZGVLPAPZ</genie>
+		<description>Double Black Belt's Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVLYAZA</genie>
+		<description>Triple Black Belt's Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVUAAIE</genie>
+		<description>Double Black Belt's Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTVUPAIU</genie>
+		<description>Double Black Belt's Evade</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVLTAIE</genie>
+		<description>Double Black Belt's Luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLNLPETO</genie>
+		<description>Double Red Mage's Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANLYAIE</genie>
+		<description>Double Red Mage's Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANUAAYE</genie>
+		<description>Double Red Mage's Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GYNUPEZL</genie>
+		<description>Double Red Mage's Evade</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANLTAIE</genie>
+		<description>Double Red Mage's Luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUELPEGO</genie>
+		<description>Double White Mage's Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEELYAZA</genie>
+		<description>Triple White Mage's Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEUAAIE</genie>
+		<description>Double White Mage's Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZVEUPAIU</genie>
+		<description>Double White Mage's Evade</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEELTAIE</genie>
+		<description>Double White Mage's Luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUOLPEPP</genie>
+		<description>Double Black Mage's Hit Points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOLYAPA</genie>
+		<description>Triple Black Mage's Damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOUAAIE</genie>
+		<description>Double Black Mage's Hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GNOUPEZL</genie>
+		<description>Double Black Mage's Evade</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOLTEZA</genie>
+		<description>Double Black Mage's Luck</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>GIUYZSYE</genie>
+        <description>Skip intro screens (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXNUXAAX</genie>
+        <description>Skip intro screens (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F5</address>
+        <value>0xFF</value>
+        <description>No random battles (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6021</address>
+        <value>0x01</value>
+        <description>Have Lute</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6022</address>
+        <value>0x01</value>
+        <description>Have Crown</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6023</address>
+        <value>0x01</value>
+        <description>Have Crystal</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6024</address>
+        <value>0x01</value>
+        <description>Have Herb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6025</address>
+        <value>0x01</value>
+        <description>Have Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6026</address>
+        <value>0x01</value>
+        <description>Have TNT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6027</address>
+        <value>0x01</value>
+        <description>Have Adamant</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6028</address>
+        <value>0x01</value>
+        <description>Have Slab</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6029</address>
+        <value>0x01</value>
+        <description>Have Ruby</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x602A</address>
+        <value>0x01</value>
+        <description>Have Rod</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x602B</address>
+        <value>0x01</value>
+        <description>Have Floater</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x602C</address>
+        <value>0x01</value>
+        <description>Have Chime</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x602D</address>
+        <value>0x01</value>
+        <description>Have Tail</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x602E</address>
+        <value>0x01</value>
+        <description>Have Cube</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x602F</address>
+        <value>0x01</value>
+        <description>Have Bottle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6030</address>
+        <value>0x01</value>
+        <description>Have Oxyale</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6031</address>
+        <value>0x01</value>
+        <description>Have Canoe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6032</address>
+        <value>0x01</value>
+        <description>Have first Crystal lit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6033</address>
+        <value>0x01</value>
+        <description>Have second Crystal lit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6034</address>
+        <value>0x01</value>
+        <description>Have third Crystal lit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6035</address>
+        <value>0x01</value>
+        <description>Have last Crystal lit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x610A</address>
+        <value>0xFF</value>
+        <description>Character 1 - 255 HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6110</address>
+        <value>0x63</value>
+        <description>Character 1 - 99 STR</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6111</address>
+        <value>0x63</value>
+        <description>Character 1 - 99 AGL</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6112</address>
+        <value>0x63</value>
+        <description>Character 1 - 99 INT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6113</address>
+        <value>0x63</value>
+        <description>Character 1 - 99 VIT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6114</address>
+        <value>0x63</value>
+        <description>Character 1 - 99 Luck</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6120</address>
+        <value>0xFF</value>
+        <description>Character 1 - 255 Damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6121</address>
+        <value>0xFF</value>
+        <description>Character 1 - 255 Hit %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6122</address>
+        <value>0xFF</value>
+        <description>Character 1 - 255 Absorb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6123</address>
+        <value>0xFF</value>
+        <description>Character 1 - 255 Evade %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x614A</address>
+        <value>0xFF</value>
+        <description>Character 2 - 255 HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6150</address>
+        <value>0x63</value>
+        <description>Character 2 - 99 STR</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6151</address>
+        <value>0x63</value>
+        <description>Character 2 - 99 AGL</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6152</address>
+        <value>0x63</value>
+        <description>Character 2 - 99 INT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6153</address>
+        <value>0x63</value>
+        <description>Character 2 - 99 VIT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6154</address>
+        <value>0x63</value>
+        <description>Character 2 - 99 Luck</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6160</address>
+        <value>0xFF</value>
+        <description>Character 2 - 255 Damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6161</address>
+        <value>0xFF</value>
+        <description>Character 2 - 255 Hit %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6162</address>
+        <value>0xFF</value>
+        <description>Character 2 - 255 Absorb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6163</address>
+        <value>0xFF</value>
+        <description>Character 2 - 255 Evade %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x618A</address>
+        <value>0xFF</value>
+        <description>Character 3 - 255 HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6190</address>
+        <value>0x63</value>
+        <description>Character 3 - 99 STR</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6191</address>
+        <value>0x63</value>
+        <description>Character 3 - 99 AGL</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6192</address>
+        <value>0x63</value>
+        <description>Character 3 - 99 INT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6193</address>
+        <value>0x63</value>
+        <description>Character 3 - 99 VIT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6194</address>
+        <value>0x63</value>
+        <description>Character 3 - 99 Luck</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61A0</address>
+        <value>0xFF</value>
+        <description>Character 3 - 255 Damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61A1</address>
+        <value>0xFF</value>
+        <description>Character 3 - 255 Hit %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61A2</address>
+        <value>0xFF</value>
+        <description>Character 3 - 255 Absorb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61A3</address>
+        <value>0xFF</value>
+        <description>Character 3 - 255 Evade %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61CA</address>
+        <value>0xFF</value>
+        <description>Character 4 - 255 HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61D0</address>
+        <value>0x63</value>
+        <description>Character 4 - 99 STR</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61D1</address>
+        <value>0x63</value>
+        <description>Character 4 - 99 AGL</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61D2</address>
+        <value>0x63</value>
+        <description>Character 4 - 99 INT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61D3</address>
+        <value>0x63</value>
+        <description>Character 4 - 99 VIT</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61D4</address>
+        <value>0x63</value>
+        <description>Character 4 - 99 Luck</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61E0</address>
+        <value>0xFF</value>
+        <description>Character 4 - 255 Damage</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61E1</address>
+        <value>0xFF</value>
+        <description>Character 4 - 255 Hit %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61E2</address>
+        <value>0xFF</value>
+        <description>Character 4 - 255 Absorb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x61E3</address>
+        <value>0xFF</value>
+        <description>Character 4 - 255 Evade %</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6320</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 1 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6328</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 1 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6321</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 2 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6329</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 2 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6322</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 3 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x632A</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 3 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6323</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 4 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x632B</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 4 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6324</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 5 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x632C</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 5 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6325</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 6 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x632D</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 6 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6326</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 7 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x632E</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 7 magic use (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6327</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 8 magic use (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x632F</address>
+        <value>0x08</value>
+        <description>Character 1 - Infinite level 8 magic use (2 of 2)</description>
+    </cheat>
+</cheats>

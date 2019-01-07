@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x051B</address>
+        <value>0x14</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

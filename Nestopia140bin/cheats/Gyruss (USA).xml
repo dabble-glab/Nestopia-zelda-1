@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXSXTASX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEOIEZA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEGLGA</genie>
+		<description>Start with 1 ship</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXEGLGE</genie>
+		<description>Start with 10 ships</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKEATPA</genie>
+		<description>Start with 4 phasers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKEATPE</genie>
+		<description>Start with 8 phasers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEPYAPA</genie>
+		<description>Gain 2 phasers when you die with none</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEPYAPA</genie>
+		<description>Gain 4 phasers when you die with none</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OAKEATPA</genie>
+		<description>Start with twin shots + 1 phaser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAKEATPA</genie>
+		<description>Start with twin shots + 4 phasers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAKEATPE</genie>
+		<description>Start with twin shots + 8 phasers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEPIAZA</genie>
+		<description>Never lose twin shots (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OEEPYAPA</genie>
+		<description>Never lose twin shots (2 of 2)</description>
+	</cheat>
+</cheats>

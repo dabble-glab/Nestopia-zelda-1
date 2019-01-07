@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AVXTEISZ</genie>
+		<description>Infinite health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x053B</address>
+        <value>0x05</value>
+        <description>Infinite continues</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEENESE</genie>
+		<description>Infinite life (blinking)</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>SXUEKUVS</genie>
+        <description>Infinite Ammo - Secondary Weapon</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEXXZELP</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXVZLAAX</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATOXTPEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOXLOZA</genie>
+        <description>Get items from anywhere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YZSXTKZZ</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEXIZTLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXIZTLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXIZTLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOSKALA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOSKALA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOSKALE</genie>
+		<description>9 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNIEEVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKINOVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSKOVK</genie>
+		<description>Infinite vehicle fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEZATZE</genie>
+		<description>Full life gained from capsules</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEZATZA</genie>
+		<description>Less life gained from capsules</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVSKAPA</genie>
+		<description>Full EMDP on a new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVIKAAA</genie>
+		<description>Full AGM on a new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOZZTLE</genie>
+		<description>10 Boomerangs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVXGTLE</genie>
+		<description>10 Fireballs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUXATLE</genie>
+		<description>10 Bombs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESXTTLE</genie>
+		<description>10 Waves on pick-up</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x050A</address>
+        <value>0x00</value>
+        <description>Enemies die instantly (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x050E</address>
+        <value>0x00</value>
+        <description>Enemies die instantly (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0639</address>
+        <value>0x08</value>
+        <description>Infinite life</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0647</address>
+        <value>0x23</value>
+        <description>Jump higher</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0651</address>
+        <value>0x03</value>
+        <description>Rank is 03/03</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0656</address>
+        <value>0x63</value>
+        <description>Rank left is 99/99 (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0657</address>
+        <value>0x63</value>
+        <description>Rank left is 99/99 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D6</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0738</address>
+        <value>0xFF</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+</cheats>

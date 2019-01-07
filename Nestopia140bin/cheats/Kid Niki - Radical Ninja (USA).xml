@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EEKEPPAA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANPXXLP</genie>
+		<description>Multi-jump (01 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APEYXNNY</genie>
+		<description>Multi-jump (02 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATENUNNY</genie>
+		<description>Multi-jump (03 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZENENNY</genie>
+		<description>Multi-jump (04 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEYUNNY</genie>
+		<description>Multi-jump (05 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEYENNY</genie>
+		<description>Multi-jump (06 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSOXZEY</genie>
+		<description>Multi-jump (07 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSPKZEY</genie>
+		<description>Multi-jump (08 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KTEYSNNN</genie>
+		<description>Multi-jump (09 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPENONNN</genie>
+		<description>Multi-jump (10 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNPUXOE</genie>
+		<description>Multi-jump (11 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OAENXNNN</genie>
+		<description>Multi-jump (12 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZEYKNNN</genie>
+		<description>Multi-jump (13 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPEYNNNN</genie>
+		<description>Multi-jump (14 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAEYVNNY</genie>
+		<description>Multi-jump (15 of 16)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YIEYONNY</genie>
+		<description>Multi-jump (16 of 16)</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>AOOENSXE</genie>
+        <description>Hit anywhere (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVXAESAG</genie>
+        <description>Hit anywhere (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATUKLXSY</genie>
+        <description>Hit anywhere (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0088</address>
+        <value>0x00</value>
+        <description>Invincibility (glitchy) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F4</address>
+        <value>0x00</value>
+        <description>Invincibility (glitchy) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CC</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0621</address>
+        <value>0x3B</value>
+        <description>Infinite time</description>
+    </cheat>
+</cheats>

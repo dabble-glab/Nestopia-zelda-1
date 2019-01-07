@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUUOKPVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIEPXZEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUAYAPA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUAYAPA</genie>
+		<description>Start on level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUAYAPE</genie>
+		<description>Start on level 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAUAYAPE</genie>
+		<description>Start on level 15</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUAYAPA</genie>
+		<description>Start on level 20</description>
+	</cheat>
+</cheats>

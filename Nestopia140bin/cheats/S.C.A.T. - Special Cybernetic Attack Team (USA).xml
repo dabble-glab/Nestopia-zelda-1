@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AANSUGPA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUXGKTTA</genie>
+		<description>Start with more health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANVNGLE</genie>
+		<description>More health on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEESVKAA</genie>
+		<description>Don't lose speed-ups when hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEIKGAK</genie>
+		<description>Longer immunity</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APKSEGAG</genie>
+		<description>Shorter immunity</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEIKTTE</genie>
+		<description>Faster maximum speed-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEISVXY</genie>
+		<description>Faster maximum speed-up (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENIKIGA</genie>
+		<description>Faster normal speed-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNNISSKN</genie>
+		<description>Faster normal speed-up (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x001C</address>
+        <value>0x09</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+</cheats>

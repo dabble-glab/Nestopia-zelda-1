@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZEVKLGAA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKEPASA</genie>
+		<description>Invincible after you die once (may get stuck in boss stages) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEGPASA</genie>
+		<description>Invincible after you die once (may get stuck in boss stages) (2 of 2)</description>
+	</cheat> 
+	<cheat enabled="0">
+		<genie>SXKELLSA</genie>
+		<description>Infinite health (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNOYASA</genie>
+		<description>Infinite health (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKEOLSA</genie>
+		<description>Infinite health (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUOZASA</genie>
+		<description>Infinite health (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUOGASA</genie>
+		<description>Infinite health (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOGYPLA</genie>
+		<description>Start with 0 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEEULSA</genie>
+		<description>Can't collect extra energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEKAYLEL</genie>
+		<description>Die after one hit</description>
+	</cheat>
+    <cheat enabled="1">
+        <address>0x007D</address>
+        <value>0x08</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

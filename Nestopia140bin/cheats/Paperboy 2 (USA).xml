@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEOUYGIA</genie>
+		<description>Start with 1 life - Paperboy only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOUYGIA</genie>
+		<description>Start with 3 lives - Paperboy only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOUYGIE</genie>
+		<description>Start with 10 lives - Paperboy only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKEZLPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAELGVZE</genie>
+		<description>Start with 15 papers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPELGVZA</genie>
+		<description>Start with 20 papers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVPNLPA</genie>
+		<description>Infinite papers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOAEOZA</genie>
+		<description>5 papers on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEOAEOZE</genie>
+		<description>15 papers on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOAEOZA</genie>
+		<description>20 papers on pick-up</description>
+	</cheat>
+</cheats>

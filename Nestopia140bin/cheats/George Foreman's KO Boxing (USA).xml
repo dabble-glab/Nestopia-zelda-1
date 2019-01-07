@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AOONKZEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXNYSXPK</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVTTNAA</genie>
+        <description>Can always use super punches</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXVNSAOU</genie>
+        <description>Knock down opponent with 1 super punch (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PKVNVEVZ</genie>
+        <description>Knock down opponent with 1 super punch (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x036E</address>
+        <value>0x43</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x036F</address>
+        <value>0x01</value>
+        <description>Knock down opponent with 1 punch</description>
+    </cheat>
+</cheats>

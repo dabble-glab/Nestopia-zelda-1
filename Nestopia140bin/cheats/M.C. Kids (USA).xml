@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXKSUOSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EGETYTIA</genie>
+		<description>Infinite hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLXEIPEK</genie>
+		<description>Multi-jump (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZXEGOSX</genie>
+		<description>Multi-jump (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTXETPGE</genie>
+		<description>Multi-jump (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EKNVYIIA</genie>
+		<description>Don't lose Golden Arches when hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVEGTGE</genie>
+		<description>Super-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVEPTLA</genie>
+		<description>Super-jump (2 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AAVNIVGA</genie>
+		<description>Always find all cards in level (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVNPVSX</genie>
+		<description>Always find all cards in level (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVNZVPP</genie>
+		<description>Always find all cards in level (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTVNLTGE</genie>
+		<description>Always find all cards in level (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXALGPA</genie>
+		<description>Access any level on map</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKSAYZA</genie>
+		<description>1 heart per life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKSNPZA</genie>
+		<description>1 heart per life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKSAYZA</genie>
+		<description>8 hearts per life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKSNPZA</genie>
+		<description>8 hearts per life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKILYLA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKILYLA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKILYLE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+</cheats>

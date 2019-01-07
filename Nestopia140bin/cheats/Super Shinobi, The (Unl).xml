@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x00AF</address>
+        <value>0x01</value>
+        <description>Always have powered-up Shurikens</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0109</address>
+        <value>0x09</value>
+        <description>Infinite Shurikens (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x010B</address>
+        <value>0x09</value>
+        <description>Infinite Shurikens (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x010D</address>
+        <value>0x09</value>
+        <description>Infinite magic</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04F5</address>
+        <value>0x09</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATGGNY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZGGNN</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTKGSYSV</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKZGEAZ</genie>
+		<description>Start with less health - bronze dragon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIKZGEAZ</genie>
+		<description>Start with more health - bronze dragon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPKZIEGU</genie>
+		<description>Start with less health - silver dragon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIKZIEGL</genie>
+		<description>Start with more health - silver dragon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZZKZTAAS</genie>
+		<description>Start with less health - gold dragon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ITKZTAAI</genie>
+		<description>Start with more health - gold dragon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKKNNSE</genie>
+		<description>Weapon power doesn't weaken with health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TTXGIALT</genie>
+		<description>Gold dragon has excellent armor class</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YGXKAAPG</genie>
+		<description>Gold dragon flies faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATXGYAGV</genie>
+		<description>Silver dragon flies faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YIXGTALI</genie>
+		<description>Bronze dragon flies faster</description>
+	</cheat>
+</cheats>

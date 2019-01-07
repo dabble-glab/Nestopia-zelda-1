@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAKXGPLA</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUXPOLP</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUZGPEL</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXKLGAX</genie>
+		<description>Moon-jump (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEXGILIA</genie>
+		<description>Moon-jump (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXXGGUOK</genie>
+		<description>Moon-jump (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YVXGLUNA</genie>
+		<description>Moon-jump (4 of 4)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>IEVXVTZA</genie>
+        <description>Start a new game to view ending</description>
+    </cheat>	
+</cheats>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AVOPZOVG</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOAAEVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNTZKVK</genie>
+		<description>Infinite energy (hearts) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOPZOVK</genie>
+		<description>Infinite energy (hearts) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVAYPZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVAYPZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVAYPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNELOZA</genie>
+		<description>Start with 99 coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEAAPAA</genie>
+		<description>Start with Slingshot</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEAAPAA</genie>
+		<description>Start with Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEAAPAA</genie>
+		<description>Start with Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESTZZIE</genie>
+		<description>15 coins on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESTZZIA</genie>
+		<description>2 coins on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUAXTLA</genie>
+		<description>Slingshot doesn't use up coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUAUTLA</genie>
+		<description>Axe doesn't use up coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUAKVZA</genie>
+		<description>Bomb doesn't use up coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AETEKI</genie>
+		<description>Infinite Firepower</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOKOEPPA</genie>
+		<description>Max power charge (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPEZLPPA</genie>
+		<description>Max power charge (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOEPLPPA</genie>
+		<description>Max power charge (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPUOLZPA</genie>
+		<description>Max power charge (4 of 4)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0305</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0308</address>
+        <value>0x03</value>
+        <description>Infinite energy (hearts) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x030B</address>
+        <value>0xFF</value>
+        <description>Infinite coins</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0312</address>
+        <value>0x0C</value>
+        <description>Max power charge (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D7</address>
+        <value>0x00</value>
+        <description>One hit kills on most bosses</description>
+    </cheat>
+</cheats>

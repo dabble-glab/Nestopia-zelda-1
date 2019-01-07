@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZETVUVK</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASSPALA</genie>
+		<description>6 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASSPALA</genie>
+		<description>No continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSGUVSE</genie>
+		<description>XX obstacles on tracks (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKKNTAA</genie>
+		<description>More obstacles on tracks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKKNTAE</genie>
+		<description>Even more obstacles on tracks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKKNTAE</genie>
+		<description>Lots and lots of obstacles on tracks (2 of 2)</description>
+	</cheat>
+</cheats>

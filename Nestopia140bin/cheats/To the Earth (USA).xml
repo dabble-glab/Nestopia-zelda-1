@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAEUXTGA</genie>
+		<description>Shots use up no energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEUXTGA</genie>
+		<description>Shots use up less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEUXTGE</genie>
+		<description>Shots use up more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUVEYGP</genie>
+		<description>Enemy bombs do no damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUVEYGO</genie>
+		<description>Enemy bombs do half damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXUVEYGO</genie>
+		<description>Enemy bombs do more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOEUEVZA</genie>
+		<description>Bonus energy for shooting enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEUEVZA</genie>
+		<description>Less energy for shooting enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEUEVZA</genie>
+		<description>No energy for shooting enemy</description>
+	</cheat>
+</cheats>

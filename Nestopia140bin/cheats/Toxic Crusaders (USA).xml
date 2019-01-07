@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>KXKLTIKA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXVYGSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SXXTXNSE</genie>
+        <description>Never lose Mop (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PASLEAAA</genie>
+        <description>Never lose Mop (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00DD</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00DE</address>
+        <value>0x08</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x020B</address>
+        <value>0x01</value>
+        <description>Never lose weapon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x020F</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

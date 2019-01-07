@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>EGOZINIP</genie>
+        <rocky>D0A3E0DE</rocky>
+        <address>0xA715</address>
+        <value>0xC0</value>
+        <compare>0x1D</compare>
+        <description>Always win - P1 (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAOZTNPA</genie>
+        <rocky>F921B410</rocky>
+        <address>0xA716</address>
+        <value>0x01</value>
+        <compare>0x09</compare>
+        <description>Always win - P1 (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XTOZYYIE</genie>
+        <rocky>9ADBAEE0</rocky>
+        <address>0xA717</address>
+        <value>0xEA</value>
+        <compare>0x05</compare>
+        <description>Always win - P1 (3 of 3)</description>
+    </cheat>
+</cheats>

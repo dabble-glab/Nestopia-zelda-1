@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEIEKVK</genie>
+		<description>Infinite freeze time once you obtain a clock</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNNTVOZE</genie>
+		<description>256 seconds of freeze time once you obtain a clock</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x64</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0080</address>
+        <value>0x00</value>
+        <description>Win level now</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x02</value>
+        <description>Tank always have Shield Protection</description>
+    </cheat>
+</cheats>

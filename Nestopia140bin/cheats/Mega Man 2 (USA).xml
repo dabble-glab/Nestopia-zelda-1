@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIUGVTEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIUGVTEY</genie>
+		<description>Invincibility (alt) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAUGKTSZ</genie>
+		<description>Invincibility (alt) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXTPSSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUGTPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXETTTEL</genie>
+		<description>One hit kills (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUZGTEL</genie>
+		<description>One hit kills (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LZVSSZYZ</genie>
+		<description>Burst-fire from normal weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANAOZGA</genie>
+		<description>Power-jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANAOZGE</genie>
+		<description>Super power-jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APNAOZGA</genie>
+		<description>Mega power-jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKEYLAL</genie>
+		<description>Maximum weapon energy on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PGEAKOPX</genie>
+		<description>Moonwalking</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSSOISA</genie>
+		<description>Infinite Heat Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSSNZSA</genie>
+		<description>Infinite Air Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVIUYSA</genie>
+		<description>Infinite Wood Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUIKLVG</genie>
+		<description>Infinite Bubble Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSNLVG</genie>
+		<description>Infinite Quick Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKSOLVG</genie>
+		<description>Infinite Metal Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXESKLVG</genie>
+		<description>Infinite Clash Man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNIVGVG</genie>
+		<description>Infinite 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXTGZVG</genie>
+		<description>Infinite 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKTALVG</genie>
+		<description>Infinite 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXEAUUSZ</genie>
+		<description>Multi-jump (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LXEEYIYZ</genie>
+		<description>Multi-jump (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEEASLGA</genie>
+		<description>Multi-jump (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEEAKLEX</genie>
+		<description>Multi-jump (4 of 4)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SSNLNKVS</genie>
+        <description>Collectable items never disappear</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OUVVASOO</genie>
+        <description>Special items re-appear after being collected</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ASUNZZEP</genie>
+		<description>Enemies always drop x (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SSUNLXKK</genie>
+		<description>Enemies always drop extra lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OSUNLXKK</genie>
+		<description>Enemies always drop large health refill (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SSUNLXKG</genie>
+		<description>Enemies always drop large weapon refill (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVAZEKI</genie>
+		<description>Able to access already defeated boss stages</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKAIEGO</genie>
+		<description>Start with half health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANALALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANALALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANALALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x004B</address>
+        <value>0x02</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009A</address>
+        <value>0xFF</value>
+        <description>Have all weapons and all stages cleared (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009B</address>
+        <value>0xFF</value>
+        <description>Have all weapons and all stages cleared (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009C</address>
+        <value>0x1E</value>
+        <description>Infinite Heat Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009D</address>
+        <value>0x1E</value>
+        <description>Infinite Air Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009E</address>
+        <value>0x1E</value>
+        <description>Infinite Wood Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009F</address>
+        <value>0x1E</value>
+        <description>Infinite Bubble Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A0</address>
+        <value>0x1E</value>
+        <description>Infinite Quick Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A1</address>
+        <value>0x1E</value>
+        <description>Infinite Flash Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A2</address>
+        <value>0x1E</value>
+        <description>Infinite Metal Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A3</address>
+        <value>0x1E</value>
+        <description>Infinite Crash Man once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A4</address>
+        <value>0x1E</value>
+        <description>Infinite 1 once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A5</address>
+        <value>0x1E</value>
+        <description>Infinite 2 once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A6</address>
+        <value>0x1E</value>
+        <description>Infinite 3 once obtained</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A7</address>
+        <value>0x03</value>
+        <description>Infinite energy tanks</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A8</address>
+        <value>0x04</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0xFF</value>
+        <description>Atomic Fire always fully charged</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A8</address>
+        <value>0x00</value>
+        <description>Bosses have no invulnerability time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C0</address>
+        <value>0x1E</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

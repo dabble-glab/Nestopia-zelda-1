@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEUAYTZA</genie>
+		<description>1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUAYTZA</genie>
+		<description>6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUAYTZE</genie>
+		<description>9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEUEZVSE</genie>
+		<description>1 life - P2 in 2P cooperative and competitive games</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNETZVG</genie>
+		<description>Infinite lives - both players in alternating type games</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEALUVK</genie>
+		<description>Infinite lives - P2 only, in other type games</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVONINZK</genie>
+		<description>Super fast turbo speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUEZTZA</genie>
+		<description>Pinky out of game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASEZTZA</genie>
+		<description>Sue out of game</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x023D</address>
+        <value>0x0E</value>
+        <description>Only pink ghost escapes from center (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x002A</address>
+        <value>0x1B</value>
+        <description>Only pink ghost escapes from center (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x002C</address>
+        <value>0x0B</value>
+        <description>Only pink ghost escapes from center (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D0</address>
+        <value>0x09</value>
+        <description>Max score - P1 (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D1</address>
+        <value>0x99</value>
+        <description>Max score - P1 (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D2</address>
+        <value>0x99</value>
+        <description>Max score - P1 (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D4</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C5</address>
+        <value>0x01</value>
+        <description>Ghosts stay blue until eaten</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0127</address>
+        <value>0x01</value>
+        <description>Start on level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0127</address>
+        <value>0x02</value>
+        <description>Start on level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0127</address>
+        <value>0x03</value>
+        <description>Start on level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0127</address>
+        <value>0x04</value>
+        <description>Start on level 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0127</address>
+        <value>0x05</value>
+        <description>Start on level 6</description>
+    </cheat>
+</cheats>

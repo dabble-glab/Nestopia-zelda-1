@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVZINVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>AAXXZILA</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LINXTZYZ</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEKAAAZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKAAAZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKAAAZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUAAEGA</genie>
+		<description>Start with less initial energy (but more maximum energy)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOUAAEGE</genie>
+		<description>Start with more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEEYEGA</genie>
+		<description>Super-jump when normal</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVPIKSE</genie>
+		<description>Keep speed up after powered down</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASZTYAA</genie>
+		<description>Gain energy from picking up smiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXELAAA</genie>
+		<description>Start on stage 2-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXELAAE</genie>
+		<description>Start on stage 3-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOXELAAA</genie>
+		<description>Start on stage 4-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOXELAAA</genie>
+		<description>Start on Stage 5-1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXXELAAA</genie>
+		<description>Start on stage 6-1</description>
+	</cheat>
+</cheats>

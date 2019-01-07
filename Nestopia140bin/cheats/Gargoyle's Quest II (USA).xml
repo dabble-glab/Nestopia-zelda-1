@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXSELPSX</genie>
+		<description>Infinite fight</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OESAKAIE</genie>
+		<description>Invincibility (except Doppelganger when it mimics you)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KVNVYLIA</genie>
+		<description>Invincible against spikes</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>APOEGLEP</genie>
+        <description>Walk through walls</description>
+    </cheat>
+</cheats>

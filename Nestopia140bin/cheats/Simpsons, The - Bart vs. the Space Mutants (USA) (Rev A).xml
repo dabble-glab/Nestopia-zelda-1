@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>XVOYLXXK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYNNIXGU</genie>
+		<description>Slow down time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZNNIXGL</genie>
+		<description>Speed up time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAENGYAA</genie>
+		<description>Gain 2 coins for every 1 collected</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOYZNTE</genie>
+		<description>Only 10 coins needed to get an extra life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOXIXVK</genie>
+		<description>Buy items for free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXLIEVK</genie>
+		<description>Buy items for free (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPUYVUGA</genie>
+		<description>Super-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x04B2</address>
+        <value>0x01</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04BD</address>
+        <value>0xFF</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x066C</address>
+        <value>0x09</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+</cheats>

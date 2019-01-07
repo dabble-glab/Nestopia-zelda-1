@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEUSZSA</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKGYXSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKKESE</genie>
+		<description>Infinite Apples</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESNKNGEY</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESEYUPEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+</cheats>

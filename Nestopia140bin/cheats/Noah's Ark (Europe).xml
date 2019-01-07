@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZUUNAAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKUYAX</genie>
+		<description>Invincible against spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKUUGSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKNEGUVK</genie>
+		<description>Infinite lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKSAVEVK</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGEVZOVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+</cheats>

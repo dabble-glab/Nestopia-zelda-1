@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXXGXGST</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVLIPZA</genie>
+		<description>Maximum health from Chili Dogs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUKOKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESSTSPO</genie>
+		<description>Only 10 Magnum Bullets allowed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVIZSPO</genie>
+		<description>Only 10 Magnum Bullets allowed (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUSSTSPP</genie>
+		<description>50 Magnum Bullets allowed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUVIZSPP</genie>
+		<description>50 Magnum Bullets allowed (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANSGIIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANSGIIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x06D3</address>
+        <value>0x63</value>
+        <description>Infinite Time Bombs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D4</address>
+        <value>0x63</value>
+        <description>Infinite Hot Dogs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D5</address>
+        <value>0x63</value>
+        <description>Infinite Spear Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D6</address>
+        <value>0x63</value>
+        <description>Infinite Bazooka</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D7</address>
+        <value>0x63</value>
+        <description>Infinie Rope</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D8</address>
+        <value>0x63</value>
+        <description>Infinite Armor Vest</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D9</address>
+        <value>0x63</value>
+        <description>Infinite Mask</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06DA</address>
+        <value>0x63</value>
+        <description>Infinite Flashlight</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06DB</address>
+        <value>0x63</value>
+        <description>Infinite Prybars</description>
+    </cheat>
+</cheats>

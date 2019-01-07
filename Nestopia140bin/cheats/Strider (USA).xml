@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXNAUKPX</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PVNAVGIU</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>AANVSZTZ</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEEVXXPP</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ZAUXEYPE</genie>
+		<description>More energy from small capsules (10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUXXNZA</genie>
+		<description>More energy from big capsules (20)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUXKYPE</genie>
+		<description>Health from small capsules (10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUXVNZA</genie>
+		<description>Health from big capsules (20)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEXVNAO</genie>
+		<description>Double health and energy from all capsules</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x048B</address>
+        <value>0x09</value>
+        <description>Max stats, all tricks, Slide In, Plasma Arrow (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x048D</address>
+        <value>0x01</value>
+        <description>Max stats, all tricks, Slide In, Plasma Arrow (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x048C</address>
+        <value>0xFF</value>
+        <description>Have all Keys and start on Red Dragon level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x048E</address>
+        <value>0xFF</value>
+        <description>Have all Data Files</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0538</address>
+        <value>0x0A</value>
+        <description>High-jump</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x055D</address>
+        <value>0xA7</value>
+        <description>Plasma Sword is instantly charged</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x056B</address>
+        <value>0x63</value>
+        <description>Infinite power</description>
+    </cheat>
+</cheats>

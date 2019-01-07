@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0326</address>
+        <value>0x42</value>
+        <description>Infinite hearts</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0342</address>
+        <value>0x04</value>
+        <description>Infinite Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0391</address>
+        <value>0x60</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0398</address>
+        <value>0x01</value>
+        <description>One-hit knockdowns</description>
+    </cheat>
+</cheats>

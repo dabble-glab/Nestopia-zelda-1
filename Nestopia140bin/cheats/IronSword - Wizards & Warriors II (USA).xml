@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXXANAVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZUAXPVK</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXSNKVS</genie>
+		<description>Infinite magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOSEGAA</genie>
+		<description>Infinite money</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEOOTISZ</genie>
+		<description>Infinite keys once one is obtained</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEOEAZA</genie>
+		<description>Food gives full health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOPNPZA</genie>
+		<description>Drink gives full health</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>OTUIGLSV</genie>
+        <description>Super-jump (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAUIILVE</genie>
+        <description>Super-jump (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>LEVEXZAA</genie>
+		<description>Start with Axe and Helmet</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVAVXNY</genie>
+		<description>Start with Shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOAGUGA</genie>
+		<description>Start with Ironsword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASIYPLA</genie>
+		<description>Fleet foot jumping</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXKSYUPX</genie>
+		<description>Fleet foot running</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEEEPZAE</genie>
+		<description>Start on wind level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOEEPZAA</genie>
+		<description>Start on tree level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOEEPZAA</genie>
+		<description>Start on water level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOEEPZAA</genie>
+		<description>Start on outer fire level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LUEEPZAA</genie>
+		<description>Start on lower earth level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PUEEPZAA</genie>
+		<description>Start on lower icefire mountain</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEAVLAE</genie>
+		<description>Start a new game with full magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENAEZLA</genie>
+		<description>Start with 1 life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESEXPLA</genie>
+		<description>Start with 1 life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENAEZLA</genie>
+		<description>Start with 6 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESEXPLA</genie>
+		<description>Start with 6 lives (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x00</value>
+        <description>Have the Dagger</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x01</value>
+        <description>Have the Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x02</value>
+        <description>Have the Long Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x03</value>
+        <description>Have the Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x04</value>
+        <description>Have the Large Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x05</value>
+        <description>Have the Ironsword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x06</value>
+        <description>Have the Diamond Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0068</address>
+        <value>0x01</value>
+        <description>Have the Helmet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0068</address>
+        <value>0x02</value>
+        <description>Have the Horned Helmet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0068</address>
+        <value>0x03</value>
+        <description>Have the Diamond Helmet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0069</address>
+        <value>0x01</value>
+        <description>Have the Large Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0069</address>
+        <value>0x02</value>
+        <description>Have the Diamond Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006A</address>
+        <value>0xFF</value>
+        <description>Infinite health (disable at end of stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006B</address>
+        <value>0xFF</value>
+        <description>Infinite magic once obtained (disable at end of stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006C</address>
+        <value>0x08</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0096</address>
+        <value>0x0A</value>
+        <description>Infinite money (alt) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x64</value>
+        <description>Infinite money (alt) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F7</address>
+        <value>0x0F</value>
+        <description>Have the Sindarin Treasures</description>
+    </cheat>
+</cheats>

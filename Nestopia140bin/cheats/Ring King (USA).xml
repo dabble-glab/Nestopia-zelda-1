@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZEIPVVK</genie>
+		<description>Unlimited power points - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKZXYOP</genie>
+		<description>Don't lose stamina from fighting</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOSLYTA</genie>
+		<description>Rounds are 30 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOSLYTE</genie>
+		<description>Rounds are 90 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOZOIOP</genie>
+		<description>Players can't hurt each other</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0319</address>
+        <value>0x00</value>
+        <description>No health - P2 / CPU</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x038D</address>
+        <value>0x09</value>
+        <description>Infinite power (ten's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x038E</address>
+        <value>0x09</value>
+        <description>Infinite power (one's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x038F</address>
+        <value>0x09</value>
+        <description>Max punch (ten's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0390</address>
+        <value>0x09</value>
+        <description>Max punch (one's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0391</address>
+        <value>0x09</value>
+        <description>Max speed (ten's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0392</address>
+        <value>0x09</value>
+        <description>Max speed (one's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0393</address>
+        <value>0x09</value>
+        <description>Max stamina (ten's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0394</address>
+        <value>0x09</value>
+        <description>Max stamina (one's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06E4</address>
+        <value>0x09</value>
+        <description>Infinite time (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06E5</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06EC</address>
+        <value>0x00</value>
+        <description>No hits (hundred's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06ED</address>
+        <value>0x00</value>
+        <description>No hits (ten's digit) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06EE</address>
+        <value>0x00</value>
+        <description>No hits (one's digit) - P1</description>
+    </cheat>
+</cheats>

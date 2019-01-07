@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OZKAIGVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGKAIGVG</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUITIIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUITIIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZXPUZVK</genie>
+		<description>Infinite Maverick missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXKPVGVK</genie>
+		<description>Infinite Hawk Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESITITA</genie>
+		<description>Start with half Hawk Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOSITITA</genie>
+		<description>Start with 20 Hawk Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESSZIZE</genie>
+		<description>Start with 8 Phoenix and Maverick missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENXKGZA</genie>
+		<description>Double cost of Hawk Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXZKIZA</genie>
+		<description>Double cost of Phoenix missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOZEIIE</genie>
+		<description>Double cost of Maverick missiles</description>
+	</cheat>
+</cheats>
