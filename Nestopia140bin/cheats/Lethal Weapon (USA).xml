@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OLSSGSOO</genie>
+		<description>Infinite ammo when shooting on the ground</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKVIXAAP</genie>
+		<description>E restores health completely</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVIXAAP</genie>
+		<description>E worth nothing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKKSEAAP</genie>
+		<description>Extra ammo restores ammo completely</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKSEAAP</genie>
+		<description>Extra ammo worth nothing (if you run out of ammo you can't use gun till next stage)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUYXAAZ</genie>
+		<description>No health lost when falling off screen</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKUYXAAZ</genie>
+		<description>Falling off screen is fatal</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNNISAAU</genie>
+		<description>Bullet proof vest lasts longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVUKOOXK</genie>
+		<description>Bullet proof vest lasts until end of stage, except when you die from punches or falling off screen</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUSSISOO</genie>
+		<description>Infinite ammo when shooting in the air (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUXIPSOO</genie>
+		<description>Infinite ammo when shooting in the air (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTUGTXXK</genie>
+		<description>Start on Level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XZUGLXVL</genie>
+		<description>Start on Level 3 (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUGGZNP</genie>
+		<description>Start on Level 3 (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTUGIZEK</genie>
+		<description>Start on Level 3 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x003F</address>
+        <value>0x3A</value>
+        <description>Infinite ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05C0</address>
+        <value>0x3F</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05C4</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05ED</address>
+        <value>0x09</value>
+        <description>Invincibility (blinking) - P1</description>
+    </cheat>
+</cheats>

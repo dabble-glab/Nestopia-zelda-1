@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GOUYPEAZ</genie>
+		<description>Short wait for next characters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUYPEAZ</genie>
+		<description>Really short wait for next characters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNUYPEAX</genie>
+		<description>Really long wait for next characters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVSULYZA</genie>
+		<description>Freeze characters for a short time (press Down)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVAAPLA</genie>
+		<description>Need only 1 Victory Egg to win (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESTAZLA</genie>
+		<description>Need only 1 Victory Egg to win (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXTZLLA</genie>
+		<description>Need only 1 Victory Egg to win (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVAAPLA</genie>
+		<description>Need only 2 Victory Eggs to win (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESTAZLA</genie>
+		<description>Need only 2 Victory Eggs to win (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXTZLLA</genie>
+		<description>Need only 2 Victory Eggs to win (3 of 3)</description>
+	</cheat>
+</cheats>

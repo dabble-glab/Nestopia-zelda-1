@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOATOVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANXPLGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANXPLGE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVTXZAX</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNVOSOKN</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXNVKXPK</genie>
+		<description>Take minimal damage (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNNVSXNN</genie>
+		<description>Take minimal damage (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOOVZZA</genie>
+		<description>Slower running (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUOXZZA</genie>
+		<description>Slower running (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOOVZZA</genie>
+		<description>Faster running (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUOXZZA</genie>
+		<description>Faster running (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESPKGZA</genie>
+		<description>Faster and longer jumping (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEVPEGZA</genie>
+		<description>Faster and longer jumping (2 of 2)</description>
+	</cheat>
+</cheats>

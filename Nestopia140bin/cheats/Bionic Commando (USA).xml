@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AVSTYNVG</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNUIYVG</genie>
+		<description>Infinite lives in main game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUEZPVG</genie>
+		<description>Infinite lives in sub-game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSTYNVK</genie>
+		<description>Don't take damage from bullets and collisions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTNZXVVK</genie>
+		<description>Don't take damage from spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUOAOVK</genie>
+		<description>Don't take damange from bullets and collisions in sub-game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATOVUGAZ</genie>
+		<description>Hit anywhere (1 of 5)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AVKOPEEP</genie>
+		<description>Hit anywhere (2 of 5)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AVNVUKAL</genie>
+		<description>Hit anywhere (3 of 5)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AVXENVSL</genie>
+		<description>Hit anywhere (4 of 5)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>SZKTVUOO</genie>
+		<description>Hit anywhere (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XYXUUOEN</genie>
+		<description>Autofire - main game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKUOOZA</genie>
+		<description>Use with BIO Code 11 for improved autofire with normal gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUGSZZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUGSZZA</genie>
+		<description>Start with double lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUGSZZE</genie>
+		<description>Start with triple lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VGKKNXUK</genie>
+		<description>Start with 3-way gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUKOZAA</genie>
+		<description>Start with 3 life energy capsules (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTUKUXVU</genie>
+		<description>Start with 3 life energy capsules (2 of 2)</description>
+	</cheat>
+</cheats>

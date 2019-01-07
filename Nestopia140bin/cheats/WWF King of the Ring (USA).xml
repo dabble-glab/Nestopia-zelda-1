@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>VZUUIVOO</genie>
+		<description>Infinite health - both players</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0168</address>
+        <value>0xBF</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0194</address>
+        <value>0x00</value>
+        <description>No health - P2</description>
+    </cheat>
+</cheats>

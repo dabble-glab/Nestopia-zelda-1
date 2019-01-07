@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>TOKYLKYE</genie>
+		<description>30-minute quarters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKYLKYE</genie>
+		<description>10-minute quarters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEKLUNSE</genie>
+		<description>No timeouts - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUUNYLA</genie>
+		<description>6 timeouts per half (ignore display)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUUNYLA</genie>
+		<description>1 timeout per half</description>
+	</cheat>
+</cheats>

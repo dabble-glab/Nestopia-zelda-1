@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>NYVPOETE</genie>
+		<description>Balls are counted as strikes (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVPUEON</genie>
+		<description>Balls are counted as strikes (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOPSEVV</genie>
+		<description>Some strikes aren't counted</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOPXAZA</genie>
+		<description>1 strike and you're out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOPXAZA</genie>
+		<description>2 strikes and you're out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKOXEVV</genie>
+		<description>Balls aren't counted</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOAIUVV</genie>
+		<description>Strike outs aren't counted</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOEGLLA</genie>
+		<description>Each strike out counts as 3 outs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOEGLLA</genie>
+		<description>Each strike out counts as 2 outs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOEGLLA</genie>
+		<description>5 strike outs allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOEGLLA</genie>
+		<description>9 strike outs allowed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSYGNVV</genie>
+		<description>Computer can't score (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSNTNVN</genie>
+		<description>Computer can't score (2 of 2)</description>
+	</cheat>
+</cheats>

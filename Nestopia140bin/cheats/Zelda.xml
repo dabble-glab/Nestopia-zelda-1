@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="1" game="0x3FE272FB">
+        <genie>SZVXASVK</genie>
+        <rocky>ADEE8098</rocky>
+        <address>0xA568</address>
+        <value>0xAD</value>
+        <compare>0xCE</compare>
+        <description>Don&apos;t lose rubies when buying</description>
+    </cheat>
+    <cheat enabled="1" game="0x3FE272FB">
+        <genie>SZNZVOVK</genie>
+        <rocky>ADEE412A</rocky>
+        <address>0xA976</address>
+        <value>0xAD</value>
+        <compare>0xCE</compare>
+        <description>Infinite bombs</description>
+    </cheat>
+    <cheat enabled="1" game="0x3FE272FB">
+        <genie>AVVLAUSZ</genie>
+        <rocky>D323FF80</rocky>
+        <address>0xB3E0</address>
+        <value>0x60</value>
+        <compare>0xAD</compare>
+        <description>Don&apos;t take damage from anything</description>
+    </cheat>
+</cheats>

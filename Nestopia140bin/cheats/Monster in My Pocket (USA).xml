@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUKEPSVS</genie>
+		<description>Invincibility after first hit (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOVAPTEP</genie>
+		<description>Invincibility after first hit (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUSEIVVS</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLSAASVS</genie>
+		<description>Infinite lives</description>
+	</cheat>
+</cheats>

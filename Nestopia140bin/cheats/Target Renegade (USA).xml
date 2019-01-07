@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEAOZVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEATXSU</genie>
+		<description>Set timer to 5:00 for all levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKESZZA</genie>
+		<description>Hearts replenish health to maximum</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVZVTSA</genie>
+		<description>Don't take most damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASPSPGP</genie>
+		<description>Take half damage from bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOOYZAA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOOYZAA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOOYZAA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOOYZAA</genie>
+		<description>Start on level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOOYZAA</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOOYZAA</genie>
+		<description>Start on level 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEATXSU</genie>
+		<description>Set timer to 3:00 for all levels (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NKEEAZEE</genie>
+		<description>Set timer to 3:00 for all levels (1 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00DA</address>
+        <value>0x40</value>
+        <description>Infinite health (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00DB</address>
+        <value>0x40</value>
+        <description>Infinite health (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00EB</address>
+        <value>0x09</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+</cheats>

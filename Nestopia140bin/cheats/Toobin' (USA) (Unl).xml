@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXUTGIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOTZTLA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOTZTLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOTZTLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEZZIVG</genie>
+		<description>Infinite cans</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPOTTTTA</genie>
+		<description>Start with 18 cans</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOTTTTE</genie>
+		<description>Start with 12 cans</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOTTTTA</genie>
+		<description>Start with 1 can</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOZEAAA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOZEAAA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOZEAAA</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOZEAAA</genie>
+		<description>Start on level 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALKXTAAZ</genie>
+		<description>Turbo left and right movement (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALVXLAAZ</genie>
+		<description>Turbo left and right movement (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x003F</address>
+        <value>0x02</value>
+        <description>Faster shots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004A</address>
+        <value>0x00</value>
+        <description>Don&apos;t go into dying animation (use with invincibility) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004B</address>
+        <value>0x00</value>
+        <description>Don&apos;t go into dying animation (use with invincibility) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004C</address>
+        <value>0xFF</value>
+        <description>Infinite cans (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x7F</value>
+        <description>Have all letters</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x09</value>
+        <description>Infinite patches</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x02D3</address>
+        <value>0x00</value>
+        <description>Invincibility (glitchy)</description>
+    </cheat>
+</cheats>

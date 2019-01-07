@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSYOPVG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVAYTVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAONOGAE</genie>
+		<description>Start with weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUGZUPA</genie>
+		<description>Less rocks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEYTVVK</genie>
+		<description>Infinite rocks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEUIUVK</genie>
+		<description>Infinite rope on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEXTEVK</genie>
+		<description>Infinite dynamite on pick-up</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0187</address>
+        <value>0x09</value>
+        <description>Infinite time (disable before exiting stage)</description>
+    </cheat>
+</cheats>

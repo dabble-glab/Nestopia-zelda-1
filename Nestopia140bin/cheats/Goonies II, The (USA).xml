@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SESEZESX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSUNTSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUAOPZA</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SSOOUZVI</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUGUYVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUAOPZA</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUEKPGA</genie>
+		<description>Better Jumping Boots on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESAPAPA</genie>
+		<description>Super-speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUASSVK</genie>
+		<description>Infinite Bombs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVAESVK</genie>
+		<description>Infinite Molotov Bombs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNEEVVK</genie>
+		<description>Infinite Sling Shots on pick-up</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AOSAYVOG</genie>
+        <description>Walk through walls (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>APSAZYEY</genie>
+        <description>Walk through walls (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNAANSE</genie>
+        <description>Walk through walls (3 of 3)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>GAUIZGZA</genie>
+		<description>Start with 4 health cells (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGUIYGAZ</genie>
+		<description>Start with 4 health cells (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUIZGZE</genie>
+		<description>Start with 8 health cells (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAUIYGAZ</genie>
+		<description>Start with 8 health cells (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPVIAGPE</genie>
+		<description>Start with all items</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVIAGPA</genie>
+		<description>Start with Boomerang</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXSZGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXSZGLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXSZGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0516</address>
+        <value>0x41</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0503</address>
+        <value>0x20</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0022</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0500</address>
+        <value>0x08</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x050A</address>
+        <value>0xFF</value>
+        <description>Have all Implements</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x050B</address>
+        <value>0xFF</value>
+        <description>Have all weapons (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x050C</address>
+        <value>0xFF</value>
+        <description>Have all weapons (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0000</address>
+        <value>0x08</value>
+        <description>View ending (enable then disable) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0001</address>
+        <value>0x00</value>
+        <description>View ending (enable then disable) (2 of 2)</description>
+    </cheat>
+</cheats>

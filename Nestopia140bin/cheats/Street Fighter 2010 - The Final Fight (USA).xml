@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AZNSYIPP</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EINSTIEL</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNSLSOS</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEETAGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEETAGE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUATPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUIPGZA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYSSLGEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUIPGZA</genie>
+		<description>Take less damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUIPGZA</genie>
+		<description>Take more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOAZPSA</genie>
+		<description>Keep power-ups after losing a life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKIYGZA</genie>
+		<description>Keep power-ups when hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESESPPA</genie>
+		<description>Faster Ken</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SLUKAZSP</genie>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXVTVUVK</genie>
+        <description>Portal always stays open</description>
+    </cheat>
+</cheats>

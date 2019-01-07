@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SZUIXISA</genie>
+        <description>Invincible against punches and kicks</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXNVLTSA</genie>
+        <description>Tao does not throw fireballs</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXNTSASA</genie>
+        <description>Chen does not hit you with his chain</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZVVATEK</genie>
+        <description>Lang does not throw shurikens</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVOSOVOZ</genie>
+        <description>Bonus doesn't end when you're hit with a sword or fan</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00DB</address>
+        <value>0x00</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

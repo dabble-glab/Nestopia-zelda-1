@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SOLAUN</genie>
+		<description>Create super characters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XGLAUN</genie>
+		<description>Girdle Of Giant strength (Must be used to be effective) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GGLAUP</genie>
+		<description>Girdle Of Giant strength (Must be used to be effective) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TLGAXL</genie>
+		<description>Extra EXP points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXLALN</genie>
+		<description>One hit ends battle with no gold or EXP</description>
+	</cheat>
+</cheats>

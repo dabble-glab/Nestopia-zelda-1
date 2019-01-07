@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVAIAAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUXZYPOP</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTKKKEXK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOXLAAX</genie>
+		<description>Indestructible fireball</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXZIALZ</genie>
+		<description>Continuous fairies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAXOOEVE</genie>
+		<description>Start with 40,000 life points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUPTOSE</genie>
+		<description>Start on last level reached</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTUPTOSE</genie>
+		<description>Start on next level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUOPOSE</genie>
+		<description>Start on level XX (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UPUOLPGA</genie>
+		<description>Start on level XX (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUPIPAE</genie>
+		<description>Start on level 10 (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPUPIPAA</genie>
+		<description>Start on level 20 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPUPIPAE</genie>
+		<description>Start on level 30 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YZUPIPAA</genie>
+		<description>Start on level 40 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0028</address>
+        <value>0x80</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042F</address>
+        <value>0x80</value>
+        <description>Infinite fireballs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0438</address>
+        <value>0x09</value>
+        <description>Infinite life (alt)</description>
+    </cheat>
+</cheats>

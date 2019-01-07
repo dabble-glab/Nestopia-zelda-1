@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATSKZAKZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKKIAVG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNGLAKA</genie>
+		<description>Immune to rocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXEAPSA</genie>
+		<description>Keep weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIUEOLEL</genie>
+		<description>Get fruits from anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKGTOKI</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKKYPYA</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OLSGZOOO</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SPEEIIEG</genie>
+		<description>Can mega-jump while at rest</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SPEETSOZ</genie>
+		<description>Can mega-jump while running</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEAYIPA</genie>
+		<description>Multi-mega-maxi-moon jumps (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVEZGPZ</genie>
+		<description>Multi-mega-maxi-moon jumps (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKAPIPA</genie>
+		<description>Hudson can moonwalk (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEEZIAA</genie>
+		<description>Hudson can moonwalk (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>GXVAGGEI</genie>
+        <description>Multi-jump (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXVEPGEI</genie>
+        <description>Multi-jump (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ALSAIIEI</genie>
+		<description>Skateboard doesn't automatically move forward</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATKAEUVI</genie>
+		<description>Collectable items never disappear</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEEPALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEEPALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEEPALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOEGPVG</genie>
+		<description>Start with infinite lives</description>
+	</cheat>
+</cheats>

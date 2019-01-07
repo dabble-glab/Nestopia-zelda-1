@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EYESUIEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKEZPVG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEGEAAA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEGEAAE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEGSAPA</genie>
+		<description>Start with 3 balloons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAEGSAPA</genie>
+		<description>Start with 6 balloons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNETEVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXEUXVK</genie>
+		<description>Infinite Balloons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEKXATA</genie>
+		<description>Start with only 1 heart (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEELATA</genie>
+		<description>Start with only 1 heart (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEKXATE</genie>
+		<description>Start with 4 hearts (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEELATE</genie>
+		<description>Start with 4 hearts (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A9</address>
+        <value>0x09</value>
+        <description>Invincibility after one hit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AD</address>
+        <value>0x06</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0360</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x050C</address>
+        <value>0x05</value>
+        <description>Infinite Balloons (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x056C</address>
+        <value>0xFF</value>
+        <description>Infinite Crystals</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x057C</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

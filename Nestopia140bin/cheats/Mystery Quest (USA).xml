@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXNPYAVG</genie>
+		<description>Invincibility</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SXNPYAVG</genie>
+        <description>Infinite vitality</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEXOGEEY</genie>
+		<description>Immune to monster attacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUOAENY</genie>
+		<description>Immune to shallow water</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATSEUYAG</genie>
+		<description>Start with more vitality</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZSEUYAG</genie>
+		<description>Start with less vitality</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUOKPAA</genie>
+		<description>Start with Raft and Key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVOOYSA</genie>
+		<description>Never lose Key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENOPTAA</genie>
+		<description>Never lose Raft</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AEOPKZYL</genie>
+        <description>Lines are cleared when a piece is dropped</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GAOPEILA</genie>
+        <description>Disable Game Over (press start) (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GGOPSZEN</genie>
+        <description>Disable Game Over (press start) (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XPOPNZSX</genie>
+        <description>Disable Game Over (press start) (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YGOPVZAL</genie>
+        <description>Disable Game Over (press start) (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEEOUKAA</genie>
+		<description>999999 score with one piece dropped</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOUZYLTO</genie>
+		<description>Puzzle area doesn't disappear on pause</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENEALYNN</genie>
+		<description>2P interactive game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APSEGYIZ</genie>
+		<description>Need only complete 10 lines in game B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AISEGYIZ</genie>
+		<description>Must complete 50 lines in game B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EASEGYIZ</genie>
+		<description>Must complete 80 lines in game B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASAUPPE</genie>
+		<description>Faster forced fall rate</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x02</value>
+        <description>Next piece is a T-block</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x07</value>
+        <description>Next piece is a J-block</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x08</value>
+        <description>Next piece is a Z-block</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x0A</value>
+        <description>Next piece is a square block</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x0B</value>
+        <description>Next piece is a S-block</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x0E</value>
+        <description>Next piece is a L-block</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x12</value>
+        <description>Next piece is a straight line block</description>
+    </cheat>
+</cheats>

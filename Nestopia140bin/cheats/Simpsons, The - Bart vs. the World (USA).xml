@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZOXVGLIE</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZONIPST</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVVEKVK</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EISVNGEY</genie>
+		<description>Lose lives more easily</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OLUNPPOP</genie>
+		<description>Infinite Firecracker Balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEZPAAE</genie>
+		<description>Start with 99 Firecracker Balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXXVGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNZPEVK</genie>
+		<description>Infinite tries for the card match game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KLYUKA</genie>
+		<description>Bart flies</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x06BC</address>
+        <value>0x05</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C1</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06BF</address>
+        <value>0x09</value>
+        <description>Infinite Firecracker Balls (alt)</description>
+    </cheat>
+</cheats>

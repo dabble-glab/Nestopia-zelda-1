@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSEVZVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUOEIGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUOEIGA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNOKAVK</genie>
+		<description>Infinite papers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOXAUOZA</genie>
+		<description>Start with 20 papers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUONUZA</genie>
+		<description>Gain 20 papers on pick-up</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>APNEOZEO</genie>
+        <description>Invincibility against moving objects (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATNEXZGA</genie>
+        <description>Invincibility against moving objects (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZXOUESE</genie>
+        <description>Infinite time in training course</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAKPSGTA</genie>
+        <description>Invincibility against non-moving objects</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>PAKPUPZA</genie>
+        <description>Broken windows count as deliveries</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>ASSOOAEY</genie>
+        <description>Deliver from anywhere (must be within range of house) (1 of 2)</description>
+	<cheat enabled="0">
+        <genie>YNSOXAAI</genie>
+        <description>Deliver from anywhere (must be within range of house) (1 of 2)</description>
+    </cheat>
+    </cheat>
+</cheats>

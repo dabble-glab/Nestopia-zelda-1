@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AVSTEXPT</genie>
+        <description>Infinite health (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>INKVNXAO</genie>
+        <description>Infinite health (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LUKVSZPY</genie>
+        <description>Infinite health (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXKVKXSX</genie>
+        <description>Infinite health (4 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SEKVVZGA</genie>
+        <description>Infinite health (5 of 5)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SXUIOTVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOSLYZA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOSLYZA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOSLYZE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIUOZUAZ</genie>
+		<description>Start with a super energy boost</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXSYYAA</genie>
+		<description>Start on mission 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXSYYAA</genie>
+		<description>Start on mission 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXSYYAA</genie>
+		<description>Start on mission 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOSVOXTU</genie>
+		<description>Timer runs faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EXSVOXTL</genie>
+		<description>Timer runs slower</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0472</address>
+        <value>0x59</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007E</address>
+        <value>0x00</value>
+        <description>Enemies have no health (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x00</value>
+        <description>Enemies have no health (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0080</address>
+        <value>0x00</value>
+        <description>Enemies have no health (3 of 3)</description>
+    </cheat>
+</cheats>

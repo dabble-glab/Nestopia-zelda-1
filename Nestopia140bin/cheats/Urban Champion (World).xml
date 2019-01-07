@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEEIZGGE</genie>
+		<description>Powerful quick punches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOEIZGGA</genie>
+		<description>Super powerful quick punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOTZLVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENVTZTA</genie>
+		<description>Speed up the timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXSLLPA</genie>
+		<description>Become a stronger fighter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXSLLPA</genie>
+		<description>Become a weaker fighter</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00CA</address>
+        <value>0x99</value>
+        <description>Infinite stamina</description>
+    </cheat>
+</cheats>

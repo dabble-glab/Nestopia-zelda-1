@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESXIZTEY</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENXSGTEI</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKVOKVK</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUXYALA</genie>
+		<description>Start with 1 life instead of 3 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUXYALA</genie>
+		<description>Start with 5 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUXYALA</genie>
+		<description>Start with 7 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUXYALE</genie>
+		<description>Start with 9 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNXTEVK</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKVOKVK</genie>
+		<description>Protection from most enemy hits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUVYVVK</genie>
+		<description>Protection from water</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXZGLAO</genie>
+		<description>Start with 1/2 health (die when bar is 1/2 empty)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKUEAPE</genie>
+		<description>Stone axe and flint do more damage to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKUEAPE</genie>
+		<description>Stone axe and flint do a lot more damage to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASLOAZE</genie>
+		<description>Stone wheel and boomerang do more damage to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APSLOAZA</genie>
+		<description>Stone wheel and boomerang do a lot more damage to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APSLVAGA</genie>
+		<description>Fire does more damage to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZSLVAGA</genie>
+		<description>Fire does a lot more damage to bosses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVTKUSE</genie>
+		<description>Apple and hamburger worth nothing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVTULAO</genie>
+		<description>Apple and hamburger restore health to 1/2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVUXZAET</genie>
+		<description>Start with stone wheel instead of stone axe - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVUXZAET</genie>
+		<description>Start with flint instead of stone axe - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UVUXZAET</genie>
+		<description>Start with fire instead of stone axe - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KVUXZAET</genie>
+		<description>Start with boomerang instead of stone axe - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKZGAAA</genie>
+		<description>Start somewhere in level 2</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0499</address>
+        <value>0x0F</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x064D</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses</description>
+    </cheat>
+</cheats>

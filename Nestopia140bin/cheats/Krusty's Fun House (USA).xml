@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAKATALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKATALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKATALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUXAEZA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOXSLPA</genie>
+		<description>Pick-up Super Balls instead of Custard Pies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKELEPA</genie>
+		<description>Start with 6 pies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPKELEPA</genie>
+		<description>Start with 18 pies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKZPKVK</genie>
+		<description>Infinite pies - first life only</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0503</address>
+        <value>0x00</value>
+        <description>Have Bouncing Ball</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0503</address>
+        <value>0x01</value>
+        <description>Have Small Rocks</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0511</address>
+        <value>0x09</value>
+        <description>Infinite throwing items</description>
+    </cheat>
+</cheats>

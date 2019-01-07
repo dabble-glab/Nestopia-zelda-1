@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x03C7</address>
+        <value>0xFF</value>
+        <description>Always have fish checking out your lure</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F7</address>
+        <value>0x00</value>
+        <description>Fish on screen will always bite your lure</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0445</address>
+        <value>0x01</value>
+        <description>Rank 1st place</description>
+    </cheat>
+</cheats>

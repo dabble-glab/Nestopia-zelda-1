@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZNSTPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKEYIZA</genie>
+		<description>Start with double lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKEYIZE</genie>
+		<description>Start with triple lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKPZGVG</genie>
+		<description>Infinite Oil</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXSAPIIA</genie>
+		<description>Start with extra Oil</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKEIIAA</genie>
+		<description>Start on level 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKEIIAA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKEIIAA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKEIIAA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKEIIAA</genie>
+		<description>Start on level 5</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A2</address>
+        <value>0x09</value>
+        <description>Infinite lives - both players</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A4</address>
+        <value>0x63</value>
+        <description>Infinite Oil - both players</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A5</address>
+        <value>0xFF</value>
+        <description>MI is very high</description>
+    </cheat>
+</cheats>

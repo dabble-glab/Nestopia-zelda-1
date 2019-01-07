@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUTEEX</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELAGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TELAGA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PELAGE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEGEUG</genie>
+		<description>Slow motion</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0078</address>
+        <value>0xBD</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0615</address>
+        <value>0x99</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXVYPZVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOYIILA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOYIILA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOYIILE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUNLIPP</genie>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXYZTVI</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENNPZLA</genie>
+		<description>Start with double Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENNPZLE</genie>
+		<description>Start with triple Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANYGSZA</genie>
+		<description>Autofire</description>
+	</cheat>
+</cheats>

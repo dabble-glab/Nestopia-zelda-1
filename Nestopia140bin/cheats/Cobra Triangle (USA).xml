@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATVXKLEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUXZVVK</genie>
+		<description>Infinite continue options</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEVNOVK</genie>
+		<description>Don't lose life after dying from damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVTSOVK</genie>
+		<description>Don't lose life after dying from time running out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENXTPVSA</genie>
+		<description>Never lose your power-ups (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXTZVAX</genie>
+		<description>Never lose your power-ups (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVXEAUSE</genie>
+		<description>Gain an extra minute (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOXEPLIP</genie>
+		<description>Gain an extra minute (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIXLPGEL</genie>
+		<description>Hit anywhere (1 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESKZXGEL</genie>
+		<description>Hit anywhere (2 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KPULZGNO</genie>
+		<description>Hit anywhere (3 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OLKXOSOO</genie>
+		<description>Hit anywhere (4 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXLZGZO</genie>
+		<description>Hit anywhere (5 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOKZUKZP</genie>
+		<description>Hit anywhere (6 of 6)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0714</address>
+        <value>0x05</value>
+        <description>Infinite time (disable before finishing a level) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x072B</address>
+        <value>0x03</value>
+        <description>Max Speed</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x072C</address>
+        <value>0x03</value>
+        <description>Max Missile power</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0738</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A3</address>
+        <value>0x00</value>
+        <description>Only 1 mine needed for mine removing stages</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B9</address>
+        <value>0x1A</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05F5</address>
+        <value>0x0C</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05FF</address>
+        <value>0x00</value>
+        <description>Boss HP will be at minimum</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x02</value>
+        <description>Start on stage 02 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x01</value>
+        <description>Start on stage 02 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x03</value>
+        <description>Start on stage 03 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x02</value>
+        <description>Start on stage 03 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x04</value>
+        <description>Start on stage 04 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x03</value>
+        <description>Start on stage 04 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x05</value>
+        <description>Start on stage 05 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x04</value>
+        <description>Start on stage 05 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x06</value>
+        <description>Start on stage 06 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x05</value>
+        <description>Start on stage 06 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x07</value>
+        <description>Start on stage 07 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x06</value>
+        <description>Start on stage 07 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x08</value>
+        <description>Start on stage 08 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x07</value>
+        <description>Start on stage 08 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x09</value>
+        <description>Start on stage 09 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x08</value>
+        <description>Start on stage 09 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x0A</value>
+        <description>Start on stage 10 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x09</value>
+        <description>Start on stage 10 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x0B</value>
+        <description>Start on stage 11 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x0A</value>
+        <description>Start on stage 11 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x0C</value>
+        <description>Start on stage 12 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x0B</value>
+        <description>Start on stage 12 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x0D</value>
+        <description>Start on stage 13 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x0C</value>
+        <description>Start on stage 13 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x0E</value>
+        <description>Start on stage 14 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x0D</value>
+        <description>Start on stage 14 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x0F</value>
+        <description>Start on stage 15 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x0E</value>
+        <description>Start on stage 15 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x10</value>
+        <description>Start on stage 16 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x0F</value>
+        <description>Start on stage 16 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x11</value>
+        <description>Start on stage 17 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x10</value>
+        <description>Start on stage 17 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x12</value>
+        <description>Start on stage 18 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x11</value>
+        <description>Start on stage 18 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x13</value>
+        <description>Start on stage 19 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x12</value>
+        <description>Start on stage 19 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x14</value>
+        <description>Start on stage 20 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x13</value>
+        <description>Start on stage 20 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x15</value>
+        <description>Start on stage 21 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x14</value>
+        <description>Start on stage 21 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x16</value>
+        <description>Start on stage 22 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x15</value>
+        <description>Start on stage 22 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x17</value>
+        <description>Start on stage 23 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x16</value>
+        <description>Start on stage 23 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x18</value>
+        <description>Start on stage 24 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x17</value>
+        <description>Start on stage 24 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x19</value>
+        <description>Start on stage 25 (disable after stage begins) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0737</address>
+        <value>0x18</value>
+        <description>Start on stage 25 (disable after stage begins) (2 of 2)</description>
+    </cheat>
+</cheats>

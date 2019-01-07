@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEXELNZZ</genie>
+		<description>Lines are cleared when a piece is dropped (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXEYYTZ</genie>
+		<description>Lines are cleared when a piece is dropped (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAAEPP</genie>
+		<description>Press down to stop blocks from falling</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPAEPO</genie>
+		<description>Press down to rotate block very fast</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZKPEPEN</genie>
+		<description>Always get straight pieces (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKPOOOY</genie>
+		<description>Always get straight pieces (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZXPKLGX</genie>
+		<description>Speed stays the same (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PZXPSUYZ</genie>
+		<description>Speed stays the same (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042C</address>
+        <value>0x30</value>
+		<description>Start at level (0-9) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x30</value>
+		<description>Start at level 0 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x31</value>
+		<description>Start at level 1 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x32</value>
+		<description>Start at level 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x33</value>
+		<description>Start at level 3 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x34</value>
+		<description>Start at level 4 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x35</value>
+		<description>Start at level 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x36</value>
+		<description>Start at level 6 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x37</value>
+		<description>Start at level 7 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x38</value>
+		<description>Start at level 8 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x39</value>
+		<description>Start at level 9 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042C</address>
+        <value>0x31</value>
+		<description>Start at level (10-17) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x30</value>
+		<description>Start at level 10 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x31</value>
+		<description>Start at level 11 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x32</value>
+		<description>Start at level 12 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x33</value>
+		<description>Start at level 13 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x34</value>
+		<description>Start at level 14 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x35</value>
+		<description>Start at level 15 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x36</value>
+		<description>Start at level 16 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x042D</address>
+        <value>0x37</value>
+		<description>Start at level 17 (2 of 2)</description>
+	</cheat>
+</cheats>

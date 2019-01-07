@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAVEZAZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVEZAZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVEZAZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOZUPVG</genie>
+		<description>Infinite Feathers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXXITVG</genie>
+		<description>Infinite Stars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNOGGVG</genie>
+		<description>Infinite Boomerangs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUZZYVG</genie>
+		<description>Infinite Fireflames</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXSXALA</genie>
+		<description>1 Feather on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXSXALA</genie>
+		<description>6 Feathers on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXSUAGO</genie>
+		<description>10 Stars on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZXSUAGO</genie>
+		<description>40 Stars on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXSKAGA</genie>
+		<description>1 Boomerang on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXSSAGO</genie>
+		<description>10 Fireflames on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZXSSAGO</genie>
+		<description>40 Fireflames on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAEILNYA</genie>
+		<description>Less Invincibility time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZEILNYE</genie>
+		<description>More Invincibility time</description>
+	</cheat>
+</cheats>

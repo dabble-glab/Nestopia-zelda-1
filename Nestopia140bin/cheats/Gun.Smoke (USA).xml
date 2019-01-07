@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAXVTYLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPXVTYLE</genie>
+		<description>Start with 25 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUYTLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUTTYAA</genie>
+		<description>Start with all weapons and lots of ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUTTYAA</genie>
+		<description>Start with all weapons, lots of ammo, all 4 boots and all 4 rifle icons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXNALAA</genie>
+		<description>Keep weapons after death</description>
+	</cheat>
+</cheats>

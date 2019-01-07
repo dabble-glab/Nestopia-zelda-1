@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>APOOKZIP</genie>
+		<description>Each half lasts only 10 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIOOKZIP</genie>
+		<description>Each half lasts for 50 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KASUOTSA</genie>
+		<description>Start X goal up (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KASUUVSE</genie>
+		<description>Start X goal up (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASLVTAA</genie>
+		<description>Start 1 goal up (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASLVTAA (3 of 3)</genie>
+		<description>Start 3 goals up</description>
+	</cheat>
+</cheats>

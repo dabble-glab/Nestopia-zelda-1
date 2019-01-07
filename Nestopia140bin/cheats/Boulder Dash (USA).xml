@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAEGLTPA</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVKKPLSZ</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IKEKYOYX</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUGVGIZ</genie>
+		<description>One Diamond needed to open exit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLEZXTVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSGSYAX</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKIELLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKIELLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKIELLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOXEYLA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOXEYLA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOXEYLE</genie>
+		<description>9 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOSGXNYU</genie>
+		<description>Speed up timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNSGXNYU</genie>
+		<description>Slow down timer</description>
+	</cheat>
+</cheats>

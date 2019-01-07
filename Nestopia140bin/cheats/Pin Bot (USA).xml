@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PANTGZLA</genie>
+		<description>Start with only 1 ball</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANTGZLA</genie>
+		<description>Start with 6 balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANTGZLE</genie>
+		<description>Start with 9 balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVVYZVV</genie>
+		<description>Infinite balls</description>
+	</cheat>
+</cheats>

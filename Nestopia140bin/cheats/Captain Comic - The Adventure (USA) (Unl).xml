@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLATVK</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZATZN</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZATEK</genie>
+		<description>Invincibility</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0316</address>
+        <value>0x09</value>
+        <description>Max blast level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0318</address>
+        <value>0x80</value>
+        <description>Infinite blast meter</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05AA</address>
+        <value>0x01</value>
+        <description>Have Door Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05AB</address>
+        <value>0x01</value>
+        <description>Have Corkscrew</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05AC</address>
+        <value>0x01</value>
+        <description>Have Power Boots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B3</address>
+        <value>0x01</value>
+        <description>Have Teleport Wand</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B4</address>
+        <value>0x01</value>
+        <description>Have Latern</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B5</address>
+        <value>0x01</value>
+        <description>Have Mystical Gems of Lascorbanos</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B6</address>
+        <value>0x01</value>
+        <description>Have Coins of Tenure</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B7</address>
+        <value>0x01</value>
+        <description>Have Crown of the Ages</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>IAUUOOAZ</genie>
+		<description>Very little team stamina (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGUUOOAZ</genie>
+		<description>More team stamina (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPUUOOAX</genie>
+		<description>Mega team stamina (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUUKPZA</genie>
+		<description>Power is doubled for the whole team (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUUKPZA</genie>
+		<description>Power is tripled for the whole team (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUUKPZE</genie>
+		<description>Mega power for the whole team (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEZAVSO</genie>
+		<description>Never lose stamina (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSEZGVT</genie>
+		<description>Computer can't score (select the middle team)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSXTEAU</genie>
+		<description>Everyone including computer has 255 skill (select the middle team) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSXTESN</genie>
+		<description>Everyone including computer has 255 skill (select the middle team) (2 of 2)</description>
+	</cheat>
+</cheats>

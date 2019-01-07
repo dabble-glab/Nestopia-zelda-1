@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENNOLGEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEOZZVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SSEOZZVI</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNUOTTNN</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNUOTTNY</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYVEOZUY</genie>
+		<description>Start with 20 Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYVEOZUY</genie>
+		<description>Start with 50 Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUXSIPA</genie>
+		<description>Infinite Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVXNGGE</genie>
+		<description>12 Grenades on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVXNGGA</genie>
+		<description>2 Grenades on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKOPLZEG</genie>
+		<description>Shorter immunity</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNOPLLEK</genie>
+		<description>Longer immunity</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x009F</address>
+        <value>0x02</value>
+        <description>Invincibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A0</address>
+        <value>0x01</value>
+        <description>Invincibility - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D7</address>
+        <value>0x09</value>
+        <description>Infinite Grenades - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D8</address>
+        <value>0xFB</value>
+        <description>Infinite Grenades - P2 (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D9</address>
+        <value>0xFB</value>
+        <description>Infinite Grenades - P2 (2 of 2)</description>
+    </cheat>
+</cheats>

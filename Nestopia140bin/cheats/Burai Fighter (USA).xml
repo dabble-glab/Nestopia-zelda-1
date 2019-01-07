@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEOLATIE</genie>
+		<description>Extra lives for Eagle level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOLPTGE</genie>
+		<description>Extra lives for Albatross level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOLZTLA</genie>
+		<description>Extra lives for Ace level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNOTENVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXTTPPA</genie>
+		<description>More power for weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXTTPPE</genie>
+		<description>Maximum power for weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASVTPZE</genie>
+		<description>Increase cobalt power picked up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTVNIPSA</genie>
+		<description>Start with laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTNYPPSA</genie>
+		<description>Start with rotating pod</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUVNAXOO</genie>
+		<description>Never lose weapon power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXNYLZSA</genie>
+		<description>Never lose speed up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXVNYZSA</genie>
+		<description>Never lose weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXNYPZSA</genie>
+		<description>Never lose rotating pod</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVVNLXOZ</genie>
+		<description>Never lose anything</description>
+	</cheat>
+</cheats>

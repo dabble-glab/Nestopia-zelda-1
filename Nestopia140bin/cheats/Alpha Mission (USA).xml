@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OUXKZPOP</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSPYZVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASATLLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASATLLA</genie>
+		<description>Start with double lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASATLLE</genie>
+		<description>Start with triple lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYKAYLLE</genie>
+		<description>Start with all weapons available</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNAILSA</genie>
+		<description>Keep power up after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNAYLSA</genie>
+		<description>Keep energy after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEOUEAA</genie>
+		<description>Thunder uses 25% normal energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXLPTZA</genie>
+		<description>Triple energy gained on 'E' pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEULGTGA</genie>
+		<description>Less energy lost on 'Bad E' pick-ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEGGASA</genie>
+		<description>Shield doesn't use energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IZNAEGSA</genie>
+		<description>You can re-use weapon after selecting</description>
+	</cheat>
+</cheats>

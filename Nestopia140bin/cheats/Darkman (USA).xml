@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKGUSSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0496</address>
+        <value>0x37</value>
+        <description>Infinite health (alt) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04B5</address>
+        <value>0x37</value>
+        <description>Infinite health (alt) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0497</address>
+        <value>0x04</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

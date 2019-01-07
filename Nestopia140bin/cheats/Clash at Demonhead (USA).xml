@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENOPLZEI</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESSPPAEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEGZISA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNZKSVK</genie>
+		<description>Infinite barrier hits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZSULOVV</genie>
+		<description>Don't die when power hits zero</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNNGNUSO</genie>
+		<description>Start with 1 of each item</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKZGSVS</genie>
+		<description>Infinite supply of all items bought</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVUGAGST</genie>
+		<description>All items in shop are free</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUGKGKY</genie>
+		<description>Start with extra cash (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UPUGVKXO</genie>
+		<description>Start with extra cash (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEKVGAO</genie>
+		<description>Start with 50% power (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVZNPAO</genie>
+		<description>Start with 50% power (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOGXGGA</genie>
+		<description>Start with 50% power (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APEKVGAO</genie>
+		<description>Start with 150% power (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOGXGGA</genie>
+		<description>Start with 150% power (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVZNPAO</genie>
+		<description>Start with 150% power (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZEKVGAP</genie>
+		<description>Start with 200% power (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGXGGE</genie>
+		<description>Start with 200% power (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXVZNPAP</genie>
+		<description>Start with 200% power (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x009F</address>
+        <value>0x10</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

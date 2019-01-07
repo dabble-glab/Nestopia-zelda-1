@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXXTYUVV</genie>
+		<description>Never overheat</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOSKTSP</genie>
+		<description>Never crash</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXIKOYA</genie>
+		<description>Recover fast after crashes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXIEZLA</genie>
+		<description>Reduced enemy bikes in game B</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUSEYAO</genie>
+		<description>Timer runs at half speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUSEYAP</genie>
+		<description>Timer runs at quarter speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENUKGEAP</genie>
+		<description>Turbo speed on button A (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESGPALA</genie>
+		<description>Turbo speed on button A (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EVUKGEAP</genie>
+		<description>Mega turbo speed on button A (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESGPALA</genie>
+		<description>Mega turbo speed on button A (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATSVIASP</genie>
+		<description>Never crash when holding forward (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVTLASP</genie>
+		<description>Never crash when holding forward (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVSUGSP</genie>
+		<description>Never crash when holding forward (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLNKSTVI</genie>
+		<description>Never lose speed (even if you crash)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEYSAPA</genie>
+		<description>Infinite obstacles in design mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEVXXAL</genie>
+		<description>Start racing before gate opens (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXGXSIP</genie>
+		<description>Start racing before gate opens (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXSOXYL</genie>
+		<description>Start racing before gate opens (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APUSOTEI</genie>
+		<description>Start racing before gate opens (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASKOZLA</genie>
+		<description>Press Start to complete current race (uses your race position for the verdict) (1 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>ZISKEZOL</genie>
+		<description>Press Start to complete current race (uses your race position for the verdict) (2 of 2)</description>
+	</cheat>
+</cheats>

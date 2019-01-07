@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXUEYYAX</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVAPGAX</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKISTVG</genie>
+		<description>Infinite lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSULVG</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSTOOSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+</cheats>

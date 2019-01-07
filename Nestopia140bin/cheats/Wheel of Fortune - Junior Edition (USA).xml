@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0071</address>
+        <value>0xAA</value>
+        <description>Always spin $1000 - All players</description>
+    </cheat>
+</cheats>

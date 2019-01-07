@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSZKPSA</genie>
+		<description>Walk anywhere - Overworld</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATEXYIST</genie>
+		<description>Items are free</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNKNTIGV</genie>
+		<description>Start with 255 dollars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASXUAPA</genie>
+		<description>Infinite regular and silver bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUZTNZA</genie>
+		<description>Cheaper silver bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUZIYIA</genie>
+		<description>Cheaper standard bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESYTIIE</genie>
+		<description>Start with 10 silver bullet rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESYTIIE</genie>
+		<description>Start with 15 silver bullet rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESYZSZE</genie>
+		<description>Start with 15 standard bullet rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOSYZSZE</genie>
+		<description>Start with 30 standard bullet rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKKYPSA</genie>
+		<description>Infinite energy - side views only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSZNATG</genie>
+		<description>Don't lose money when shooting bystanders (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSXOATT</genie>
+		<description>Don't lose money when shooting bystanders (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0050</address>
+        <value>0xFF</value>
+        <description>Infinite money (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xDF30</address>
+        <value>0xFF</value>
+        <description>Infinite money (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0052</address>
+        <value>0x06</value>
+        <description>Infinite regular and silver bullets (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0055</address>
+        <value>0x63</value>
+        <description>Infinite T.N.T.</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0x0C</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

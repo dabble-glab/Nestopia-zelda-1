@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZNIPPVG</genie>
+		<description>Infinite ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXSGZSY</genie>
+		<description>Hit anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASIAUZA</genie>
+		<description>Always get the perfect bonus (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALSIPLEI</genie>
+		<description>Always get the perfect bonus (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOKTPLA</genie>
+		<description>Enable game D (hit select three times)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00BA</address>
+        <value>0x03</value>
+        <description>Infinite ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IAVKKZVG</genie>
+        <description>Ducks never fly away - Game A</description>
+    </cheat>
+</cheats>

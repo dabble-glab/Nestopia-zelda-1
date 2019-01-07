@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEEALYLA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEALYLA</genie>
+		<description>Start with 6 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEALYLE</genie>
+		<description>Start with 9 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANEAYLA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANEAYLA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANEAYLE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEEGLPA</genie>
+		<description>Almost infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEATIPA</genie>
+		<description>Almost infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANAIZPA</genie>
+		<description>Gain double powers on pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVAPIPA</genie>
+		<description>Gain double powers on pick-up (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANAIZPA</genie>
+		<description>Gain triple powers on pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVAPZPA</genie>
+		<description>Gain triple powers on pick-up (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x09</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x01</value>
+        <description>Have Double shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x02</value>
+        <description>Have Rapid Fire shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x03</value>
+        <description>Have Crazy Ball shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x04</value>
+        <description>Have Firebird ability</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04B0</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0520</address>
+        <value>0x63</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+</cheats>

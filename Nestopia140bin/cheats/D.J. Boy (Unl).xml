@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVAZVSO</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOENISA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXENAYVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZKXITVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXXTAZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXXTAZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESXALLA</genie>
+		<description>Start with 6 toys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESXALLA</genie>
+		<description>Start with 1 toy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESZALAA</genie>
+		<description>Start with coins instead of toys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESZALAA</genie>
+		<description>Start with fish instead of toys</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESZALAA</genie>
+		<description>Start with pots instead of toys</description>
+	</cheat>
+</cheats>

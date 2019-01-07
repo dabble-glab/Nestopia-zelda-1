@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>XVUGLNSX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVPTOVK</genie>
+		<description>Can't lose lives in rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUPLOVK</genie>
+		<description>Can't lose lives in elevator shaft</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENPIALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENPIALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENPIALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVNPIALA</genie>
+		<description>Start with 99 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYSXAOAN</genie>
+		<description>Oxygen used up more slowly in shaft</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYXXSNNY</genie>
+		<description>Oxygen used up more quickly in rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOPISVK</genie>
+		<description>Infinite Oxygen</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEPZIPA</genie>
+		<description>No damage from shots and collisions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTNSEXSX</genie>
+		<description>Infinite Bombs in elevator shaft</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVVSXXSX</genie>
+		<description>Infinite Bombs in rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVOSSXSX</genie>
+		<description>Infinite Detonators in shafts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTESNUSX</genie>
+		<description>Infinite Detonators in rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTEZIKSX</genie>
+		<description>Infinite Keys in shafts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVOXTOSX</genie>
+		<description>Infinite Keys in rooms</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZEPOISE</genie>
+		<description>Start on level XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEPXSVI</genie>
+		<description>Start on level 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEPXSVS</genie>
+		<description>Start on level 10 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAEPXSVS</genie>
+		<description>Start on level 15 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPEPXSVI</genie>
+		<description>Start on level 20 (2 of 2)</description>
+	</cheat>
+</cheats>

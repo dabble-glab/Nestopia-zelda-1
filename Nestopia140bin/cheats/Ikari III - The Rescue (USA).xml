@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZKLUZAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLSUNESO</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOKUALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOKUALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOKUALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKZLLA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXKZLLA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKZLLE</genie>
+		<description>9 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUGNYPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUUKKNSO</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YESKVGPA</genie>
+		<description>3-way firing, instead of punching</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESKVGPE</genie>
+		<description>Always throw grenades instead of punches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSUOAST</genie>
+		<description>Immune to most kicks and punches</description>
+	</cheat>
+</cheats>

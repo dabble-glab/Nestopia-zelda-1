@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAOGVSPX</genie>
+		<description>Enable level select</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSKGKVK</genie>
+		<description>Infinite Batarangs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESUXIPEP</genie>
+		<description>Hit anywhere (excludes driving stages) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESUZZPEP</genie>
+		<description>Hit anywhere (excludes driving stages) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOZIZEL</genie>
+		<description>One hit kills (excludes driving stages)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVASZZA</genie>
+		<description>Don't lose health from spin attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEGLVSE</genie>
+		<description>Almost infinite lives and health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUSAPPAP</genie>
+		<description>Small hearts give more health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKZTIZE</genie>
+		<description>Power punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKXLIIE</genie>
+		<description>Power slide attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPKXZIIE</genie>
+		<description>Power jump kick</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESAKIPA</genie>
+		<description>Walk faster horizontally (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEVEVIPA</genie>
+		<description>Walk faster horizontally (2 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>PAXELAIE</genie>
+		<description>Start with 9 Batarangs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLOALEAX</genie>
+		<description>Start with full health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APOALEAZ</genie>
+		<description>Start with less health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0140</address>
+        <value>0x41</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0141</address>
+        <value>0x09</value>
+        <description>Infinite Batarangs (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0145</address>
+        <value>0x00</value>
+        <description>0 health - Enemy 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0146</address>
+        <value>0x00</value>
+        <description>0 health - Enemy 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0147</address>
+        <value>0x00</value>
+        <description>0 health - Enemy 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04C8</address>
+        <value>0x15</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+</cheats>

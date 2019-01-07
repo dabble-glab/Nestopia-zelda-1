@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZSILAVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVSLZLSV</genie>
+		<description>Infinite health - except for spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATKKXZSZ</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPKGNXYU</genie>
+		<description>Speed up timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYKGNXYU</genie>
+		<description>Slow down timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEVXTVG</genie>
+		<description>Infinite life tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEIPLVG</genie>
+		<description>Infinite energy tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAKSZZSZ</genie>
+		<description>Throw meter doesn't decrease when boomerang is thrown</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVSLZLSV</genie>
+		<description>Take minimal damage (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESLLLAA</genie>
+		<description>Take minimal damage (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVULSOK</genie>
+		<description>Maximum throwing ability on pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SANLZIVT</genie>
+		<description>Maximum throwing ability on pick-up (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAXTNTLA</genie>
+		<description>Start a new game to view ending</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKEPTZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKEPTZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKEPTZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0018</address>
+        <value>0x07</value>
+        <description>View ending</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0054</address>
+        <value>0x0F</value>
+        <description>Have max POW</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0099</address>
+        <value>0x01</value>
+        <description>Have Dual Power-Blades</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009F</address>
+        <value>0x99</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A0</address>
+        <value>0x12</value>
+        <description>Have max energy</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A2</address>
+        <value>0x01</value>
+        <description>Have Red Power-Blades</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x049A</address>
+        <value>0x12</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVSGXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNYXOVK</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUGZIZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUGZIZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUGZIZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANKLTZA</genie>
+		<description>Start with 1 life after a continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANKLTZA</genie>
+		<description>Start with 6 lives after a continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANKLTZE</genie>
+		<description>Start with 9 lives after a continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKKYTPA</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOKIIIE</genie>
+		<description>Start with 9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEGKILE</genie>
+		<description>Start with 9 Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPEGKILA</genie>
+		<description>Start with 20 Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANIAZLE</genie>
+		<description>9 Bombs after dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPNIAZLA</genie>
+		<description>20 Bombs after dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOYVOLP</genie>
+		<description>Autofire</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNITZSA</genie>
+		<description>Keep weapon type after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNSAZSA</genie>
+		<description>Keep super chargers after death</description>
+	</cheat>
+</cheats>

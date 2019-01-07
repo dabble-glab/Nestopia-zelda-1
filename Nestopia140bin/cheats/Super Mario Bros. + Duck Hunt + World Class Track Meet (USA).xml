@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZNIPPVG</genie>
+		<description>DH - Infinite ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASIAUZA</genie>
+		<description>DH - Always get the perfect bonus (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALSIPLEI</genie>
+		<description>DH - Always get the perfect bonus (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOKTPLA</genie>
+		<description>DH - Enable game D (press Select three times)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>IAVKKZVG</genie>
+        <description>DH - Ducks never fly away - Game A</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>AAXSGZSY</genie>
+        <description>DH - Hit anywhere</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00BA</address>
+        <value>0x03</value>
+        <description>DH - Infinite ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+		<genie>SSASSA</genie>
+		<description>SMB - Invincibility (Starman effect)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEVVOVSX</genie>
+		<description>SMB - Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESVVKTEY</genie>
+		<description>SMB - Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZTLTN</genie>
+		<description>SMB - Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZTLTN</genie>
+		<description>SMB - Infinite time (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXIOPO</genie>
+		<description>SMB - Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKSOPOVK</genie>
+		<description>SMB - Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>GZXIPYEP</genie>
+        <description>SMB - Fireballs hit anywhere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>APXLLPEY</genie>
+        <description>SMB - Can move left or right while crouched</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AATOZA</genie>
+		<description>SMB - Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IATOZA</genie>
+		<description>SMB - Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AATOZE</genie>
+		<description>SMB - Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VATOLE</genie>
+		<description>SMB - Start P1 with 8 lives and P2 with 3 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GIIIVY</genie>
+		<description>SMB - Walk through pipes and blocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APZLGK</genie>
+		<description>SMB - Super-jump from a standing start only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPZLTG</genie>
+		<description>SMB - Super-jump from running only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPZUAG</genie>
+		<description>SMB - Super-jump from turbo running only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APZLGG</genie>
+		<description>SMB - Mega-jump from a standing start only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APZLTG</genie>
+		<description>SMB - Mega-jump from running only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAZUAG</genie>
+		<description>SMB - Mega-jump from turbo running only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAZULG</genie>
+		<description>SMB - Moon Gravity from a standing start</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAZUIG</genie>
+		<description>SMB - Moon Gravity from a running start</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAZUYG</genie>
+		<description>SMB - Moon Gravity from turbo running only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOAUIG</genie>
+		<description>SMB - Multi-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SNAULA</genie>
+		<description>SMB - Control Mario in entrances that lead to underground</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUEGZAA</genie>
+		<description>SMB - Control Mario in demo and title screen (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANUETXKY</genie>
+		<description>SMB - Control Mario in demo and title screen (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUEYZTA</genie>
+		<description>SMB - Control Mario in demo and title screen (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZTLLX</genie>
+		<description>SMB - Always Big Mario (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AATLGZ</genie>
+		<description>SMB - Always Big Mario (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZLIVO</genie>
+		<description>SMB - Always Big Mario (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZZZLTT</genie>
+		<description>SMB - Always Fiery Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXNLUYSO</genie>
+		<description>SMB - After falling down a hole, you drop from above</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPAIIU</genie>
+		<description>SMB - Always get 3 fireworks at end of stage</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>VENITZYA</genie>
+        <description>SMB - Always get 6 fireworks at end of stage</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>LETTTE</genie>
+		<description>SMB - Goombas don't walk off ledges</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NULTKA</genie>
+		<description>SMB - Turn all enemies into Toad</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AEVAIGYA</genie>
+        <description>SMB - Gain a 1-up when an enemy is killed or power-up is gained</description>
+    </cheat>
+		    <cheat enabled="0">
+        <genie>AAOUEIPA</genie>
+        <description>SMB - Small Mario can break bricks (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AENLNGZA</genie>
+        <description>SMB - Small Mario can break bricks (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EZOLNIEI</genie>
+        <description>SMB - Small Mario can break bricks (3 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AASIYNLT</genie>
+        <description>SMB - Fireballs can kill Buzzy Beetle</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEESGYTL</genie>
+        <description>SMB - Fireballs can kill Bullet Bill</description>
+    </cheat>
+	    <cheat enabled="0">
+        <genie>AAXVZAGA</genie>
+        <description>SMB - Fireballs can kill Podoboo (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOIAYZL</genie>
+        <description>SMB - Fireballs can kill Podoboo (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOIGNTZ</genie>
+        <description>SMB - Fireballs can kill Bowser's fire</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AAYAAZ</genie>
+		<description>SMB - Enable level select</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YSAOPE</genie>
+		<description>SMB - Start on World X (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEAOZA</genie>
+		<description>SMB - Start on World X (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEAPYA</genie>
+		<description>SMB - Start on World 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEAPYA</genie>
+		<description>SMB - Start on World 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEAPYA</genie>
+		<description>SMB - Start on World 4 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEAPYA</genie>
+		<description>SMB - Start on World 5 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEAPYA</genie>
+		<description>SMB - Start on World 6 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEAPYA</genie>
+		<description>SMB - Start on World 7 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEAPYA</genie>
+		<description>SMB - Start on World 8 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+        <address>0x075A</address>
+        <value>0x09</value>
+        <description>SMB - Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0787</address>
+        <value>0x0C</value>
+        <description>SMB - Infinite time (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x079E</address>
+        <value>0x06</value>
+        <description>SMB - Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x079F</address>
+        <value>0x18</value>
+        <description>SMB - Invincibility (Starman effect) (alt)</description>
+    </cheat>
+</cheats>

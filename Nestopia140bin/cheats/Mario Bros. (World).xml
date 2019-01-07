@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AVVIEGVI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VINTPUVK</genie>
+		<description>Infinite time - bonus rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNTPUVK</genie>
+		<description>Infinite time - bonus rounds (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNIIZVG</genie>
+		<description>Infinite power blocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXTIEG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVOTINSZ</genie>
+		<description>Stops the green fireball from appearing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEETXZPA</genie>
+		<description>Stops the red fireball from appearing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAISPL</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAISPL</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAISPU</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENGSAAA</genie>
+		<description>Move faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENGSAAA</genie>
+		<description>Move much faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUIUGAG</genie>
+		<description>Coins kill you</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYSYAUKY</genie>
+		<description>Mega-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYSYPUKY</genie>
+		<description>Mega-jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZEKEPKZ</genie>
+		<description>Enemies move faster (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEKOPNG</genie>
+		<description>Enemies move faster (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEKOPNG</genie>
+		<description>Enemies move much faster (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0048</address>
+        <value>0x04</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004C</address>
+        <value>0x04</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXYYTO</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKYYGK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0718</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0722</address>
+        <value>0x3C</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07F4</address>
+        <value>0x14</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVTYTP</genie>
+        <address>0xF1E6</address>
+        <value>0x60</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

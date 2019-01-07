@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AESKUKPA</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXSGOGEU</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKKNISP</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASENYZEI</genie>
+		<description>Invincibility after one hit (blinking)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVKNLSA</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEGXLSA</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNGULSA</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKISXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZXLNTS</genie>
+		<description>Jump higher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVZNIVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEEGOYPA</genie>
+		<description>Gain 3 of most items</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NOEGOYPA</genie>
+		<description>Gain 97 of most items</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOKSYPA</genie>
+		<description>Never lose most items</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUSAAAA</genie>
+		<description>Start on stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUSAAAA</genie>
+		<description>Start on stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUSAAAA</genie>
+		<description>Start on stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUSAAAA</genie>
+		<description>Start on stage 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUSAAAA</genie>
+		<description>Start on stage 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUSAAAA</genie>
+		<description>Start on stage 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAUSAAAA</genie>
+		<description>Start on stage 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUSAAAE</genie>
+		<description>Start on stage 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOSIAZA</genie>
+		<description>Start with 1 life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESIVTZA</genie>
+		<description>Start with 1 life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOSIAZA</genie>
+		<description>Start with 6 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESIVTZA</genie>
+		<description>Start with 6 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOSIAZE</genie>
+		<description>Start with 9 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESIVTZE</genie>
+		<description>Start with 9 lives (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0065</address>
+        <value>0x01</value>
+        <description>Have Double Flame Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0065</address>
+        <value>0x02</value>
+        <description>Have Triple Flame Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0069</address>
+        <value>0xFA</value>
+        <description>Invincibility after one hit (blinking) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0094</address>
+        <value>0xA7</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BA</address>
+        <value>0x99</value>
+        <description>Have 99 Ks</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040B</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

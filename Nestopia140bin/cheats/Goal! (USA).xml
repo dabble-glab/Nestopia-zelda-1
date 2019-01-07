@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>OGOKLYEN</genie>
+        <description>CPU score adds to your score (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OGOKYYEN</genie>
+        <description>CPU score adds to your score (2 of 2)</description>
+    </cheat>
+</cheats>

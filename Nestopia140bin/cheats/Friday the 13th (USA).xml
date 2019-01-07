@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEXSYAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZESKSSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTEIVISV</genie>
+		<description>Infinite health for active counselor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZZOUAGTE</genie>
+		<description>Vitamins heal active counselor better</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZEVXLGE</genie>
+		<description>Vitamins heal others better</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>INNLIZGY</genie>
+		<description>Autofire</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNUGYAX</genie>
+		<description>Infinite child save time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEUZIAE</genie>
+		<description>Everyone can jump high</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSLUEVK</genie>
+		<description>Infinite children (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYKLSEAY</genie>
+		<description>Infinite children (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIKIUGEI</genie>
+		<description>Hit anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOSOGZP</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESGXZZZ</genie>
+		<description>Enemies die automatically</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKGKLZA</genie>
+		<description>No enemies (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXISXVN</genie>
+		<description>No enemies (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVLGXOU</genie>
+		<description>Turbo running (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPVLIXAV</genie>
+		<description>Turbo running (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEEGIZSZ</genie>
+		<description>Throw rocks straight</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVANTPA</genie>
+		<description>Start with 55 children (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YUNESVYA</genie>
+		<description>Start with 55 children (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0488</address>
+        <value>0x03</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0505</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0519</address>
+        <value>0x09</value>
+        <description>Infinite Medicine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0504</address>
+        <value>0x05</value>
+        <description>Infinite Children</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x058D</address>
+        <value>0x09</value>
+        <description>Infinite child save time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0506</address>
+        <value>0x00</value>
+        <description>Have the Torch</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0506</address>
+        <value>0x01</value>
+        <description>Have the Knife</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0506</address>
+        <value>0x02</value>
+        <description>Have the Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0506</address>
+        <value>0x03</value>
+        <description>Have the Stone</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0506</address>
+        <value>0x04</value>
+        <description>Have the Cleaver</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0506</address>
+        <value>0x05</value>
+        <description>Have the Pitchfork</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0517</address>
+        <value>0x01</value>
+        <description>Have the Lighter Torch</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0518</address>
+        <value>0x01</value>
+        <description>Have the Flashlight</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x051A</address>
+        <value>0x01</value>
+        <description>Have the Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x051C</address>
+        <value>0x00</value>
+        <description>Jason has no health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0507</address>
+        <value>0x00</value>
+        <description>Play as George</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0507</address>
+        <value>0x01</value>
+        <description>Play as Mark</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0507</address>
+        <value>0x02</value>
+        <description>Play as Paul</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0507</address>
+        <value>0x03</value>
+        <description>Play as Laura</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0507</address>
+        <value>0x04</value>
+        <description>Play as Debbie</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0507</address>
+        <value>0x05</value>
+        <description>Play as Crissy</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0508</address>
+        <value>0x00</value>
+        <description>Set time - day</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0508</address>
+        <value>0x01</value>
+        <description>Set time - dusk</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0508</address>
+        <value>0x02</value>
+        <description>Set time - night</description>
+    </cheat>
+</cheats>

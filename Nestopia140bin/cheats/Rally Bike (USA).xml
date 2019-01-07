@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SIUKLUVV</genie>
+		<description>Infinite gas</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUIKTIA</genie>
+		<description>Start with 1 life - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUIKTIE</genie>
+		<description>Start with 10 lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEITKVV</genie>
+		<description>Infinite lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOSIKVN</genie>
+		<description>Infinite lives - 2P game, both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUIKITA</genie>
+		<description>Start with 1 life - 2P game, both players (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXSTGTA</genie>
+		<description>Start with 1 life - 2P game, both players (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUIKTIE</genie>
+		<description>Start with 10 lives - 2P game, both players (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXSTGIE</genie>
+		<description>Start with 10 lives - 2P game, both players (2 of 2)</description>
+	</cheat>
+</cheats>

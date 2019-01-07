@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZKZOZAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSXSUSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKYVVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0467</address>
+        <value>0x09</value>
+        <description>Infinitel lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x060A</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x060D</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (1 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x060E</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (2 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x060F</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (3 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0610</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (4 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0611</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (5 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0612</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (6 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0613</address>
+        <value>0x00</value>
+        <description>One hit kills on most enemies (7 of 7)</description>
+    </cheat>
+</cheats>

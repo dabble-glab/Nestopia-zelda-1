@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVSLOSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUKSKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>AEESPNAP</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EPEYSLEL</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEEKYPLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEKYPLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEKYPLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXKXTPA</genie>
+		<description>Moonwalking (don't combine with super speed) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUGVTAA</genie>
+		<description>Moonwalking (don't combine with super speed) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESKOTAA</genie>
+		<description>Super speed (don't combine with moonwalking) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOGSTAA</genie>
+		<description>Super speed (don't combine with moonwalking) (2 of 2)</description>
+	</cheat>
+</cheats>

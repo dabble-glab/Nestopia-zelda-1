@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSZLUSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTVKEGSA</genie>
+		<description>Start with Sacred Sword/Bell/Tonten/Talisman (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAVKOGNA</genie>
+		<description>Start with Sacred Sword (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAVKOGNA</genie>
+		<description>Start with Bell (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UAVKOGNA</genie>
+		<description>Start with Tonten (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XAVKOGNA</genie>
+		<description>Start with Talisman (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VAVKOGNA</genie>
+		<description>Start with X Scrolls (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASKNGAA</genie>
+		<description>Start with 3 Scrolls (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASKNGAA</genie>
+		<description>Start with 6 Scrolls (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVSZPLSV</genie>
+		<description>Take less damage when attacked (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESZZLAA</genie>
+		<description>Take less damage when attacked (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0076</address>
+        <value>0x03</value>
+        <description>Have strongest punch</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0077</address>
+        <value>0x03</value>
+        <description>Have strongest kick</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0078</address>
+        <value>0x03</value>
+        <description>Have highest jump</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0079</address>
+        <value>0x03</value>
+        <description>Have best Tiger move</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x03</value>
+        <description>Have best Mirage move</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x01</value>
+        <description>Have Talisman</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0083</address>
+        <value>0x01</value>
+        <description>Have Tonten</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0084</address>
+        <value>0x01</value>
+        <description>Have Sacred Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x01</value>
+        <description>Have Bell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x63</value>
+        <description>Have 99 Scrolls</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0087</address>
+        <value>0x03</value>
+        <description>Have 3 Crystal Balls</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0408</address>
+        <value>0xC8</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0448</address>
+        <value>0x00</value>
+        <description>One hit kills</description>
+    </cheat>
+</cheats>

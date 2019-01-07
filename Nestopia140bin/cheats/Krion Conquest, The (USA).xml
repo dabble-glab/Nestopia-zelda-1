@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAKAAPZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKAAPZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKAAPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVLOIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOKYTTP</genie>
+		<description>Float spell</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNIVLSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVGOIGA</genie>
+		<description>Quicker supershot</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXYLEAA</genie>
+		<description>Less health used on fire spell (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOYTEPA</genie>
+		<description>Less health used on fire spell (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZXEPOOZ</genie>
+		<description>Start on stage X (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAXEIPSA</genie>
+		<description>Start on stage X (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEZPAA</genie>
+		<description>Start on stage 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXEZPAA</genie>
+		<description>Start on stage 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXEZPAA</genie>
+		<description>Start on stage 4 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0043</address>
+        <value>0x02</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004C</address>
+        <value>0x28</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0057</address>
+        <value>0x1F</value>
+        <description>Moon-jump (disable in underwater stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0318</address>
+        <value>0x05</value>
+        <description>Infinite oxygen in underwater stage</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03DE</address>
+        <value>0x02</value>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03E0</address>
+        <value>0x3A</value>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+</cheats>

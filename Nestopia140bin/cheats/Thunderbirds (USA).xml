@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXNTOVVK</genie>
+		<description>Don't lose life points when colliding with enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUVUNVK</genie>
+		<description>Don't lose life points when hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNVVVVK</genie>
+		<description>Don't lose energy points when colliding with enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKVENVK</genie>
+		<description>Don't lose energy points when hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSEKIVGL</genie>
+		<description>81 Days to defeat Hood</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOEKIVGU</genie>
+		<description>30 Days to defeat Hood</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATXEANAA</genie>
+		<description>Limited forward movement (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATXEGNAA</genie>
+		<description>Limited forward movement (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXETTZA</genie>
+		<description>Faster craft (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXEZTZA</genie>
+		<description>Faster craft (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZUAETEG</genie>
+		<description>Full firepower on first pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTUAKVEK</genie>
+		<description>Full firepower on first pick-up (2 of 2)</description>
+	</cheat>
+</cheats>

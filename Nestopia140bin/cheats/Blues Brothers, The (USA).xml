@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SUOVAEVS</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SUUVYEVS</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EIXTAGEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EIVTVIEY</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+	    <cheat enabled="0">
+        <genie>PESYAPAA</genie>
+        <description>Multi-jump</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03C2</address>
+        <value>0x02</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0428</address>
+        <value>0x02</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042A</address>
+        <value>0x03</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

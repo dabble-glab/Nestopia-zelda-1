@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATKTIPEI</genie>
+		<description>Invincibility (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVIKLEI</genie>
+		<description>Invincibility (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATXGOPEI</genie>
+		<description>Invincibility (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVOVAIEI</genie>
+		<description>Invincibility (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVOYIVG</genie>
+		<description>Never lose a life except in Punch lines</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSZXYVG</genie>
+		<description>Never lose a life in Punch lines</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKELNVK</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUKXTGA</genie>
+		<description>Harder to build strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPUKXTGA</genie>
+		<description>Strength to full instantly</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESSSYLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESSSYLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESSSYLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

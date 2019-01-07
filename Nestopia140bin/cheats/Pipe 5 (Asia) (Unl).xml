@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0080</address>
+        <value>0x09</value>
+        <description>Infinite time (disable to complete round)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008E</address>
+        <value>0x00</value>
+        <description>Automatically finish round</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008E</address>
+        <value>0x01</value>
+        <description>1 distance needed</description>
+    </cheat>
+</cheats>

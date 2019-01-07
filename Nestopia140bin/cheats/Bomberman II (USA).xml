@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXKGKXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXONEVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>SZXATLOU</genie>
+        <description>Hit anywhere (all enemies killed with one bomb) (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LPXAYUYX</genie>
+        <description>Hit anywhere (all enemies killed with one bomb) (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PTXEAUPZ</genie>
+        <description>Hit anywhere (all enemies killed with one bomb) (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XTXEPLEE</genie>
+        <description>Hit anywhere (all enemies killed with one bomb) (4 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAKLVPAZ</genie>
+        <description>Remove all breakable blocks (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZKUNPAX</genie>
+        <description>Remove all breakable blocks (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>LVXOUELL</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOXOUELU</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKAZYLA</genie>
+		<description>Always have Detonator</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YNEOLXLK</genie>
+		<description>Bomb has a longer fuse</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXEOLXLG</genie>
+		<description>Bomb has a shorter fuse</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOLSXVS</genie>
+		<description>Stop Bombs from exploding</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EASPTANG</genie>
+		<description>Dollar sign acts as flame face</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GYSPTANG</genie>
+		<description>Dollar sign acts as Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KASPTANK</genie>
+		<description>Dollar sign acts as heart with Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPSPTANG</genie>
+		<description>Dollar sign acts as skate</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSPTANK</genie>
+		<description>Dollar sign acts as vest for a short time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXKSTAA</genie>
+		<description>Super start (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASKKTAA</genie>
+		<description>Super start (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXXAPYSX</genie>
+		<description>Immune to explosions (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXAZNVZ</genie>
+		<description>Immune to explosions (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXOEGYSX</genie>
+		<description>Walk through walls (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOEINSZ</genie>
+		<description>Walk through walls (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEGEPZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEEGEPZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEGEPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0069</address>
+        <value>0x05</value>
+        <description>Invincibility (except in normal game) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006A</address>
+        <value>0x05</value>
+        <description>Invincibility (except in normal game) - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006B</address>
+        <value>0x05</value>
+        <description>Invincibility (except in normal game) - P3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0090</address>
+        <value>0x0C</value>
+        <description>Max Bomb quantity - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0091</address>
+        <value>0x0C</value>
+        <description>Max Bomb quantity - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0092</address>
+        <value>0x0C</value>
+        <description>Max Bomb quantity - P3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0093</address>
+        <value>0x0C</value>
+        <description>Max Bomb power - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0094</address>
+        <value>0x0C</value>
+        <description>Max Bomb power - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0095</address>
+        <value>0x0C</value>
+        <description>Max Bomb power - P3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04E5</address>
+        <value>0x09</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0559</address>
+        <value>0x09</value>
+        <description>Infinite time (hundred's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x055A</address>
+        <value>0x09</value>
+        <description>Infinite time (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x055B</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit)</description>
+    </cheat>
+</cheats>

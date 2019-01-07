@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUSTXSVS</genie>
+		<description>Infinite consumable items such as food and torches - May not be able to discard some items</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEZIPZL</genie>
+		<description>A night at the Wayfarer Inn is free</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUZPAPA</genie>
+		<description>At Healer's Herbs - Sulfurous ash is free instead of 1 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUZGAZA</genie>
+		<description>At Healer's Herbs - Ginseng is free instead of 2 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUZYAZA</genie>
+		<description>At Healer's Herbs - Garlic is free instead of 2 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUXIAGT</genie>
+		<description>At Healer's Herbs - An Tym Scroll is free instead of 100 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKZAAVP</genie>
+		<description>At Healer's Herbs - Spellbook is free instead of 150 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUXZAGA</genie>
+		<description>At Healer's Herbs - Spidersilk is free instead of 4 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEXZAGA</genie>
+		<description>From Pendra - Spidersilk is free instead of 4 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEZYALA</genie>
+		<description>From Pendra - Black Pearl is free instead of 3 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEZGAZA</genie>
+		<description>From Pendra - Garlic is free instead of 2 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEZPAZA</genie>
+		<description>From Pendra - Ginseng is free instead of 2 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEXIELG</genie>
+		<description>From Pendra - Sant Talisman is free instead of 75 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEXIELG</genie>
+		<description>At Iolo's Bows - Bow is free instead of 75 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEXZEPP</genie>
+		<description>At Iolo's Bows - Wooden shield is free instead of 25 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEZGALA</genie>
+		<description>At Iolo's Bows - Dagger is free instead of 3 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEZYEAZ</genie>
+		<description>At Iolo's Bows - Short sword is free instead of 40 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOZAAVP</genie>
+		<description>At Iolo's Bows - Crossbow is free instead of 150 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOZTAPA</genie>
+		<description>At Iolo's Bows - Arrow is free instead of 1 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOXPAZA</genie>
+		<description>At Iolo's Bows - Bolt is free instead of 2 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOZAPAE</genie>
+		<description>At Iolo's Bows - Sell Dagger for 2,305 instead of 1 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOZLPAG</genie>
+		<description>At Iolo's Bows - Sell Short sword for 2,848 instead of 20 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOZTPAE</genie>
+		<description>At Iolo's Bows - Sell Wooden shield for 3,850 instead of 10 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOZLAAZ</genie>
+		<description>At Iolo's Bows - Magic bow is free instead of 800 GP (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOZGALA</genie>
+		<description>At Iolo's Bows - Magic bow is free instead of 800 GP (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESXEZGA</genie>
+		<description>Start new game with 201 instead of 1,225 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSXEZGA</genie>
+		<description>Start new game with 4,297 instead of 1,225 GP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YNSXEZGE</genie>
+		<description>Start new game with 32,713 instead of 1,225 GP</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x6A06</address>
+        <value>0x0F</value>
+        <description>Infinite health - Avatar</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6A07</address>
+        <value>0x0F</value>
+        <description>Infinite health - Shamino</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x6A08</address>
+        <value>0x0F</value>
+        <description>Infinite health - Ioio</description>
+    </cheat>
+</cheats>

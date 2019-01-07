@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ALSEGZEU</genie>
+		<description>Invincibility + Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATSEIZPL</genie>
+		<description>Invincibility + Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOELXOO</genie>
+		<description>Invincibility + Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEKOLLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEKOLLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEKOLLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXEENYVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOPAGAA</genie>
+		<description>Start with Straight Crusher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOPAGAA</genie>
+		<description>Start with Field Shutter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOPAGAA</genie>
+		<description>Start with the Circular</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOPAGAA</genie>
+		<description>Start with the Vibrator</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOPAGAA</genie>
+		<description>Start with the Rewinder</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOPAGAA</genie>
+		<description>Start with the Plasma Flash</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEOPAGAA</genie>
+		<description>Start with rapid fire</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0764</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXXVKGSA</genie>
+		<description>Invincible against barrels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUTXISA</genie>
+		<description>Invincible against fireballs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYUITVLK</genie>
+		<description>Hammer lasts 3.4 times longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNGOZVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKNPLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKNPLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

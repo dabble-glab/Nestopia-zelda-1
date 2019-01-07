@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLVUPUVS</genie>
+		<description>Infinite timeouts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOLVPPA</genie>
+		<description>2-pt. shots worth 1, 3-pt. shots worth 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOLVPPA</genie>
+		<description>2-pt. shots worth 3, 3-pt. shots worth 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOLVPPA</genie>
+		<description>2-pt. shots worth 4, 3-pt. shots worth 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOLVPPA</genie>
+		<description>2-pt. shots worth 5, 3-pt. shots worth 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOLVPPA</genie>
+		<description>2-pt. shots worth 6, 3-pt. shots worth 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVNUVOVT</genie>
+		<description>3-pt. shots worth 2 pts.</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYSENZYE</genie>
+		<description>5-second violations become 10-second violations</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYOPTNZE</genie>
+		<description>No 10-second violations</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASOLSEAO</genie>
+		<description>Longer shot clock after getting ball on rebound</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOLSEAO</genie>
+		<description>Shorter shot clock after getting ball on rebound</description>
+	</cheat>
+</cheats>

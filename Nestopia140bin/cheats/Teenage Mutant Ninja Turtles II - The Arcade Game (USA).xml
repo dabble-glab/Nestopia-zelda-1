@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESUEPZEY</genie>
+		<description>Invincibility (except grabs from behind) - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUVASVSO</genie>
+		<description>Infinite health - both players (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLETOKSO</genie>
+		<description>Infinite health - both players (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEAULPA</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOXVXZEI</genie>
+		<description>One hit kills - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXTKZZE</genie>
+		<description>Stronger turtle weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOVKZGE</genie>
+		<description>Stronger jump + attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOVKZGA</genie>
+		<description>Stronger jump + attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXTEZLE</genie>
+		<description>Stronger kick</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXTEZLA</genie>
+		<description>Weaker kick</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OEVKNZAA</genie>
+		<description>Enable stage select and 10 lives code</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESSGLPA</genie>
+		<description>Press Start to finish the level (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GUSSTUIU</genie>
+		<description>Press Start to finish the level (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOIAPZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOIAPZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOIAPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0025</address>
+        <value>0x81</value>
+        <description>Enable stage select after choosing your turtle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004D</address>
+        <value>0x09</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004E</address>
+        <value>0x09</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0093</address>
+        <value>0x2B</value>
+        <description>Invincibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0094</address>
+        <value>0x2B</value>
+        <description>Invincibility - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D3</address>
+        <value>0x03</value>
+        <description>Infinite continues</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0568</address>
+        <value>0x37</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x056A</address>
+        <value>0x37</value>
+        <description>Infinite health - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xEAAA</address>
+        <value>0x10</value>
+        <description>One hit kills - both players(alt)</description>
+    </cheat>
+</cheats>

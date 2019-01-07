@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AEULXZLA</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NNSLUZPE</genie>
+        <description>One hit kills (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXSLXXOV</genie>
+        <description>One hit kills (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IEESTTLE</genie>
+        <description>Increase projectile limit to 13</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AIXALGEL</genie>
+        <description>Collect money from anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ALVEOIEL</genie>
+        <description>Collect money from anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LAKAPLGA</genie>
+        <description>Start a new game for hidden debug TEST MODE menu</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YAKAPLGA</genie>
+        <description>Start a new game to view the ending</description>
+    </cheat>
+</cheats>

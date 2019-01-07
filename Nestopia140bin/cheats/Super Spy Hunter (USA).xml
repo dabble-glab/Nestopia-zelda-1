@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXVPEZSA</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GEXUOIGE</genie>
+        <description>Start with max health gauge</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0074</address>
+        <value>0x05</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007B</address>
+        <value>0x40</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

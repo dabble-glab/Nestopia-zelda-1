@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEUEOYEL</genie>
+		<description>Multi-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXAUYAP</genie>
+		<description>Multi-jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOEZTEL</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNEYTEL</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXEAGVPV</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXOEYVPV</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SLKSVUSO</genie>
+        <description>One hit kills</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ENKEVGAP</genie>
+        <description>All characters always selectable</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AESGILPE</genie>
+        <description>Press Start to complete the level (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AESKALPA</genie>
+        <description>Press Start to complete the level (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GOSGYUPE</genie>
+        <description>Press Start to complete the level (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXSGGUPK</genie>
+        <description>Press Start to complete the level (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEUKEIZE</genie>
+		<description>Start a new game to view ending</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAELXYZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAELXYZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAELXYZE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXGVYZA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXGVYZA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXGVYZE</genie>
+		<description>10 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVKOTVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOLKYGP</genie>
+		<description>Start with 1/2 health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPELVNKE</genie>
+		<description>Double Bucky's special health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KZELVNKA</genie>
+		<description>Triple Bucky's special health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAEUXNGE</genie>
+		<description>All characters start with normal special health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPEUXNGE</genie>
+		<description>All characters start with 2x special health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KZEUXNGA</genie>
+		<description>All characters start with 3x special health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x01</value>
+        <description>Play as Jenny</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x02</value>
+        <description>Play as Dead Eye</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x03</value>
+        <description>Play as Blinky</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x04</value>
+        <description>Play as Willy DuWitt</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004C</address>
+        <value>0x09</value>
+        <description>Infinite lives - all characters</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A0</address>
+        <value>0x14</value>
+        <description>Infinite health - all characters</description>
+    </cheat>
+</cheats>

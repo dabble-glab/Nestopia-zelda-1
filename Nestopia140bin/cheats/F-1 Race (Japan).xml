@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SAUSTPVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATOTPGVT</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXIIZSA</genie>
+		<description>Don't lose speed when driving over grass/dirt (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXSLZSA</genie>
+		<description>Don't lose speed when driving over grass/dirt (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKYLSA</genie>
+		<description>Don't lose speed when skidding in the road</description>
+	</cheat>
+</cheats>

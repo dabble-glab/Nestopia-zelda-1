@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>GXUTAYEI</genie>
+        <description>Bypass checksum check (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXXVAYEI</genie>
+        <description>Bypass checksum check (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXUVYYEP</genie>
+        <description>Disable Game Over</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEETNKIT</genie>
+        <description>Speed never increases (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XXETVGVZ</genie>
+        <description>Speed never increases (2 of 2)</description>
+    </cheat>
+</cheats>

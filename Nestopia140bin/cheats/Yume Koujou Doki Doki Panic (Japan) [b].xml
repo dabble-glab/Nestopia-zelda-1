@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>GZUEITEI</genie>
+        <description>Multi-jump</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0xFA</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x062B</address>
+        <value>0x09</value>
+        <description>Infinite coins</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0099</address>
+        <value>0x00</value>
+        <description>Multi-jump (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B9</address>
+        <value>0xFA</value>
+        <description>Infinite magic carpet time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0468</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04AD</address>
+        <value>0x09</value>
+        <description>Receive small heart for every enemy defeated</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04B7</address>
+        <value>0xFA</value>
+        <description>Infinite sub-space time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04C9</address>
+        <value>0xFA</value>
+        <description>All characters can float</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04FF</address>
+        <value>0xFA</value>
+        <description>Stopwatch always active</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x062A</address>
+        <value>0x04</value>
+        <description>Only 1 Cherry needed for Starman</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x062C</address>
+        <value>0x04</value>
+        <description>Only 1 big Radish needed for Stopwatch</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0635</address>
+        <value>0x01</value>
+        <description>Start on World 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0635</address>
+        <value>0x02</value>
+        <description>Start on World 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0635</address>
+        <value>0x03</value>
+        <description>Start on World 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0635</address>
+        <value>0x04</value>
+        <description>Start on World 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0635</address>
+        <value>0x05</value>
+        <description>Start on World 6</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0635</address>
+        <value>0x06</value>
+        <description>Start on World 7</description>
+    </cheat>
+</cheats>

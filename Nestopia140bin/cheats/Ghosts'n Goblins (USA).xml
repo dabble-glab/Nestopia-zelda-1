@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEVNGIPA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOITUVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALEYYTEO</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATENATPA</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUKYPSOO</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUUUTVOO</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKILZLA</genie>
+		<description>Speed up game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKILZLA</genie>
+		<description>Slow down game</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>TUNKYIAG</genie>
+        <description>Start with Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZKNKYIAG</genie>
+        <description>Start with Dagger</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GKNKYIAG</genie>
+        <description>Start with Fireball</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YKNKYIAK</genie>
+        <description>Start with Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>KXNKYIAK</genie>
+        <description>Start with Blue Sphere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVIZEYA</genie>
+        <description>Enable stage select (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SKITTL</genie>
+        <description>Infinite armor</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PAEKPTLA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAEKPTLA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEKPTLE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEGNOVK</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VAEKZVSE</genie>
+		<description>Start with 4 lives - P1</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A7</address>
+        <value>0x0F</value>
+        <description>Enable stage select (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x01</value>
+        <description>Automatically complete level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x00</value>
+        <description>Game difficulty - normal</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x01</value>
+        <description>Game difficulty - hard</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x02</value>
+        <description>Game difficulty - harder</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x03</value>
+        <description>Game difficulty - hardest</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x04</value>
+        <description>Game difficulty - expert</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>LLLXZO</genie>
+        <description>Invincibility - both players</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>POXXIOIA</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAAZPZ</genie>
+        <description>One hit kills</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEXVAIZA</genie>
+		<description>Activates 10 lives code</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOXVZSPE</genie>
+		<description>10 lives code give you 30</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>GZVAZTSP</genie>
+        <description>Keep equiped weapon after dying</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEKTLGAE</genie>
+		<description>Start a new game to view ending</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUOVNXPU</genie>
+		<description>Press Start to finish level (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOVSZPA</genie>
+		<description>Press Start to finish level (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXTLIZA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXTLIZA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXTLIZE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNXTLIZE</genie>
+		<description>Start with 255 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEETLIAA</genie>
+		<description>Start at area 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEETLIAA</genie>
+		<description>Start at area 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEETLIAA</genie>
+		<description>Start at area 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEETLIAA</genie>
+		<description>Start at area 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEETLIAA</genie>
+		<description>Start at area 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEETLIAA</genie>
+		<description>Start at area 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENXVYGEI</genie>
+		<description>Stage select after title screen</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>SKVVAGAE</genie>
+        <description>Stage select after title screen (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SKTVAK</genie>
+        <description>Stage select after title screen (alt)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AENTTTZA</genie>
+		<description>Extra life for each enemy killed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEVIIZA</genie>
+		<description>Start with 9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOVXZVG</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EUUTGIYS</genie>
+		<description>Start game with X Gun (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YSXTPSEL</genie>
+		<description>Start game with X Gun (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUTZIAA</genie>
+		<description>Start game with Spray Gun (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUTZIAA</genie>
+		<description>Start game with Fireball Gun (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>EYYAEA</genie>
+        <description>Run faster to the right</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXVAATEI</genie>
+        <description>Multi-jump - both players (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZUVEPVIV</genie>
+        <description>Multi-jump - both players (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D4</address>
+        <value>0x55</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0053</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x81</value>
+        <description>Have the Machine Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x82</value>
+        <description>Have the Spread Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x83</value>
+        <description>Have the Laser Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x84</value>
+        <description>Have the Fireball Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x85</value>
+        <description>Have the Single Shot MG</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x86</value>
+        <description>Have the Super Fireball Gun</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXSZXNTS</genie>
+        <description>Invincibility to water</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AIULZPEI</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OLKUAOOO</genie>
+        <description>Infinite Life</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEEOKZPA</genie>
+        <description>Mighty Ball always available</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZXONUPX</genie>
+        <description>All T-Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATUOSUSZ</genie>
+        <description>T-Star always available</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEUUYKIA</genie>
+        <description>Infinite Dragon Kicks</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAXIVOZP</genie>
+        <description>Quick level up</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOSKPZA</genie>
+        <description>Max money after fights</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AVSIOOSZ</genie>
+        <description>Infinite money</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NYUSKXZE</genie>
+        <description>Start with 255 Life</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZLUSSZPA</genie>
+        <description>Start with 50 Attack</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042A</address>
+        <value>0x06</value>
+        <description>Have Marks</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042B</address>
+        <value>0x08</value>
+        <description>Have T-Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0439</address>
+        <value>0x08</value>
+        <description>Have Prism Claw</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043B</address>
+        <value>0x05</value>
+        <description>Have Prism Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043C</address>
+        <value>0x04</value>
+        <description>Have Prism Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043D</address>
+        <value>0x04</value>
+        <description>Have Sacred Robe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0449</address>
+        <value>0x02</value>
+        <description>Have Batteries</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044A</address>
+        <value>0x01</value>
+        <description>Have Whirly Birds</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044B</address>
+        <value>0x01</value>
+        <description>Have Medicine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044C</address>
+        <value>0x08</value>
+        <description>Have Sweet Buns</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044D</address>
+        <value>0x01</value>
+        <description>Have Meat Bun</description>
+    </cheat>
+</cheats>

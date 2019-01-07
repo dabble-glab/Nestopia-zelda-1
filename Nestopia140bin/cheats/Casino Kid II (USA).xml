@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AZKKYOTG</genie>
+		<description>Start new game with $82 instead of $200</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EGKKYOTK</genie>
+		<description>Start new game with $512</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZSGGPAA</genie>
+		<description>Start new game with $21,171</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EGSGGPAE</genie>
+		<description>Start new game with $131,272</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASKPPAE</genie>
+		<description>Start new game with $1,342,377</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZSKPPAA</genie>
+		<description>Start new game with $5,368,909</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOASGIE</genie>
+		<description>Can't double down in blackjack (game will say you do not have enough money)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKAVIIE</genie>
+		<description>Can't split in blackjack (game will say you do not have enough money)</description>
+	</cheat>
+</cheats>

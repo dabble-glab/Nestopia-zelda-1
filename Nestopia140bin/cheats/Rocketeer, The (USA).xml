@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GESLNKAA</genie>
+		<description>Start with 1/2 health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSLNKAA</genie>
+		<description>Start with 2x health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSLNKAE</genie>
+		<description>Start with 3x health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSSINSV</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOZZXZA</genie>
+		<description>1/2 normal bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPOZZXZA</genie>
+		<description>2x normal bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPOZZXZE</genie>
+		<description>3x normal bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEZGZGO</genie>
+		<description>1/2 silver bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZEZGZGO</genie>
+		<description>2x silver bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLEZGZGO</genie>
+		<description>3x silver bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVLKIIA</genie>
+		<description>Have all weapons with infinite ammo</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05B0</address>
+        <value>0x27</value>
+        <description>Infinite Rocket power</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05BF</address>
+        <value>0x63</value>
+        <description>Have all weapons with infinite ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05C5</address>
+        <value>0x0A</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

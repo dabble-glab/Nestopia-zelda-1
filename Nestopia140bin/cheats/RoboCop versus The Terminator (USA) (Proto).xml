@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x04EE</address>
+        <value>0x0A</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZKIZKSE</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZEVGOSE</genie>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

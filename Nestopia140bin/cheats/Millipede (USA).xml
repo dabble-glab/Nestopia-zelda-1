@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUKGETVI</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVKSPGA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVKSPGE</genie>
+		<description>Start with 10 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASESIIEZ</genie>
+		<description>Increase territory to half screen</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXESIIEZ</genie>
+		<description>Increase territory to full screen</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NKESIIEZ</genie>
+		<description>Shrink territory</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUSXYTE</genie>
+		<description>Player's bullets move faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUSXYTA</genie>
+		<description>Player's bullets move slower</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0071</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

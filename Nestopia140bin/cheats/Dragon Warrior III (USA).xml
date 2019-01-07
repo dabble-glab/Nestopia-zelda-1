@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>NYUOYPZU</genie>
+		<description>King gives 255 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASPZPAA</genie>
+		<description>King gives mega-gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YTVUGZYE</genie>
+		<description>Player starts with increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYVUGZYE</genie>
+		<description>Player starts with greatly increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNLPZIA</genie>
+		<description>Player starts with increased agility and/or defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNLPZIE</genie>
+		<description>Player starts with greatly increased agility and/or defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNLTZYA</genie>
+		<description>Player starts with increased vitality and/or HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNLTZYE</genie>
+		<description>Player starts with greatly increased vitality and/or HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNULZTA</genie>
+		<description>Player starts with increased magic, maximum magic points and/or intelligence</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNULZTE</genie>
+		<description>Player starts with greatly increased magic, maximum magic points and/or intelligence</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZVELAZGA</genie>
+		<description>Player starts with increased luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNELAZGE</genie>
+		<description>Player starts with greatly increased luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTVUIZPA</genie>
+		<description>Wizard starts with increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYVUIZPE</genie>
+		<description>Wizard starts with greatly increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTNLZZGA</genie>
+		<description>Wizard starts with increased agility and/or defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNLZZGE</genie>
+		<description>Wizard starts with greatly increased agility and/or defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTNLYZZA</genie>
+		<description>Wizard starts with increased vitality and/or maximum HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPNLYZZE</genie>
+		<description>Wizard starts with greatly increased vitality and/or maximum HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNUGXPA</genie>
+		<description>Wizard starts with increased magic, intelligence and/or maximum magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVELPZZA</genie>
+		<description>Wizard starts with increased luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNELPZZE</genie>
+		<description>Wizard starts with greatly increased luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTVUTZLA</genie>
+		<description>Pilgrim starts with increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYVUTZLE</genie>
+		<description>Pilgrim starts with greatly increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTNLLZGA</genie>
+		<description>Pilgrim starts with increased agility and/or defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNUAZLA</genie>
+		<description>Pilgrim starts with increased vitality and/or maximum HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYNUAZLE</genie>
+		<description>Pilgrim starts with greatly increased vitality and/or maximum HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNUIXAA</genie>
+		<description>Pilgrim starts with increased magic and/or intelligence</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYNUIXAE</genie>
+		<description>Pilgrim starts with greatly increased magic and/or intelligence</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZVELZZLA</genie>
+		<description>Pilgrim starts with increased luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNELZZLE</genie>
+		<description>Pilgrim starts with greatly increased luck</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNLAXPA</genie>
+		<description>Soldier starts with increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYNLAXPE</genie>
+		<description>Soldier starts with greatly increased strength and/or attack power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZTNLIZZA</genie>
+		<description>Soldier starts with increased agility and/or defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNUZZYA</genie>
+		<description>Soldier starts with increased vitality and/or maximum HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOZENNY</genie>
+		<description>Start with 6 battle-axes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOZENNY</genie>
+		<description>Start with 6 broadswords</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOZENNY</genie>
+		<description>Start with 6 wizard's wands</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOZENNN</genie>
+		<description>Start with 6 demon's axes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPOZENNY</genie>
+		<description>Start with 6 multi-edge swords</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPOZENNY</genie>
+		<description>Start with 6 staffs of force</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPOZENNY</genie>
+		<description>Start with 6 swords of illusion</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APOZENNN</genie>
+		<description>Start with 6 falcon swords</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZOZENNN</genie>
+		<description>Start with 6 armor of radiance</description>
+	</cheat>
+</cheats>

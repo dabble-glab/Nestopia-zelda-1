@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SVVNTKON</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXAPKSN</genie>
+		<description>Infinite magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVAYIVG</genie>
+		<description>Immune to fire and water</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSEYXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUXSTZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUXSTZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUXSTZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOOAYGAO</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOOAYGAO</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEEONALA</genie>
+		<description>Half a life or half magic give full health or magic</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x0C</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05D4</address>
+        <value>0x63</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

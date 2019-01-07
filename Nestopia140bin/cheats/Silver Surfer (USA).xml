@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAOILIIA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKSGIIA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXSGIPA</genie>
+		<description>Start with 5 Smart Bombs - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVIIIPA</genie>
+		<description>Start with 5 Smart Bombs - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKSNVK</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYVTLVGO</genie>
+		<description>Infinite Smart Bombs - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEITSSE</genie>
+		<description>Keep cosmic weapons after losing a life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEESIIPA</genie>
+		<description>Have 5 Smart Bombs on a new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEILSSE</genie>
+		<description>Keep Orbs after losing a life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKIOUSE</genie>
+		<description>Keep Orbs after losing a life (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05E6</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

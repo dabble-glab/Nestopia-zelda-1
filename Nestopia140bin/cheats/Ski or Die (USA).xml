@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>PAUPVAZA</genie>
+        <description>Snowball Blast - Start with less ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GAUPVAZA</genie>
+        <description>Snowball Blast - Start with more ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AKEPVAAT</genie>
+        <description>Snowball Blast - Start with less time</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OOEPVAAV</genie>
+        <description>Snowball Blast - Start with more time</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IEKXITAP</genie>
+        <description>Snowball Blast - Less time gained</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IOKXITAP</genie>
+        <description>Snowball Blast - More time gained</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZENXTTPA</genie>
+        <description>Snowball Blast - More snowballs picked up</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IAVVNILA</genie>
+        <description>Acro Aerials - More jumps allowed (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IESTEYLA</genie>
+        <description>Acro Aerials - More jumps allowed (2 of 2)</description>
+    </cheat>
+</cheats>

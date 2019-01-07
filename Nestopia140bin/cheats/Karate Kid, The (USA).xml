@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SZSUYZSA</genie>
+        <description>Infinite health</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZOEKAVG</genie>
+		<description>Infinite chances (lives)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOASANI</genie>
+		<description>Win tournaments automatically</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENEZTLA</genie>
+		<description>Start with 1 chance</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENEZTLA</genie>
+		<description>Start with 6 chances</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENEZTLE</genie>
+		<description>Start with 9 chances</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEXLYVG</genie>
+		<description>Infinite Crane Kicks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNXAYVG</genie>
+		<description>Infinite Drum Punches on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASVOKAEL</genie>
+		<description>Hit anywhere (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVOSALA</genie>
+		<description>Hit anywhere (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKVUGGE</genie>
+		<description>Start with 8 Crane Kicks - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKVKGGE</genie>
+		<description>Start with 8 Crane Kicks - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKVSGAA</genie>
+		<description>Start with 5 Crane Kicks - P1, one on one game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUXOGPA</genie>
+		<description>Prevent girl from moving in final stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKVVGPA</genie>
+		<description>Start on stage 2 - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKVNGPA</genie>
+		<description>Start on stage 2 - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKVVGPA</genie>
+		<description>Start on stage 3 - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKVNGPA</genie>
+		<description>Start on stage 3 - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKVVGPA</genie>
+		<description>Start on stage 4 - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKVNGPA</genie>
+		<description>Start on stage 4 - 2P game</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x0F</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x63</value>
+        <description>Infinite Drum Punches (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008A</address>
+        <value>0x63</value>
+        <description>Infinite Crane Kicks (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x00</value>
+        <description>Enemy has no health</description>
+    </cheat>
+</cheats>

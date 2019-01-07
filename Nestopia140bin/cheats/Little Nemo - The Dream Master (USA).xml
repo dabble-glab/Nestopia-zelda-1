@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKTGEVK</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOKSLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKKSZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKKSZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKKSZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOKZKNZA</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESLYPPA</genie>
+		<description>Speed jumps (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYUUIOVN</genie>
+		<description>Speed jumps (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXLLPPA</genie>
+		<description>Super speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SYEUPOVN</genie>
+		<description>Super speed (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUKOZAA</genie>
+		<description>Start on stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUKOZAA</genie>
+		<description>Start on stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUKOZAA</genie>
+		<description>Start on stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUKOZAA</genie>
+		<description>Start on stage 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUKOZAA</genie>
+		<description>Start on stage 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUKOZAA</genie>
+		<description>Start on stage 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUKOZAA</genie>
+		<description>Start on stage 8</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x008C</address>
+        <value>0x09</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008E</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0540</address>
+        <value>0xFF</value>
+        <description>Fly</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05D0</address>
+        <value>0x05</value>
+        <description>Infinite life (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0630</address>
+        <value>0x03</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+</cheats>

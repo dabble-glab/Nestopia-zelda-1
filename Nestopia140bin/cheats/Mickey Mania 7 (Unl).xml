@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXEPTOVK</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZEPYSVK</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZKPPVVK</genie>
+        <description>Infinite Apples</description>
+    </cheat>
+</cheats>

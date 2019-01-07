@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x079F</address>
+        <value>0x09</value>
+        <description>Invincibility (Starman effect)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x701B</address>
+        <value>0xAD</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AETGGS</genie>
+        <description>Start with 9 lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PUTGGI</genie>
+        <description>Start with 50 lives</description>
+    </cheat>
+</cheats>

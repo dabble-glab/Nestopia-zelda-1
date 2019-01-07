@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AIOEPIEL</genie>
+        <description>Hit anywhere (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXNALGEL</genie>
+        <description>Hit anywhere (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXNEYGEP</genie>
+        <description>Hit anywhere (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXSELGEP</genie>
+        <description>Hit anywhere (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AAKKSPPA</genie>
+		<description>Power-ups don't use up gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXAZZGO</genie>
+		<description>Big coins worth double</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXAZZGO</genie>
+		<description>Big coins worth half</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEEAYZIE</genie>
+		<description>Small coins worth triple</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVNAIZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVNAIZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVNAIZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENNZSAA</genie>
+		<description>Start with less health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05C2</address>
+        <value>0x7E</value>
+        <description>Invincibility - Robot Suit</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05C8</address>
+        <value>0x03</value>
+        <description>Powered Up - Red Vest</description>
+    </cheat>
+</cheats>

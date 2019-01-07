@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>TEOUNKGA</genie>
+		<description>Start with less health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOOUNKGA</genie>
+		<description>Start with more health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUETVOU</genie>
+		<description>Take less damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENETTPA</genie>
+		<description>Take more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEULXGIA</genie>
+		<description>2 Type B weapons for Nicholas</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEULXGIE</genie>
+		<description>9 Type B weapons for Nicholas</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXUXKZA</genie>
+		<description>5 Type B weapons for Max and Grant</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXUXKZE</genie>
+		<description>15 Type B weapons for Max and Grant</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUPIZPA</genie>
+		<description>Infinite Type B weapons for all</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VKOAVOSX</genie>
+		<description>Longer disguise time (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEOPLPA</genie>
+		<description>Longer disguise time (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x03EC</address>
+        <value>0x0D</value>
+        <description>Infinite health (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03ED</address>
+        <value>0x0D</value>
+        <description>Infinite health (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03EE</address>
+        <value>0x0D</value>
+        <description>Infinite health (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F5</address>
+        <value>0x0A</value>
+        <description>Infinite weapons (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F6</address>
+        <value>0x0A</value>
+        <description>Infinite weapons (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F7</address>
+        <value>0x09</value>
+        <description>Infinite weapons (3 of 3)</description>
+    </cheat>
+</cheats>

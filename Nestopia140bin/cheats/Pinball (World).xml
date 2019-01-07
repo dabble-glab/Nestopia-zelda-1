@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PASGPALA</genie>
+		<description>Start with 1 ball</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASGPALA</genie>
+		<description>Start with 6 balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASGPALE</genie>
+		<description>Start with 9 balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YZSGPALE</genie>
+		<description>Start with lots of balls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUXKLEVS</genie>
+		<description>Infinite balls</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x010D</address>
+        <value>0x09</value>
+        <description>Max top score (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x010E</address>
+        <value>0x09</value>
+        <description>Max top score (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x010F</address>
+        <value>0x09</value>
+        <description>Max top score (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0110</address>
+        <value>0x09</value>
+        <description>Max top score (4 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0111</address>
+        <value>0x09</value>
+        <description>Max top score (5 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0151</address>
+        <value>0x09</value>
+        <description>Infinite balls (alt)</description>
+    </cheat>
+</cheats>

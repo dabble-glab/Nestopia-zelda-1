@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZAVVALGO</genie>
+		<description>Only 10 soldiers in your Garrison</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZVVALGO</genie>
+		<description>40 soldiers in your Garrison</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEOUPPA</genie>
+		<description>Soldiers for free</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEOUPPA</genie>
+		<description>Triple the cost of soldiers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEOKOAA</genie>
+		<description>Halve the cost of knights</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APEOKOAA</genie>
+		<description>Double the cost of knights</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAEOSOYA</genie>
+		<description>Halve the cost of catapults</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEOVPGO</genie>
+		<description>Halve the cost of castles</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIUUSLEY</genie>
+		<description>Invincibility - Orin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EINGVPEY</genie>
+		<description>Invincibility - Cutrus</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOUSUSE</genie>
+		<description>Infinite health - Orin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNGNOSE</genie>
+		<description>Infinite health - Cutrus</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOUSUSE</genie>
+		<description>Most attacks won't damage Orin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNGNOSE</genie>
+		<description>Most attacks won't damage Cutrus</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGVXGXYZ</genie>
+		<description>Start with more health - Orin</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGVXIXYZ</genie>
+		<description>Start with more health - Cutrus</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAOVUTVA</genie>
+		<description>Start with all weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YGVXTXYX</genie>
+		<description>Start with max ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSLKVSE</genie>
+		<description>Infinite ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YZVXTZAE</genie>
+		<description>Start with some item power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSLKVSE</genie>
+		<description>Never lose item power once gained</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTOVNTVA</genie>
+		<description>Start with Dagger</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x02</value>
+        <description>Have Boomerang</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x04</value>
+        <description>Have Ice Ball</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x08</value>
+        <description>Have Power Ball</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x33</value>
+        <description>Have Dagger, Boomerang, Molotov Cocktail, Hand Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009D</address>
+        <value>0xFA</value>
+        <description>Doors never close once opened</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x030E</address>
+        <value>0x10</value>
+        <description>Invincibility - Orin (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x032E</address>
+        <value>0x10</value>
+        <description>Invincibility - Cutrus (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x034E</address>
+        <value>0x00</value>
+        <description>Bosses have no invulnerability time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x034F</address>
+        <value>0x00</value>
+        <description>Bosses defeated instantly</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0594</address>
+        <value>0x4F</value>
+        <description>Infinite health - Orin (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0595</address>
+        <value>0x4F</value>
+        <description>Infinite health - Cutrus (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0596</address>
+        <value>0x4F</value>
+        <description>Infinite item power</description>
+    </cheat>
+</cheats>

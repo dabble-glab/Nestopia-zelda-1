@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZXLKEVK</genie>
+		<description>Infinite lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OLZNEE</genie>
+		<description>Don't die when touched</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEIXKNY</genie>
+		<description>Most enemies die instantly</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZESPUVK</genie>
+		<description>Infinite rolls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUSGZAP</genie>
+		<description>Rapid fire</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALKUTGEL</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXULIKSO</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZELGKSO</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKULGAX</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESUTYZA</genie>
+		<description>Start with 6 lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESUTYZE</genie>
+		<description>Start with 9 lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKUUAZA</genie>
+		<description>After continue, P1 has 6 lives in 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKUUAZE</genie>
+		<description>After continue, P1 has 9 lives in 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASUOAZA</genie>
+		<description>P2 has 6 lives - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASUOAZE</genie>
+		<description>P2 has 9 lives - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASIOALE</genie>
+		<description>Start with 9 rolls - both players</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0432</address>
+        <value>0x02</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0436</address>
+        <value>0x03</value>
+        <description>Infinite rolls (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x048E</address>
+        <value>0x88</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

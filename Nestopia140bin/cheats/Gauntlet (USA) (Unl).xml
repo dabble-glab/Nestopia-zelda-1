@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLNAEYSP</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLVPOASP</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOXVLAE</genie>
+		<description>Infinite Keys (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAXZOLSZ</genie>
+		<description>Infinite Keys (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOONAVK</genie>
+		<description>Infinite time in puzzle and treasure rooms</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x01</value>
+        <description>Have Invisibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x02</value>
+        <description>Have Repulsiveness - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x04</value>
+        <description>Have Reflective Shot - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x10</value>
+        <description>Have Super Shot - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x20</value>
+        <description>Have Invulnerability - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x01</value>
+        <description>Have Invisibility - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x02</value>
+        <description>Have Repulsiveness - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x04</value>
+        <description>Have Reflective Shot - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x10</value>
+        <description>Have Super Shot - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x20</value>
+        <description>Have Invulnerability - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AC</address>
+        <value>0x3F</value>
+        <description>Have all power-ups - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AD</address>
+        <value>0x3F</value>
+        <description>Have all power-ups - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C0</address>
+        <value>0x1E</value>
+        <description>Infinite time in puzzle and treasure rooms</description>
+    </cheat>
+</cheats>

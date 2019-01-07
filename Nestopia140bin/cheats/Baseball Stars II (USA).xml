@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXKILGEN</genie>
+		<description>Balls are considered strikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSSZSVV</genie>
+		<description>Strikes do not count</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSITKVV</genie>
+		<description>Balls do not count</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVIPILA</genie>
+		<description>One strike for an out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVIPILA</genie>
+		<description>Two strikes for an out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVIPILA</genie>
+		<description>Four strikes for an out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVIPILA</genie>
+		<description>Five strikes for an out (only 3 show on screen)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESSIGGA</genie>
+		<description>One ball for a walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESSIGGA</genie>
+		<description>Two balls for a walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESSIGGA</genie>
+		<description>Three balls for a walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESSIGGA</genie>
+		<description>Five balls for a walk (only 3 show on screen)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESSIGGA</genie>
+		<description>Six balls for a walk (only 3 show on screen)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANILTLA</genie>
+		<description>One out per side instead of 3 - against human players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANILTLA</genie>
+		<description>Two outs per side - against human players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANILTLA</genie>
+		<description>Four outs per side - against human players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOAILLA</genie>
+		<description>One out per side instead of 3 - against computer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOAILLA</genie>
+		<description>Two outs per side - against computer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOAILLA</genie>
+		<description>Four outs per side - against computer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXPVGLZ</genie>
+		<description>Game ends after 1 inning</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXPVGLZ</genie>
+		<description>Game ends after 2 innings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXPVGLZ</genie>
+		<description>Game ends after 3 innings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXPVGLX</genie>
+		<description>Game ends after 4 innings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXPVGLX</genie>
+		<description>Game ends after 5 innings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXPVGLX</genie>
+		<description>Game ends after 6 innings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXPVGLX</genie>
+		<description>Game ends after 7 innings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOXPVGLZ</genie>
+		<description>Game ends after 8 innings</description>
+	</cheat>
+</cheats>

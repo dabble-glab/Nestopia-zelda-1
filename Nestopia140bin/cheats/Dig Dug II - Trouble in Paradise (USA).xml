@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZETIZEI</genie>
+		<description>Instant inflate and explode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEETOPLA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEETOPLE</genie>
+		<description>Start with 8 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXLSVVK</genie>
+		<description>Never lose lives from touching water</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVKLVVK</genie>
+		<description>Never lose lives from Fygar's flame</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNIPEVK</genie>
+		<description>Never lose lives from hitting enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNYPUPX</genie>
+		<description>Turbo speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANYZLLA</genie>
+		<description>Turbo speed (2 of 2)</description>
+	</cheat>
+</cheats>

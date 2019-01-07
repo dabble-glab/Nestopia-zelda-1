@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENXTTYEI</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYNTZYEI</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYOTNAEI</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYSTOAEI</genie>
+		<description>Invincible against spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AONPTYAA</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GONOLYZE</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVTZVSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUITXSE</genie>
+		<description>Keep whatever weapon you started the level with</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOAPLAA</genie>
+		<description>Start with max weapon power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEOATLPA</genie>
+		<description>Start on Mission 7 - Planet X</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAUKEZLA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUKEZLA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUKEZLE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUGEZPE</genie>
+		<description>Start on level 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPUGEZPE</genie>
+		<description>Start on level 25</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLUGEZPA</genie>
+		<description>Start on level 50</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LGUGEZPE</genie>
+		<description>Start on level 75</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOGOLGA</genie>
+		<description>Skip only 2 levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOGOLGE</genie>
+		<description>Skip 10 levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUILSPP</genie>
+		<description>Lots of bubble power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANEAGPA</genie>
+		<description>Monsters move faster (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEEAKVN</genie>
+		<description>Monsters move faster (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANEAGPA</genie>
+		<description>Monsters move super fast (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEEAKSN</genie>
+		<description>Monsters move super fast (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANEIGZA</genie>
+		<description>Angry monsters move faster (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SNEEIKVN</genie>
+		<description>Angry monsters move faster (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANSIGTA</genie>
+		<description>Always wear turbo shoes (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESIPGTA</genie>
+		<description>Always wear turbo shoes (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x003F</address>
+        <value>0x2F</value>
+        <description>Invincibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0053</address>
+        <value>0x2F</value>
+        <description>Invincibility - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x002E</address>
+        <value>0x09</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0042</address>
+        <value>0x09</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0030</address>
+        <value>0x02</value>
+        <description>Have Long Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0030</address>
+        <value>0x04</value>
+        <description>Have Rapid Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0030</address>
+        <value>0x06</value>
+        <description>Have Long Rapid Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0030</address>
+        <value>0x45</value>
+        <description>Have Lightning Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x0A</value>
+        <description>Float</description>
+    </cheat>
+</cheats>

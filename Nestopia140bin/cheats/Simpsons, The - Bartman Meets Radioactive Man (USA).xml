@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXXNPLAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUYPYGA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUYZNSE</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKNNVEVK</genie>
+		<description>Infinite Eyes on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNNVEVK</genie>
+		<description>Infinite Eyes on pick-up (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKYKPPA</genie>
+		<description>Infinite Cold on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVAYYLA</genie>
+		<description>Start with 2 lives and 2 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVAYYLA</genie>
+		<description>Start with 6 lives and 6 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAVAYYLA</genie>
+		<description>Start with 8 lives and 8 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVAYYLE</genie>
+		<description>Start with 10 lives and 10 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OLVYAZOP</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZENNEVK</genie>
+		<description>Infinite credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASVTOZAZ</genie>
+		<description>Eyes worth more on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXUVSZIA</genie>
+		<description>Cold worth more on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUZAYAA</genie>
+		<description>Start in chapter 1 level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUZAYAA</genie>
+		<description>Start in chapter 1 level 3</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0787</address>
+        <value>0x14</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0788</address>
+        <value>0x99</value>
+        <description>Infinite Eyes on pick-up (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0789</address>
+        <value>0x99</value>
+        <description>Infinite Cold on pick-up (alt)</description>
+    </cheat>
+</cheats>

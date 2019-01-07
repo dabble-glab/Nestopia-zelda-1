@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSESXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUSPIXVS</genie>
+		<description>Infinite Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKAVIGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKAVIGE</genie>
+		<description>Start with 8 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXELPLA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXELPLE</genie>
+		<description>8 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOEUIZA</genie>
+		<description>Start with full flasks of Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOEUIZA</genie>
+		<description>Start with no Potions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUXYGAX</genie>
+		<description>Multi-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0784</address>
+        <value>0x04</value>
+        <description>Infinite Green Potion</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0785</address>
+        <value>0x04</value>
+        <description>Infinite Yellow Potion</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0786</address>
+        <value>0x04</value>
+        <description>Infinite Light Purple Potion</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0787</address>
+        <value>0x04</value>
+        <description>Infinite Dark Purple Potion</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0789</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

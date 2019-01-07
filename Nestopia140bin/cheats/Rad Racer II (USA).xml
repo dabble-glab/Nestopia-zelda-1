@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x005B</address>
+        <value>0x00</value>
+        <description>Never wipeout when you hit something</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0xFF</value>
+        <description>Instant boost</description>
+    </cheat>
+</cheats>

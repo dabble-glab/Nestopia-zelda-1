@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GEUGAPPA</genie>
+		<description>Max turbo on first pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKKGPPA</genie>
+		<description>Max tires on first pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVGIPPA</genie>
+		<description>Max speed on first pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUGAPPA</genie>
+		<description>Double turbo on first pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKKGPPA</genie>
+		<description>Double tires on first pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVGIPPA</genie>
+		<description>Double speed on first pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVLGZAK</genie>
+		<description>Computer cars go crazy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEIPPPA</genie>
+		<description>Infinite continues</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05DC</address>
+        <value>0x80</value>
+        <description>Auto race at 128 MPH (disable if you get stuck)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0453</address>
+        <value>0x04</value>
+        <description>Max Super Sticky Tires</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0454</address>
+        <value>0x04</value>
+        <description>Max Turbo Acceleration</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0455</address>
+        <value>0x04</value>
+        <description>Max higher top speed</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0459</address>
+        <value>0x63</value>
+        <description>Infinite ammo for weapons</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x045A</address>
+        <value>0x01</value>
+        <description>Have Bombs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x045A</address>
+        <value>0x02</value>
+        <description>Have Missiles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F9</address>
+        <value>0x00</value>
+        <description>Have pick-up truck as vehicle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F9</address>
+        <value>0x01</value>
+        <description>Have off-road vehicle as vehicle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F9</address>
+        <value>0x02</value>
+        <description>Have race car as vehicle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005C</address>
+        <value>0x00</value>
+        <description>Always win as 1st place</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03F7</address>
+        <value>0x08</value>
+        <description>"NINTENDO" already spelled out (enable then disable)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0xB2E4</address>
+        <value>0xAD</value>
+        <description>Computer cars go crazy (alt)</description>
+    </cheat>
+</cheats>

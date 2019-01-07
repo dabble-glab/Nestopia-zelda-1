@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEOGTAIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOGTAIA</genie>
+		<description>Start with 3 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEOGTAIA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOGTAIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEESZKNY</genie>
+		<description>Don't flash after getting hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVESZKNY</genie>
+		<description>Flash 1/2 as long after getting hit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKXGVG</genie>
+		<description>Invincibility</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SZKGNUSE</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XVEITKVE</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VXEITKVE</genie>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0110</address>
+        <value>0x06</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0119</address>
+        <value>0x0C</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

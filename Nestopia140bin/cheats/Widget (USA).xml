@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENNVEZEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSLEKSE</genie>
+		<description>Infinite health (except against spikes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUVOEVK</genie>
+		<description>Infinite health (only against spikes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUAVXVK</genie>
+		<description>Infinite time (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXANXVK</genie>
+		<description>Infinite time (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXPPVSE</genie>
+		<description>Infinite MP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUGSXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00B9</address>
+        <value>0x01</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04F5</address>
+        <value>0x02</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0581</address>
+        <value>0x06</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x058B</address>
+        <value>0x06</value>
+        <description>Infinite special</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0331</address>
+        <value>0x01</value>
+        <description>Have Mouse Widget</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0332</address>
+        <value>0x01</value>
+        <description>Have Rock-Man Widget</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0333</address>
+        <value>0x01</value>
+        <description>Have Bird-Man Widget</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0334</address>
+        <value>0x01</value>
+        <description>Have Dolphin Widget</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0594</address>
+        <value>0x03</value>
+        <description>Have powered-up gun (1 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+        <address>0x0595</address>
+        <value>0x03</value>
+        <description>Have powered-up gun (2 of 2)</description>
+    </cheat>
+</cheats>

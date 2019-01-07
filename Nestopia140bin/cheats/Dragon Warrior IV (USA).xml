@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATVATGSL</genie>
+		<description>No damage and lose no MP - all members. Don't combine any of the start with items codes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POSOAPZU</genie>
+		<description>Chapter 1 - Start with 25 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVSOAPZL</genie>
+		<description>Chapter 1 - Start with 100 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNSOAPZU</genie>
+		<description>Chapter 1 - Start with 255 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIXOZAYS</genie>
+		<description>Chapter 1 - Start with lots 'o gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEEXYXLO</genie>
+		<description>Chapter 1 - Start with 15 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVEXYXLP</genie>
+		<description>Chapter 1 - Start with 100 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEXYXLO</genie>
+		<description>Chapter 1 - Start with 255 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNKPLONY</genie>
+		<description>Chapter 1 - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKPLONN</genie>
+		<description>Chapter 1 - Start with metal babble sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOKPLONY</genie>
+		<description>Chapter 1 - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKPLONN</genie>
+		<description>Chapter 1 - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKKPLONY</genie>
+		<description>Chapter 1 - Start with shield of strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKKPLONY</genie>
+		<description>Chapter 1 - Start with dragon shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNKPLONY</genie>
+		<description>Chapter 1 - Start with final key and chain sickle (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKPGONY</genie>
+		<description>Chapter 1 - Start with final key and chain sickle (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKPLONN</genie>
+		<description>Chapter 1 - Start with metal babble sword and boomerang (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKPGONN</genie>
+		<description>Chapter 1 - Start with metal babble sword and boomerang (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOKPLONY</genie>
+		<description>Chapter 1 - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+		<genie>PSKPGONN</genie>
+		<description>Chapter 1 - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKPLONN</genie>
+		<description>Chapter 1 - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+		<genie>ZOKPGONY</genie>
+		<description>Chapter 1 - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKKPLONY</genie>
+		<description>Chapter 1 - Start with shield of strength and meteorite armband (1 of 2)</description>
+	</cheat>
+		<genie>ASKPGONY</genie>
+		<description>Chapter 1 - Start with shield of strength and meteorite armband (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKKPLONY</genie>
+		<description>Chapter 1 - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKPGONN</genie>
+		<description>Chapter 1 - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUSOPPGT</genie>
+		<description>Chapter 2 - Start with 50 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNSOPPGV</genie>
+		<description>Chapter 2 - Start with 255 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIXOZAYS</genie>
+		<description>Chapter 2 - Start with lots of gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVOZAZAP</genie>
+		<description>Chapter 2, Alena - Start with 100 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNOZAZAO</genie>
+		<description>Chapter 2, Alena - Start with 255 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNKOZONY</genie>
+		<description>Chapter 2, Alena - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOKOZONN</genie>
+		<description>Chapter 2, Alena - Start with fire claw</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOKOZONY</genie>
+		<description>Chapter 2, Alena - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKOZONN</genie>
+		<description>Chapter 2, Alena - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKOLONN</genie>
+		<description>Chapter 2, Alena - Start with boomerang</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNKOZONY</genie>
+		<description>Chapter 2, Alena - Start with final key and fire claw (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOKOLONN</genie>
+		<description>Chapter 2, Alena - Start with final key and fire claw (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOKOZONY</genie>
+		<description>Chapter 2, Alena - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSKOLONN</genie>
+		<description>Chapter 2, Alena - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKOZONN</genie>
+		<description>Chapter 2, Alena - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOKOLONY</genie>
+		<description>Chapter 2, Alena - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKKOZONY</genie>
+		<description>Chapter 2, Alena - Start with shield of strength and meteorite arm band (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASKOLONY</genie>
+		<description>Chapter 2, Alena - Start with shield of strength and meteorite arm band (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKKOZONY</genie>
+		<description>Chapter 2, Alena - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKOLONN</genie>
+		<description>Chapter 2, Alena - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNUPLONY</genie>
+		<description>Chapter 2, Brey - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOUPLONN</genie>
+		<description>Chapter 2, Brey - Start with magma staff</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOUPLONY</genie>
+		<description>Chapter 2, Brey - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUPLONN</genie>
+		<description>Chapter 2, Brey - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKUPLONY</genie>
+		<description>Chapter 2, Brey - Start with shield of strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKUPLONY</genie>
+		<description>Chapter 2, Brey - Start with dragon shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUPGONN</genie>
+		<description>Chapter 2, Brey - Start with boomerang</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNUPLONY</genie>
+		<description>Chapter 2, Brey - Start with final key and magma staff (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOUPGONN</genie>
+		<description>Chapter 2, Brey - Start with final key and magma staff (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOUPLONY</genie>
+		<description>Chapter 2, Brey - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSUPGONN</genie>
+		<description>Chapter 2, Brey - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUPLONN</genie>
+		<description>Chapter 2, Brey - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOUPGONY</genie>
+		<description>Chapter 2, Brey - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKUPLONY</genie>
+		<description>Chapter 2, Brey - Start with shield of strength and meteorite arm band (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASUPGONY</genie>
+		<description>Chapter 2, Brey - Start with shield of strength and meteorite arm band (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKUPLONY</genie>
+		<description>Chapter 2, Brey - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUPGONN</genie>
+		<description>Chapter 2, Brey - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOOLONN</genie>
+		<description>Chapter 2, Cristo - Start with metal babble sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOOLONN</genie>
+		<description>Chapter 2, Cristo - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with shield of strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with dragon shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with final key and chain sickle (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOOGONY</genie>
+		<description>Chapter 2, Cristo - Start with final key and chain sickle (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOOLONN</genie>
+		<description>Chapter 2, Cristo - Start with metal babble sword and boomerang (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEOOGONN</genie>
+		<description>Chapter 2, Cristo - Start with metal babble sword and boomerang (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSOOGONN</genie>
+		<description>Chapter 2, Cristo - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOOLONN</genie>
+		<description>Chapter 2, Cristo - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOOOGONY</genie>
+		<description>Chapter 2, Cristo - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with shield of strength and meteorite arm band (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASOOGONY</genie>
+		<description>Chapter 2, Cristo - Start with shield of strength and meteorite arm band (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKOOLONY</genie>
+		<description>Chapter 2, Cristo - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOOGONN</genie>
+		<description>Chapter 2, Cristo - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOEXTZGP</genie>
+		<description>Chapter 3 - Start with 16 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVEXTZGP</genie>
+		<description>Chapter 3 - Start with 100 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEXTZGO</genie>
+		<description>Chapter 3 - Start with 255 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVSOZPAA</genie>
+		<description>Chapter 3 - Start with 100 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNSOZPAE</genie>
+		<description>Chapter 3 - Start with 255 gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNUOLONY</genie>
+		<description>Chapter 3 - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUOLONN</genie>
+		<description>Chapter 3 - Start with metal babble sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOUOLONY</genie>
+		<description>Chapter 3 - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUOLONN</genie>
+		<description>Chapter 3 - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PKUOLONY</genie>
+		<description>Chapter 3 - Start with shield of strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKUOLONY</genie>
+		<description>Chapter 3 - Start with dragon shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNUOLONY</genie>
+		<description>Chapter 3 - Start with final key and chain sickle (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUOGONY</genie>
+		<description>Chapter 3 - Start with final key and chain sickle (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUOLONN</genie>
+		<description>Chapter 3 - Start with metal babble sword and boomerang (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUOGONN</genie>
+		<description>Chapter 3 - Start with metal babble sword and boomerang (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOUOLONY</genie>
+		<description>Chapter 3 - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSUOGONN</genie>
+		<description>Chapter 3 - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUOLONN</genie>
+		<description>Chapter 3 - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOUOGONY</genie>
+		<description>Chapter 3 - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKUOLONY</genie>
+		<description>Chapter 3 - Start with shield of strength and meteorite arm band (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASUOGONY</genie>
+		<description>Chapter 3 - Start with shield of strength and meteorite arm band (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKUOLONY</genie>
+		<description>Chapter 3 - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUOGONN</genie>
+		<description>Chapter 3 - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVEXLZZP</genie>
+		<description>Chapter 4, Nara - Starts with 100 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEXLZZO</genie>
+		<description>Chapter 4, Nara - Starts with 255 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNXPLONY</genie>
+		<description>Chapter 4, Nara - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXPLONN</genie>
+		<description>Chapter 4, Nara - Start with metal babble sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOXPLONY</genie>
+		<description>Chapter 4, Nara - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXPLONN</genie>
+		<description>Chapter 4, Nara - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKXPLONY</genie>
+		<description>Chapter 4, Nara - Start with shield of strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKXPLONY</genie>
+		<description>Chapter 4, Nara - Start with dragon shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNXPLONY</genie>
+		<description>Chapter 4, Nara - Start with final key and chain sickle (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXPGONY</genie>
+		<description>Chapter 4, Nara - Start with final key and chain sickle (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXPLONN</genie>
+		<description>Chapter 4, Nara - Start with metal babble sword and boomerang (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXPGONN</genie>
+		<description>Chapter 4, Nara - Start with metal babble sword and boomerang (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOXPLONY</genie>
+		<description>Chapter 4, Nara - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSXPGONN</genie>
+		<description>Chapter 4, Nara - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXPLONN</genie>
+		<description>Chapter 4, Nara - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOXPGONY</genie>
+		<description>Chapter 4, Nara - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKXPLONY</genie>
+		<description>Chapter 4, Nara - Start with shield of strength and meteorite arm band (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASXPGONY</genie>
+		<description>Chapter 4, Nara - Start with shield of strength and meteorite arm band (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKXPLONY</genie>
+		<description>Chapter 4, Nara - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXPGONN</genie>
+		<description>Chapter 4, Nara - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVEXGZAP</genie>
+		<description>Chapter 4, Mara - Starts with 100 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEXGZAO</genie>
+		<description>Chapter 4, Mara - Starts with 255 HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNXOPONY</genie>
+		<description>Chapter 4, Mara - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOXOPONN</genie>
+		<description>Chapter 4, Mara - Start with magma staff</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOXOPONY</genie>
+		<description>Chapter 4, Mara - Start with multi-edge sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXOPONN</genie>
+		<description>Chapter 4, Mara - Start with thorn whip</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKXOPONY</genie>
+		<description>Chapter 4, Mara - Start with shield of strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKXOPONY</genie>
+		<description>Chapter 4, Mara - Start with dragon shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNXOPONY</genie>
+		<description>Chapter 4, Mara - Start with final key and chain sickle (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXOZONY</genie>
+		<description>Chapter 4, Mara - Start with final key and chain sickle (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXOPONN</genie>
+		<description>Chapter 4, Mara - Start with metal babble sword and boomerang (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXOZONN</genie>
+		<description>Chapter 4, Mara - Start with metal babble sword and boomerang (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOXOPONY</genie>
+		<description>Chapter 4, Mara - Start with multi-edge sword and wizard's ring (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PSXOZONN</genie>
+		<description>Chapter 4, Mara - Start with multi-edge sword and wizard's ring (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXOPONN</genie>
+		<description>Chapter 4, Mara - Start with thorn whip and demon hammer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZOXOZONY</genie>
+		<description>Chapter 4, Mara - Start with thorn whip and demon hammer (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKXOPONY</genie>
+		<description>Chapter 4, Mara - Start with shield of strength and meteorite arm band (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASXOZONY</genie>
+		<description>Chapter 4, Mara - Start with shield of strength and meteorite arm band (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKXOPONY</genie>
+		<description>Chapter 4, Mara - Start with dragon shield and iron fan (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXOZONN</genie>
+		<description>Chapter 4, Mara - Start with dragon shield and iron fan (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LNOPIONY</genie>
+		<description>Chapter 5 - Start with final key</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXOPIONY</genie>
+		<description>Chapter 5 - Start with zenithian sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GKOPIONY</genie>
+		<description>Chapter 5 - Start with zenithian shield</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YUOPIONY</genie>
+		<description>Chapter 5 - Start with zenithian armor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LKOPIONN</genie>
+		<description>Chapter 5 - Start with zenithian helmet</description>
+	</cheat>
+</cheats>

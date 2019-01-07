@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAKSZLGA</genie>
+		<description>Start with 1 ship and 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKSZLGE</genie>
+		<description>Start with 8 ships and 8 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXONIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXXAVNY</genie>
+		<description>Minimum damage taken from walls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASSTLAA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASSTLAA</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASSTLAE</genie>
+		<description>Start on level 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASSTLAE</genie>
+		<description>Start on level 11</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASSZLPE</genie>
+		<description>Start with more money</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SVEKOVON</genie>
+		<description>Weapons use up no energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UNSPLSLE</genie>
+		<description>Reversed gravity for planet 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTSOZVTO</genie>
+		<description>Reversed gravity for planet 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KVOPATGP</genie>
+		<description>Reversed gravity for planet 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNVOTSZE</genie>
+		<description>Reversed gravity for planet 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ETXPGTAZ</genie>
+		<description>Reversed gravity for planet 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTUOYVPX</genie>
+		<description>Reversed gravity for planet 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UTEOPTLZ</genie>
+		<description>Reversed gravity for planet 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOXOLVEV</genie>
+		<description>Normal gravity for planet 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXZGVSY</genie>
+		<description>No damage taken from walls (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXXAVNY</genie>
+		<description>No damage taken from walls (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUIOXYA</genie>
+		<description>Items for free (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKSOZSA</genie>
+		<description>Items for free (2 of 2)</description>
+	</cheat>
+</cheats>

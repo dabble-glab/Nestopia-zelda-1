@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAOALPLA</genie>
+		<description>Start with 1 wrench</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOALPLA</genie>
+		<description>Start with 6 wrenches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOALPLE</genie>
+		<description>Start with 9 wrenches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKTPUVK</genie>
+		<description>Infinite wrenches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGZZIA</genie>
+		<description>One-way pipes from level 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOGAZLA</genie>
+		<description>One-way pipes from level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOKPZLE</genie>
+		<description>One-way pipes from level 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEUAUVSE</genie>
+		<description>Tunnels galore</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKIEGZP</genie>
+		<description>Pumps instead of reservoirs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKIEGZP</genie>
+		<description>Pumps before reservoirs (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZPKINGGP</genie>
+		<description>Pumps before reservoirs (2 of 2)</description>
+	</cheat>
+</cheats>

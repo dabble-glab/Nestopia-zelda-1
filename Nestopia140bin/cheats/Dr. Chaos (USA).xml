@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXKIKIST</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTKKVPZL</genie>
+		<description>Start with 99 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPKKVPZU</genie>
+		<description>Start with 25 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEGUZLE</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKSSKIGP</genie>
+		<description>More invincibility time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESSKIGP</genie>
+		<description>Less invincibility time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEYEEVK</genie>
+		<description>Infinite Gun ammo on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVKIKISV</genie>
+		<description>Take minimal damage (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKISIGY</genie>
+		<description>Take minimal damage (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TVOSSITG</genie>
+		<description>Take more damage and Shield Suit has no effect (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOSKIYA</genie>
+		<description>Take more damage and Shield Suit has no effect (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKSPAA</genie>
+		<description>Start with Shield Suit (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZISKNPLG</genie>
+		<description>Start with Shield Suit (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0073</address>
+        <value>0x03</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0744</address>
+        <value>0xFF</value>
+        <description>Infinite life (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0746</address>
+        <value>0x63</value>
+        <description>Infinite Gun ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0747</address>
+        <value>0x63</value>
+        <description>Infinite Machine Gun ammo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0748</address>
+        <value>0x63</value>
+        <description>Infinite Grenades</description>
+    </cheat>
+</cheats>

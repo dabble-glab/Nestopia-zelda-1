@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEYXGSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00C3</address>
+        <value>0xFF</value>
+        <description>Max Punch</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C4</address>
+        <value>0xFF</value>
+        <description>Max Stamina</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CD</address>
+        <value>0x00</value>
+        <description>Instant win</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CE</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

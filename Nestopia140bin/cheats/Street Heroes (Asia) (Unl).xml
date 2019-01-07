@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x00D6</address>
+        <value>0x59</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00D7</address>
+        <value>0x00</value>
+        <description>One hit kills</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0059</address>
+        <value>0x02</value>
+        <description>Only one win needed to advance</description>
+    </cheat>
+</cheats>

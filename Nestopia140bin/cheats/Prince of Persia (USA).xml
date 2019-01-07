@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLXAINSO</genie>
+		<description>Infinite health (except for deep sword hit or a long fall)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKLIXSE</genie>
+		<description>Infinite time</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x04EF</address>
+        <value>0x80</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06CF</address>
+        <value>0x03</value>
+        <description>Infinite health (except for deep sword hit or a long fall) (alt)</description>
+    </cheat>
+</cheats>

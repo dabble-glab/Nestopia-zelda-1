@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AASKSLAZ</genie>
+        <rocky>FCBFCB10</rocky>
+        <address>0xCB5D</address>
+        <value>0x00</value>
+        <compare>0x20</compare>
+        <description>Drive a short distance to complete lap</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>OZKGZPSX</genie>
+        <description>Clear level automatically</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SXSZGPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESPVGAE</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOSPVGAA</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXSPVGAA</genie>
+		<description>Start on level 9</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUOOGIA</genie>
+		<description>Start with 1 life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXZLLIA</genie>
+		<description>Start with 1 life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXZLLIE</genie>
+		<description>Start with 10 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUOOGIE</genie>
+		<description>Start with 10 lives (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x01</value>
+        <description>Start on level 1 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x02</value>
+        <description>Start on level 1 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x03</value>
+        <description>Start on level 1 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x04</value>
+        <description>Start on level 2 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x05</value>
+        <description>Start on level 2 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x06</value>
+        <description>Start on level 2 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x07</value>
+        <description>Start on level 2 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x08</value>
+        <description>Start on level 3 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x09</value>
+        <description>Start on level 3 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x0A</value>
+        <description>Start on level 3 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x0B</value>
+        <description>Start on level 3 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x0C</value>
+        <description>Start on level 4 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x0D</value>
+        <description>Start on level 4 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x0E</value>
+        <description>Start on level 4 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x0F</value>
+        <description>Start on level 4 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x10</value>
+        <description>Start on level 5 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x11</value>
+        <description>Start on level 5 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x12</value>
+        <description>Start on level 5 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x13</value>
+        <description>Start on level 5 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x14</value>
+        <description>Start on level 6 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x15</value>
+        <description>Start on level 6 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x16</value>
+        <description>Start on level 6 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x17</value>
+        <description>Start on level 6 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x18</value>
+        <description>Start on level 7 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x19</value>
+        <description>Start on level 7 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x1A</value>
+        <description>Start on level 7 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x1B</value>
+        <description>Start on level 7 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x1C</value>
+        <description>Start on level 8 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x1D</value>
+        <description>Start on level 8 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x1E</value>
+        <description>Start on level 8 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x1F</value>
+        <description>Start on level 8 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x20</value>
+        <description>Start on level 9 round 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x21</value>
+        <description>Start on level 9 round 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x22</value>
+        <description>Start on level 9 round 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0049</address>
+        <value>0x23</value>
+        <description>Start on level 9 round 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004C</address>
+        <value>0x63</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZUAXYAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNPYNSE</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVOEESE</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEYAVVK</genie>
+		<description>Infinite lives for Tony</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSILLA</genie>
+		<description>1 life and 1 Smart Bomb</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKSILLA</genie>
+		<description>6 lives and 6 Smart Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSILLE</genie>
+		<description>9 lives and 9 Smart Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVYISVK</genie>
+		<description>Infinite Smart Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNNXTENN</genie>
+		<description>Super-jumping Tony</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEXGAIA</genie>
+		<description>Super-speeding Tony</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEXGAIA</genie>
+		<description>Mega-speeding Tony</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESSAUNY</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESSAUNY</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESSAUNY</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESSAUNY</genie>
+		<description>Start on level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GESSAUNY</genie>
+		<description>Start on level 6</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05DD</address>
+        <value>0x1F</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

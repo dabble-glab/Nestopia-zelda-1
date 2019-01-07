@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ASEAVLEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVYLIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKEUYPA</genie>
+		<description>Infinite missiles - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENAZIPA</genie>
+		<description>Infinite missiles - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KUVZTIKO</genie>
+		<description>60 Phoenix missiles - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KOVXTISA</genie>
+		<description>20 Phoenix missiles - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASYALLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASYALLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASYALLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OZVVVTEO</genie>
+		<description>Infinite health (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELVVNVLP</genie>
+		<description>Infinite health (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SANTOVSU</genie>
+		<description>Infinite health (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKVKXVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUXAGAEL</genie>
+		<description>Start with 1/3 health - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYUEESPYE</genie>
+		<description>Select ultra strength (ignore strength meter and keep pushing to the right) - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAVAZLGA</genie>
+		<description>Select any character in story mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OKKEZTVG</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXAGAEL</genie>
+		<description>First hit wins round</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNEOXPV</genie>
+		<description>One round wins match (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANEXZPA</genie>
+		<description>One round wins match (2 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>LEXYLGZE</genie>
+		<description>Start a new game to view ending</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0590</address>
+        <value>0xB0</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0591</address>
+        <value>0x00</value>
+        <description>No health - P2 / CPU</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0672</address>
+        <value>0x09</value>
+        <description>Infinite time (tens digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0673</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C3</address>
+        <value>0x00</value>
+        <description>Turn off CPU's jumping, blocking and fighting routine (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C7</address>
+        <value>0x00</value>
+        <description>Turn off CPU's jumping, blocking and fighting routine (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C9</address>
+        <value>0x00</value>
+        <description>Turn off CPU's jumping, blocking and fighting routine (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06CB</address>
+        <value>0x00</value>
+        <description>Turn off CPU's jumping, blocking and fighting routine (4 of 4)</description>
+    </cheat>
+</cheats>

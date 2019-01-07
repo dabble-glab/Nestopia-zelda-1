@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATGKAG</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZGKAK</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKGYGPA</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ESVONGEY</genie>
+        <description>Enemies can&apos;t move horizontally</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EIEOEIEY</genie>
+        <description>Enemies can&apos;t move vertically</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>APKOOIAL</genie>
+        <description>No enemies</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EIEKYGEY</genie>
+        <description>Sweets count as extra lives also</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXOVPYEY</genie>
+        <description>Always able to fly (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXUTKPEY</genie>
+        <description>Invincibility status effect</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEVKZTIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVKZTIE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUGZKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SULGZK</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKZTZA</genie>
+		<description>Start with 1 heart</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENKZTZA</genie>
+		<description>Start with 4 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASVUGIL</genie>
+		<description>Always able to fly</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVTETAO</genie>
+		<description>Mega-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0435</address>
+        <value>0x02</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0438</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt 2)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>IIUGSOIZ</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUGSOIX</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IIVGKOIZ</genie>
+		<description>Slower shot clock</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPVGKOIX</genie>
+		<description>Faster shot clock</description>
+	</cheat>
+</cheats>

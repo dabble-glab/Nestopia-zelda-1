@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKGXTSA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGEVPA</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGSVZI</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PZOGKTSN</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APXKETSV</genie>
+		<description>One hit kills (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APXKOVEE</genie>
+		<description>One hit kills (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLUUVYSP</genie>
+		<description>Infinite hits and magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOKZKPAE</genie>
+		<description>Start with 9999 hits (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOKXEPAO</genie>
+		<description>Start with 9999 hits (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOKXKPAE</genie>
+		<description>Start with 9999 max hits (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOSZEPAO</genie>
+		<description>Start with 9999 max hits (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOSXEPAO</genie>
+		<description>Start with 9999 magic (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOSZKPAE</genie>
+		<description>Start with 9999 magic (2 of 2)</description>
+	</cheat>
+</cheats>

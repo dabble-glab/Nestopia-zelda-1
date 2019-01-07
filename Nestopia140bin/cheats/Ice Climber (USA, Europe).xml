@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATKSALAZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OKEIPGVS</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXKTGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXKTGLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXKTGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUKOAZX</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELKITLEY</genie>
+		<description>Enemies bump you instead of killing you</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNSKXUNN</genie>
+		<description>Double speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESKULPA</genie>
+		<description>Double speed (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SNSKXUNN</genie>
+		<description>Triple speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESKULPA</genie>
+		<description>Triple speed (2 of 2)</description>
+	</cheat>
+</cheats>

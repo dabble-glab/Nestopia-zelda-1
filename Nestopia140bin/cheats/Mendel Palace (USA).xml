@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLSIXXVS</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVZLPZA</genie>
+		<description>Start with - 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVZLPZA</genie>
+		<description>Start with - 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVZLPZE</genie>
+		<description>Start with - 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEXLXKSE</genie>
+		<description>P1 has more lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEXLSKSE</genie>
+		<description>P2 has more lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXIAIPA</genie>
+		<description>More stars on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUIOOSU</genie>
+		<description>P1 gains P2's speed-ups (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTUSEOVN</genie>
+		<description>P1 gains P2's speed-ups (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x051B</address>
+        <value>0x00</value>
+        <description>Automatically finish level</description>
+    </cheat>
+</cheats>

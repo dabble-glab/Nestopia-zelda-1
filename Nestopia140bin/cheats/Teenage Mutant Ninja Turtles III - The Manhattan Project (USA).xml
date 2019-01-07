@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENSKKIEI</genie>
+		<description>Invincibility (except grabs from behind)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLXUTXVS</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLKXPKSO</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENKLZPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNSKKVK</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAESYXAA</genie>
+		<description>No health loss from using turbo attack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALUGVYAG</genie>
+		<description>High-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZUGVYAK</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZUGVYAG</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEZVETP</genie>
+		<description>Hit anywhere - both players (1 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANXNZNI</genie>
+		<description>Hit anywhere - both players (2 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOZEAGP</genie>
+		<description>Hit anywhere - both players (3 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APXZXEUX</genie>
+		<description>Hit anywhere - both players (4 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTXZEEOS</genie>
+		<description>Hit anywhere - both players (5 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTXZOEAN</genie>
+		<description>Hit anywhere - both players (6 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUZOGLA</genie>
+		<description>1 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUZOGLE</genie>
+		<description>9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAALLA</genie>
+		<description>Start with 1 life instead of 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOAALLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAALLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x04F1</address>
+        <value>0x7F</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04F2</address>
+        <value>0x7F</value>
+        <description>Infinite health - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006A</address>
+        <value>0x05</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006B</address>
+        <value>0x05</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0626</address>
+        <value>0x00</value>
+        <description>Enemies automatically die (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0627</address>
+        <value>0x00</value>
+        <description>Enemies automatically die (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0628</address>
+        <value>0x00</value>
+        <description>Enemies automatically die (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07B0</address>
+        <value>0x05</value>
+        <description>Infinite continues</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x01</value>
+        <description>Start on scene 02 - Ocean</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x02</value>
+        <description>Start on scene 03 - Battleship</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x03</value>
+        <description>Start on scene 04 - Bridge</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x04</value>
+        <description>Start on scene 05 - N.Y.</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x05</value>
+        <description>Start on scene 06 - Platform</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x06</value>
+        <description>Start on scene 07 - Sewer</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x07</value>
+        <description>Start on scene 08 - Sewer 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x08</value>
+        <description>Start on scene 09 - Technodrome</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x09</value>
+        <description>Start on scene 10 - Technodrome 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x0A</value>
+        <description>Start on scene 11 - Building</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x0B</value>
+        <description>Start on scene 12 - Roof</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x0C</value>
+        <description>Start on scene 13 - Spaceship</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x0D</value>
+        <description>Start on scene 14 - Spaceship 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x0E</value>
+        <description>Start on scene 15 - Spaceship 3</description>
+    </cheat>
+</cheats>

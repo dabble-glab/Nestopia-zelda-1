@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEVGTTIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEVGTTIA</genie>
+		<description>Start with 3 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVGTTIE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXETGYSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVKZVNY</genie>
+		<description>Start with very little health - first life only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKVKZVNY</genie>
+		<description>Start with 1/4 health - first life only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANVKZVNY</genie>
+		<description>Start with 1/2 health - first life only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EUVKZVNY</genie>
+		<description>Start with 3/4 health - first life only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESKPTLA</genie>
+		<description>Start with 1 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESKPTLA</genie>
+		<description>Start with 5 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESKPTLE</genie>
+		<description>Start with 9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZKKEAAU</genie>
+		<description>Infinite continues (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZKGVAVK</genie>
+		<description>Infinite continues (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSKYYUK</genie>
+		<description>Infinite lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVGZYEN</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+</cheats>

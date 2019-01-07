@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSGYNSE</genie>
+		<description>Infinite fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNGZTSA</genie>
+		<description>Infinite shields and life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXITGPA</genie>
+		<description>Start on Act 2 - Dyna Crystal</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXITGPA</genie>
+		<description>Start on Act 3 - Magma Falls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXITGPA</genie>
+		<description>Start on Act 4 - Ziggy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXITGPA</genie>
+		<description>Start on Act 5 - Dual Duel</description>
+	</cheat>
+</cheats>

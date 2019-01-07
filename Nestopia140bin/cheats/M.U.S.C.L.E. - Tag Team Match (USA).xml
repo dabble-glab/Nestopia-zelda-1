@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZESELPLA</genie>
+		<description>Set bout length timer to 20</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESELPLA</genie>
+		<description>Set bout length timer to 60</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESELPLE</genie>
+		<description>Set bout length timer to 90</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUOUPPA</genie>
+		<description>Computer controlled players jump faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASXAAPA</genie>
+		<description>Computer controlled players speed up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZUEPZSX</genie>
+		<description>Invincibility - P1 team (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTUEZXYG</genie>
+		<description>Invincibility - P1 team (2 of 2)</description>
+	</cheat>
+</cheats>

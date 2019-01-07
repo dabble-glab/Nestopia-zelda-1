@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+		<genie>XVVKISZK</genie>
+        <description>Multi-jump</description>
+    </cheat>
+    <cheat enabled="0">
+		<genie>AANSEIYP</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+		<genie>AEEYXEET</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZSKIOVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>SZNNNSVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVYXKVK</genie>
+		<description>Infinite grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKNXKVK</genie>
+		<description>Infinite bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVYVKSE</genie>
+		<description>Infinite power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOYNGGV</genie>
+		<description>10 coins for an extra life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POOYNGGV</genie>
+		<description>25 coins for an extra life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOENELIA</genie>
+		<description>20 extra Grenades on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POXYXUZE</genie>
+		<description>25 extra Bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNNXLIA</genie>
+		<description>Start with 99 grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VPOEPKXY</genie>
+		<description>Start timer for round 1 at 150</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VPUAZKXY</genie>
+		<description>Start timer for round 2 at 150</description>
+	</cheat>
+</cheats>

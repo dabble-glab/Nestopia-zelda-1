@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>EIOAAGEY</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VTOAZKVK</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SKOEEKVK</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PEVTIAAA</genie>
+        <description>Start with 3 Potions</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEVTIAAA</genie>
+        <description>Start with 3 Fireballs</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LEVTIAAA</genie>
+        <description>Start with 3 Bombs</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SKVTTSVK</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0104</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0346</address>
+        <value>0x04</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x038C</address>
+        <value>0x02</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+</cheats>

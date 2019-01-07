@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSZAVSE</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOGGNSE</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVLOLVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNOOSVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+</cheats>

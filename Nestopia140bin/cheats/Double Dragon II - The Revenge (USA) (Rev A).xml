@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AANELEAZ</genie>
+        <description>Invincibility (blinking) - both players</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZYZPPA</genie>
+        <description>No enemies</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZULYPOU</genie>
+        <description>Enemies die automatically (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YZUUAOPZ</genie>
+        <description>Enemies die automatically (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZXAYKVS</genie>
+		<description>Never lose lives from falling</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOANXVS</genie>
+		<description>Never lose lives from low energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVESUVS</genie>
+		<description>Never lose lives from water</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVUELZA</genie>
+		<description>Uppercut after only two punches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNEVOIAE</genie>
+		<description>Slow down gameplay</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYSVETGE</genie>
+		<description>Start with 259 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASVETGE</genie>
+		<description>Start with 8 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVVSTGE</genie>
+		<description>Start with 8 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASVETGA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVVSTGA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUTXTAA</genie>
+		<description>Start on mission 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUTXTAA</genie>
+		<description>Start on mission 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUTXTAA</genie>
+		<description>Start on mission 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUTXTAA</genie>
+		<description>Start on mission 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUTXTAA</genie>
+		<description>Start on mission 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUTXTAE</genie>
+		<description>Start on mission 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUTXTAE</genie>
+		<description>Start on mission 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUTXTAE</genie>
+		<description>Start at final boss</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TALTXV</genie>
+		<description>Start at final boss (alt)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x03CC</address>
+        <value>0xF0</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0420</address>
+        <value>0x00</value>
+        <description>Enemies die after one knockdown (disable at final boss) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0421</address>
+        <value>0x00</value>
+        <description>Enemies die after one knockdown (disable at final boss) (2 of 2)</description>
+    </cheat>
+</cheats>

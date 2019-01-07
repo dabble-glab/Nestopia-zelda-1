@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OUYKKT</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUANPN</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OLZEEP</genie>
+		<description>Don't lose life when touched</description>
+	</cheat>
+</cheats>

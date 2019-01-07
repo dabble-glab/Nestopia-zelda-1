@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EYNAGPEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUEKGUAP</genie>
+		<description>Infinite SP (spell)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUGTISA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>GXKSKPEL</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXUISPAL</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>EEEEIZYY</genie>
+		<description>Multi-jump (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEEEYZAP</genie>
+		<description>Multi-jump (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUOAPZIL</genie>
+		<description>Multi-jump (3 of 3)</description>
+	</cheat>
+
+	<cheat enabled="0">
+		<genie>AZKAVZGO</genie>
+		<description>Double health and SP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKEKZAA</genie>
+		<description>Start with Blast Spell</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKEKZAA</genie>
+		<description>Start with Bind Spell</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKAXZGA</genie>
+		<description>Start with extra weapon power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUGEUVK</genie>
+		<description>Keep weapons after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUEUGZA</genie>
+		<description>Start with double lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASAXZZA</genie>
+		<description>Start with double lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUEUGZE</genie>
+		<description>Start with triple lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASAXZZE</genie>
+		<description>Start with triple lives (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007D</address>
+        <value>0x03</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0096</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>
