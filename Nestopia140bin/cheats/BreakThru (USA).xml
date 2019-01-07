@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZUKYPVG</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKSLZVG</genie>
+		<description>Infinite weapon time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTUKTLAA</genie>
+		<description>Start each life with 3-way firing and 99 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUKPZLA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKGGZLA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUKPZLA</genie>
+		<description>Start with 6 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKGGZLA</genie>
+		<description>Start with 6 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUKPZLE</genie>
+		<description>Start with 9 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKGGZLE</genie>
+		<description>Start with 9 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANKLZPA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANKLZPA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANKLZPA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANKLZPA</genie>
+		<description>Start on level 5</description>
+	</cheat>
+</cheats>

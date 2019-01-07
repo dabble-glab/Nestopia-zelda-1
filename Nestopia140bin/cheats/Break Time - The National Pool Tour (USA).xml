@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>VAVEILSA</genie>
+		<description>Start in XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVEGLAA</genie>
+		<description>Start in Milwaukee (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVEGLAA</genie>
+		<description>Start in Atlanta (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVEGLAA</genie>
+		<description>Start in Los Angeles (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVEGLAA</genie>
+		<description>Start in Las Vegas (2 of 2)</description>
+	</cheat>
+</cheats>

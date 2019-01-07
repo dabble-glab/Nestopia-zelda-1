@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXVSVIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ISNEUUOP</genie>
+		<description>Less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNNEUUOO</genie>
+		<description>More energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTNVSNXK</genie>
+		<description>Don't lose special weapon in sub-game</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x05A8</address>
+        <value>0x99</value>
+        <description>Infinite energy (ten-thousand's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05A9</address>
+        <value>0x75</value>
+        <description>Infinite energy (hundred's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05AA</address>
+        <value>0x76</value>
+        <description>Infinite energy (ten's and one's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05AD</address>
+        <value>0xFF</value>
+        <description>Infinite Ruby Laser</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05AF</address>
+        <value>0xFF</value>
+        <description>Infinite Torpedos</description>
+    </cheat>
+		<cheat enabled="0">
+		<genie>PAVTXGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+</cheats>

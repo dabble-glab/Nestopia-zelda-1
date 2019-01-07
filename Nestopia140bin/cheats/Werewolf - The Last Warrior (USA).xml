@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZXTTLVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAENGTIA</genie>
+		<description>Only 1 anger point needed to become Super-Werewolf</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXNPVVK</genie>
+		<description>Blue W won't change you back to a man</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESKNTIKI</genie>
+		<description>Gain maximum health from small hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUNGVZA</genie>
+		<description>Don't lose health from blue W (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUNPVAA</genie>
+		<description>Don't lose health from blue W (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVGVYGT</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVKKNTI</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXGXNAZ</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXKEYZZ</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00BC</address>
+        <value>0x14</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044F</address>
+        <value>0x01</value>
+        <description>Have Gun in Werewolf form (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044D</address>
+        <value>0x01</value>
+        <description>Have Gun in Werewolf form (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BC</address>
+        <value>0x14</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0xF4</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044E</address>
+        <value>0x01</value>
+        <description>Always Werewolf (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x042E</address>
+        <value>0x01</value>
+        <description>Always Werewolf (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044E</address>
+        <value>0x02</value>
+        <description>Always Super Werewolf</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AAVKNLTI</genie>
+        <description>Move pieces anywhere (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNGULSA</genie>
+        <description>Move pieces anywhere (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNKELSA</genie>
+        <description>Move pieces anywhere (2 of 3)</description>
+    </cheat>
+</cheats>

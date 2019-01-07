@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>LEOOVGYE</genie>
+		<description>Kirk has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOOVGYA</genie>
+		<description>Kirk has less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUXYAYE</genie>
+		<description>McCoy has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUXYAYA</genie>
+		<description>McCoy has less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUZTAYE</genie>
+		<description>Spock has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUZTAYA</genie>
+		<description>Spock has less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVZLAYE</genie>
+		<description>Security has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKXAAYE</genie>
+		<description>Geologist has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAKXAAYA</genie>
+		<description>Geologist has less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASXZAYE</genie>
+		<description>Biologist has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASXZAYA</genie>
+		<description>Biologist has less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASZPAYE</genie>
+		<description>Historian has more energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASZPAYA</genie>
+		<description>Historian has less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKUYPGA</genie>
+		<description>McCoy gives full energy to injured party</description>
+	</cheat>
+</cheats>

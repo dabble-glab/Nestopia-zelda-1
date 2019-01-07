@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAUEUSSO</genie>
+		<description>(1P game) Speed doesn't increase</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VNUEUSSO</genie>
+		<description>(1P game) Speed increases much faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXAKYPA</genie>
+		<description>(1P game) Start and stay at speed of 25</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKESSPP</genie>
+		<description>(1P game) Max speed is 2 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESAOSAP</genie>
+		<description>(1P game) Max speed is 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKESSPO</genie>
+		<description>(1P game) Max speed is 10 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESAOSAO</genie>
+		<description>(1P game) Max speed is 10 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKESSPO</genie>
+		<description>(1P game) Max speed is 15 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESAOSAO</genie>
+		<description>(1P game) Max speed is 15 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOKESSPP</genie>
+		<description>(1P game) Max speed is 20 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOSAOSAP</genie>
+		<description>(1P game) Max speed is 20 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNETPOU</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 4 fixed blocks (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANEYPAA</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 4 fixed blocks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNETPOU</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 10 fixed blocks (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YANEYPAA</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 10 fixed blocks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNETPOU</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 15 fixed blocks (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANEYPAE</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 15 fixed blocks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNETPOU</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 20 fixed blocks (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPNEYPAA</genie>
+		<description>(1P vs 2P or 1P vs Com) Every round starts with 20 fixed blocks (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVZVYEA</genie>
+		<description>(All game types) Cannot pause game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVEXOYXZ</genie>
+		<description>(All game types) Don't hide remaining pieces during pause</description>
+	</cheat>
+</cheats>

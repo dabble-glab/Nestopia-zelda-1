@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SAUXGISZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLNZUSVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASEUZLEY</genie>
+		<description>Enable unlimited morphs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOLYULE</genie>
+		<description>Enable secret weapons morph</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEUZLAI</genie>
+		<description>Can always morph</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENUGAPE</genie>
+		<description>Start with hidden weapon 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENUGAPE</genie>
+		<description>Start with hidden weapon 2</description>
+	</cheat>
+</cheats>

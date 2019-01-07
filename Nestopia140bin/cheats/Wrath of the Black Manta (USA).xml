@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEOAZTLE</genie>
+		<description>Start with extra energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSLXUVK</genie>
+		<description>Take no damage from most enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVOKEVK</genie>
+		<description>Never die from falling off screen</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUZSUSO</genie>
+		<description>Mega-jump when stationary</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAYTZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOAYTZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAYTZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x01</value>
+        <description>Start on stage 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x03</value>
+        <description>Start on stage 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x04</value>
+        <description>Start on stage 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x054A</address>
+        <value>0x05</value>
+        <description>Start on stage 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0589</address>
+        <value>0xFA</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+</cheats>

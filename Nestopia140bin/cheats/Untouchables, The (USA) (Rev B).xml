@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0092</address>
+        <value>0x40</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009A</address>
+        <value>0x09</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C6</address>
+        <value>0x02</value>
+        <description>Infinite ammo (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C8</address>
+        <value>0x02</value>
+        <description>Infinite ammo (2 of 2)</description>
+    </cheat>
+</cheats>

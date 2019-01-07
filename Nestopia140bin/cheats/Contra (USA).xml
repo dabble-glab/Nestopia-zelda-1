@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKVPZAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLTIYG</genie>
+		<description>Invincibility (blinking)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AAVITGIA</genie>
+        <description>Invincibility (blinking) (alt)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SLAIUZ</genie>
+		<description>Start with infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXIIUX</genie>
+		<description>Keep weapons after losing life</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ATKSZSOZ</genie>
+        <description>Multi-jump - both players (1 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AZNITGSL</genie>
+        <description>Multi-jump - both players (2 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NPNIYGEU</genie>
+        <description>Multi-jump - both players (3 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SUEIAGVI</genie>
+        <description>Multi-jump - both players (4 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SUVSOPSP</genie>
+        <description>Multi-jump - both players (5 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VINSAGEY</genie>
+        <description>Multi-jump - both players (6 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XTNSPKAE</genie>
+        <description>Multi-jump - both players (7 of 7)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>UNVSYVKN</genie>
+        <description>Jump higher (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>XNVSPVUN</genie>
+        <description>Jump higher (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ESEVALEP</genie>
+        <description>Hit anywhere (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXXTPLEL</genie>
+        <description>Hit anywhere (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GZNVYLEL</genie>
+        <description>Hit anywhere (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXKTYLAX</genie>
+        <description>Hit anywhere (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>VYVIPNNN</genie>
+		<description>Run twice as fast (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASSIYPA</genie>
+		<description>Run twice as fast (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LLKSIAIX</genie>
+		<description>Press Start to complete the level</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>PEIIXZ</genie>
+		<description>Start new life with Machine Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEIIXZ</genie>
+		<description>Start new life with Fireball</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEIIXZ</genie>
+		<description>Start new life with Spread Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEIIXZ</genie>
+		<description>Start new life with Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALNKPKYL</genie>
+		<description>Start on level x</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANGIGAA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANGIGAA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANGIGAA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANGIGAA</genie>
+		<description>Start on level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANGIGAA</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANGIGAA</genie>
+		<description>Start on level 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YANGIGAA</genie>
+		<description>Start on level 8</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0032</address>
+        <value>0x99</value>
+        <description>Have 99 lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x01</value>
+        <description>Have Machine Gun - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x02</value>
+        <description>Have Fireball - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x03</value>
+        <description>Have Spread Gun - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x04</value>
+        <description>Have Laser - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x18</value>
+        <description>Have Clone Attack (glitch weapon) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x01</value>
+        <description>Have Machine Gun - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x02</value>
+        <description>Have Fireball - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x03</value>
+        <description>Have Spread Gun - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x04</value>
+        <description>Have Laser - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AE</address>
+        <value>0x41</value>
+        <description>Invincibility (blinking) (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B0</address>
+        <value>0xFE</value>
+        <description>Invincibility (star effect) - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B1</address>
+        <value>0xFE</value>
+        <description>Invincibility (star effect) - P2</description>
+    </cheat>
+</cheats>

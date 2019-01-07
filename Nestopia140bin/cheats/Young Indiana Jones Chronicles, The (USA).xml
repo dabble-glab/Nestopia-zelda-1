@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>XVSEGPSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSVGLA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKSVGLA</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSVGLE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEOUGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x00</value>
+        <description>Weapon modifier - Punches</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x01</value>
+        <description>Weapon modifier - Whip</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x02</value>
+        <description>Weapon modifier - Pistol</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x03</value>
+        <description>Weapon modifier - Rifle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x04</value>
+        <description>Weapon modifier - Machine Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x05</value>
+        <description>Weapon modifier - Dynamite</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0569</address>
+        <value>0x01</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

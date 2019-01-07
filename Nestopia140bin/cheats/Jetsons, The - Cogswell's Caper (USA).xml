@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSLXVVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEEPPILA</genie>
+		<description>Better start (more lives and hearts)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVLEVVK</genie>
+		<description>Don't lose extra hearts on dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVEZLPA</genie>
+		<description>2 power packs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVEZLPA</genie>
+		<description>5 power packs on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUEOGIAP</genie>
+		<description>Start with 30 powerpacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASEOGIAP</genie>
+		<description>Start with 50 powerpacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKAIGTA</genie>
+		<description>Small hearts gives full health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEELUVK</genie>
+		<description>Infinite hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUENESE</genie>
+		<description>Defenses don't use up powerpacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUAKAAZ</genie>
+		<description>Shield uses fewer powerpacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENEIYAP</genie>
+		<description>Flashlight uses fewer powerpacks</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0126</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0127</address>
+        <value>0x02</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0141</address>
+        <value>0x03</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0142</address>
+        <value>0x0A</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

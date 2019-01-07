@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OZUUZSPX</genie>
+		<description>Balls are considered strikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKLAIGA</genie>
+		<description>1 ball and you walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKLAIGA</genie>
+		<description>2 balls and you walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKLAIGA</genie>
+		<description>6 balls to walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASUGILA</genie>
+		<description>1 strike and you're out (fouls don't count as strikes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASUGILA</genie>
+		<description>2 strikes and you're out (fouls don't count as strikes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASUGILA</genie>
+		<description>5 strikes and you're out (fouls don't count as strikes)</description>
+	</cheat>
+</cheats>

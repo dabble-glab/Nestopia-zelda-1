@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AASELZZG</genie>
+		<description>Inhale from anywhere (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEAGZEL</genie>
+		<description>Inhale from anywhere (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKAIEIA</genie>
+		<description>Hit anywhere (spitting) (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXAIPTL</genie>
+		<description>Hit anywhere (spitting) (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOOAGEOV</genie>
+		<description>Hit anywhere (spitting) (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOOAIAYE</genie>
+		<description>Hit anywhere (spitting) (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKEIPEL</genie>
+		<description>Hit anywhere (spitting) (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVXIYGA</genie>
+		<description>Start with 2 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVXIYGE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVXIYGA</genie>
+		<description>Start with 17 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAKLLXAA</genie>
+		<description>Less health from 'pep drinks'</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APKLLXAA</genie>
+		<description>More health from 'pep drinks'</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YZKLLXAE</genie>
+		<description>Full health from 'pep drinks'</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YONZZNYX</genie>
+		<description>Start with less health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YKNZZNYX</genie>
+		<description>Start with more health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEPSVSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKTPKVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EINELGEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0597</address>
+        <value>0x2F</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0599</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05F9</address>
+        <value>0x02</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+</cheats>

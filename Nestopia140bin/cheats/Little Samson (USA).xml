@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>APSELZEI</genie>
+		<description>Invincibility against enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVEPXSN</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOVAGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALUAIGEL</genie>
+		<description>Hit anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVKXSXVI</genie>
+		<description>Collectable items never disappear</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKTPSAE</genie>
+		<description>Increase Samson's health gauge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKTZSAE</genie>
+		<description>Increase Kikira's health gauge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXKTLIAP</genie>
+		<description>Increase Gamm's health gauge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKTGIGA</genie>
+		<description>Increase K.O.'s health gauge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKTISAE</genie>
+		<description>Increase Samson's health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKTTSAE</genie>
+		<description>Increase Kikira's health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXKTYIAP</genie>
+		<description>Increase Gamm's health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKVAIGA</genie>
+		<description>Increase K.O.'s health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUZEZGE</genie>
+		<description>Crystal ball adds 4 units to health gauge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESXVPZE</genie>
+		<description>Small hearts give 4 health units</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0097</address>
+        <value>0x08</value>
+        <description>Infinite health - Little Samson</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0098</address>
+        <value>0x08</value>
+        <description>Infinite health - Dragon</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0099</address>
+        <value>0x0F</value>
+        <description>Infinite health - Golem</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x009A</address>
+        <value>0x04</value>
+        <description>Infinite health - Mouse</description>
+    </cheat>
+</cheats>

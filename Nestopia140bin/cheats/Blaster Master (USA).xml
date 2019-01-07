@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>XVLAKO</genie>
+		<description>Infinite car health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNKKGZAE</genie>
+		<description>Start with all abilities</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTEKPLAA</genie>
+		<description>Start with 99 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEKPLAE</genie>
+		<description>Start with 99 of each weapon and max Hover</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAASLY</genie>
+		<description>Enemies are killed instantly</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUGYIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEGZLZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEGZLZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEGZLZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXOALVG</genie>
+		<description>Infinite Hover</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSOEEVK</genie>
+		<description>Infinite Homing Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKPEOVK</genie>
+		<description>Infinite Thunderbreaks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSOVXVK</genie>
+		<description>Infinite Multi-Warheads</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEKPLAA</genie>
+		<description>Start with 5 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEKPLAE</genie>
+		<description>Start with 10 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAEKPLAE</genie>
+		<description>Start with 15 of each weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKTXAE</genie>
+		<description>Start on world 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENKTXAE</genie>
+		<description>Start on world 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENKTXAE</genie>
+		<description>Start on world 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENKTXAE</genie>
+		<description>Start on world 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENKTXAE</genie>
+		<description>Start on world 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENKTXAE</genie>
+		<description>Start on world 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENKTXAE</genie>
+		<description>Start on world 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXNKIXPE</genie>
+		<description>Start at the boss of world X (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENKTXAA</genie>
+		<description>Start at the boss of world 1 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKTXAA</genie>
+		<description>Start at the boss of world 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENKTXAA</genie>
+		<description>Start at the boss of world 3 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENKTXAA</genie>
+		<description>Start at the boss of world 4 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GENKTXAA</genie>
+		<description>Start at the boss of world 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENKTXAA</genie>
+		<description>Start at the boss of world 6 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENKTXAA</genie>
+		<description>Start at the boss of world 7 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENKTXAA</genie>
+		<description>Start at the boss of world 8 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZGUKZITP</genie>
+		<description>Die to see ending</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007E</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0092</address>
+        <value>0xFF</value>
+        <description>Infinite Hover (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C3</address>
+        <value>0xFF</value>
+        <description>Full Gun Power - Jason</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00DD</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040D</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x047D</address>
+        <value>0x00</value>
+        <description>Most end bosses die instantly</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06F0</address>
+        <value>0x63</value>
+        <description>Infinite Homing Missiles (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06F1</address>
+        <value>0x63</value>
+        <description>Infinite Thunderbreaks (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06F2</address>
+        <value>0x63</value>
+        <description>Infinite Multi-Warheads (alt)</description>
+    </cheat>
+</cheats>

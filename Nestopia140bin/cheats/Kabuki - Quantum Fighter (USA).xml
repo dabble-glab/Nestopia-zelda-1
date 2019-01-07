@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AVUUZPSZ</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESUZGAEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZNGNNSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVGKYPA</genie>
+		<description>Don't lose a life from health loss</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASSAAPA</genie>
+		<description>Don't lose a life from timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENLSLZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENLSLZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENLSLZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVGSNSE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENUXLZA</genie>
+		<description>1 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENUXLZA</genie>
+		<description>6 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENUXLZE</genie>
+		<description>9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEUAESU</genie>
+		<description>Infinite chip power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYXIZEYU</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YZXIZEYU</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEUAESU</genie>
+		<description>Special weapons use minimum chip power (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOEUPEYA</genie>
+		<description>Special weapons use minimum chip power (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YENUNUZE</genie>
+		<description>Start with maximum health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXLLUZE</genie>
+		<description>Start with maximum health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENUNUZA</genie>
+		<description>Start with less health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXLLUZA</genie>
+		<description>Start with less health (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x03</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x068C</address>
+        <value>0x0A</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0691</address>
+        <value>0x09</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06C0</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

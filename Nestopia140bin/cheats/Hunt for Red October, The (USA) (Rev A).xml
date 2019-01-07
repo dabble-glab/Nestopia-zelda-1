@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXEZXZVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEUPUVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUXYSVK</genie>
+		<description>Infinite horizontal torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUZPVVK</genie>
+		<description>Infinite vertical torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEUVGPA</genie>
+		<description>Maximum power horizontal torpedoes on pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZEUEKOK</genie>
+		<description>Maximum power horizontal torpedoes on pick-up (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASUSGPA</genie>
+		<description>Maximum power vertical torpedoes on pick-up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSLNKOK</genie>
+		<description>Maximum power vertical torpedoes on pick-up (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANLVKPO</genie>
+		<description>Start with 10 horizontal torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLNLVKPP</genie>
+		<description>Start with 50 horizontal torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNLVKPP</genie>
+		<description>Start with 99 horizontal torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANUUKYA</genie>
+		<description>Start with 5 vertical torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLNUUKYA</genie>
+		<description>Start with 50 vertical torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTNUUKYA</genie>
+		<description>Start with 99 vertical torpedoes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEELSKZA</genie>
+		<description>Start with 5 caterpillars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUELSKZA</genie>
+		<description>Start with 50 caterpillars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVELSKZA</genie>
+		<description>Start with 99 caterpillars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEEUXKZA</genie>
+		<description>Start with 5 ECM's</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUEUXKZA</genie>
+		<description>Start with 50 ECM's</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVEUXKZA</genie>
+		<description>Start with 99 ECM's</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVLYAIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVLYAIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+</cheats>

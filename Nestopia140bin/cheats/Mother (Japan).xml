@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GAOLOTAA</genie>
+		<description>Start a new game with $1024</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGOLOTAA</genie>
+		<description>Start a new game with $16,384</description>
+	</cheat>
+</cheats>

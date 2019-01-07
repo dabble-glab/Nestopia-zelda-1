@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXSSNASA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENOAPGEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APVEIGES</genie>
+		<description>Hit anywhere (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVETKVT</genie>
+		<description>Hit anywhere (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVESSOT</genie>
+		<description>Get items from anywhere (press down) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVANIEL</genie>
+		<description>Get items from anywhere (press down) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUGPAAO</genie>
+		<description>Start with less stamina</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZUGPAAP</genie>
+		<description>Start with more stamina</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEGOZZA</genie>
+		<description>Start with Sandals of Hermes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUKGASA</genie>
+		<description>Start with XX (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUKTASA</genie>
+		<description>Start with XX (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUGYAAA</genie>
+		<description>Start with Staff of Fennel (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUGYAAA</genie>
+		<description>Start with Sword (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAUGYAAA</genie>
+		<description>Start with Divine Sword (3 of 3)</description>
+	</cheat>
+</cheats>

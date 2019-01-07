@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXUNPEVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUNTOVK</genie>
+		<description>Infinite grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEYIOVK</genie>
+		<description>Infinite bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVOAPLA</genie>
+		<description>Reduce damage by half</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPONAOAZ</genie>
+		<description>Magazine holds half normal amount of bullets after first magazine used (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPEYLEAZ</genie>
+		<description>Magazine holds half normal amount of bullets after first magazine used (2 of 2)</description>
+	</cheat>
+</cheats>

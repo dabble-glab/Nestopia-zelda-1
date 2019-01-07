@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>NTSTIVLE</genie>
+        <description>Infinite health and time (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OZSTGTVS</genie>
+        <description>Infinite health and time (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SASTTTEY</genie>
+        <description>Infinite health and time (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YTSTYVZA</genie>
+        <description>Infinite health and time (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>IEETTZGP</genie>
+		<description>Only have 5 seconds to get back into ring</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEETTZGO</genie>
+		<description>Only have 10 seconds to get back into ring</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOETTZGO</genie>
+		<description>Have 30 seconds to get back into ring</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXIKYIA</genie>
+		<description>Rounds are only 1 minute</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXIKYIA</genie>
+		<description>Rounds are only 3 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXIKYIE</genie>
+		<description>Rounds are 8 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXIKYIE</genie>
+		<description>Rounds are 10 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVVTGLA</genie>
+		<description>2-second pin count</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVVTGLA</genie>
+		<description>5-second pin count</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAVVTGLA</genie>
+		<description>7-second pin count</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0077</address>
+        <value>0x00</value>
+        <description>Pin once to win match</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x3B</value>
+        <description>Infinite time (seconds)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0087</address>
+        <value>0x09</value>
+        <description>Infinite time (minutes)</description>
+    </cheat>
+</cheats>

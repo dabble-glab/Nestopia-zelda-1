@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ISISYU</genie>
+		<description>No enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUSZALA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUSZALA</genie>
+		<description>Start with 6 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUSZALE</genie>
+		<description>Start with 9 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVIYALA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVIYALA</genie>
+		<description>Start with 6 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVIYALE</genie>
+		<description>Start with 9 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEXAOVK</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXIZAAA</genie>
+		<description>Start on stage 2 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXIZAAA</genie>
+		<description>Start on stage 4 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXIZAAA</genie>
+		<description>Start on stage 6 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXIZAAA</genie>
+		<description>Start on stage 8 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSYAAA</genie>
+		<description>Start on stage 2 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKSYAAA</genie>
+		<description>Start on stage 4 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKSYAAA</genie>
+		<description>Start on stage 6 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKSYAAA</genie>
+		<description>Start on stage 8 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXXLNUIE</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXGYLPA</genie>
+		<description>Claws use up no health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGNIZAAA</genie>
+		<description>Start each new life as a berserker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYXUVUVN</genie>
+		<description>Super speed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUUELZA</genie>
+		<description>Super speed (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXLISAA</genie>
+		<description>Take less damage from bullets (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEKAKAA</genie>
+		<description>Take less damage from bullets (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00CD</address>
+        <value>0x1E</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04DA</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SLUVKESO</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OIOGIIPA</genie>
+		<description>Start with X lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUKTKVK</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUKGGZA</genie>
+		<description>Start with 1 life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUKGGZA</genie>
+		<description>Start with 6 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUKGGZE</genie>
+		<description>Start with 9 lives (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x01D1</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0306</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

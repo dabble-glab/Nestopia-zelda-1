@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXUVTKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSTOTVG</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVVKTVG</genie>
+		<description>Infinite Erasers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZNZEYAE</genie>
+		<description>Lots of Erasers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEVLGZPA</genie>
+		<description>Start with 3 Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVLGZPA</genie>
+		<description>Start with 6 Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVLGZPE</genie>
+		<description>Start with 9 Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKGYAZA</genie>
+		<description>Start with 2 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKZKYZA</genie>
+		<description>Start with 2 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKGYAZA</genie>
+		<description>Start with 7 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKZKYZA</genie>
+		<description>Start with 7 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKGYAZE</genie>
+		<description>Start with 10 lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKZKYZE</genie>
+		<description>Start with 10 lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKKGAPA</genie>
+		<description>Start with 3 Erasers (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVXXYPA</genie>
+		<description>Start with 3 Erasers (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKKGAPA</genie>
+		<description>Start with 6 Erasers (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVXXYPA</genie>
+		<description>Start with 6 Erasers (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKKGAPE</genie>
+		<description>Start with 9 Erasers (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVXXYPE</genie>
+		<description>Start with 9 Erasers (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x04E8</address>
+        <value>0x00</value>
+        <description>Infinite energy</description>
+    </cheat>
+</cheats>

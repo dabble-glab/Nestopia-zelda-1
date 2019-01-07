@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZEELLGGE</genie>
+		<description>Pin count extended to 9 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESGYOLA</genie>
+		<description>10-count reduced to 5 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IVNKGOGL</genie>
+		<description>All counts slower</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YONKGOGU</genie>
+		<description>All counts faster</description>
+	</cheat>
+</cheats>

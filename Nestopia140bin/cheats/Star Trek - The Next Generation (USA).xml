@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OUXTPYOP</genie>
+		<description>All systems are immune to damage - shields down</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUVTNSE</genie>
+		<description>Shields are immune to damage - shields up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGKVTTEP</genie>
+		<description>Quicker damage repair</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APKVTTEP</genie>
+		<description>Very quick damage repair</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EGKVTTEP</genie>
+		<description>Slower damage repair</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZKNVLEZE</genie>
+		<description>Enemy does less damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATETISVT</genie>
+		<description>Stop game time ticking over</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUZPAGY</genie>
+		<description>Photon Torpedoes always work</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEXTPNY</genie>
+		<description>Phasers always work</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOXPOKT</genie>
+		<description>Phasers fire for longer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVTZVIL</genie>
+		<description>Damage is repaired immediately</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVUSTVG</genie>
+		<description>Transporter power does not decrease most of the time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANUXTAZ</genie>
+		<description>Less transporter power required most of the time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GVNZOZIT</genie>
+		<description>Stardate does not advance</description>
+	</cheat>
+</cheats>

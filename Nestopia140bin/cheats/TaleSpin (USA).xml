@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AYVKZYLY</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TYVKZYLY</genie>
+		<description>Start with 7 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PYVKZYLN</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANNGVLLY</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TNNGVLLY</genie>
+		<description>7 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PNNGVLLN</genie>
+		<description>10 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKGNKVK</genie>
+		<description>Infinite lives from getting trapped by obstacles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXEGPTA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PYEGITLY</genie>
+		<description>1 continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TYEGITLY</genie>
+		<description>6 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PYEGITLN</genie>
+		<description>9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNKXLVG</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PYVGUAAY</genie>
+		<description>Add $1,000,000 to end-of-level bonus</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007C</address>
+        <value>0x5B</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B6</address>
+        <value>0x60</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05DB</address>
+        <value>0x79</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

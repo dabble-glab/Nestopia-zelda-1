@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXOGZZVG</genie>
+		<description>Infinite bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASGUSZA</genie>
+		<description>Fewer bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPSGUSZA</genie>
+		<description>More bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZNIEXGL</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNGOTOY</genie>
+		<description>Immune to physical damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOKSSON</genie>
+		<description>Immune to weapon damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNGPOSN</genie>
+		<description>Immune to damage in maze</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTNIVXXK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYNIEXGL</genie>
+		<description>Slower timer (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYVISXGL</genie>
+		<description>Slower timer (2 of 2)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0060</address>
+        <value>0x03</value>
+        <description>Infinite lives - both players</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x18</value>
+        <description>Start on stage 25 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x31</value>
+        <description>Start on stage 50 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x4A</value>
+        <description>Start on stage 75 (disable after loading stage)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x63</value>
+        <description>Start on stage 99 (disable after loading stage)</description>
+    </cheat>
+</cheats>

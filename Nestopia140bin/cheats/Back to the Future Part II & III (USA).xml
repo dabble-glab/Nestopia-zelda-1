@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZAXKZZPA</genie>
+		<description>Start with 20 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXKZZPA</genie>
+		<description>Start with 30 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXELOVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXKYZPA</genie>
+		<description>Start with 20 nuclear fuel units</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXKYZPA</genie>
+		<description>Start with 30 nuclear fuel units</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKASEPO</genie>
+		<description>Quicker shots</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKAKGSA</genie>
+		<description>Keep shots</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEEPZST</genie>
+		<description>Infinite fuel (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOEZZST</genie>
+		<description>Infinite fuel (2 of 2)</description>
+	</cheat>
+</cheats>

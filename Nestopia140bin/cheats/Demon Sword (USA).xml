@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZUEUZAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESVLTPA</genie>
+		<description>Infinite powers and lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSIYASA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKGTTSA</genie>
+		<description>Infinite health (life)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTVTAESX</genie>
+		<description>Phoenix always rescues you</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLNNANSO</genie>
+		<description>Infinite Fire, Lightning, Power Beams on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTNXAOSE</genie>
+		<description>Extra dart strength</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>ALXGAYSU</genie>
+        <description>Hit anywhere (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATXGPNEP</genie>
+        <description>Hit anywhere (2 of 3)</description>
+    </cheat>
+	<cheat enabled="0">
+        <genie>SXNKPVGK</genie>
+        <description>Hit anywhere (3 of 3)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ATNXAOSA</genie>
+		<description>Start on level X (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANZLPAA</genie>
+		<description>Start on level 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANZLPAA</genie>
+		<description>Start on level 3 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANZLPAA</genie>
+		<description>Start on level 4 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANZLPAA</genie>
+		<description>Start on level 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANZLPAA</genie>
+		<description>Start on level 6 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XZNZGPSA</genie>
+		<description>Start with 44 X (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEEZYOSE</genie>
+		<description>Start with 44 Red Spheres (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEEXZOSE</genie>
+		<description>Start with 44 Black Spheres (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VANXLOSE</genie>
+		<description>Start with 44 Fire Spheres (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VANXTOSE</genie>
+		<description>Start with 44 Lightning bolts (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEEZPOSE</genie>
+		<description>Start with 44 Power beams (2 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>AEVSUIZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVSUIZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVSUIZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x007C</address>
+        <value>0x0F</value>
+        <description>Infinite Power</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007D</address>
+        <value>0x99</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007E</address>
+        <value>0x08</value>
+        <description>Infinite health (life) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0207</address>
+        <value>0x99</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0208</address>
+        <value>0x99</value>
+        <description>Infinite Red Spheres</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0209</address>
+        <value>0x99</value>
+        <description>Infinite Black Spheres</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x020A</address>
+        <value>0x99</value>
+        <description>Infinite Phoenix</description>
+    </cheat>
+</cheats>

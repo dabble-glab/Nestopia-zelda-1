@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESOTVAEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZONTZSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXGZGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGXGZGVG</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENVVIPNP</genie>
+		<description>Multi-jump (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXVVPOVP</genie>
+		<description>Multi-jump (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XOVVTPXT</genie>
+		<description>Multi-jump (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZKVVGOGK</genie>
+		<description>Multi-jump (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APONPXAA</genie>
+		<description>Take more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAONPXAA</genie>
+		<description>Take less damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAONPXAA</genie>
+		<description>Take very little damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXSPZAA</genie>
+		<description>Have lots of money</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKSPLPA</genie>
+		<description>$5,000 cash from small diamonds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKSPLPE</genie>
+		<description>$9,000 cash from small diamonds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASNKPAAL</genie>
+		<description>Start with full energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AONKPAAL</genie>
+		<description>Start with a lot less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEKAPZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEKAPZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEKAPZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

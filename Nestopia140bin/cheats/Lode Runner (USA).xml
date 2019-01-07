@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXOKIGEY</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOGTGEY</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNGLGEY</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNGYIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKLTIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASKLTIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APOIGPAL</genie>
+		<description>Moonwalk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUGVGYA</genie>
+		<description>Heavy gravity (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKGEGGA</genie>
+		<description>Heavy gravity (2 of 2)</description>
+	</cheat>
+</cheats>

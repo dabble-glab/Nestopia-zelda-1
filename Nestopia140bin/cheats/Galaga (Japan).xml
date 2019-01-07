@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATETKOOZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SSVGILEA</genie>
+		<description>Start with double shot (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PZKGNISO</genie>
+		<description>Start with double shot (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVOKVUXK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVNTKEOZ</genie>
+		<description>Keep double ship after being destroyed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESEGPGT</genie>
+		<description>Only one part to collect</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXVIIEOK</genie>
+		<description>Always get a perfect bonus (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVITEAZ</genie>
+		<description>Always get a perfect bonus (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0485</address>
+        <value>0x05</value>
+        <description>Infinite lives (alt) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0487</address>
+        <value>0x05</value>
+        <description>Infinite lives (alt) (2 of 2)</description>
+    </cheat>
+</cheats>

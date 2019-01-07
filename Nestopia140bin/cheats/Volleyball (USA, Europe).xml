@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>YEYIAV</genie>
+		<description>Computer doesn't get points for scoring</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0063</address>
+        <value>0x03</value>
+        <description>3 points - team 1</description>
+    </cheat>
+</cheats>

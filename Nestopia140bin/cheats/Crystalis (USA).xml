@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEKOUPTA</genie>
+		<description>Walk through walls</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOPETLA</genie>
+		<description>Faster sword charge</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNOOKZK</genie>
+		<description>Always fire X shot (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANOXKZG</genie>
+		<description>Always fire charged shot (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANOXKZG</genie>
+		<description>Always fire bracelet charged shot (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEPEVGK</genie>
+		<description>Allow sword charge while moving</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYVSPZGV</genie>
+		<description>First pupil gives you more gold</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNOVXSE</genie>
+		<description>Magic doesn't use up MP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASVVNYA</genie>
+		<description>Immune to poison</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKTSNYA</genie>
+		<description>Immune to paralysis</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOTVYGA</genie>
+		<description>Stronger poison</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOTVYGA</genie>
+		<description>Weaker poison</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUOIVSE</genie>
+		<description>Don't get charged for boarding at Inn (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKPLVSE</genie>
+		<description>Don't get charged for boarding at Inn (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVPUOSE</genie>
+		<description>Don't get charged for items in shops (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVOOOSE</genie>
+		<description>Don't get charged for items in shops (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVOGUOSE</genie>
+		<description>Start with some gold</description>
+	</cheat>
+</cheats>

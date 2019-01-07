@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXXGAIAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSGUGSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKKYPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSVGTVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTSGOGSV</genie>
+		<description>One hit kills you</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEELTPPA</genie>
+		<description>Sweep kick damages enemies more</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOLGPLE</genie>
+		<description>Straight kick damages enemies more</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUKVGGA</genie>
+		<description>Can't be knocked back by big thugs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EISGUPEY</genie>
+		<description>Pogo stick</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTSGOGSV</genie>
+		<description>Take minimum damage from all enemies (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASGXKOI</genie>
+		<description>Take minimum damage from all enemies (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVOUZPSV</genie>
+		<description>Any attack mega-damages enemies (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOULOOS</genie>
+		<description>Any attack mega-damages enemies (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKKGALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKKGALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKKGALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0066</address>
+        <value>0x01</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0073</address>
+        <value>0x38</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0065</address>
+        <value>0x09</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0063</address>
+        <value>0x07</value>
+        <description>Infinite Bomb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006C</address>
+        <value>0x07</value>
+        <description>Infinite power</description>
+    </cheat>
+</cheats>

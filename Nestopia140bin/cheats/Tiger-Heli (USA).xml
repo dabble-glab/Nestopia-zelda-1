@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZSYAEGK</genie>
+		<description>Don't take damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLXLGNVS</genie>
+		<description>Infinite lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUUYTZA</genie>
+		<description>Start with 2 lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUUYTZE</genie>
+		<description>Start with 9 lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASUYYZA</genie>
+		<description>Start with 6 lives - P1 in a 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASUYYZE</genie>
+		<description>Start with 9 lives - P1 in a 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANLZYZA</genie>
+		<description>Start with 6 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANLZYZE</genie>
+		<description>Start with 9 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASNVVZA</genie>
+		<description>Extra life every 5 bonus blocks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTVLUEZK</genie>
+		<description>Start with 2 little-helis after dying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKNAXIA</genie>
+		<description>Autofire capability</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKNAXIA</genie>
+		<description>Burstfire capability</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVNZLZP</genie>
+		<description>Turbo boost</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUKLINVS</genie>
+		<description>Infinite lives - both players (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUVULNVS</genie>
+		<description>Infinite lives - both players (2 of 2)</description>
+	</cheat>
+</cheats>

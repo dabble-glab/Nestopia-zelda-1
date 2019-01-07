@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x01</value>
+        <description>Infinite Bombs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004B</address>
+        <value>0xC2</value>
+        <description>Immune to explosions (disable at end of level)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x075F</address>
+        <value>0x05</value>
+        <description>Exit always open (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003F</address>
+        <value>0xFF</value>
+        <description>Exit always open (2 of 2)</description>
+    </cheat>
+</cheats>

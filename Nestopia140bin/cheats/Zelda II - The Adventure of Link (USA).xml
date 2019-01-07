@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>XTLTILSV</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTLTTUGE</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTLTAL</genie>
+		<description>Almost infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNAESON</genie>
+		<description>Infinite magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNASSSE</genie>
+		<description>Infinite magic (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEYSAU</genie>
+		<description>Infinite magic and health in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVTIUO</genie>
+		<description>Keys not necessary to open doors (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVTIXP</genie>
+		<description>Keys not necessary to open doors (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVIKOVK</genie>
+		<description>Infinite Keys after one is obtained</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTSSTKSE</genie>
+		<description>Gain 256 EXP when you defeat an enemy most of the time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVIIGAA</genie>
+		<description>Gain more than 256 EXP for every EXP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVOUNSE</genie>
+		<description>Don't lose EXP points while leveling up (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNPKNSE</genie>
+		<description>Don't lose EXP points while leveling up (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKGKXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKPLLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASKPLLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKPLLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SYUPAINY</genie>
+		<description>Multi-jump (1 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZUPISSX</genie>
+		<description>Multi-jump (2 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYUPTSIN</genie>
+		<description>Multi-jump (3 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAUPYIIE</genie>
+		<description>Multi-jump (4 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYUOAIAO</genie>
+		<description>Multi-jump (5 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUOPIZA</genie>
+		<description>Multi-jump (6 of 6)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZUOLIAL</genie>
+		<description>Mega-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>STUTZNON</genie>
+		<description>All sword levels do massive damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUOLIAL</genie>
+		<description>Link can fly (hold A)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VIEXIVSU</genie>
+		<description>Start with all spells</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ASXTGTEL</genie>
+        <description>Hit anywhere (press up if you get stuck at a Palace entrance)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OYKEEVSA</genie>
+		<description>Swap Shield spell for Fire spell (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NPKEOVVA</genie>
+		<description>Swap Shield spell for Fire spell (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LYKEEVSA</genie>
+		<description>Swap Shield spell for Spell spell (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VAKEOVVE</genie>
+		<description>Swap Shield spell for Spell spell (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LZKEEVSA</genie>
+		<description>Swap Shield spell for Fairy spell (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPKEOVVA</genie>
+		<description>Swap Shield spell for Fairy spell (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IIKEEVSE</genie>
+		<description>Swap Shield spell for Life spell (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VAKEOVVE</genie>
+		<description>Swap Shield spell for Life spell (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTKEEVSA</genie>
+		<description>Swap Shield spell for Thunder spell (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPKEOVVA</genie>
+		<description>Swap Shield spell for Thunder spell (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x00</value>
+        <description>No enemies in overworld (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0087</address>
+        <value>0x00</value>
+        <description>No enemies in overworld (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0088</address>
+        <value>0x00</value>
+        <description>No enemies in overworld (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x00</value>
+        <description>No enemies in overworld (4 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00C2</address>
+        <value>0x01</value>
+        <description>One hit kill on final boss</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0518</address>
+        <value>0x03</value>
+        <description>Invincibility (disable when fighting your shadow)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0700</address>
+        <value>0x04</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x076F</address>
+        <value>0x02</value>
+        <description>Jump spell always on</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0773</address>
+        <value>0xFF</value>
+        <description>Infinite magic (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0774</address>
+        <value>0xFF</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0777</address>
+        <value>0xFF</value>
+        <description>Max sword level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0778</address>
+        <value>0xFF</value>
+        <description>Max magic level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0779</address>
+        <value>0xFF</value>
+        <description>Max life level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077B</address>
+        <value>0x01</value>
+        <description>Have Shield spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077C</address>
+        <value>0x01</value>
+        <description>Have Jump spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077D</address>
+        <value>0x01</value>
+        <description>Have Life spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077E</address>
+        <value>0x01</value>
+        <description>Have Fairy spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077F</address>
+        <value>0x01</value>
+        <description>Have Fire spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0780</address>
+        <value>0x01</value>
+        <description>Have Reflect spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0781</address>
+        <value>0x01</value>
+        <description>Have Spell spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0782</address>
+        <value>0x01</value>
+        <description>Have Thunder spell</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0783</address>
+        <value>0x08</value>
+        <description>Max magic jars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0785</address>
+        <value>0x01</value>
+        <description>Have Candle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0786</address>
+        <value>0x01</value>
+        <description>Have Glove</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0787</address>
+        <value>0x01</value>
+        <description>Have Raft</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0788</address>
+        <value>0x01</value>
+        <description>Have Boots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0789</address>
+        <value>0x01</value>
+        <description>Have Flute</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x078A</address>
+        <value>0x01</value>
+        <description>Have Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x078B</address>
+        <value>0x01</value>
+        <description>Have Hammer</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x078C</address>
+        <value>0x01</value>
+        <description>Have Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0793</address>
+        <value>0x09</value>
+        <description>Infinite Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0794</address>
+        <value>0x00</value>
+        <description>Can enter final palace</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0796</address>
+        <value>0xFF</value>
+        <description>Have up/down thrust</description>
+    </cheat>
+</cheats>

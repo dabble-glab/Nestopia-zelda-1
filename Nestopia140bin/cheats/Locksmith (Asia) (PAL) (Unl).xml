@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0043</address>
+        <value>0xFF</value>
+        <description>Instantly win puzzle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x056A</address>
+        <value>0x01</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0573</address>
+        <value>0x23</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAUKUZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUKUZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUKUZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXVSAYVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVIPYGA</genie>
+		<description>1 fall and you're dead</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVIPYGA</genie>
+		<description>6 falls and you're dead</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVIPYGE</genie>
+		<description>8 falls and you're dead</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUKNZAA</genie>
+		<description>Start on the City Street</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAUKNZAA</genie>
+		<description>Start on Hit the Beach</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUKNZAA</genie>
+		<description>Start on Panic Park</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x02</value>
+        <description>Enemies die automatically</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x64D0</address>
+        <value>0x0F</value>
+        <description>Infinite Shield on pick-up</description>
+    </cheat>
+</cheats>

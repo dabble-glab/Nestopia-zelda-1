@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEXSGEKY</genie>
+		<description>Infinite E (health)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXITVNY</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAVNPYAP</genie>
+		<description>Less energy gained on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YZVNPYAP</genie>
+		<description>More energy gained on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKYUOVK</genie>
+		<description>Infinite Candle energy (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVYXOVK</genie>
+		<description>Infinite Candle energy (2 of 2)</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>NNXSGSUY</genie>
+		<description>Start with 1 extra life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KNXSGSUN</genie>
+		<description>Start with 6 extra lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNXSGSUN</genie>
+		<description>Start with 9 extra lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUIGIAA</genie>
+		<description>Start with Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUIGIAA</genie>
+		<description>Start with Fireball</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANSZIAA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANSZIAA</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANSZIAA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0330</address>
+        <value>0x1F</value>
+        <description>Infinite E (health) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05EA</address>
+        <value>0xFF</value>
+        <description>Infinite Gold (hundred's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05EB</address>
+        <value>0xFF</value>
+        <description>Infinite Gold (ten's digit)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05EC</address>
+        <value>0xFF</value>
+        <description>Infinite Gold (one's digit)</description>
+    </cheat>
+</cheats>

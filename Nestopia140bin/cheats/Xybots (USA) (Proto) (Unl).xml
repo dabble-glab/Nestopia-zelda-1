@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUEYIUVS</genie>
+		<description>Infinite lives and second shots</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>SZEPGEVS</genie>
+		<description>Infinite Keys - both players</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>SUEAVOSO</genie>
+		<description>Infinite money - both players</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>TLNTTPPA</genie>
+		<description>Start at last level</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>SZVVUOSO</genie>
+		<description>Infinite Slow Energy Drain and Zap power</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>SXUULVSO</genie>
+		<description>Infinite Warning Arrows and Level Mappers</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>OLSTEOOO</genie>
+		<description>Infinite Enemy Mappers and Guard Mapper</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>TTSVGPZP</genie>
+		<description>Start with 6 lives and 6 second shots</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>GZSTZPZA</genie>
+		<description>Start with 3 Slow Energy Drain and 4 Zap power - P1</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>GZSTYPZP</genie>
+		<description>Start with 3 Slow Energy Drain and 4 Zap power - P2</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>TTVTGPPZ</genie>
+		<description>Start with 6 Warning Arrows and Level Mappers</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>TPVVGPPA</genie>
+		<description>Start with 6 Enemy Mappers and have Guard Mapper</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>LVXVGGAA</genie>
+		<description>Start with 99 Keys, $99 and 2,544,300 points</description>
+	</cheat>
+<cheat enabled="0">
+		<genie>GGUTAPAA</genie>
+		<description>Start with 4 extra Speed, extra Armor, extra Shot Speed, extra Shot Power and Wide Shot</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0192</address>
+        <value>0xFF</value>
+        <description>Infinite health - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0193</address>
+        <value>0xFF</value>
+        <description>Infinite health - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0194</address>
+        <value>0xFF</value>
+        <description>Infinite money - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0195</address>
+        <value>0xFF</value>
+        <description>Infinite money - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0196</address>
+        <value>0x09</value>
+        <description>Infinite Keys - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0197</address>
+        <value>0x09</value>
+        <description>Infinite Keys - P2</description>
+    </cheat>
+</cheats>

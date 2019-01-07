@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEVTIPLA</genie>
+		<description>Only need 15 points to win game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVTIPLA</genie>
+		<description>Only need 30 points to win game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVTIPLA</genie>
+		<description>Only need 40 points to win game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEVAZTA</genie>
+		<description>Only need 1 game to win set instead of 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEVAZTA</genie>
+		<description>Only need 2 games to win set</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEVAZTA</genie>
+		<description>Only need 3 games to win set</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEVAZTA</genie>
+		<description>Only need 4 games to win set</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEEVAZTA</genie>
+		<description>Only need 5 games to win set</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEVVIPEI</genie>
+		<description>Must get 2 points after 40 to win and no deuces (always shows advantage after 40)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKVGPZA</genie>
+		<description>Don't need to win by 2 to win tiebreaker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUVIPYA</genie>
+		<description>2 points needed to win tiebreaker instead of 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUVIPYA</genie>
+		<description>3 points needed to win tiebreaker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUVIPYA</genie>
+		<description>4 points needed to win tiebreaker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUVIPYA</genie>
+		<description>5 points needed to win tiebreaker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUVIPYA</genie>
+		<description>6 points needed to win tiebreaker</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUVIPYE</genie>
+		<description>10 points needed to win tiebreaker</description>
+	</cheat>
+</cheats>

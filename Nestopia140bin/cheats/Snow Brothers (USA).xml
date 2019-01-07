@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUUAVVVS</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNEUYVI</genie>
+		<description>Infinite number of chances</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXXPLZE</genie>
+		<description>Start with 10 chances instead of 3 (count starts at 9 instead of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXXPLZA</genie>
+		<description>Start with 1 chance (count starts at 0)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOAYLZE</genie>
+		<description>Always get 10 chances after a continue (count restarts at 9)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOAYLZA</genie>
+		<description>Always get 1 chance after a continue (count restarts at 0)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUOOGEOO</genie>
+		<description>Don't lose super ability after you lose a chance</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAEEYAAE</genie>
+		<description>Start with Speed Skates, Power Shots and super snow-throwing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEEYAAA</genie>
+		<description>Start with Speed Skates (don't use with other "start with" codes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEEYAAA</genie>
+		<description>Start with Power Shots (don't use with other "start with" codes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEEYAAA</genie>
+		<description>Start with super snow-throwing ability (don't use with other "start with" codes)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEVZTZAA</genie>
+		<description>Start on 5th floor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVZTZAE</genie>
+		<description>Start on 10th floor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOVZTZAA</genie>
+		<description>Start on 20th floor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOVZTZAE</genie>
+		<description>Start on 30th floor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YXVZTZAA</genie>
+		<description>Start on 40th floor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PUVZTZAA</genie>
+		<description>Start on 50th floor</description>
+	</cheat>
+</cheats>

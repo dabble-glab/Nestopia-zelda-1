@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXVTXZVG</genie>
+		<description>Infinite life (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUYPZVG</genie>
+		<description>Infinite life (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXELYGVG</genie>
+		<description>Invincible against Gas</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSUVZVG</genie>
+		<description>Invincible against Electric Floors</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXXETVG</genie>
+		<description>Infinite Rations</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSVVYVG</genie>
+		<description>Infinite Handgun ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXEVUTKA</genie>
+		<description>Infinite Mines</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VXXVETVA</genie>
+		<description>Infinite Explosives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VXVVKTVA</genie>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKVXYVG</genie>
+		<description>Infinite Machine Gun ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KZEVXYKA</genie>
+		<description>Infinite Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VXKVNTVA</genie>
+		<description>Infinite Rockets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAETIUUT</genie>
+		<description>Hit anywhere - Punch (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOTPUNI</genie>
+		<description>Hit anywhere - Punch (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOVPLNI</genie>
+		<description>Hit anywhere - Punch (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASVVYZEP</genie>
+		<description>Hit anywhere - Punch (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AISNYZEY</genie>
+		<description>Hit anywhere - Weapons except Grenade Launcher</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSXKGXX</genie>
+		<description>Have all weapons (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYSXSGAE</genie>
+		<description>Have all weapons (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SASXVGSZ</genie>
+		<description>Have all weapons (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASILYPA</genie>
+		<description>Start at mystery location 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASILYPA</genie>
+		<description>Start at mystery location 2</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SLNIUGSP</genie>
+        <description>Enemies never attack or chase you</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>XZVSAYVZ</genie>
+		<description>Start with a X boost (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVSPNTT</genie>
+		<description>Start with a X boost (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKSZYIE</genie>
+		<description>Start with a life boost (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKSZYIE</genie>
+		<description>Start with a super life boost (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x10</value>
+        <description>Infinite life (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0070</address>
+        <value>0xFF</value>
+        <description>Have all weapons (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0075</address>
+        <value>0xFF</value>
+        <description>Have all equipment (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0076</address>
+        <value>0xFF</value>
+        <description>Have all equipment (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0077</address>
+        <value>0xFF</value>
+        <description>Have all equipment (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0078</address>
+        <value>0x0C</value>
+        <description>Have all equipment (4 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0079</address>
+        <value>0xFF</value>
+        <description>Infinite Handgun ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x0E</value>
+        <description>Infinite Mines (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007B</address>
+        <value>0x0E</value>
+        <description>Infinite Explosives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007C</address>
+        <value>0x0E</value>
+        <description>Infinite Missiles (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007D</address>
+        <value>0xFF</value>
+        <description>Infinite Machine Gun ammo (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007E</address>
+        <value>0x3C</value>
+        <description>Infinite Grenades (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007F</address>
+        <value>0x1E</value>
+        <description>Infinite Rockets (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x00</value>
+        <description>Have Rank - 0 Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x01</value>
+        <description>Have Rank - 1 Star</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x02</value>
+        <description>Have Rank - 2 Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x03</value>
+        <description>Have Rank - 3 Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006E</address>
+        <value>0x04</value>
+        <description>Have Rank - 4 Stars</description>
+    </cheat>
+</cheats>

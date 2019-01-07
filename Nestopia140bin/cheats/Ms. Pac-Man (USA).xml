@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x02</value>
+        <description>Start on stage 02</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x03</value>
+        <description>Start on stage 03</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x04</value>
+        <description>Start on stage 04</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x05</value>
+        <description>Start on stage 05</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x06</value>
+        <description>Start on stage 06</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x07</value>
+        <description>Start on stage 07</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x08</value>
+        <description>Start on stage 08</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x09</value>
+        <description>Start on stage 09</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003E</address>
+        <value>0x0A</value>
+        <description>Start on stage 10</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003F</address>
+        <value>0x06</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004F</address>
+        <value>0x06</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CF</address>
+        <value>0x0F</value>
+        <description>Power pill effect always active</description>
+    </cheat>
+</cheats>

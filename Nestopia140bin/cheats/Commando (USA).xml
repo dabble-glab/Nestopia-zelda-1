@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATNITPSA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZEGNOVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEGNOVK</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVULASXK</genie>
+		<description>Infinite Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEIEYGP</genie>
+		<description>Get items from anywhere (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKIAVKI</genie>
+		<description>Get items from anywhere (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENTTLLI</genie>
+		<description>Hit anywhere (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAETTGLG</genie>
+		<description>Hit anywhere (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEELGNPA</genie>
+		<description>Walk through anything (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASLLYTA</genie>
+		<description>Walk through anything (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKKIILA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKKIILA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKKIILE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSGIIIA</genie>
+		<description>Start with double rations of grenades</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0074</address>
+        <value>0x00</value>
+        <description>Have rapid fire - both players</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04AB</address>
+        <value>0xE9</value>
+        <description>Have all power-ups - both players</description>
+    </cheat>
+</cheats>

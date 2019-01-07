@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKVZVSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENTTTTP</genie>
+		<description>Hit anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOEYZOI</genie>
+		<description>Can select any item (you will not be able to see it)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXEELAP</genie>
+		<description>Can always select channel 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXEEOYSX</genie>
+		<description>Can always buy items</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKOKOSVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIXVATEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0102</address>
+        <value>0xFF</value>
+        <description>Channels 1-4 completed</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0104</address>
+        <value>0x0E</value>
+        <description>Infinite high cash</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0105</address>
+        <value>0x0F</value>
+        <description>Have all items</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x041F</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0423</address>
+        <value>0x0A</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

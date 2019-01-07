@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZKIOPVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANTGUN</genie>
+		<description>Trapped ghosts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SOLIVA</genie>
+		<description>Go through ghosts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEASNA</genie>
+		<description>Ghosts worth 3200 points</description>
+	</cheat>
+</cheats>

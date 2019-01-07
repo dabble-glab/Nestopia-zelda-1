@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AAKSYIPA</genie>
+        <description>Never crash from things outside of the road</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NYZINV</genie>
+        <description>Infinite time</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>GZXIUVIZ</genie>
+		<description>Less time to finish each stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLXIUVIX</genie>
+		<description>More time to finish each stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALXGAIAA</genie>
+		<description>Turbo acceleration</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYUKGIAU</genie>
+		<description>Super Turbo acceleration</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEGPIAA</genie>
+		<description>Ultra Turbo acceleration</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKGKTSA</genie>
+		<description>Start on stage XX (disable after loading stage) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXKPAAA</genie>
+		<description>Start on stage 2 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXKPAAA</genie>
+		<description>Start on stage 3 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXKPAAA</genie>
+		<description>Start on stage 4 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAXKPAAA</genie>
+		<description>Start on stage 5 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXKPAAA</genie>
+		<description>Start on stage 6 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXKPAAA</genie>
+		<description>Start on stage 7 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAXKPAAA</genie>
+		<description>Start on stage 8 (disable after loading stage) (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x01</value>
+        <description>Start on stage 2 (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x02</value>
+        <description>Start on stage 3 (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x03</value>
+        <description>Start on stage 4 (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x04</value>
+        <description>Start on stage 5 (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x05</value>
+        <description>Start on stage 6 (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x06</value>
+        <description>Start on stage 7 (disable after loading stage) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E5</address>
+        <value>0x07</value>
+        <description>Start on stage 8 (disable after loading stage) (alt)</description>
+    </cheat>
+</cheats>

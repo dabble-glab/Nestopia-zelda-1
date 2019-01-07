@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ATGIYP</genie>
+		<description>Invincibility against enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATISTL</genie>
+		<description>Invincibility against shots</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAPKNA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAPKNA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAPKNE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+</cheats>

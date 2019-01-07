@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZKGILVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXOSPXOV</genie>
+		<description>One hit kills most enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSGLTSP</genie>
+		<description>Keep pods after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUIPXTP</genie>
+		<description>Hit anywhere (1 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUSTXIA</genie>
+		<description>Hit anywhere (2 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATNILXOZ</genie>
+		<description>Hit anywhere (3 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIKSZZEP</genie>
+		<description>Hit anywhere (4 of 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TKOYVIGX</genie>
+		<description>Press Start to finish the level (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOYKIPA</genie>
+		<description>Press Start to finish the level (2 of 2)</description>
+	</cheat>
+
+	<cheat enabled="0">
+		<genie>PEKGPTAA</genie>
+		<description>Start with Speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKGPTAA</genie>
+		<description>Start with Missile</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKGPTAA</genie>
+		<description>Start with Ripple</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKGPTAA</genie>
+		<description>Start with Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKGPTAA</genie>
+		<description>Start with Option</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKGPTAA</genie>
+		<description>Start with Force Field</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUTSTAA</genie>
+		<description>Start at the volcanic stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUTSTAA</genie>
+		<description>Start at the prominence stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUTSTAA</genie>
+		<description>Start at cell stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUTSTAA</genie>
+		<description>Start at the temple stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUTSTAA</genie>
+		<description>Start at the mechanical city stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKVNTLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKVNTLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x63</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0076</address>
+        <value>0x03</value>
+        <description>Have upgraded Laser</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0080</address>
+        <value>0x02</value>
+        <description>Have double Speed</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0080</address>
+        <value>0x03</value>
+        <description>Have triple speed</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0082</address>
+        <value>0x09</value>
+        <description>Have Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0084</address>
+        <value>0xC0</value>
+        <description>Invincibility - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0xC0</value>
+        <description>Invincibility - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x02</value>
+        <description>Have double Missile</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0091</address>
+        <value>0x01</value>
+        <description>Have Option</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07EF</address>
+        <value>0x01</value>
+        <description>Enable 30 lives option</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x02</value>
+        <description>Progress through the stage faster</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004E</address>
+        <value>0x02</value>
+        <description>Complete the level</description>
+    </cheat>
+</cheats>

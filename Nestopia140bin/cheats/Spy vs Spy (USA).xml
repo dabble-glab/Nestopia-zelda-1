@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVAYUVK</genie>
+		<description>Stop black spy's clock</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUELUVK</genie>
+		<description>Stop white spy's clock</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PUEAPLIU</genie>
+		<description>Black spy has 100 seconds in a minute</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PUSAILIU</genie>
+		<description>White spy has 100 seconds in a minute</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ONVZYNUT</genie>
+		<description>Black spy has deadly punches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVZLYIE</genie>
+		<description>White spy has deadly punches</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUNEITVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLOEGVVS</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOGKLAA</genie>
+		<description>Start on stage 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOGKLAA</genie>
+		<description>Start on stage 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOGKLAA</genie>
+		<description>Start on stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOGKLAA</genie>
+		<description>Start on stage 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOGKLAA</genie>
+		<description>Start on stage 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOGKLAA</genie>
+		<description>Start on stage 7</description>
+	</cheat>
+</cheats>

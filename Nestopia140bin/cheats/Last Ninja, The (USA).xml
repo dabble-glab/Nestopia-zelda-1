@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXSEEZSA</genie>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EYETYIEI</genie>
+        <description>Press Select on controller 2 to skip to next level, A for next screen, B for previous screen</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007D</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0369</address>
+        <value>0x00</value>
+        <description>Infinite time (seconds)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AEXOSTPA</genie>
+        <description>Chests worth lots of gold</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNIIGSA</genie>
+        <description>Infinite HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEXIYVPE</genie>
+        <description>Quick level up</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZUTEPSA</genie>
+        <description>Infinite ESP</description>
+    </cheat>
+</cheats>

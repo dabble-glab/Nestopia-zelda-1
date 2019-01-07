@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>VXSASUVK</genie>
+		<description>P1 cannot lose (constant 1 count)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXGXPLA</genie>
+		<description>1 minute tournament rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXGXPLA</genie>
+		<description>6 minute tournament rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXGXPLE</genie>
+		<description>9 minute tournament rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUXIXNSO</genie>
+		<description>Infinite energy refills (press select when energy is low)</description>
+	</cheat>
+</cheats>

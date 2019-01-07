@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GPEAPOIE</genie>
+		<description>Food not decreased</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXUKVVK</genie>
+		<description>Hover tanks never decrease in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKOPOVK</genie>
+		<description>Ballistic Missiles never decrease in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSPGOVK</genie>
+		<description>Homing Missiles never decrease in battle</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NZVUKNNP</genie>
+		<description>Enemy starts with 0 Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESKALPEL</genie>
+		<description>Constantly get 9999999 cash on all planets with 1% or higher tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYXLIYAE</genie>
+		<description>View a planet's stats for high food (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPXUPNOU</genie>
+		<description>View a planet's stats for high food (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYOLEAAE</genie>
+		<description>View a planet's stats for high people (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OPOLKEOU</genie>
+		<description>View a planet's stats for high people (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YNKUYYAE</genie>
+		<description>View a planet's stats for high energy (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOSLLNOU</genie>
+		<description>View a planet's stats for high energy (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YNEUTYAE</genie>
+		<description>View a planet's stats for high fuel (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOOLZNOU</genie>
+		<description>View a planet's stats for high fuel (2 of 2)</description>
+	</cheat>
+</cheats>

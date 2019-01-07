@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>IEEOOALA</genie>
+		<description>Start with full lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEOOALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXLAAVI</genie>
+		<description>Infinite lives (except stage 4)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSOXPVI</genie>
+		<description>Infinite lives on stage 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVELZZE</genie>
+		<description>Start with 10 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYKNIKGX</genie>
+		<description>Bonus score gives invincibility (instead of invincibility pod)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPSYPGIE</genie>
+		<description>Longer invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ILSYPGIA</genie>
+		<description>Even longer invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSEVAZA</genie>
+		<description>Double Dragon super punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOUEUAGA</genie>
+		<description>Battletoads super punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXUIPOYA</genie>
+		<description>Stronger enemies</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0011</address>
+        <value>0x05</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0012</address>
+        <value>0x05</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x051C</address>
+        <value>0x00</value>
+        <description>0 hits to SMASH! enemies (1 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x051D</address>
+        <value>0x00</value>
+        <description>0 hits to SMASH! enemies (2 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x051E</address>
+        <value>0x00</value>
+        <description>0 hits to SMASH! enemies (3 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x051F</address>
+        <value>0x00</value>
+        <description>0 hits to SMASH! enemies (4 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0520</address>
+        <value>0x00</value>
+        <description>0 hits to SMASH! enemies (5 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0521</address>
+        <value>0x00</value>
+        <description>0 hits to SMASH! enemies (6 of 6)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>IAEKOIAP</genie>
+		<description>5 misses allowed - Game A</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZEKOIAP</genie>
+		<description>20 misses allowed - Game A</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>AAOSIASY</genie>
+        <description>Hit anywhere - Game B (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAXSPGEA</genie>
+        <description>Hit anywhere - Game B (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AAOGETPA</genie>
+		<description>Infinite misses allowed - all games</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOGETPA</genie>
+		<description>Each miss counts as 2 - all games</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00B3</address>
+        <value>0x00</value>
+        <description>Infinite misses allowed - all games (alt)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AAKEOAPP</genie>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEELPXYZ</genie>
+        <description>Hit anywhere (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEOLYXPP</genie>
+        <description>Hit anywhere (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXXUGZEU</genie>
+        <description>Hit anywhere (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEKLYGZA</genie>
+        <description>One hit kills</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ZAELNGIE</genie>
+		<description>9 lives allowed in options menu</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNLYUSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNXVTOE</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YTNXVTOE</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YINXVTOE</genie>
+		<description>Even faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUAOLGE</genie>
+		<description>Zen does increased damage - isometric stages</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUAOLGA</genie>
+		<description>Zen does mega damage - isometric stages</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKXUIGE</genie>
+		<description>Jab attack does more damage - horizontal stages</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKXUIGA</genie>
+		<description>Mega jab attack damage - horizontal stages</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSPGTVG</genie>
+		<description>Infinite lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOZYTVG</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEUGGLA</genie>
+		<description>Fewer hits in shield (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXUNTLA</genie>
+		<description>Fewer hits in shield (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAEUGGLA</genie>
+		<description>Double hits in shield (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXUNTLA</genie>
+		<description>Double hits in shield (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEUGGLE</genie>
+		<description>Triple hits in shield (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXUNTLE</genie>
+		<description>Triple hits in shield (2 of 2)</description>
+	</cheat>
+</cheats>

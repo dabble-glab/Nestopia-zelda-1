@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>KAXAGYIA</genie>
+		<description>Invincibility (star effect) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAXEYYIA</genie>
+		<description>Invincibility (star effect) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AIUAPPEI</genie>
+		<description>Invincibility (except vs bullets)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENASIPA</genie>
+		<description>Infinite POW</description>
+	</cheat>
+	<cheat enabled="0">
+        <genie>ASKELZEL</genie>
+        <description>Hit anywhere (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LUKEGXLV</genie>
+        <description>Hit anywhere (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GGXAAIEU</genie>
+        <description>Hit anywhere (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YLXAPSGI</genie>
+        <description>Hit anywhere (5 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SAXAZSOL</genie>
+        <description>Hit anywhere (4 of 5)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SAVSNNSX</genie>
+		<description>Always have 255 POW</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOEAYVG</genie>
+		<description>Infinite lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOEIYVG</genie>
+		<description>Infinite lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVSTPIA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANITPIA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVSTPIE</genie>
+		<description>Start with 10 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANITPIE</genie>
+		<description>Start with 10 lives - P2</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AAUZUNNN</genie>
+        <description>Multi-jump (01 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATUXKNNY</genie>
+        <description>Multi-jump (02 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AUSALYOY</genie>
+        <description>Multi-jump (03 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AZUXONNY</genie>
+        <description>Multi-jump (04 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AZUZVNNY</genie>
+        <description>Multi-jump (05 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EYUZKNNY</genie>
+        <description>Multi-jump (06 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EYUZNNNN</genie>
+        <description>Multi-jump (07 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GAUZONNY</genie>
+        <description>Multi-jump (08 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LAUZSNNY</genie>
+        <description>Multi-jump (09 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NXSAGNUE</genie>
+        <description>Multi-jump (10 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OAUXENNN</genie>
+        <description>Multi-jump (11 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OYUXXNNY</genie>
+        <description>Multi-jump (12 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PZUZXNNN</genie>
+        <description>Multi-jump (13 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZUZENNY</genie>
+        <description>Multi-jump (14 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>UAUXUNNN</genie>
+        <description>Multi-jump (15 of 15)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0020</address>
+        <value>0x01</value>
+        <description>Start on stage 2 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0020</address>
+        <value>0x02</value>
+        <description>Start on stage 3 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0020</address>
+        <value>0x03</value>
+        <description>Start on stage 4 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0020</address>
+        <value>0x04</value>
+        <description>Start on stage 5 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0020</address>
+        <value>0x05</value>
+        <description>Start on stage 6 (disable after stage begins)</description>
+    </cheat>
+</cheats>

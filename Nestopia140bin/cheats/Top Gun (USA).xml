@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEKSNLLA</genie>
+		<description>Immune to Bullets (not Missiles)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKIKIVG</genie>
+		<description>Infinite Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASEKTOAZ</genie>
+		<description>Take off with double Hound Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXEKYPGO</genie>
+		<description>Take off with double Wolf Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOGAOZA</genie>
+		<description>Take off with double Tiger Missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUSNGVG</genie>
+		<description>Infinite fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXLIYGA</genie>
+		<description>Always land safely on Aircraft Carrier (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXLLTSA</genie>
+		<description>Always land safely on Aircraft Carrier (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANKLOZA</genie>
+		<description>Start with half fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEGLPPA</genie>
+		<description>Start on Mission 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEGLPPA</genie>
+		<description>Start on Mission 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEGLPPA</genie>
+		<description>Start on Mission 4</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0031</address>
+        <value>0x02</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0036</address>
+        <value>0x0A</value>
+        <description>Infinite fuel (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x3F</value>
+        <description>Infinite Missiles (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x004E</address>
+        <value>0x0C</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

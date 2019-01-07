@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZOKGPVG</genie>
+		<description>Start with infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUGPAIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUGPAIE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXETZZEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKGZZEY</genie>
+		<description>Baddies go as fast as Bugs Bunny</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASGAAPA</genie>
+		<description>Make platforms invisible</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXXTGGEN</genie>
+		<description>Start with super rabbit punches (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXXTAGAO</genie>
+		<description>Start with super rabbit punches (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOKGAAX</genie>
+		<description>Start on level XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXYVYAE</genie>
+		<description>Start on level 10 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOXYVYAA</genie>
+		<description>Start on level 20 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOXYVYAE</genie>
+		<description>Start on level 30 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YXXYVYAA</genie>
+		<description>Start on level 40 (2 of 2)</description>
+	</cheat>
+</cheats>

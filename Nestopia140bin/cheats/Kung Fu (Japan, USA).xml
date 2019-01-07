@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>GXSLVYEI</genie>
+        <description>Invincibility against knives</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AUVZEGTA</genie>
+		<description>Infinite health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEVZOKSX</genie>
+		<description>Infinite health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUAOAAX</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUAAXA</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AASGYXOG</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SEZEGG</genie>
+		<description>Give P2 an advantage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVXLSPT</genie>
+		<description>Enemies easier to shrug off</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVXPIGE</genie>
+		<description>Enemies harder to shrug off</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEEXSYPA</genie>
+		<description>Normal enemies do more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XYUXEUZK</genie>
+		<description>Knife thrower harder to beat</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVKIYSA</genie>
+		<description>Don't die when time runs out (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVKYNGG</genie>
+		<description>Don't die when time runs out (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AVOZLNGG</genie>
+        <description>Enemies die when trying to grab you (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXKZTIEI</genie>
+        <description>Enemies die when trying to grab you (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>KVKXPSIK</genie>
+        <description>Enemies die when trying to grab you (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXKXZIVZ</genie>
+        <description>Enemies die when trying to grab you (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEZELG</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEZELK</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZLATG</genie>
+		<description>Start at last level reached - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZLEPG</genie>
+		<description>Start at last level reached - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYNONUNN</genie>
+		<description>Walk 2X faster (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANOVLPA</genie>
+		<description>Walk 2X faster (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANOVLPA</genie>
+		<description>Walk 4X faster (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYNONUNN</genie>
+		<description>Walk 4X faster (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x005C</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03E8</address>
+        <value>0x00</value>
+        <description>Knife Thrower doesn&apos;t throw knives (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03E9</address>
+        <value>0x00</value>
+        <description>Knife Thrower doesn&apos;t throw knives (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03EA</address>
+        <value>0x00</value>
+        <description>Knife Thrower doesn&apos;t throw knives (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03EB</address>
+        <value>0x00</value>
+        <description>Knife Thrower doesn&apos;t throw knives (4 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A6</address>
+        <value>0x1E</value>
+        <description>Infinite health (disable at end of level)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0536</address>
+        <value>0x09</value>
+        <description>Max score (1 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0535</address>
+        <value>0x09</value>
+        <description>Max score (2 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0534</address>
+        <value>0x09</value>
+        <description>Max score (3 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0533</address>
+        <value>0x09</value>
+        <description>Max score (4 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0532</address>
+        <value>0x09</value>
+        <description>Max score (5 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0531</address>
+        <value>0x09</value>
+        <description>Max score (6 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0x01</value>
+        <description>Start on floor 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0x02</value>
+        <description>Start on floor 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0x03</value>
+        <description>Start on floor 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0x04</value>
+        <description>Start on floor 5</description>
+    </cheat>
+</cheats>

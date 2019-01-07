@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>VAXEOLSA</genie>
+		<description>Infinite HP for Robin in main combat</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYXAOPAL</genie>
+		<description>Infinite HP for Robin in dueling combat</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOXLLNAA</genie>
+		<description>Bandages give more HP back</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOULIUAE</genie>
+		<description>Food gives more HP back - Except the Leg of meat</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASPIZPA</genie>
+		<description>Infinite Arrows</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0179</address>
+        <value>0xFF</value>
+        <description>Infinite Arrows (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0175</address>
+        <value>0xFF</value>
+        <description>Max EXP points</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x016C</address>
+        <value>0x00</value>
+        <description>Load zero</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x016E</address>
+        <value>0xFF</value>
+        <description>Max Agility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x016F</address>
+        <value>0xFF</value>
+        <description>Max Agility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0170</address>
+        <value>0xFF</value>
+        <description>Max Attack (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0171</address>
+        <value>0xFF</value>
+        <description>Max Attack (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0172</address>
+        <value>0xFF</value>
+        <description>Max Defense</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0176</address>
+        <value>0xFF</value>
+        <description>Max Level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0177</address>
+        <value>0xFF</value>
+        <description>Max Gold</description>
+    </cheat>
+</cheats>

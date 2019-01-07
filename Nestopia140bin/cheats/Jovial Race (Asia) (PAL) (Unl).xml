@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>IAVEZLLA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVEZLLE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTVEZLLA</genie>
+		<description>Sart with 100 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNOUKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+</cheats>

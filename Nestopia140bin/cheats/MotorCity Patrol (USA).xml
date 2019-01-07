@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ANOEIOGL</genie>
+		<description>Slow down timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YOOEIOGU</genie>
+		<description>Speed up timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOXILAA</genie>
+		<description>Start with 5 merits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEXGTPA</genie>
+		<description>Don't take damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUESKVK</genie>
+		<description>Free equipment (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APUAUGEI</genie>
+		<description>Free equipment (2 of 2)</description>
+	</cheat>
+</cheats>

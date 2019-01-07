@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SLOSGVSO</genie>
+        <rocky>15B0205E</rocky>
+        <address>0xD61C</address>
+        <value>0xBD</value>
+        <compare>0x9D</compare>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

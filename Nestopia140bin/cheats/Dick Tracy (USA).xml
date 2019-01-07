@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXVOINSV</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVOGNAU</genie>
+		<description>Take more damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXZEOVK</genie>
+		<description>Infinite hand gun bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVXZEVK</genie>
+		<description>Infinite machine gun bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOEPIOZA</genie>
+		<description>More super punches on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKZIXVK</genie>
+		<description>Infinite super punches</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEXIXVK</genie>
+		<description>Infinite tear gas</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KYVZAANY</genie>
+		<description>Mega-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0663</address>
+        <value>0x09</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0761</address>
+        <value>0x31</value>
+        <description>Infinite hand gun bullets (alt)</description>
+    </cheat>
+</cheats>

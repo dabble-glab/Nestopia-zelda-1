@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0xXX</value>
+        <description>Level Modifier</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0090</address>
+        <value>0xFF</value>
+        <description>Infinite time to place blocks</description>
+    </cheat>
+</cheats>

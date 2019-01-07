@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0420</address>
+        <value>0x01</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x044F</address>
+        <value>0x20</value>
+        <description>Infinite HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0450</address>
+        <value>0x20</value>
+        <description>Infinite MP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0430</address>
+        <value>0x01</value>
+        <description>Have Red Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0431</address>
+        <value>0x01</value>
+        <description>Have Axe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0432</address>
+        <value>0x01</value>
+        <description>Have Rod</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0433</address>
+        <value>0x01</value>
+        <description>Have Morning Star</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0434</address>
+        <value>0x01</value>
+        <description>Have Harp</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0435</address>
+        <value>0x01</value>
+        <description>Have Boots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0436</address>
+        <value>0x01</value>
+        <description>Have Exit Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0437</address>
+        <value>0x01</value>
+        <description>Have Diamond</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0438</address>
+        <value>0x01</value>
+        <description>Have Potion</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0439</address>
+        <value>0x01</value>
+        <description>Have Armor</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043A</address>
+        <value>0x01</value>
+        <description>Have Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043B</address>
+        <value>0x01</value>
+        <description>Have Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043C</address>
+        <value>0x01</value>
+        <description>Have Hourglass</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043D</address>
+        <value>0x01</value>
+        <description>Have Necklace</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043E</address>
+        <value>0x01</value>
+        <description>Have Mirror</description>
+    </cheat>
+</cheats>

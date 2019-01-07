@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAXSEIZE</genie>
+		<description>Start with 9 ropes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXSEIZA</genie>
+		<description>Start with 1 rope</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSUAUVK</genie>
+		<description>Infinite rope</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXIUIZE</genie>
+		<description>Start with 9 units of food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXIUIZA</genie>
+		<description>Start with 1 unit of food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXUIUVK</genie>
+		<description>Infinite supply of food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANNLXPE</genie>
+		<description>More time for Episode 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANNGXLE</genie>
+		<description>More time for Episode 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPNNIZLP</genie>
+		<description>More time for Episode 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZENLZVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVSUGSA</genie>
+		<description>Start on Episode XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVSXGAA</genie>
+		<description>Start on Episode 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAVSXGAA</genie>
+		<description>Start on Episode 3 (2 of 2)</description>
+	</cheat>
+</cheats>

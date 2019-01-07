@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SXEZGUVK</genie>
+        <description>Infinite health - level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXUXGUVK</genie>
+        <description>Infinite health - level 1 and 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXSXGUVK</genie>
+        <description>Infinite health - level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXXUIXVK</genie>
+        <description>Infinite lives - level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZEUYUVK</genie>
+        <description>Infinite lives - level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNUAUVK</genie>
+        <description>Infinite lives - level 1 and 2</description>
+    </cheat>
+</cheats>

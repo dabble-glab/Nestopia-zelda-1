@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OLNKSVOO</genie>
+		<description>Infinite hands</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLKIAASP</genie>
+		<description>Freeze time (disable at end of level so counter can decrease)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYVSIKEI</genie>
+		<description>One saved to beat level (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVSZGSX</genie>
+		<description>One saved to beat level (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVSTGGA</genie>
+		<description>One saved to beat level (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOGUTZV</genie>
+		<description>No score decrease with loss of men (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALOGXTSZ</genie>
+		<description>No score decrease with loss of men (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTOGUTZT</genie>
+		<description>Each dead man, one to score instead of five</description>
+	</cheat>
+</cheats>

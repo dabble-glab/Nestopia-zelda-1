@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AVKSLZSZ</genie>
+        <description>Invincibility</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AAXTIUNY</genie>
+		<description>Infinite health</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AASIYUYT</genie>
+        <description>Hit anywhere (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EGSITLIZ</genie>
+        <description>Hit anywhere (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EISSALEY</genie>
+        <description>Hit anywhere (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PASSPLIE</genie>
+        <description>Hit anywhere (4 of 4)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>OVOAKLSV</genie>
+		<description>Use up minimum shots (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOASLAP</genie>
+		<description>Use up minimum shots (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOAKLST</genie>
+		<description>Never use up shots (To finish the game, save before opening the entrance to corridor 6. Restart with no codes and enter the entrance. Save again, then restart.)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXVAIAAG</genie>
+		<description>Start with less health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEVAIAAG</genie>
+		<description>Start with more health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0030</address>
+        <value>0x50</value>
+        <description>Fighter shape (Adventure and Space mode)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0030</address>
+        <value>0x52</value>
+        <description>Fighter shape in TGL mode (Adventure and Space mode)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x01</value>
+        <description>Max consecutive firing</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x01</value>
+        <description>Have 2-way shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x02</value>
+        <description>Have 3-way shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x03</value>
+        <description>Have 4-way shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003D</address>
+        <value>0x01</value>
+        <description>Max weapon power - Blue</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003D</address>
+        <value>0x02</value>
+        <description>Max weapon power - Green</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003D</address>
+        <value>0x03</value>
+        <description>Max weapon power - Red</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PAKVELAA</genie>
+		<description>Start on area 01</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKVELAA</genie>
+		<description>Start on area 03</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKVELAA</genie>
+		<description>Start on area 05</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAKVELAA</genie>
+		<description>Start on area 07</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKVELAE</genie>
+		<description>Start on area 09</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0050</address>
+        <value>0x0A</value>
+        <description>Start on area 10</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x01</value>
+        <description>Start on Corridor 01</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x02</value>
+        <description>Start on Corridor 02</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x03</value>
+        <description>Start on Corridor 03</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x04</value>
+        <description>Start on Corridor 04</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x05</value>
+        <description>Start on Corridor 05</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x06</value>
+        <description>Start on Corridor 06</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x07</value>
+        <description>Start on Corridor 07</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x08</value>
+        <description>Start on Corridor 08</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x09</value>
+        <description>Start on Corridor 09</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x0A</value>
+        <description>Start on Corridor 10</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x0B</value>
+        <description>Start on Corridor 11</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x0C</value>
+        <description>Start on Corridor 12</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x0D</value>
+        <description>Start on Corridor 13</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x0E</value>
+        <description>Start on Corridor 14</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x0F</value>
+        <description>Start on Corridor 15</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x10</value>
+        <description>Start on Corridor 16</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x11</value>
+        <description>Start on Corridor 17</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x12</value>
+        <description>Start on Corridor 18</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x13</value>
+        <description>Start on Corridor 19</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x14</value>
+        <description>Start on Corridor 20</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x15</value>
+        <description>Start on Corridor 21</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x16</value>
+        <description>Start on Corridor 22</description>
+    </cheat>
+</cheats>

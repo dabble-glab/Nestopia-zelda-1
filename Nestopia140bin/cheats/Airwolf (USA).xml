@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUTAPX</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLTXSN</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUGVILA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUGVILA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUGVILE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PVXKKKLI</genie>
+		<description>Start at last mission reached</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPVAPXYE</genie>
+		<description>Start with 30 missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IZVAPXYE</genie>
+		<description>Start with 45 missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSZAPVG</genie>
+		<description>Start with infinite missiles</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEVAISYA</genie>
+		<description>Sets missiles to 5 when you refuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOVAISYE</genie>
+		<description>Sets missiles to 30 when you refuel</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00B9</address>
+        <value>0x00</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x036C</address>
+        <value>0x02</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

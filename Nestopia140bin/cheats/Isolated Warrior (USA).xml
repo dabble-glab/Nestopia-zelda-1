@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXOPKZAU</genie>
+		<description>Invincibility (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEOPVZSZ</genie>
+		<description>Invincibility (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UVKTAYXZ</genie>
+		<description>Invincibility (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTVSGGTX</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXTIZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXTIZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXTIZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUVPAVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXOXSVK</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASVTXPA</genie>
+		<description>Start with maximum health and Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOAAYZA</genie>
+		<description>More health restored on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOAAYZA</genie>
+		<description>Less health restored on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VANEYESE</genie>
+		<description>Start on Scene X (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VEEAZESE</genie>
+		<description>Start on Scene X (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANEGAAA</genie>
+		<description>Start on Scene 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANEGAAA</genie>
+		<description>Start on Scene 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANEGAAA</genie>
+		<description>Start on Scene 4 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANEGAAA</genie>
+		<description>Start on Scene 5 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANEGAAA</genie>
+		<description>Start on Scene 6 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A4</address>
+        <value>0x0C</value>
+        <description>Full Power Gun #1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A5</address>
+        <value>0x0C</value>
+        <description>Full Power Gun #2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00DA</address>
+        <value>0x04</value>
+        <description>Full speed</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00E3</address>
+        <value>0x00</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06A8</address>
+        <value>0x04</value>
+        <description>Full Power Bombs</description>
+    </cheat>
+</cheats>

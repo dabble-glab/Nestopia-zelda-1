@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXXKKZVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOGLAIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOGLAIE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASGKGAA</genie>
+		<description>Turbo flying</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVKOZSP</genie>
+		<description>Heavens above?</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSKTASA</genie>
+		<description>Start on last level reached (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSKGASA</genie>
+		<description>Start on last level reached (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVGGASA</genie>
+		<description>Start on last level reached (3 of 3)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXUYAKVK</genie>
+		<description>Infinite level time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENOYLLA</genie>
+		<description>Start with level time at 1 minute</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENOYLLA</genie>
+		<description>Start with level time at 2 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENOYLLA</genie>
+		<description>Start with level time at 5 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENOYLLE</genie>
+		<description>Start with level time at 9 minutes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXEZAZA</genie>
+		<description>Goals worth 0 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEZAZA</genie>
+		<description>Goals worth 1 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXEZAZA</genie>
+		<description>Goals worth 5 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXEZAZE</genie>
+		<description>Goals worth 9 points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTXEZAZA</genie>
+		<description>Goals worth mega points</description>
+	</cheat>
+</cheats>

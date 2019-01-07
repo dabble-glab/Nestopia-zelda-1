@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>VANGKTVE</genie>
+		<description>All characters have Scale Armor</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UEEKSTOE</genie>
+		<description>Warriors start with a Great Sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEEKSTOE</genie>
+		<description>Warriors start with a Great Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SEEGETSE</genie>
+		<description>Magicians start with a Wizard's Wand</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPKGSTLE</genie>
+		<description>Magicians start with more spells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKKXTAA</genie>
+		<description>Magicians have greater spells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKYLGOY</genie>
+		<description>Spells use up no magic points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XEOGVTXE</genie>
+		<description>Thieves start with a Long Sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KEOGVTXA</genie>
+		<description>Thieves start with an Axe</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPXGNVZE</genie>
+		<description>Start with 30 health points each (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPXKSVZE</genie>
+		<description>Start with 30 health points each (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLXGNVZA</genie>
+		<description>Start with 50 health points each (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLXKSVZA</genie>
+		<description>Start with 50 health points each (2 of 2)</description>
+	</cheat>
+</cheats>

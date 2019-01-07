@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EYNZVYEI</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANAUAPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKEOESE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEAUGLA</genie>
+		<description>Full health from hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENANLIA</genie>
+		<description>Less health from hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENANLIE</genie>
+		<description>More health from hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEZYVVV</genie>
+		<description>Mega-jump (don't hold jump down too long or you might get stuck)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSEIYVG</genie>
+		<description>Infinite chances in sub-game (press Start to re-enter the main game)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0117</address>
+        <value>0x63</value>
+        <description>Infinite Chips</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043E</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x043F</address>
+        <value>0x19</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

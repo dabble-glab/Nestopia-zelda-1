@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PAVTTZLA</genie>
+		<description>Start with 1 life (Only effective in battle mode on first life)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVTTZLA</genie>
+		<description>Start with 6 lives (Only effective in battle mode on first life)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVTTZLE</genie>
+		<description>Start with 9 lives (Only effective in battle mode on first life)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZKZAOSV</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKVPKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLUZTSVS</genie>
+		<description>Infinite weapons</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>GGEUIKOU</genie>
+        <description>Hit anywhere (1 of 3)</description>
+    </cheat>
+	    <cheat enabled="0">
+        <genie>KLEUYGAY</genie>
+        <description>Hit anywhere (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>UAEUTGKU</genie>
+        <description>Hit anywhere (3 of 3)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>ZAUXKAPA</genie>
+		<description>Walk faster - battle mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUXKAAA</genie>
+		<description>Jump faster and further - battle mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVKULAAG</genie>
+		<description>Throw Tink's axe further</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASZPTIA</genie>
+		<description>1 star gives energy (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASZITIA</genie>
+		<description>1 star gives energy (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OYUUAAPG</genie>
+		<description>Throw Tink's Axe faster (can't be combined with other Axe code)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LGUUAAPG</genie>
+		<description>Tink's Axe splits into 3 little ones when thrown (can't be combined with other Axe code)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYUUAAOY</genie>
+		<description>Throw Tink's splitting-Axe faster (can't be combined with other Axe code)</description>
+	</cheat>
+</cheats>

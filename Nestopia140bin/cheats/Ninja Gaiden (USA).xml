@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OZTTZO</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATNTYOOZ</genie>
+		<description>Invincibility (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXVYPSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZETPGVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEVSLEA</genie>
+		<description>Multi-jump (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOTXSIP</genie>
+		<description>Multi-jump (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXVVSGEI</genie>
+		<description>Multi-jump (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUTSTEI</genie>
+		<description>Multi-jump (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNTVTSA</genie>
+		<description>Multi-jump (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUVLIZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAUVLIZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUVLIZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXVVYIA</genie>
+		<description>Use windmill throwing-star without losing spiritual strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAETUYIA</genie>
+		<description>Use fire-wheel without losing spiritual strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVTNYLA</genie>
+		<description>Use shuriken without losing spiritual strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APEIKGTA</genie>
+		<description>Maximum strength regained from restorer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASETAVT</genie>
+		<description>Sound test - hold down and press Start at Tecmo Presents screen</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AEIIST</genie>
+        <description>Hit anywhere (1 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AETIUT</genie>
+        <description>Hit anywhere (2 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AETSUT</genie>
+        <description>Hit anywhere (3 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AOYIUT</genie>
+        <description>Hit anywhere (4 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ESYINT</genie>
+        <description>Hit anywhere (5 of 5)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AENIXILA</genie>
+        <description>Enemies die instantly (1 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AESISTGZ</genie>
+        <description>Enemies die instantly (2 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEVIUTIP</genie>
+        <description>Enemies die instantly (3 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEVSUVPA</genie>
+        <description>Enemies die instantly (4 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AONIUTEP</genie>
+        <description>Enemies die instantly (5 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ESNINTEP</genie>
+        <description>Enemies die instantly (6 of 6)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0095</address>
+        <value>0x02</value>
+        <description>Invincibility after first hit (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0093</address>
+        <value>0x80</value>
+        <description>Invincibility after first hit (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x01</value>
+        <description>Start on stage 1-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x02</value>
+        <description>Start on stage 2-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x03</value>
+        <description>Start on stage 2-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x04</value>
+        <description>Start on stage 2-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x05</value>
+        <description>Start on stage 3-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x06</value>
+        <description>Start on stage 3-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x07</value>
+        <description>Start on stage 3-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x08</value>
+        <description>Start on stage 4-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x09</value>
+        <description>Start on stage 4-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x0A</value>
+        <description>Start on stage 4-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x0B</value>
+        <description>Start on stage 4-4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x0C</value>
+        <description>Start on stage 5-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x0D</value>
+        <description>Start on stage 5-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x0E</value>
+        <description>Start on stage 5-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x0F</value>
+        <description>Start on stage 5-4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x10</value>
+        <description>Start on stage 6-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x11</value>
+        <description>Start on stage 6-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x12</value>
+        <description>Start on stage 6-3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x13</value>
+        <description>Start on stage 6-4 (1st boss)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x14</value>
+        <description>Start on stage 6-4 (2nd boss)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x006D</address>
+        <value>0x15</value>
+        <description>Start on stage 6-5 (final boss)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0497</address>
+        <value>0x00</value>
+        <description>One hit kills bosses</description>
+    </cheat>
+</cheats>

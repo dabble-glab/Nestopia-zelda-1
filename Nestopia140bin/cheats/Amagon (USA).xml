@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESNIZLEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVOXGOOZ</genie>
+		<description>Invincible against enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATXZPOOZ</genie>
+		<description>Invincible against bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVNZAOOZ</genie>
+		<description>Invincible against area boss</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXGNYPA</genie>
+		<description>Start with infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOVIZGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOVIZGE</genie>
+		<description>Start with 8 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSZIZSP</genie>
+		<description>Infinite mega-power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOVPZGA</genie>
+		<description>Start with no bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEOVPZGA</genie>
+		<description>Start with 600 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVYLTPA</genie>
+		<description>Infinite ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLVYGTSP</genie>
+		<description>Infinite ammo (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVKUIZA</genie>
+		<description>Gain 10 bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAVKUIZA</genie>
+		<description>Gain 30 bullets on pick-up</description>
+	</cheat>
+</cheats>

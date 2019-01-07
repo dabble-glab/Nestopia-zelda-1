@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEXOKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZXZAEVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKLULGA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKLULGE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKLULGE</genie>
+		<description>Start with 15 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSZGUVK</genie>
+		<description>Always keep Sword</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUXZVVK</genie>
+		<description>Always keep Gun</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPKLEKYA</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPKLEKYA</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPKLEKYE</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPKLEKYE</genie>
+		<description>Start on level 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLKUXGLV</genie>
+		<description>Start with less time (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVEXUUGL</genie>
+		<description>Start with less time (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTOXVKGL</genie>
+		<description>Start with less time (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x011D</address>
+        <value>0xB0</value>
+        <description>Have all 3 Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x012F</address>
+        <value>0x00</value>
+        <description>0 Maps left</description>
+    </cheat>
+</cheats>

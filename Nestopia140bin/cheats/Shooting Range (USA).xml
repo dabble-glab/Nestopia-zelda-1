@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GTEPOAZL</genie>
+		<description>Double bonus time for hourglasses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPEPOAZU</genie>
+		<description>Half bonus time for hourglasses</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKAILLA</genie>
+		<description>More time for level 1 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEETTLA</genie>
+		<description>More time for level 1 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKAILLA</genie>
+		<description>Less time for level 1 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEETTLA</genie>
+		<description>Less time for level 1 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOAATZA</genie>
+		<description>More time for level 2 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOAPTZL</genie>
+		<description>More time for level 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOAATZA</genie>
+		<description>Less time for level 2 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLOAPTZL</genie>
+		<description>Less time for level 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOAZTZA</genie>
+		<description>More time for level 3 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLOALTAA</genie>
+		<description>More time for level 3 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOAZTZA</genie>
+		<description>Less time for level 3 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOALTAA</genie>
+		<description>Less time for level 3 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASUAIVAZ</genie>
+		<description>XX usual shots per round (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVONOOU</genie>
+		<description>Double usual shots per round (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASXOVXAZ</genie>
+		<description>Double usual shots per round (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ANXOVXAX</genie>
+		<description>Triple usual shots per round (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EXXOVXAZ</genie>
+		<description>Quadruple usual shots per round (3 of 3)</description>
+	</cheat>
+</cheats>

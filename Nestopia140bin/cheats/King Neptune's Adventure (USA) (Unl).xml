@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AEUGLKEY</genie>
+        <description>Start with all treasures (removes all items from level)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LVUKGGAA</genie>
+        <description>Start with 99 Bubble Bombs and Money</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LTUKSIAA</genie>
+        <description>Start with 99 Seahorses and Keys</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZSKVVVK</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXUILKVK</genie>
+        <description>Infinite health (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZNIIVSE</genie>
+        <description>Infinite health (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXXSTVVK</genie>
+        <description>Infinite health (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXXYSPVG</genie>
+        <description>Infinite Bubble Bombs</description>
+    </cheat>
+</cheats>

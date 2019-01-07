@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ESSINLEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VXEGXXSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PTYSEK</genie>
+		<description>Take less damage</description>
+	</cheat>
+		<cheat enabled="0">
+		<genie>GKKEAZSK</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVKEPXPA</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XEKEZZEP</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOTTIGA</genie>
+		<description>Multi-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESIKYYE</genie>
+		<description>9 Tornado Attacks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESIVYYE</genie>
+		<description>9 360o Spin Kicks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESINYYE</genie>
+		<description>9 Sky Attacks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESIKYYA</genie>
+		<description>0 Tornado Attacks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESISNPA</genie>
+		<description>0 180o Spin Kicks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESIVYYA</genie>
+		<description>0 360o Spin Kicks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESINYYA</genie>
+		<description>0 Sky Attacks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSKEXVK</genie>
+		<description>Infinite special attacks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVGXZZA</genie>
+		<description>Max health from Energy Bowl</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVGXZZA</genie>
+		<description>Less health from Energy Bowl</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x00</value>
+        <description>One hit kills on bosses</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0702</address>
+        <value>0x07</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0703</address>
+        <value>0x05</value>
+        <description>Infinite first special move</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0705</address>
+        <value>0x09</value>
+        <description>Infinite second special move</description>
+    </cheat>
+</cheats>

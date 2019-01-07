@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x005C</address>
+        <value>0x03</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0320</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (1 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0321</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (2 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0322</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (3 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0323</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (4 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0324</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (5 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0325</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (6 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0326</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (7 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0327</address>
+        <value>0x00</value>
+        <description>Automatically finish levels (8 of 8)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04FB</address>
+        <value>0x01</value>
+        <description>Make the Miracle Icon appear (enable then disable)</description>
+    </cheat>
+</cheats>

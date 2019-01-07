@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ATOSXISL</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GOXTZXZA</genie>
+        <description>Gain double amount on pick-up</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GNXTZXZA</genie>
+        <description>Gain maximum amount on pick-up</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEVSNOZL</genie>
+        <description>Hit anywhere</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXOVXKVS</genie>
+        <description>Infinite weapons</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IPNEITPP</genie>
+        <description>Start with Hand Grenades (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IOEALTPP</genie>
+        <description>Start with Hand Grenades (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEEEITIA</genie>
+        <description>Start with 2 Medicine Bottles</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZVEEITIA</genie>
+        <description>Start with 9 Medicine Bottles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x010C</address>
+        <value>0x64</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x010F</address>
+        <value>0x23</value>
+        <description>Max EXP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x011D</address>
+        <value>0x99</value>
+        <description>Infinite Throwing Knives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x11E</address>
+        <value>0x99</value>
+        <description>Infinite Missiles type 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x011F</address>
+        <value>0x99</value>
+        <description>Infinite Missiles type 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0120</address>
+        <value>0x99</value>
+        <description>Infinite Machine Gun</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0121</address>
+        <value>0x99</value>
+        <description>Infinite Grenades</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0122</address>
+        <value>0x99</value>
+        <description>Infinite Red Potions</description>
+    </cheat>
+</cheats>

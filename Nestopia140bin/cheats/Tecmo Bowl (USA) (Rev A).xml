@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AAVELPLA</genie>
+        <description>Instant touchdowns - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAEEKILA</genie>
+        <description>Instant touchdowns - P2</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>IVXOKLZA</genie>
+		<description>Always kick with max power - P1 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXXOUUPV</genie>
+		<description>Always kick with max power - P1 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXAYIGA</genie>
+		<description>Only 2 downs allowed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXOTPGA</genie>
+		<description>Only 2 downs allowed (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXAYIGA</genie>
+		<description>6 downs allowed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAXOTPGA</genie>
+		<description>6 downs allowed (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0048</address>
+        <value>0x00</value>
+        <description>CPU/P2 has 0 points</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008A</address>
+        <value>0x99</value>
+        <description>Infinite time (seconds)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x09</value>
+        <description>Infinite time (minutes)</description>
+    </cheat>
+</cheats>

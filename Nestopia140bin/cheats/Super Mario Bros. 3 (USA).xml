@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GOZSXX</genie>
+		<description>Never die if hit while little (stops music)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKIKXSE</genie>
+		<description>Invincibility after changing up from Super Mario (Raccoon, Frog, ect.)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EXKXGLIA</genie>
+		<description>Invincibility as miniture stone Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVGEVZZ</genie>
+		<description>Invincibility (Starman effect)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLXPLOVS</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUZENVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ZITGAG</genie>
+        <description>1-Up from every enemy you stomp</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEKPTZGA</genie>
+		<description>1 life after continue - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKPTZGE</genie>
+		<description>9 lives after continue - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEULAGT</genie>
+		<description>1-up for each coin (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOLAAGT</genie>
+		<description>1-up for each coin (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ZEEULAGV</genie>
+        <description>1-up for each 10 coins (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZEOLAAGV</genie>
+        <description>1-up for each 10 coins (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>NKGZSO</genie>
+		<description>Start a new game to see the ending</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXKIPZOS</genie>
+		<description>Move anywhere on the map (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APKSALAZ</genie>
+		<description>Move anywhere on the map (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELKZYVEK</genie>
+		<description>Power-jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EZKZYVEK</genie>
+		<description>Super power-jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAKZYVEK</genie>
+		<description>Mega power-jumps</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEZSKOZ</genie>
+		<description>Multi-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEZSKOX</genie>
+		<description>Multi-jump (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUXNGEI</genie>
+		<description>Multi-jump (alt 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXKZELSX</genie>
+		<description>Super speed running</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVUXNUEE</genie>
+		<description>Turbo-charged running</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANZKLLA</genie>
+		<description>Raise P meter while standing still (hold B)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YPXXLVGE</genie>
+		<description>Infinite items - Mario</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AEXXYVIG</genie>
+        <description>Fireballs hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEXZAVUG</genie>
+        <description>Fireballs hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAKXTIYP</genie>
+        <description>Fireballs turn most solid objects into coins (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVZAIIA</genie>
+        <description>Fireballs turn most solid objects into coins (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GZSSOLEP</genie>
+        <description>Tail hits anywhere</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZUEXNSO</genie>
+		<description>Restore powers after playing an action scene</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LGNXKGPL</genie>
+		<description>Always get a White Ship after passing a level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUXKGAA</genie>
+		<description>Start a new game as Fire Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUXKGAA</genie>
+		<description>Start a new game as Raccoon Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUXKGAA</genie>
+		<description>Start a new game as Frog Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUXKGAA</genie>
+		<description>Start a new game as Tanooki Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUXKGAA</genie>
+		<description>Start a new game as Sledgehammer Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XUKXGLIE</genie>
+		<description>Invincibility as Super Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UXKXGLIA</genie>
+		<description>Invincibility as Fire Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NXKXGLIE</genie>
+		<description>Invincibility as Raccoon Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUKXGLIE</genie>
+		<description>Invincibility as Frog Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XNKXGLIE</genie>
+		<description>Invincibility as Sledgehammer Mario</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOSSZPA</genie>
+		<description>Change to XX if you fall off screen and die (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOZTGAA</genie>
+		<description>Change to Super Mario if you fall off screen and die (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOZTGAA</genie>
+		<description>Change to Fire Mario if you fall off screen and die (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOZTGAA</genie>
+		<description>Change to Raccoon Mario if you fall off screen and die (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOZTGAA</genie>
+		<description>Change to Frog Mario if you fall off screen and die (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOZTGAA</genie>
+		<description>Change to Tanooki Mario if you fall off screen and die (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOZTGAA</genie>
+		<description>Change to Sledgehammer Mario if you fall off screen and die (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AANAOTLA</genie>
+        <description>Press Start to complete level (do not use on final ship/castle level for each map) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GPNAETTY</genie>
+        <description>Press Start to complete level (do not use on final ship/castle level for each map) (2 of 2)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEUZUGAA</genie>
+		<description>Start on World 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUZUGAA</genie>
+		<description>Start on World 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUZUGAA</genie>
+		<description>Start on World 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUZUGAA</genie>
+		<description>Start on World 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUZUGAA</genie>
+		<description>Start on World 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUZUGAA</genie>
+		<description>Start on World 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEUZUGAA</genie>
+		<description>Start on World 8</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GGNUGGXE</genie>
+		<description>Unused level - Plains 1 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NZNUIKUL</genie>
+		<description>Unused level - Plains 1 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KZNUGGXE</genie>
+		<description>Unused level - Plains 2 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNUIKUL</genie>
+		<description>Unused level - Plains 2 (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x03DD</address>
+        <value>0x7F</value>
+        <description>P meter always full</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00ED</address>
+        <value>0x01</value>
+        <description>Invincibility as Super Mario (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00ED</address>
+        <value>0x02</value>
+        <description>Invincibility as Fire Mario (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00ED</address>
+        <value>0x03</value>
+        <description>Invincibility as Raccoon Mario (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00ED</address>
+        <value>0x04</value>
+        <description>Invincibility as Frog Mario (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00ED</address>
+        <value>0x05</value>
+        <description>Invincibility as Tanooki</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00ED</address>
+        <value>0x06</value>
+        <description>Invincibility as Sledgehammer Mario (alt)</description>
+    </cheat>
+</cheats>

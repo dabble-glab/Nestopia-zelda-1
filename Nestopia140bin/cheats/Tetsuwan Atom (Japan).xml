@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIUIULEL</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZUIOLSV</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZGUIKUZS</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	    <cheat enabled="0">
+        <address>0x0094</address>
+        <value>0xFF</value>
+        <description>Infinite coins</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0096</address>
+        <value>0x05</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07D0</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x07EE</address>
+        <value>0x09</value>
+        <description>Infinite flight meter</description>
+    </cheat>
+</cheats>

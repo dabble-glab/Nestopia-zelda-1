@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEVPNYLA</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEKVLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEXILSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVZIIVG</genie>
+		<description>Infinite time (timer will still countdown)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXGNLVG</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VPKGXKXY</genie>
+		<description>Less time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKXTEYA</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAXGKGAA</genie>
+		<description>Start with upgraded sword (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APXKEGAO</genie>
+		<description>Start with upgraded sword (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APXKKGYA</genie>
+		<description>Start with upgraded sword (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYXKEGAO</genie>
+		<description>Sword hits several areas of the screen at once (sword upgrade negates the effect) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYXKKGYE</genie>
+		<description>Sword hits several areas of the screen at once (sword upgrade negates the effect) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESPKYPA</genie>
+		<description>No power required for Windmill Throwing Star (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKOXNZA</genie>
+		<description>No power required for Windmill Throwing Star (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKOUNAA</genie>
+		<description>No power required for Fire Wheel Art (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESPENAA</genie>
+		<description>No power required for Fire Wheel Art (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKOVYGP</genie>
+		<description>No power required for Invincible Fire Wheel (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESOEYZA</genie>
+		<description>No power required for Invincible Fire Wheel (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKOKNAA</genie>
+		<description>No power required for Fire Dragon Balls (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESPONAA</genie>
+		<description>No power required for Fire Dragon Balls (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKOSNZA</genie>
+		<description>No power required for Vacuum Wave Art (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESPNYPA</genie>
+		<description>No power required for Vacuum Wave Art (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENXOAGP</genie>
+		<description>Multi-jump and infinite time (01 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZSXGIZL</genie>
+		<description>Multi-jump and infinite time (02 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPSXZSUA</genie>
+		<description>Multi-jump and infinite time (03 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUPZLEL</genie>
+		<description>Multi-jump and infinite time (04 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASXLIEI</genie>
+		<description>Multi-jump and infinite time (05 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPSXASNL</genie>
+		<description>Multi-jump and infinite time (06 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZSXTSNK</genie>
+		<description>Multi-jump and infinite time (07 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNXIIVG</genie>
+		<description>Multi-jump and infinite time (08 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XISXIIVK</genie>
+		<description>Multi-jump and infinite time (09 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASXPIIE</genie>
+		<description>Multi-jump and infinite time (10 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAEGVGZA</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00A7</address>
+        <value>0x0A</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AD</address>
+        <value>0x14</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXXOXOPX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSONPST</genie>
+		<description>Infinite HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYXELPZU</genie>
+		<description>Start with 127 Ludder</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LGXELPZU</genie>
+		<description>Start with 75 Ludder</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUPKYPE</genie>
+		<description>1 Ludder gives 10 on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOUPUYIA</genie>
+		<description>5 Ludder gives 20 on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXUGLVON</genie>
+		<description>Shopkeeper forgets to charge you</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x009B</address>
+        <value>0xFA</value>
+        <description>Always max Ludder</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0176</address>
+        <value>0x10</value>
+        <description>Slot 1 - Splendor (game&apos;s best sword)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0177</address>
+        <value>0x04</value>
+        <description>Slot 2 - Hyper Helm</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0178</address>
+        <value>0x08</value>
+        <description>Slot 3 - Shield Of Kings</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0179</address>
+        <value>0x0C</value>
+        <description>Slot 4 - Hyper Armor</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x017A</address>
+        <value>0x14</value>
+        <description>Slot 5 - Hyper Boots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x017B</address>
+        <value>0x1A</value>
+        <description>Slot 6 - Parallel Shot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x01B3</address>
+        <value>0xFF</value>
+        <description>Max HP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x01B4</address>
+        <value>0x07</value>
+        <description>All belts burned (door on the right in the beginning of the game is now open)</description>
+    </cheat>
+</cheats>

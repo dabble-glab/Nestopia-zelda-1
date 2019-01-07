@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AEKISPPA</genie>
+		<description>Infinite nitro boosts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEKTYGAA</genie>
+		<description>Lots of money and full equipment</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUEIEPP</genie>
+		<description>Computer starts with no nitro boosts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLUEIEPP</genie>
+		<description>Computer starts with double nitro boosts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLEVZSPP</genie>
+		<description>Start with double nitro boosts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EINSUZEP</genie>
+		<description>Drive through walls (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EIVINGEP</genie>
+		<description>Drive through walls (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESSISZEP</genie>
+		<description>Drive through walls (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENTYGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GGUTGGOU</genie>
+		<description>Infinite money (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GGUTIGAV</genie>
+		<description>Infinite money (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KTUTTKAL</genie>
+		<description>Infinite money (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0310</address>
+        <value>0x63</value>
+        <description>Infinite nitro boosts - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x075D</address>
+        <value>0x03</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0305</address>
+        <value>0x09</value>
+        <description>Infinite money - P1 (1 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0306</address>
+        <value>0x09</value>
+        <description>Infinite money - P1 (2 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0307</address>
+        <value>0x09</value>
+        <description>Infinite money - P1 (3 of 4)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0308</address>
+        <value>0x09</value>
+        <description>Infinite money - P1 (4 of 4)</description>
+    </cheat>
+</cheats>

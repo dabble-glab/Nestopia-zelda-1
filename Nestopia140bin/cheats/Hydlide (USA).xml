@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AZKAAVZE</genie>
+		<description>Boost strength, life, magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTKAAVZA</genie>
+		<description>Super boost strength, life, magic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSGYYSA</genie>
+		<description>Don't take damage from most enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUEKVIA</genie>
+		<description>Rapid healing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANOVZZA</genie>
+		<description>Rapid magic healing</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0038</address>
+        <value>0x64</value>
+        <description>Infinite life</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0039</address>
+        <value>0x64</value>
+        <description>Max STR</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003A</address>
+        <value>0x64</value>
+        <description>Max EXP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003B</address>
+        <value>0x64</value>
+        <description>Max Magic</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0059</address>
+        <value>0xFF</value>
+        <description>Have the Sword</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005A</address>
+        <value>0xFF</value>
+        <description>Have the Shield</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005B</address>
+        <value>0xFF</value>
+        <description>Have the Lamp</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005C</address>
+        <value>0xFF</value>
+        <description>Have the Cross</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005D</address>
+        <value>0xFF</value>
+        <description>Have the Pot</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005E</address>
+        <value>0xFF</value>
+        <description>Have the Medicine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x005F</address>
+        <value>0xFF</value>
+        <description>Have the Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0060</address>
+        <value>0xFF</value>
+        <description>Have the Ruby</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0061</address>
+        <value>0xFF</value>
+        <description>Have the Ring</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0062</address>
+        <value>0xFF</value>
+        <description>Have the Jewel</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0063</address>
+        <value>0xFF</value>
+        <description>Have 3 Fairies (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0064</address>
+        <value>0xFF</value>
+        <description>Have 3 Fairies (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0065</address>
+        <value>0xFF</value>
+        <description>Have 3 Fairies (3 of 3)</description>
+    </cheat>
+</cheats>

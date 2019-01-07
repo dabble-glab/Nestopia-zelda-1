@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>OUSNVLOP</genie>
+        <description>Infinite money</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NYEEPPAX</genie>
+        <description>Sart a new game with $16,777,215 (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NYEEZPOX</genie>
+        <description>Sart a new game with $16,777,215 (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NYEELPYE</genie>
+        <description>Sart a new game with $16,777,215 (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03E1</address>
+        <value>0xFF</value>
+        <description>Infinite money (alt)</description>
+    </cheat>
+</cheats>

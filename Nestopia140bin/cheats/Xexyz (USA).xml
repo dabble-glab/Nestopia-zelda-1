@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OTNGGYSV</genie>
+		<description>Immune to enemy bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTNGGTSV</genie>
+		<description>Immune to monsters</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUZTZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUZTZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUZTZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEXTKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUXLILA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTOXAKSE</genie>
+		<description>Become a whirlwind on new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOLPNAA</genie>
+		<description>Start with and keep foot-wing</description>
+	</cheat>
+</cheats>

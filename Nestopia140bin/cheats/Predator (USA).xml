@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>VASAOASA</genie>
+		<description>Invincibility (normal mode) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OGKKNGVK</genie>
+		<description>Invincibility (normal mode) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVVAXUVK</genie>
+		<description>Infinite health (big mode)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNGGXVK</genie>
+		<description>Infinite lives in jungle mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXGZOVK</genie>
+		<description>Infinite lives in big mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVKGPGE</genie>
+		<description>Start with double lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVUGVGSA</genie>
+		<description>Infinite health in jungle mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATEVEISZ</genie>
+		<description>Hit anywhere (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATVTEISZ</genie>
+		<description>Hit anywhere (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATXTOISZ</genie>
+		<description>Hit anywhere (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVNTKGSZ</genie>
+		<description>Hit anywhere (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AVOVSISZ</genie>
+		<description>Hit anywhere (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOETOPE</genie>
+		<description>Mega-jumps in jungle mode</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NTEENEGE</genie>
+		<description>Don't die if you fall down holes (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATOAEEOZ</genie>
+		<description>Don't die if you fall down holes (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LASEOELA</genie>
+		<description>Start each life with Laser Rifle (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XLSEUEVX</genie>
+		<description>Start each life with Laser Rifle (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0010</address>
+        <value>0x02</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0504</address>
+        <value>0x09</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x01</value>
+        <description>Start on area 2 - Wilderness</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x02</value>
+        <description>Start on area 3 - Lake</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x03</value>
+        <description>Start on area 4 - Forest</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x04</value>
+        <description>Start on area 5 - Caverns</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x05</value>
+        <description>Start on area 6 - Dungeons</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x06</value>
+        <description>Start on area 7 - Castle</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x07</value>
+        <description>Start on area 8 - Tower</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0x08</value>
+        <description>Start on the Tower Top boss</description>
+    </cheat>
+</cheats>

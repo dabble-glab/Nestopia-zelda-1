@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EEUTLZZE</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUTLZZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUTLZZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUTLZZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VKKYXLVT</genie>
+		<description>Gain hearts quickly</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EKINNL</genie>
+		<description>Gain a heart every time you hit an enemy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTKNXEZK</genie>
+		<description>More health - P2 or computer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTKYOEZK</genie>
+		<description>More health - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IIIOOO</genie>
+		<description>No enemies</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IIIEOO</genie>
+		<description>Enemies will not fight back</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KOTKOK</genie>
+		<description>Slow motion</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUNYLPA</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZUYZLAL</genie>
+		<description>Timer will count down faster</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APUYZLAL</genie>
+		<description>Timer will count down super-fast</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYZSIU</genie>
+		<description>Disable level 4 wall trap</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x003D</address>
+        <value>0x01</value>
+        <description>Start on mission 2 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003D</address>
+        <value>0x02</value>
+        <description>Start on mission 3 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003D</address>
+        <value>0x03</value>
+        <description>Start on mission 4 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0040</address>
+        <value>0x07</value>
+        <description>Start with all hearts</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03B4</address>
+        <value>0x64</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

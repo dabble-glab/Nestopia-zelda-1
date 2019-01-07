@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OTSXLGSV</genie>
+		<description>Infinite HP</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEVPLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXAXLLA</genie>
+		<description>Get Coins from anywhere</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXUYZKPX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEYYGLA</genie>
+		<description>Hit anywhere (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ALNNIGEP</genie>
+		<description>Hit anywhere (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNNLGSG</genie>
+		<description>Hit anywhere (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TZNNTKPA</genie>
+		<description>Hit anywhere (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UGNNGKPE</genie>
+		<description>Hit anywhere (5 of 5)</description>
+	</cheat>	
+	<cheat enabled="0">
+		<genie>PAKTAZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKTAZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAKTAZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUTAZIA</genie>
+		<description>Start with only 20 Gold Coins</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POKAOZZU</genie>
+		<description>Less energy gained from Bread</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAEEXGIA</genie>
+		<description>Less magic gained from Mashroobs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEAEKVK</genie>
+		<description>Never lose Mashroobs</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0081</address>
+        <value>0xFF</value>
+        <description>Infinite HP (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0xFF</value>
+        <description>Gain 65280 EXP for each kill</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008D</address>
+        <value>0x18</value>
+        <description>Infinite MP</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0306</address>
+        <value>0x25</value>
+        <description>Infinite Bread</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0307</address>
+        <value>0x25</value>
+        <description>Infinite Mashroob</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0310</address>
+        <value>0x05</value>
+        <description>Infinite R. Seeds</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0311</address>
+        <value>0x10</value>
+        <description>Infinite Carpets</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D7</address>
+        <value>0x08</value>
+        <description>Infinite Troopers</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AAXAGAZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXAGAZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAXAGAZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEAYXVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSYLSSO</genie>
+		<description>Immune to spikes, you can get stuck on them</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLVUYNSO</genie>
+		<description>Immune to most bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKLNGZA</genie>
+		<description>Full energy on big energy pick-ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKLUGAX</genie>
+		<description>Less energy on big energy pick-ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGKLUGAZ</genie>
+		<description>More energy on big energy pick-ups</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOKOIPA</genie>
+		<description>Always running (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKKXIPA</genie>
+		<description>Always running (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNUZIST</genie>
+		<description>Immune to most collisions (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLKLYVSO</genie>
+		<description>Immune to most collisions (2 of 2)</description>
+	</cheat>
+</cheats>

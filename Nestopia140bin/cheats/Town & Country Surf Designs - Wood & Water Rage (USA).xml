@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GXUZZZVG</genie>
+		<description>Infinite lives for skating</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXNKALVG</genie>
+		<description>Infinite lives for surfing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOGILZA</genie>
+		<description>When surfing lose only 1 symbol</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEZYALA</genie>
+		<description>When skating lose only 1 symbol if you fall into the ocean or a crack</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKLXAVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESPGZPA</genie>
+		<description>Increase time</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0037</address>
+        <value>0x09</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0047</address>
+        <value>0x04</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

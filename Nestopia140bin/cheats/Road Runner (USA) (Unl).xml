@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZOVUUVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEVTGIA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAEVTGIE</genie>
+		<description>Start with 12 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPEVTGIA</genie>
+		<description>Start with 18 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAOTLGPA</genie>
+		<description>Start on level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOTLGPE</genie>
+		<description>Start on level 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOTLGPE</genie>
+		<description>Start on level 15</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPOTLGPA</genie>
+		<description>Start on level 20</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPOTLGPE</genie>
+		<description>Start on level 25</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPOTLGPE</genie>
+		<description>Start on level 30</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVUGAOEK</genie>
+		<description>Never lose seed (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVXTSUEK</genie>
+		<description>Never lose seed (2 of 2)</description>
+	</cheat>
+</cheats>

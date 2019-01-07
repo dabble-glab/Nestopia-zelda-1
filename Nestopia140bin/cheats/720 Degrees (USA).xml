@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZUYASVK</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKLZLE</genie>
+		<description>9 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEXKLZLA</genie>
+		<description>6 continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXKLZLA</genie>
+		<description>No continues instead of 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKKYZAA</genie>
+		<description>Start with all equipment</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKKYZAA</genie>
+		<description>Start with half equipment</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVXGGXSX</genie>
+		<description>Start on level XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXXGIXTE</genie>
+		<description>Start on level XX (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXGTZZA</genie>
+		<description>Start on level 2 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXGTZZA</genie>
+		<description>Start on level 3 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXGTZZA</genie>
+		<description>Start on level 4 (3 of 3)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0572</address>
+        <value>0x19</value>
+        <description>Infinite time</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0573</address>
+        <value>0x09</value>
+        <description>Infinite time (one's digit) in half-pipe</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0574</address>
+        <value>0x09</value>
+        <description>Infinite time (ten's digit) in half-pipe</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>AGEZPAAI</genie>
+        <description>Invincibility (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AGUXGPAI</genie>
+        <description>Invincibility (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXVZTXSE</genie>
+        <description>Infinite special weapons</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXOZYUSE</genie>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EIEIYYEP</genie>
+        <description>One hit kills</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x00</value>
+        <description>Weapon level 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x01</value>
+        <description>Weapon level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x02</value>
+        <description>Weapon level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x03</value>
+        <description>Weapon level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x04</value>
+        <description>Weapon level 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x05</value>
+        <description>Weapon level 6</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x06</value>
+        <description>Weapon level 7</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0033</address>
+        <value>0x07</value>
+        <description>Weapon level 8</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x00</value>
+        <description>Weapon type 1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x01</value>
+        <description>Weapon type 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x02</value>
+        <description>Weapon type 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x03</value>
+        <description>Weapon type 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0034</address>
+        <value>0x04</value>
+        <description>Weapon type 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003B</address>
+        <value>0x01</value>
+        <description>Bomb power level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003B</address>
+        <value>0x02</value>
+        <description>Bomb power level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003B</address>
+        <value>0x03</value>
+        <description>Bomb power level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x01</value>
+        <description>Turbo power level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x02</value>
+        <description>Turbo power level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x03</value>
+        <description>Turbo power level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x003C</address>
+        <value>0x04</value>
+        <description>Turbo power level 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x02</value>
+        <description>Start on level 2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x03</value>
+        <description>Start on level 3</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x04</value>
+        <description>Start on level 4</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x05</value>
+        <description>Start on level 5</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x06</value>
+        <description>Start on level 6</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x07</value>
+        <description>Start on level 7</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x08</value>
+        <description>Start on level 8</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x018D</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x018F</address>
+        <value>0x04</value>
+        <description>Infinite Bombs</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0400</address>
+        <value>0x02</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+</cheats>

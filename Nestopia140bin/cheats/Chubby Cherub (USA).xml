@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZEAYZVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEXIYSA</genie>
+		<description>Infinite power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAAZZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOAAZZA</genie>
+		<description>Start with double lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOAAZZE</genie>
+		<description>Start with triple lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEVAKVAA</genie>
+		<description>Half regular power gained from food</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENXATZA</genie>
+		<description>Slow down power loss on the ground</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENXTVPA</genie>
+		<description>Slow down power loss in the air</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANEVSUT</genie>
+		<description>Infinite Gau (shots)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASXOAGE</genie>
+		<description>Double Gau (shots) on candy pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOALZPA</genie>
+		<description>Start on Stage 5 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOAPZAA</genie>
+		<description>Start on Stage 5 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOALZPE</genie>
+		<description>Start on Stage 10 (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOAPZAE</genie>
+		<description>Start on Stage 10 (2 of 2)</description>
+	</cheat>
+</cheats>

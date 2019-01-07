@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OLKOYSOO</genie>
+		<description>Infinite weapons (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUNUZSOO</genie>
+		<description>Infinite weapons (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSAGZSA</genie>
+		<description>Infinite weapons (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OVNLZISV</genie>
+		<description>Infinite energy for most weapons (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTKPYISV</genie>
+		<description>Infinite energy for most weapons (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSEYZSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SAKEZAIA</genie>
+		<description>Invincible against spikes</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXXAAIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>APOYYEOU</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATONAEAZ</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEUAZOIZ</genie>
+        <description>One hit kills</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>XAKSUTEA</genie>
+		<description>Start with at least 2 energy tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VAKSUTEA</genie>
+		<description>Start with at least 6 energy tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XASIOTEA</genie>
+		<description>Start with at least 2 mega-tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VASIOTEA</genie>
+		<description>Start with at least 6 mega-tanks</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSEPZVG</genie>
+		<description>Infinite mega-tanks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSATPVG</genie>
+		<description>Infinite energy tanks on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVLLPGA</genie>
+		<description>Starting weapons use less energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEXETAIA</genie>
+		<description>Super-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ONUELEUN</genie>
+		<description>Super-jump (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXETAIA</genie>
+		<description>Mega-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNUELEUY</genie>
+		<description>Mega-jump (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>SAKATAIO</genie>
+        <description>Multi-jump (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EAVEZAXA</genie>
+        <description>Multi-jump (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXOAAAEP</genie>
+        <description>Multi-jump (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATKXOVVI</genie>
+        <description>Collectable items never disappear</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AEUOVPSI</genie>
+        <description>Special items re-appear after being collected</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ASEZVTEP</genie>
+        <description>Enemies always drop large health refill (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PEEZETGA</genie>
+        <description>Enemies always drop large health refill (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B0</address>
+        <value>0x9C</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BC</address>
+        <value>0x9C</value>
+        <description>Infinite Beat</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B1</address>
+        <value>0x9C</value>
+        <description>Infinite Water Wave</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B2</address>
+        <value>0x9C</value>
+        <description>Infinite Gyro Attack</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B3</address>
+        <value>0x9C</value>
+        <description>Infinite Crystal Eye</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B4</address>
+        <value>0x9C</value>
+        <description>Infinite Napalm Bomb</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B5</address>
+        <value>0x9C</value>
+        <description>Infinite Super Arrow</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B6</address>
+        <value>0x9C</value>
+        <description>Infinite Power Stone</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B7</address>
+        <value>0x9C</value>
+        <description>Infinite Gravity Hold</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x9C</value>
+        <description>Infinite Charge Kick</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B9</address>
+        <value>0x9C</value>
+        <description>Infinite Star Crash</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BA</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Coil</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BB</address>
+        <value>0x9C</value>
+        <description>Infinite Rush Jet</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x03</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05B8</address>
+        <value>0x2D</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05C0</address>
+        <value>0x00</value>
+        <description>Bosses have no invulnerability time</description>
+    </cheat>
+</cheats>

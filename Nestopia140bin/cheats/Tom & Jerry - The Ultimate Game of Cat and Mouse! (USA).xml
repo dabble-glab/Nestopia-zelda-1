@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PASNVZLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASNVZLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASNVZLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSNYEVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXYPAPA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXYPAPA</genie>
+		<description>Minimum health (one touch kills)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVYKPAE</genie>
+		<description>Start on world 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVYKPAA</genie>
+		<description>Start on world 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOVYKPAE</genie>
+		<description>Start on world 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXVYKPAA</genie>
+		<description>Start on world 5</description>
+	</cheat>
+</cheats>

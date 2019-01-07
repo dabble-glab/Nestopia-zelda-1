@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIXZEZEY</genie>
+		<description>Invincibility (glitchy)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SSXLLEVS</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUXLLEVS</genie>
+		<description>Infinite health - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XVXXXGVS</genie>
+		<description>Never get stunned</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUYIILA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUYIILA</genie>
+		<description>Start with 2 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUYIILA</genie>
+		<description>Start with 4 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUYIILA</genie>
+		<description>Start with 5 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NXKZKTVI</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKZKTVI</genie>
+		<description>Almost infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOYZILA</genie>
+		<description>Start with 1 heart - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOYZILA</genie>
+		<description>Start with 2 hearts - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEOYZILA</genie>
+		<description>Start with 4 hearts - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEOYZILA</genie>
+		<description>Start with 5 hearts - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANNAILA</genie>
+		<description>Start with 1 credit</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANNAILA</genie>
+		<description>Start with 2 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANNAILA</genie>
+		<description>Start with 6 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANNAILE</genie>
+		<description>Start with 9 credits</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNNAILE</genie>
+		<description>Start with 255 credits (ignore the counter)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXUNGIVK</genie>
+		<description>Infinite credits</description>
+	</cheat>
+</cheats>

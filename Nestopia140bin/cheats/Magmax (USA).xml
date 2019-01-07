@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVVYTVG</genie>
+		<description>Infinite lives - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEVITPA</genie>
+		<description>Infinite lives - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKGKLZA</genie>
+		<description>Start with 1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEKGKLZA</genie>
+		<description>Start with 6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKGKLZE</genie>
+		<description>Start with 9 lives - both players</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x02</value>
+        <description>Infinite lives - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0059</address>
+        <value>0x05</value>
+        <description>Infinite lives - P2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x05</value>
+        <description>Max upgrades - P1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008C</address>
+        <value>0x05</value>
+        <description>Max upgrades - P2</description>
+    </cheat>
+</cheats>

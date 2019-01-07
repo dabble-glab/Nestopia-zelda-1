@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0178</address>
+        <value>0x30</value>
+        <description>Infinite power</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x018C</address>
+        <value>0x30</value>
+        <description>Infinite life (health)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>KVNPUXEL</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENPKZIA</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEETAVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGKTSGVG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKVXYOVK</genie>
+		<description>Infinite oxygen</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00F5</address>
+        <value>0x07</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00F6</address>
+        <value>0x07</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0435</address>
+        <value>0xFF</value>
+        <description>Infinite Oxygen (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A2</address>
+        <value>0x80</value>
+        <description>Infinite Fuse</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>GXKITZEY</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AYVITOGL</genie>
+        <description>Power pills last longer</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SZKSATSA</genie>
+	        <description>Ghosts are re-eatable until Power Pill wears off</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>NYVITOGU</genie>
+        <description>Power pills last extra long</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AZVITOGL</genie>
+        <description>Power Pills don't last as long</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>EXSSZZKZ</genie>
+        <description>8000+ points for eating ghosts (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXVITZVT</genie>
+        <description>8000+ points for eating ghosts (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>TESSLXOI</genie>
+        <description>8000+ points for eating ghosts (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ATXTZASZ</genie>
+        <description>Power Pills don't work</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAXVYEYE</genie>
+        <description>Only 2 ghosts are edible</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IAXVYEYE</genie>
+        <description>Only 3 ghosts are edible</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0067</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0088</address>
+        <value>0x15</value>
+        <description>Power Pill effect always active</description>
+    </cheat>
+</cheats>

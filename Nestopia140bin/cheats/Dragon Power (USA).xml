@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVOSZVG</genie>
+		<description>Infinite health (POW)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EAXAILGT</genie>
+		<description>Start with 128 health (POW)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAOETLSA</genie>
+		<description>Start with 24 Wind Waves (turtle shells) (hold B then press A)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x002E</address>
+        <value>0x63</value>
+        <description>Infinite health (POW) (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0036</address>
+        <value>0x0F</value>
+        <description>Infinite Red Power Pole time (spin attack)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x012F</address>
+        <value>0x09</value>
+        <description>Infinite Wind Waves (turtle shells) (hold B then press A)</description>
+    </cheat>
+</cheats>

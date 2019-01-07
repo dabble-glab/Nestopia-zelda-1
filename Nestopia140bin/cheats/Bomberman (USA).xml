@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXVGITSX</genie>
+		<description>Immune to explosions</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZIGAT</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXPKAG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	    <cheat enabled="0">
+        <genie>AAOGTYYL</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAOKIYAL</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVKXZZA</genie>
+        <description>Remove all breakable blocks</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AEZKLL</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEZKLU</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VPGKGG</genie>
+		<description>Decrease time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYGKGK</genie>
+		<description>Increase timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZELGYU</genie>
+		<description>Start on stage 10</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOLGYL</genie>
+		<description>Start on stage 20</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOLGYU</genie>
+		<description>Start on stage 30</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXLGYU</genie>
+		<description>Start on stage 40</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZULGYL</genie>
+		<description>Start on stage 50</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXKKALAP</genie>
+		<description>Start with double power Bomb blasts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AUKKALAP</genie>
+		<description>Start with triple power Bomb blasts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EEKKALAP</genie>
+		<description>Start with maximum power Bomb blasts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYXKUIEX</genie>
+		<description>Increase Bomb detonation time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AYXKUIEZ</genie>
+		<description>Reduce Bomb detonation time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEKLGSA</genie>
+		<description>Never lose Detonator after pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESKGUIZ</genie>
+		<description>Start with Detonator, max Bomb power and use up to 10 Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XZEGNIVZ</genie>
+		<description>Use up to 10 Bombs (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAEKEIGN</genie>
+		<description>Use up to 10 Bombs (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXEKVPSX</genie>
+		<description>Start with and keep Detonator (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESKNKTA</genie>
+		<description>Start with and keep Detonator (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNKNNPK</genie>
+		<description>Walk through walls (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEGEYPA</genie>
+		<description>Walk through walls (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x005C</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0079</address>
+        <value>0x01</value>
+        <description>Immune to explosions (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0093</address>
+        <value>0xEE</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0068</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0073</address>
+        <value>0x80</value>
+        <description>Max Bomb power</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0074</address>
+        <value>0x0A</value>
+        <description>Use up to 10 Bombs (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0076</address>
+        <value>0x01</value>
+        <description>Walk through walls (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0077</address>
+        <value>0x01</value>
+        <description>Have Detonator</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0058</address>
+        <value>0x32</value>
+        <description>Start on stage 50 (alt)</description>
+    </cheat>
+</cheats>

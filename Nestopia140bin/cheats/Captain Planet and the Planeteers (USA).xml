@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZNKNUSE</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKNLYVVK</genie>
+		<description>Infinite lives (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNLYVVK</genie>
+		<description>Infinite lives - outside levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSUGVVK</genie>
+		<description>Infinite lives - inside levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAETITGE</genie>
+		<description>Start with 10 lives - inside levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAETITGA</genie>
+		<description>Start with 2 lives - inside levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNXGXVK</genie>
+		<description>Infinite power - outside levels (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVXPKVK</genie>
+		<description>Infinite power - outside levels (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXXXEUVK</genie>
+		<description>Infinite power - inside levels (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEUGKVK</genie>
+		<description>Infinite power - inside levels (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANVAEGZ</genie>
+		<description>Start inside level 1 instead of outside</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENVIGGA</genie>
+		<description>Start with 2 lives instead of 5 - outside levels</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENVIGGE</genie>
+		<description>Start with 10 lives - outside levels</description>
+	</cheat>
+</cheats>

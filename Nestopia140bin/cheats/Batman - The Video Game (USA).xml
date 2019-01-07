@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PPOPEZVG</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKGGTT</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKGGGT</genie>
+		<description>Regenerates health meter (except Joker's gun)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEPOGSA</genie>
+		<description>Infinite weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKPNUGK</genie>
+		<description>Hit anywhere + one hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUGGTVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEESKGZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEESKGZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEESKGZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEEPOTPA</genie>
+		<description>Extra health on heart pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZNOUGST</genie>
+		<description>Infinite bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPSPXVZA</genie>
+		<description>Double usual bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASPXVZA</genie>
+		<description>Half usual bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SNUPIKKI</genie>
+		<description>Multi-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x00CC</address>
+        <value>0xA4</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B7</address>
+        <value>0x08</value>
+        <description>Infinite health (alt 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00B8</address>
+        <value>0x63</value>
+        <description>Infinite weapons (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A6</address>
+        <value>0xFF</value>
+        <description>Super gun (cannot change weapons)</description>
+    </cheat>
+</cheats>

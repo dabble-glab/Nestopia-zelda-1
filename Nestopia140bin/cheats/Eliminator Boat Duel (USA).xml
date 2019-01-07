@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>IZEEZZGA</genie>
+		<description>Start with 36 nitros</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEEZZGA</genie>
+		<description>Start with 0 nitros</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSVNVS</genie>
+		<description>Almost infinite nitros - no on buoy stage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENEYPPA</genie>
+		<description>Boat starts with full turbo, steering, hull, max engine power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUGOEVS</genie>
+		<description>Have full hull strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KAAISZ</genie>
+		<description>Computer boat goes crazy</description>
+	</cheat>
+</cheats>

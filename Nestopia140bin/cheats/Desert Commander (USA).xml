@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <address>0x0084</address>
+        <value>0x63</value>
+        <description>Start with 99 Tank units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0085</address>
+        <value>0x63</value>
+        <description>Start with 99 Tank #2 units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0086</address>
+        <value>0x63</value>
+        <description>Start with 99 Truck units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0087</address>
+        <value>0x63</value>
+        <description>Start with 99 Troop units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0088</address>
+        <value>0x63</value>
+        <description>Start with 99 Grenade units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x93</value>
+        <description>Start with 99 Stationary Artillery units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008A</address>
+        <value>0x63</value>
+        <description>Start with 99 Transport Trucks</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008B</address>
+        <value>0x63</value>
+        <description>Start with 99 Heavy Airplane units</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x008C</address>
+        <value>0x63</value>
+        <description>Start with 99 Light Airplane units</description>
+    </cheat>
+</cheats>

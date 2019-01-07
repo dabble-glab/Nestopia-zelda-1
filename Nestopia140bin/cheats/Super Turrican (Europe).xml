@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="1" game="0x88C30FDA">
+        <address>0x0058</address>
+        <value>0x0C</value>
+        <description>Shield always on</description>
+    </cheat>
+</cheats>

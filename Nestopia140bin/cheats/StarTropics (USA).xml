@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXETAKVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASTYZLA</genie>
+		<description>1 life with a new character</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASTYZLA</genie>
+		<description>6 lives with a new character</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAUTGILA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAUTGILA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUXXPSVS</genie>
+		<description>Infinite weapons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUVLZEPP</genie>
+		<description>Gain 50 fire weapons on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUSUYETP</genie>
+		<description>Gain 50 bat weapons on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUZZNGA</genie>
+		<description>Only 3 hearts needed to use shooting-star</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOZPYTO</genie>
+		<description>Only 8 hearts needed to use super-nova</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZVZLOSV</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NOPSTU</genie>
+		<description>Enemies can't move</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXXYTIA</genie>
+		<description>1 star needed to restore health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUZLTIA</genie>
+		<description>1 star needed to restore health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXXYTIE</genie>
+		<description>9 stars needed to restore health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUZLTIE</genie>
+		<description>9 stars needed to restore health (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x005B</address>
+        <value>0x02</value>
+        <description>Permanent Anklet (can jump 2 spaces) (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0180</address>
+        <value>0x01</value>
+        <description>Permanent Anklet (can jump 2 spaces) (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0112</address>
+        <value>0x17</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x011C</address>
+        <value>0x09</value>
+        <description>Infinite Blue Stars</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x077B</address>
+        <value>0x2E</value>
+        <description>Invincibility after one hit</description>
+    </cheat>
+</cheats>

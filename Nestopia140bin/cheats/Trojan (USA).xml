@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>NNUZGKYU</genie>
+		<description>Infinite health - both players (alt) (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYVNEKYU</genie>
+		<description>Infinite health - both players (alt) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSZXVK</genie>
+		<description>Infinite health - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEPGKVS</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VTESLOSX</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKENATI</genie>
+		<description>Hit anywhere (01 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANNIKLP</genie>
+		<description>Hit anywhere (02 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAOZLYIZ</genie>
+		<description>Hit anywhere (03 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVAXALG</genie>
+		<description>Hit anywhere (04 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEENPKYA</genie>
+		<description>Hit anywhere (05 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENIEUAP</genie>
+		<description>Hit anywhere (06 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUNIUUI</genie>
+		<description>Hit anywhere (07 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUYPLNT</genie>
+		<description>Hit anywhere (08 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVIULIZ</genie>
+		<description>Hit anywhere (09 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOXYYEL</genie>
+		<description>Hit anywhere (10 of 10)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AENIAUYP</genie>
+		<description>Always have High-jump Boots</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKVKXVK</genie>
+		<description>Keep High-jump Boots on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUSAUGP</genie>
+		<description>Multi-jump - both players (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESIZUEI</genie>
+		<description>Multi-jump - both players (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKIILEY</genie>
+		<description>Multi-jump - both players (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YASGUUAE</genie>
+		<description>Start with a health boost</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPSGUUAE</genie>
+		<description>Start with a super health boost</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASGUUAA</genie>
+		<description>Start with half usual health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKXPLA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOKNZLA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENKXPLA</genie>
+		<description>Start with 6 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOKNZLA</genie>
+		<description>Start with 6 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKXPLE</genie>
+		<description>Start with 9 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOKNZLE</genie>
+		<description>Start with 9 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ENNKXPLA</genie>
+		<description>Start with 187 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYOKNZLA</genie>
+		<description>Start with 196 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKELZA</genie>
+		<description>Start with 100 seconds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKELZE</genie>
+		<description>Start with 900 seconds</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0335</address>
+        <value>0x08</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0386</address>
+        <value>0x02</value>
+        <description>Have Key</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03CB</address>
+        <value>0x0E</value>
+        <description>Have High-jump Boots</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03CC</address>
+        <value>0xFF</value>
+        <description>Have Speed-Up</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03CD</address>
+        <value>0xFF</value>
+        <description>Have Power-Up</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x02</value>
+        <description>Start on level 2-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x03</value>
+        <description>Start on level 2-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x04</value>
+        <description>Start on level 3-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x05</value>
+        <description>Start on level 3-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x06</value>
+        <description>Start on level 4-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x07</value>
+        <description>Start on level 4-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x08</value>
+        <description>Start on level 5-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x09</value>
+        <description>Start on level 5-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x0A</value>
+        <description>Start on level 6-1</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x0B</value>
+        <description>Start on level 6-2</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03D1</address>
+        <value>0x0C</value>
+        <description>Start on level 7-1</description>
+    </cheat>
+</cheats>

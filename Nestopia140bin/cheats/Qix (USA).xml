@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEEAPZGA</genie>
+		<description>1 life - 1P</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEEEAZGA</genie>
+		<description>1 life - 2P</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANAZZPA</genie>
+		<description>Start on Level 5 - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANAZZPE</genie>
+		<description>Start on Level 10 - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPNAZZPA</genie>
+		<description>Start on Level 20 - 1P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEEEGZPA</genie>
+		<description>Start on Level 5 - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEEEGZPE</genie>
+		<description>Start on Level 10 - 2P game</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOEEGZPA</genie>
+		<description>Start on Level 20 - 2P game</description>
+	</cheat>
+</cheats>

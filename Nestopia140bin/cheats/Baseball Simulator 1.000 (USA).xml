@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PESEPTLA</genie>
+		<description>1 strike and you're out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESEPTLA</genie>
+		<description>2 strikes and you're out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESEPTLA</genie>
+		<description>5 strikes and you're out</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVAYTVT</genie>
+		<description>Strikes aren't counted</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNAATVT</genie>
+		<description>Balls aren't counted</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESALTGA</genie>
+		<description>1 ball and you walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESALTGA</genie>
+		<description>2 balls and you walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LESALTGA</genie>
+		<description>3 balls and you walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESALTGE</genie>
+		<description>9 balls and you walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXVZITVV</genie>
+		<description>Strike outs aren't allowed</description>
+	</cheat>
+</cheats>

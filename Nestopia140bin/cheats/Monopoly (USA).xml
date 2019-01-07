@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>YLSSOLPU</genie>
+		<description>Collect $300 as you pass Go</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPSSOLPU</genie>
+		<description>Collect $100 as you pass Go</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVZKAYP</genie>
+		<description>Pay $0 to get out of jail</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPVZKAYO</genie>
+		<description>Pay $100 to get out of jail</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOOAVKZP</genie>
+		<description>Pay $30 for luxury tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOOAVKZO</genie>
+		<description>Pay $100 for luxury tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PUOAVKZP</genie>
+		<description>Pay $200 for luxury tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AESAVGPL</genie>
+		<description>Pay $0 for income tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LOSAVGPL</genie>
+		<description>Pay $30 for income tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOSAVGPU</genie>
+		<description>Pay $100 for income tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YUSAVGPU</genie>
+		<description>Pay $300 for income tax</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLOSLKLK</genie>
+		<description>$300 to buy Boardwalk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LIOSLKLG</genie>
+		<description>$600 to buy Boardwalk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PLOIZGIG</genie>
+		<description>$200 to buy Park Place</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LGOIZGIK</genie>
+		<description>$400 to buy Park Place</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LIOIZGIG</genie>
+		<description>$600 to buy Park Place</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPOSZGPU</genie>
+		<description>Houses on Park Place cost $100</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLOSZGPU</genie>
+		<description>Houses on Park Place cost $300</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IPXILGPU</genie>
+		<description>Houses on Boardwalk cost $100</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YLXILGPU</genie>
+		<description>Houses on Boardwalk cost $300</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YAOAILLA</genie>
+		<description>Go Back 7 spaces instead of 3 on Chance</description>
+	</cheat>
+</cheats>

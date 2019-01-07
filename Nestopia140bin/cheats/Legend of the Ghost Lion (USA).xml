@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SZUPNNSE</genie>
+        <description>Infinite Courage points</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXSKLKSE</genie>
+        <description>Buying items for free in most shops (must have enough rubies to purchase the item)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>SXXKTSSE</genie>
+        <description>Infinite Dream points</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x041A</address>
+        <value>0xFF</value>
+        <description>Max Rubies</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A0</address>
+        <value>0xFF</value>
+        <description>Max Hope - main character</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A1</address>
+        <value>0xFF</value>
+        <description>Infinite health - main character</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A3</address>
+        <value>0xFF</value>
+        <description>Max Dream - main character (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A4</address>
+        <value>0xFF</value>
+        <description>Max Dream - main character (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x04A5</address>
+        <value>0xFF</value>
+        <description>Max Dream total - main character</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0562</address>
+        <value>0x2A</value>
+        <description>Have #2 Whip</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0562</address>
+        <value>0x2B</value>
+        <description>Have F-Sword</description>
+    </cheat>
+</cheats>

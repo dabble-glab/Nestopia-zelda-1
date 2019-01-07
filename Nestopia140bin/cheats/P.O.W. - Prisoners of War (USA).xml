@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>ATVUUZSA</genie>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OLEUSOSU</genie>
+        <description>One hit kills</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>AENSLPPA</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>STOLOUON</genie>
+		<description>Take less damage when hit from behind</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVGOTPA</genie>
+		<description>Infinite bullets</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AESUNALZ</genie>
+        <description>Hit anywhere (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GKSUVAEU</genie>
+        <description>Hit anywhere (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OUVLEEEK</genie>
+        <description>Hit anywhere (3 of 3)</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>APKGPLAZ</genie>
+		<description>Start with half health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APESYZAZ</genie>
+		<description>Start with half health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUUNUSE</genie>
+		<description>Keep weapons after dying (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSLOSSE</genie>
+		<description>Keep weapons after dying (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUEIZZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUEIZZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUEIZZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>LVUEIZZA</genie>
+        <description>Start with 99 lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0047</address>
+        <value>0x01</value>
+        <description>Start on stage 2 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0047</address>
+        <value>0x02</value>
+        <description>Start on stage 3 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0047</address>
+        <value>0x03</value>
+        <description>Start on stage 4 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0047</address>
+        <value>0x04</value>
+        <description>Start on stage 5 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0047</address>
+        <value>0x05</value>
+        <description>Start on stage 6 (disable after stage begins)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0438</address>
+        <value>0xDB</value>
+        <description>Have infinite Gun, Brass Knuckles, Armor Vest</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0438</address>
+        <value>0xE5</value>
+        <description>Have infinite Knives, Brass Knuckles, Armor Vest</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0438</address>
+        <value>0xF9</value>
+        <description>Have infinite Grenades, Brass Knuckles, Armor Vest</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>PEXALTIA</genie>
+		<description>Start with 1 life - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXALTIE</genie>
+		<description>Start with 8 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXALTIE</genie>
+		<description>Start with 10 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOXALTIA</genie>
+		<description>Start with 20 lives - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVALTIA</genie>
+		<description>Start with 1 life - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEVALTIE</genie>
+		<description>Start with 8 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVALTIE</genie>
+		<description>Start with 10 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOVALTIA</genie>
+		<description>Start with 20 lives - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXAPTAA</genie>
+		<description>Start on level 2 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEXAPTAA</genie>
+		<description>Start on level 3 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXAPTAA</genie>
+		<description>Start on level 4 - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVAPTAA</genie>
+		<description>Start on level 2 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVAPTAA</genie>
+		<description>Start on level 3 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEVAPTAA</genie>
+		<description>Start on level 4 - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLUOZGLV</genie>
+		<description>Less joust time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZXXLUVK</genie>
+		<description>Stop joust timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLOEGALV</genie>
+		<description>Less cannonball time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEPGOVK</genie>
+		<description>Stop cannonball time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GLKXXZLV</genie>
+		<description>Less wall time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXOXEXVS</genie>
+		<description>Stop wall timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTXATNIL</genie>
+		<description>More assault time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PZXATNIU</genie>
+		<description>Less assault time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZSAINVK</genie>
+		<description>Stop assault timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTSOZOIL</genie>
+		<description>More power ball time - level 1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTSOLOAL</genie>
+		<description>More power ball time - level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTSOGPLL</genie>
+		<description>More power ball time - level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LTSOIOTZ</genie>
+		<description>More power ball time - level 4</description>
+	</cheat>
+</cheats>

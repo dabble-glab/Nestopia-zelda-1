@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>GZVXTPSA</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSUAOGE</genie>
+		<description>Start with double usual health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TESUAOGA</genie>
+		<description>Start with half usual health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PESUTPAA</genie>
+		<description>Start with a better character</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESUTPAA</genie>
+		<description>Start with the best character normally possible</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IESUTPAA</genie>
+		<description>Start with a super character, better than normally Possible</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OTVXAPSV</genie>
+		<description>Only lose 1 HP when hit (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVXPPAP</genie>
+		<description>Only lose 1 HP when hit (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x009A</address>
+        <value>0x0C</value>
+        <description>Infinite health (alt)</description>
+    </cheat>
+</cheats>

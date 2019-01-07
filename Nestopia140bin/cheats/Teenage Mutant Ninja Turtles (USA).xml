@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXOPPIAX</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOSOUAST</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUVPUEOO</genie>
+		<description>Infinite health (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSOUAST</genie>
+		<description>Infinite health (alt 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVZGSOO</genie>
+		<description>Don't take damage from non-killing seaweed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEOOGTZA</genie>
+		<description>Full health boost from pizza slices</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENOATGO</genie>
+		<description>10 weapons on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUNOATGP</genie>
+		<description>50 weapons on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVNOATGP</genie>
+		<description>99 weapons on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUOLNZA</genie>
+		<description>20 missiles on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YTUOLNZA</genie>
+		<description>99 missiles on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAKOPYLA</genie>
+		<description>Double rope on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVXTLVG</genie>
+		<description>Never lose rope</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOZTVSE</genie>
+		<description>Reduce recovery time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IIIPAP</genie>
+		<description>No sound</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXGPTZA</genie>
+		<description>Start a new game to view ending</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0500</address>
+        <value>0x15</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0077</address>
+        <value>0x80</value>
+        <description>Infinite health - Leonardo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0078</address>
+        <value>0x80</value>
+        <description>Infinite health - Raphael</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0079</address>
+        <value>0x80</value>
+        <description>Infinite health - Michaelangelo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x007A</address>
+        <value>0x80</value>
+        <description>Infinite health - Donatello</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A7</address>
+        <value>0x09</value>
+        <description>Infinite Ropes</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BF</address>
+        <value>0x63</value>
+        <description>Infinite Missiles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00BB</address>
+        <value>0x32</value>
+        <description>Infinite time on water level</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0073</address>
+        <value>0x04</value>
+        <description>Have Scrolls - Leonardo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0074</address>
+        <value>0x04</value>
+        <description>Have Scrolls - Raphael</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0075</address>
+        <value>0x04</value>
+        <description>Have Scrolls - Michaelangelo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0076</address>
+        <value>0x04</value>
+        <description>Have Scrolls - Donatello</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A8</address>
+        <value>0x63</value>
+        <description>99 weapons - Leonardo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A9</address>
+        <value>0x63</value>
+        <description>99 weapons - Raphael</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AA</address>
+        <value>0x63</value>
+        <description>99 weapons - Michaelangelo</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00AB</address>
+        <value>0x63</value>
+        <description>99 weapons - Donatello</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0540</address>
+        <value>0x5B</value>
+        <description>Permanent rolling power-up (disable on water level)</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ETVVPOAL</genie>
+		<description>Infinite health and one hit kills (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EYVVLPPP</genie>
+		<description>Infinite health and one hit kills (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVVGPEL</genie>
+		<description>Infinite health and one hit kills (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XTVVIPZE</genie>
+		<description>Infinite health and one hit kills (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVVZPST</genie>
+		<description>Infinite health and one hit kills (levels 1-9, 11, 12 only) (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVVZPST</genie>
+		<description>Infinite health and one hit kills (level 10 only) (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZKYPGSX</genie>
+		<description>Multi-jump (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XAKYZGZT</genie>
+		<description>Multi-jump (2 of 2)</description>
+	</cheat>
+	    <cheat enabled="0">
+        <address>0x003B</address>
+        <value>0xFE</value>
+        <description>Level skip - hold B and press Select</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0520</address>
+        <value>0x00</value>
+        <description>Less down time after hit</description>
+    </cheat>
+</cheats>

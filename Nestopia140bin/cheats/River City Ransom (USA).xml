@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SUNEUKSO</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVSNAVYA</genie>
+		<description>Start with max stats</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUKOOXSO</genie>
+		<description>Infinite money (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUSPEXSO</genie>
+		<description>Infinite money (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUSPNXSO</genie>
+		<description>Infinite money (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LZXTXGLP</genie>
+		<description>Coins worth max amount of money</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOSNAVYE</genie>
+		<description>Start with double every attribute</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YNSNAVYE</genie>
+		<description>127 of all stats</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVNYIVYL</genie>
+		<description>99 Stamina</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYVOIUYU</genie>
+		<description>Max Punch</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYVOTUYU</genie>
+		<description>Max Kick</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYVOYUYU</genie>
+		<description>Max Weapon</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYNPAUYU</genie>
+		<description>Max Throw</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYNPPUYU</genie>
+		<description>Max Agility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYNPZUYU</genie>
+		<description>Max Defense</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYNPLUYU</genie>
+		<description>Max Strength</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYNPGUYU</genie>
+		<description>Max Will Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYNPTUYN</genie>
+		<description>Max Stamina</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOELVUOU</genie>
+		<description>Infinite Stamina (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXVUVUOV</genie>
+		<description>Infinite Stamina (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLOXNNSO</genie>
+		<description>Infinite Will Power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGENAYAZ</genie>
+		<description>Start with double money - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGOYYYAZ</genie>
+		<description>Start with double money - P2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAENIYAA</genie>
+		<description>Start with $100 extra - P1</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAONGYAA</genie>
+		<description>Start with $100 extra - P2</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ENVYZZEI</genie>
+        <description>View the credits</description>
+    </cheat>
+</cheats>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>EXAXEU</genie>
+        <description>Invincibility and three heads after one hit (blinking)</description>
+    </cheat>
+	    <cheat enabled="0">
+        <genie>OZVZOZVG</genie>
+        <description>Infinite health</description>
+    </cheat>
+	    <cheat enabled="0">
+        <genie>OXNLEIES</genie>
+        <description>Hit anywhere (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>OXXLOIES</genie>
+        <description>Hit anywhere (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>VEOIKAKA</genie>
+        <description>Always gold dragon mode</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>KXOIKAKA</genie>
+        <description>Always blue dragon mode</description>
+    </cheat>
+	    <cheat enabled="0">
+        <address>0x0588</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+</cheats>

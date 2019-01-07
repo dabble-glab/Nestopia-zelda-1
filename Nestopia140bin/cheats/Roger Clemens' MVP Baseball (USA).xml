@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZANEAPLA</genie>
+		<description>2 strikes and you're out (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEOUYPLA</genie>
+		<description>2 strikes and you're out (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVKGPLA</genie>
+		<description>2 strikes and you're out (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANEAPLA</genie>
+		<description>1 strike and you're out (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOUYPLA</genie>
+		<description>1 strike and you're out (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVKGPLA</genie>
+		<description>1 strike and you're out (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OOVSLLPA</genie>
+		<description>Strikes are not called when batter doesn't swing</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANAAPZA</genie>
+		<description>Strikes are not called when batter swings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKLPGA</genie>
+		<description>1 ball for a walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZENKLPGA</genie>
+		<description>2 balls for a walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LENKLPGA</genie>
+		<description>3 balls for walk</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OONIALAA</genie>
+		<description>Infinite balls (balls are not called)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLNALPVY</genie>
+		<description>Infinite balls and strikes</description>
+	</cheat>
+</cheats>

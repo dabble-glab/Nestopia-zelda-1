@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SKOPAAVT</genie>
+		<description>Infinite energy</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SKUAANSE</genie>
+		<description>Infinite fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SIXTEEVS</genie>
+		<description>Infinite weapons (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SGKVINVK</genie>
+		<description>Infinite weapons (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLXTEEVS</genie>
+		<description>Infinite ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TOVZIAZL</genie>
+		<description>Start with half 150mm ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVVZIAZL</genie>
+		<description>Start with double 150mm ammo</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUVXTAPA</genie>
+		<description>Start with more wire guided shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVVXTAPA</genie>
+		<description>Start with max wire guided shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUNXAAPA</genie>
+		<description>Start with more smoke shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVNXAAPA</genie>
+		<description>Start with max smoke shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LGEZPPVO</genie>
+		<description>Start with less 50mm shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEZPPVO</genie>
+		<description>Start with max 50mm shells</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GTEZIOEG</genie>
+		<description>Start with less 50mm ammo after mission 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEZIOEK</genie>
+		<description>Start with max 50mm ammo after mission 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOPAAVT</genie>
+		<description>Take infinite hits (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSLNPSA</genie>
+		<description>Take infinite hits (2 of 2)</description>
+	</cheat>
+</cheats>

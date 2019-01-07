@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SEVILPSZ</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKKXIVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VZOEOGVT</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ELXKKESZ</genie>
+		<description>Hit anywhere - Throwing (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TIXKSAYA</genie>
+		<description>Hit anywhere - Throwing (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESXPZZEY</genie>
+		<description>Multi-jump when falling (1 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KOXPLZKS</genie>
+		<description>Multi-jump when falling (2 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OKOOYZOX</genie>
+		<description>Multi-jump when falling (3 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEXPPXSG</genie>
+		<description>Multi-jump when falling (4 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXXPAZES</genie>
+		<description>Multi-jump when falling (5 of 5)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEXGUALU</genie>
+		<description>Press Start to complete the level (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXGSALU</genie>
+		<description>Press Start to complete the level (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXXGXAIK</genie>
+		<description>Press Start to complete the level (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVGIALA</genie>
+		<description>Start with one life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAVGIALA</genie>
+		<description>Start with double lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAVGIALE</genie>
+		<description>Start with triple lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASKOILA</genie>
+		<description>One life after continue</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0015</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0031</address>
+        <value>0x03</value>
+        <description>Invincibility (alt)</description>
+    </cheat>
+</cheats>

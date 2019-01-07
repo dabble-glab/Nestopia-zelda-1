@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZVZGOVK</genie>
+		<description>Start with infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NYEATXNY</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>UYEATXNN</genie>
+		<description>Start with 5 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEATXNN</genie>
+		<description>Start with 18 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOZZPZA</genie>
+		<description>20 Genocides on new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNPVOVK</genie>
+		<description>Infinite Bombs</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEUSSVK</genie>
+		<description>Infinite Genocides</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOPUSVK</genie>
+		<description>Infinite Shields</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZNOLNVK</genie>
+		<description>Infinite Seekers</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNOEPPAE</genie>
+		<description>Start with Rear Laser</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKZZOSE</genie>
+		<description>Keep Rear Laser after death</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKXAOSE</genie>
+		<description>Keep Mace after death (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZKZIOSE</genie>
+		<description>Keep Mace after death (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPUETZPA</genie>
+		<description>Start new life with 20 Shields (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOZYPPA</genie>
+		<description>Start new life with 20 Shields (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GPKAZZIA</genie>
+		<description>Start with 20 Seekers and Bouncers (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOOXGPIA</genie>
+		<description>Start with 20 Seekers and Bouncers (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZUALZGO</genie>
+		<description>Start with double Bombs (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXEXIPGO</genie>
+		<description>Start with double Bombs (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x06D4</address>
+        <value>0x00</value>
+        <description>Invincibility</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x06D5</address>
+        <value>0xFF</value>
+        <description>Infinite lives</description>
+    </cheat>
+</cheats>

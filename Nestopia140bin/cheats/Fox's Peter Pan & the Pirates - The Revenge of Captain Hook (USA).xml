@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SZOKYLVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKLGLA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TENKLGLA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PENKLGLE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GASSNZGE</genie>
+		<description>Slower flight meter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZASSNZGA</genie>
+		<description>Faster flight meter</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVSXXVK</genie>
+		<description>Infinite flight power</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TONGZKZE</genie>
+		<description>Start with 30 units of health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TPXKYUZE</genie>
+		<description>Start with 30 units of health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IENGZKZA</genie>
+		<description>Start with 5 units of health (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAXKYUZA</genie>
+		<description>Start with 5 units of health (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOIVAPA</genie>
+		<description>Faster flying left and right (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUIUZPA</genie>
+		<description>Faster flying left and right (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0050</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0051</address>
+        <value>0xFF</value>
+        <description>Infinite health</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0640</address>
+        <value>0xFF</value>
+        <description>Infinite Flight meter (alt)</description>
+    </cheat>
+</cheats>

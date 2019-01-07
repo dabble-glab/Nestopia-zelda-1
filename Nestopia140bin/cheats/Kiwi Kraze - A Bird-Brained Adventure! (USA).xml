@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>EIUKGIEY</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>XYKTISKN</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUSKLYVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZOZIAVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKGATVG</genie>
+		<description>Infinite time underwater</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANGLLZA</genie>
+		<description>Start with 1 life (and 1 continue)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANGLLZA</genie>
+		<description>Start with 6 lives (and 6 continues)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANGLLZE</genie>
+		<description>Start with 9 lives (and 9 continues)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEGNPZA</genie>
+		<description>1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAEGNPZA</genie>
+		<description>6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEGNPZE</genie>
+		<description>9 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZEKXPVS</genie>
+		<description>Infinite continues</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZVKAUSE</genie>
+		<description>Start on level X (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVGYLAA</genie>
+		<description>Start on level 2 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVGYLAE</genie>
+		<description>Start on level 3 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVGYLAE</genie>
+		<description>Start on level 4 (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PPVGYLAA</genie>
+		<description>Start on level 5 (2 of 2)</description>
+	</cheat>
+</cheats>

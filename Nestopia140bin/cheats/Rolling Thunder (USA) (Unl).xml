@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+    <cheat enabled="0">
+        <genie>SZSZGVSE</genie>
+        <description>Infinite health</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>SZNTULVG</genie>
+		<description>Infinite lives (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZSTULVG</genie>
+		<description>Infinite lives (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEVYZVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AKSZANEL</genie>
+		<description>Hit anywhere (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ATUILYEI</genie>
+		<description>Hit anywhere (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXSZPNEX</genie>
+		<description>Hit anywhere (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EKSTEAGV</genie>
+		<description>200 Machine Gun bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SUOZPXVS</genie>
+		<description>300 Machine Gun bullets and 300 bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GOKVNAZL</genie>
+		<description>Gain fewer bullets on pick-up</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLVITYPA</genie>
+		<description>Self-replenishing bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EKXVZAZU</genie>
+		<description>Start with 200 bullets</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EGKVKLZU</genie>
+		<description>Start with 200 bullets on each new life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEXTZAAA</genie>
+		<description>Start with loads of ammunition (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAKTKLAA</genie>
+		<description>Start with loads of ammunition (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOVLALA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEOVLALA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEOVLALE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASPYZLA</genie>
+		<description>Start with 1 life after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TASPYZLA</genie>
+		<description>Start with 6 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PASPYZLE</genie>
+		<description>Start with 9 lives after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEEVSAZE</genie>
+		<description>Start with increased life meter</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>ALVESYOL</genie>
+        <description>Start on story X area X (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAVEUYAA</genie>
+        <description>Start on story 1 area 02 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ZAVEUYAA</genie>
+        <description>Start on story 1 area 03 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>LAVEUYAA</genie>
+        <description>Start on story 1 area 04 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GAVEUYAA</genie>
+        <description>Start on story 1 area 05 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>IAVEUYAA</genie>
+        <description>Start on story 2 area 06 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>TAVEUYAA</genie>
+        <description>Start on story 2 area 07 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>YAVEUYAA</genie>
+        <description>Start on story 2 area 08 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>AAVEUYAE</genie>
+        <description>Start on story 2 area 09 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PAVEUYAE</genie>
+        <description>Start on story 2 area 10 (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>PEKEXIAA</genie>
+        <description>Start on story 3 area 01</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0089</address>
+        <value>0x02</value>
+        <description>Infinite health (not versus bullets)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00A0</address>
+        <value>0x32</value>
+        <description>Infinite bullets</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x059B</address>
+        <value>0x09</value>
+        <description>Infinite time (alt) (1 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x059C</address>
+        <value>0x09</value>
+        <description>Infinite time (alt) (2 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x059D</address>
+        <value>0x09</value>
+        <description>Infinite time (alt) (3 of 3)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x05BC</address>
+        <value>0x09</value>
+        <description>Infinite lives (alt)</description>
+    </cheat>
+</cheats>

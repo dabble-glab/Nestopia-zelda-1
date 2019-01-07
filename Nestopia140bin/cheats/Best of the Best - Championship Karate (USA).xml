@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AANIGYPA</genie>
+		<description>Each round is XX (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZVSYYSE</genie>
+		<description>Each round is XX (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANIANTI</genie>
+		<description>Each round is 0:20 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANIANTI</genie>
+		<description>Each round is 0:30 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANIANTI</genie>
+		<description>Each round is 0:40 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANIANTI</genie>
+		<description>Each round is 0:50 (3 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZANIGYPA</genie>
+		<description>Each round is 2:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LANIGYPA</genie>
+		<description>Each round is 3:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GANIGYPA</genie>
+		<description>Each round is 4:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IANIGYPA</genie>
+		<description>Each round is 5:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TANIGYPA</genie>
+		<description>Each round is 6:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YANIGYPA</genie>
+		<description>Each round is 7:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AANIGYPE</genie>
+		<description>Each round is 8:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PANIGYPE</genie>
+		<description>Each round is 9:00</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOSUZIA</genie>
+		<description>Each match is 1 round instead of 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAOSUZIA</genie>
+		<description>Each match is 2 rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAOSUZIA</genie>
+		<description>Each match is 3 rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAOSUZIA</genie>
+		<description>Each match is 4 rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TAOSUZIA</genie>
+		<description>Each match is 6 rounds</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXVSAZVG</genie>
+		<description>Infinite time (round never ends)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLEAZETP</genie>
+		<description>Start with 50 resistance points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLEAPEAZ</genie>
+		<description>Start with 50 strength points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLEALAGP</genie>
+		<description>Start with 50 reflex points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGEAZETP</genie>
+		<description>Start with 70 resistance points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGEAPEAZ</genie>
+		<description>Start with 70 strength points</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TGEALAGP</genie>
+		<description>Start with 70 reflex points</description>
+	</cheat>
+
+	<cheat enabled="0">
+		<genie>AEETOPZA</genie>
+		<description>Gain more XX in training (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAEVVAGE</genie>
+		<description>Gain more strength and reflex points in training (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>APEVVAGA</genie>
+		<description>Gain more resistance points in training (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OXNSGIOU</genie>
+		<description>All physical types are XX (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TONSIIZE</genie>
+		<description>All physical types are 30 (may cause graphic errors) (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZUNSIIZA</genie>
+		<description>All physical types are 50 (may cause graphic errors) (2 of 2)</description>
+	</cheat>
+</cheats>

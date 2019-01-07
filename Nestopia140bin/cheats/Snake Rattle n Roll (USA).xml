@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXEYOZVG</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AGNNVXTT</genie>
+		<description>Faster timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>EPNNVXTT</genie>
+		<description>Slower timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXAYZZA</genie>
+		<description>1 life - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEXAYZZA</genie>
+		<description>6 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEXAYZZE</genie>
+		<description>9 lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUAETZA</genie>
+		<description>1 life - both players, after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUAETZA</genie>
+		<description>6 lives - both players, after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEUAETZE</genie>
+		<description>9 lives - both players, after continue</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEUEGXNY</genie>
+		<description>Start on level 2</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEUEGXNY</genie>
+		<description>Start on level 3</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEUEGXNY</genie>
+		<description>Start on level 4</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEUEGXNY</genie>
+		<description>Start on level 5</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUEGXNY</genie>
+		<description>Start on level 6</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEUEGXNY</genie>
+		<description>Start on level 7</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SLOUSVVS</genie>
+		<description>Infinite lives - both players</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAXOSGPA</genie>
+		<description>Super-jump</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LAXOSGPA</genie>
+		<description>Mega-jump</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x0062</address>
+        <value>0x09</value>
+        <description>Easy win</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x00CF</address>
+        <value>0x09</value>
+        <description>Infinite time (alt)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x03DF</address>
+        <value>0x03</value>
+        <description>Infinite lives</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x040D</address>
+        <value>0x11</value>
+        <description>Invincibility (blinking)</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0499</address>
+        <value>0x07</value>
+        <description>Max tongue height</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x059F</address>
+        <value>0x1C</value>
+        <description>Infinite health</description>
+    </cheat>
+</cheats>

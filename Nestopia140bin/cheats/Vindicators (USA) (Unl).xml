@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>KLUAGTVI</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKKYTZA</genie>
+		<description>Start with 1 life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IAKKYTZA</genie>
+		<description>Start with 6 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKKYTZE</genie>
+		<description>Start with 9 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VYUKEIVI</genie>
+		<description>Automatic fuel replenishment</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZOEVXON</genie>
+		<description>Never lose Stars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVVAAPSA</genie>
+		<description>Start with 10 Stars</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZAUKYTZP</genie>
+		<description>Quicker shot re-load</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AZKGYVAA</genie>
+		<description>Start with increased shot range</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPKKLVGE</genie>
+		<description>Turbo speed</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAUKYTZO</genie>
+		<description>Start with XX shots (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VIKGPTEI</genie>
+		<description>Start with 80 Shots (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KIKGPTEI</genie>
+		<description>Start with 80 Bombs (2 of 2)</description>
+	</cheat>
+</cheats>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXPATK</genie>
+		<description>Invincibility</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVGGALA</genie>
+		<description>Start with 1 life - 1st game only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TEVGGALA</genie>
+		<description>Start with 6 lives - 1st game only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEVGGALE</genie>
+		<description>Start with 9 lives - 1st game only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXSVAUVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXKKZSVK</genie>
+		<description>Infinite life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GXEVLVVK</genie>
+		<description>Infinite Things</description>
+	</cheat>
+    <cheat enabled="0">
+        <genie>AINEGYEI</genie>
+        <description>Walk through walls (1 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ASEAYYEI</genie>
+        <description>Walk through walls (2 of 2)</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXEZGTEP</genie>
+        <description>Get items from anywhere - from above</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXEXLTEL</genie>
+        <description>Get items from anywhere - from below</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXOZITEP</genie>
+        <description>Get items from anywhere - from the right</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>GXOXYTEP</genie>
+        <description>Get items from anywhere - from the left</description>
+    </cheat>
+    <cheat enabled="0">
+        <genie>ELEZOGEP</genie>
+        <description>No Piranha Plant enemies</description>
+    </cheat>
+	<cheat enabled="0">
+		<genie>PEKGTAAA</genie>
+		<description>Start in the tree</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKGTAAA</genie>
+		<description>Start in the crypt</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKGTAAA</genie>
+		<description>Start in the hallway</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKGTAAE</genie>
+		<description>Start in Fester's room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKGTAAE</genie>
+		<description>Start in Pugsly's room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKGTAAE</genie>
+		<description>Start in the toy room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LEKGTAAE</genie>
+		<description>Start in Wednesday's room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GEKGTAAE</genie>
+		<description>Start in the attic</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YEKGTAAE</genie>
+		<description>Start in a secret room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKGTAAA</genie>
+		<description>Start in a secret room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POKGTAAA</genie>
+		<description>Start in a secret room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IOKGTAAE</genie>
+		<description>Start in the bone room</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PXKGTAAA</genie>
+		<description>Start in the freezer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZXKGTAAA</genie>
+		<description>Start in the furnace</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AXKGTAAA</genie>
+		<description>Start in Gomez's room</description>
+	</cheat>
+</cheats>

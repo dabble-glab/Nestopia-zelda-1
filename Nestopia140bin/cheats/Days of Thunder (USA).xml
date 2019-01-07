@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>NYKNIUNO</genie>
+		<description>Start with more fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YIKNIUNO</genie>
+		<description>Start with less fuel</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEYPUSU</genie>
+		<description>Faster acceleration</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVOEXNY</genie>
+		<description>Tires don't burst</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SNXOSKEY</genie>
+		<description>Better left-hand cornering</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IEUNLLLA</genie>
+		<description>Maximum acceleration (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXEYPUSU</genie>
+		<description>Maximum acceleration (2 of 2)</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x021F</address>
+        <value>0xFF</value>
+        <description>Infinite fuel</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x02</value>
+        <description>Lap 02</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x03</value>
+        <description>Lap 03</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x04</value>
+        <description>Lap 04</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x05</value>
+        <description>Lap 05</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x06</value>
+        <description>Lap 06</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x07</value>
+        <description>Lap 07</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x08</value>
+        <description>Lap 08</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x09</value>
+        <description>Lap 09</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0463</address>
+        <value>0x0A</value>
+        <description>Lap 10</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0464</address>
+        <value>0x01</value>
+        <description>Always 1st place</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x046C</address>
+        <value>0x00</value>
+        <description>Always excellent condition - front left tire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x046D</address>
+        <value>0x00</value>
+        <description>Always excellent condition - front right tire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x046E</address>
+        <value>0x00</value>
+        <description>Always excellent conditon - rear left tire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x046F</address>
+        <value>0x00</value>
+        <description>Always excellent condition - rear right tire</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0471</address>
+        <value>0x00</value>
+        <description>Always excellent condition - engine</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x0473</address>
+        <value>0x15</value>
+        <description>Max speed</description>
+    </cheat>
+</cheats>

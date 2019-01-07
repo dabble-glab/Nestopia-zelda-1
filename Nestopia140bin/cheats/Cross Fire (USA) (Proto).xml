@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ENVOALEI</genie>
+		<description>Invincibility (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ESVPLLEY</genie>
+		<description>Invincibility (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZNEPYES</genie>
+		<description>Infinite energy (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SANELNSX</genie>
+		<description>Infinite energy (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXNNUXSE</genie>
+		<description>Protection from enemies (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZEXLEVK</genie>
+		<description>Protection from enemies (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUEYOVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+</cheats>

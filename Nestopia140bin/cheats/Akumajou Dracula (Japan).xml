@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXKTAYSE</genie>
+		<description>Infinite health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OZOGZLVK</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUZGAAX</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXXSXZKA</genie>
+		<description>Clock doesn't use hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXVISZKA</genie>
+		<description>Weapons don't use hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ASEGUPIA</genie>
+		<description>Start with 80 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LVEGUPIA</genie>
+		<description>Start with 99 hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>KXVVPYSA</genie>
+		<description>Can't add hearts</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GZUKLUSE</genie>
+		<description>Keep weapon after losing a life</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEELATPA</genie>
+		<description>Start with rapid-fire shots</description>
+	</cheat>
+</cheats>

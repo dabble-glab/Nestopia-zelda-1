@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>AUEXNVAO</genie>
+		<description>Slow timer</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PEKAPLGA</genie>
+		<description>1 penalty</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEKAPLGE</genie>
+		<description>8 penalties</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AOKAPLGA</genie>
+		<description>16 penalties</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>NNUEYLAE</genie>
+		<description>Select any level</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZESEKLPA</genie>
+		<description>Faster left and right movement (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEVEKLPA</genie>
+		<description>Faster left and right movement (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXSOYIVG</genie>
+		<description>Infinite penalties (1 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXOPPLVG</genie>
+		<description>Infinite penalties (2 of 3)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUOZLVG</genie>
+		<description>Infinite penalties (3 of 3)</description>
+	</cheat>
+</cheats>

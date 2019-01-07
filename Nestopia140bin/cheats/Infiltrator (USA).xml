@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>ZPSLPXZA</genie>
+		<description>Start with more Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IASLPXZA</genie>
+		<description>Start with fewer Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AASLPXZA</genie>
+		<description>Start with no Grenades</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>LPKUIZTZ</genie>
+		<description>Start with less Spray</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAKUIZTZ</genie>
+		<description>Start with no Spray</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXKXXIVG</genie>
+		<description>Never lose Grenades outside buildings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZVKAIVG</genie>
+		<description>Never lose Grenades inside buildings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SXUXKIVG</genie>
+		<description>Never lose Spray outside buildings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZUKYIVG</genie>
+		<description>Never lose Spray inside buildings</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>SZKLIKVK</genie>
+		<description>Infinite time</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ILOULXPL</genie>
+		<description>Start with less time</description>
+	</cheat>
+</cheats>

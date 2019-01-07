@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>SXVIAAVG</genie>
+		<description>Infinite lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>PAOAZAZE</genie>
+		<description>Start with 10 lives</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AAVYPXAA</genie>
+		<description>Spiders, bats, ants and rats do no damage</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZEKYVZGV</genie>
+		<description>Start with 10 stars instead of 100</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>YYUZPSTE</genie>
+		<description>Play bubble sub-game only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>TYUZPSTE</genie>
+		<description>Play river sub-game only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>IYUZPSTE</genie>
+		<description>Play mine sub-game only</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZYUZPSTE</genie>
+		<description>Play puzzle sub-game ony</description>
+	</cheat>
+</cheats>

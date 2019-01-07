@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cheats version="1.0">
+	<cheat enabled="0">
+		<genie>OXONLPSV</genie>
+		<description>Infinite efficiency (1 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>POONGPXV</genie>
+		<description>Infinite efficiency (2 of 2)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>OUXYPOSO</genie>
+		<description>Infinite efficiency (alt)</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>AEENAEUT</genie>
+		<description>Hit anywhere</description>
+	</cheat>
+
+	<cheat enabled="0">
+		<genie>GNUNAEKN</genie>
+		<description>One hit kills</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>VVKGLATE</genie>
+		<description>Lots of repair icons</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>ZLVGIXPP</genie>
+		<description>Start with 2x health</description>
+	</cheat>
+	<cheat enabled="0">
+		<genie>GAVGIXPO</genie>
+		<description>Start with 1/2 health</description>
+	</cheat>
+    <cheat enabled="0">
+        <address>0x06A4</address>
+        <value>0x09</value>
+        <description>Infinite P</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001C</address>
+        <value>0x00</value>
+        <description>Have main weapon - regular</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001C</address>
+        <value>0x01</value>
+        <description>Have main weapon - Rapid</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001C</address>
+        <value>0x02</value>
+        <description>Have main weapon - 3-Way</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001D</address>
+        <value>0x00</value>
+        <description>Have secondary weapon - Missiles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001D</address>
+        <value>0x01</value>
+        <description>Have secondary weapon - Homing Missiles</description>
+    </cheat>
+    <cheat enabled="0">
+        <address>0x001D</address>
+        <value>0x02</value>
+        <description>Have secondary weapon - Bang</description>
+    </cheat>
+</cheats>
